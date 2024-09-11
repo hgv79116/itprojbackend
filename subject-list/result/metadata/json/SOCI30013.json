@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>This subject will give practical tips and hands-on experience for designing and implementing social surveys, for both academic purposes and the public/business sector. The structure of the subject will parallel the steps taken when executing a survey: comparing the advantages and disadvantages of surveys versus other means of collecting social data; determining the specific purpose of the study and to whom the study applies; developing the content and testing questions; implementing the questionnaire; and undertaking data cleaning and preliminary analysis. This will be illustrated by drawing on experiences from real life surveys. Practical, hands-on exercises will form a key part of lectures and tutorials and computer lab exercises.</p>"
+    ],
+    "ilo": [
+        "Demonstrate the advantages and disadvantages of different methods of survey administration",
+        "Understand the different stages of survey design and data management",
+        "Have developed skills to use statistical software to set up an electronic data file and manipulate survey data in preparation for quantitative analysis",
+        "Have developed skills to use statistical software to extract frequencies and simple cross-tabulations",
+        "Communicate survey findings in the form of an empirical research report."
+    ],
+    "generic_skills": [
+        "Develop oral communication and written communication skills",
+        "Demonstrate collaborative learning; problem solving; team work",
+        "Demonstrate statistical reasoning; application of theory to empirical practice",
+        "Develop interpretation and analysis of data and critical thinking skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "In class data entry and cleaning exercise 500 words",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Take home practical analytical exercise (Individual)",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final Research Report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Belinda Hewitt",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 Contact Hours: 1 x 2.5 hr seminar per week for 12 weeks.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "belinda.hewitt@unimelb.edu.au"
+        }
+    ]
+}

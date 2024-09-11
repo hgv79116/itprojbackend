@@ -1,0 +1,173 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This subject studies the fundamental concepts of functions of several variables and vector calculus. It develops the manipulation of partial derivatives and vector differential operators. The gradient vector is used to obtain constrained extrema of functions of several variables. Line, surface and volume integrals are evaluated and related by various integral theorems. Vector differential operators are also studied using curvilinear coordinates.</p>",
+        "<p>Functions of several variables topics include limits, continuity, differentiability, the chain rule, Jacobian, Taylor polynomials and Lagrange multipliers. Vector calculus topics include vector fields, flow lines, curvature, torsion, gradient, divergence, curl and Laplacian. Integrals over paths and surfaces topics include line, surface and volume integrals; change of variables; applications including averages, moments of inertia, centre of mass; Green's theorem, Divergence theorem in the plane, Gauss' divergence theorem, Stokes' theorem; and curvilinear coordinates.</p>"
+    ],
+    "ilo": [
+        "Understand calculus of functions of several variables; differential operators; line, surface and volume integrals; curvilinear coordinates; integral theorems",
+        "Have developed the ability to work with limits and continuity; obtain extrema of functions of several variables; calculate line, surface and volume integrals; work in curvilinear coordinates; apply integral theorems",
+        "Appreciate the fundamental concepts of vector calculus; the relations between line, surface and volume integrals."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10019 Calculus Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10013 UMEP Maths for High Achieving Students"
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10018 Linear Algebra Extension Studies"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "620-296 Multivariable and Vector Calculus (prior to 2010)"
+            },
+            {
+                "type": "paragraph",
+                "content": "Passing MAST20009 Vector Calculus precludes subsequent credit for MAST20029 Engineering Mathematics.\nEnrolment in MAST20009 Vector Calculus is permitted for students who have passed MAST20029 Engineering Mathematics. (N.B. Students in this situation will need to lodge an enrolment variation via their student portal to request enrolment). Concurrent enrolment in both MAST20009 Vector Calculus and MAST20029 Engineering Mathematics is not permitted."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three to five written assignments due at regular intervals amounting to a total of up to 50 pages",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week, 1 x one hour practice class per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "yaping.yang1@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week, 1 x one hour practice class per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ting.xue@unimelb.edu.au"
+        }
+    ]
+}

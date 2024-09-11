@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>This subject focuses on the \u201cphysical\u201d and \u201cdigital\u201d infrastructures of transport systems. This includes not just the infrastructure that facilitates the efficient and safe movement of passenger cars, but also the design and planning concepts related to multimodal transport options and new technologies, such as autonomous vehicles and connected transport systems. As such in addition to highway geometric design, pavement design, bridge, and tunnel design, this subject would also include public transport infrastructure design, intelligent transport systems, and connected and automated vehicle infrastructures of the future. This subject presents a comprehensive introduction to transport careers and multidisciplinary opportunities for students after graduation.</p>",
+        "<p>This subject delivers a coherent plan to integrate transport engineering effectively with the most relevant geotechnical and structural engineering components of transport infrastructure. The syllabus includes:</p>",
+        "<ul><li>Highway geometric design</li><li>Public transport planning and design</li><li>Digital infrastructure of transport</li><li>Pavement design</li><li>Structural design of bridges and tunnels</li></ul>"
+    ],
+    "ilo": [
+        "ILO1 - Evaluate planning and design process for public transport infrastructure",
+        "ILO2 - Develop geometric design for roadways",
+        "ILO3 - Develop pavement design for roadways",
+        "ILO4 - Develop structural design for roadway infrastructure",
+        "ILO5 - Evaluate digital infrastructure in transport systems."
+    ],
+    "generic_skills": [
+        "Execute basic planning and design skills - including problem identification, data sourcing, analysis formulation and execution, and the nomination or provision of viable solutions and designs",
+        "Organise into effective working groups that replicate real-world design projects",
+        "Manage personal time and workload efficiently, to deliver needed outputs in a timely manner",
+        "Execute effective, professional-level verbal communication and discussion around current real-world issues and concepts, as well as professional-level written communication skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CVEN20001",
+                        "Name": "Sustainable Infrastructure Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CVEN30009",
+                        "Name": "Structural Theory and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly Quiz (x10),\t5min each (x10). Intended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.",
+            "bullets": [
+                "5 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Project 1 - team report on design project ,equivalent of 500 words per student, 13 hours per student. ILO 1 is addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Project 2 - team report on design project , equivalent of 500 words per student, 13 hours per student. ILO 2 is addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Project 3  - team report on design project, equivalent of 500 words per student, 13 hours per student. ILO 3 is addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Project 4  - team report on design project, equivalent of 500 words per student, 13 hours per student. ILO 4 is addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Project 5 - team report on design project, equivalent of 500 words per student, 13 hours per student. ILO 5 is addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final exam. ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 2 hours per week; Tutorials/Workshops: 2 hours per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "neema.nassir@unimelb.edu.au"
+        }
+    ]
+}

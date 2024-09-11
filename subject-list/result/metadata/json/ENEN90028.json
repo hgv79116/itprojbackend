@@ -1,0 +1,167 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>The subject has a strong practical component with a five-day field camp during the week before the mid-semester break involving student-led environmental monitoring. There is also a semester long project to design and implement an environmental monitoring program supported by weekly practice classes.<br/><br/>Component skills taught in this subject:</p>",
+        "<ul><li>Conceptualising environmental responses</li><li>Selecting and using environmental measurement techniques (considering scale issues)</li><li>Analysis of environmental monitoring data.</li></ul>",
+        "<p>This subject is a critical foundation for a career for environmental engineering but is also relevant to civil and other engineering disciplines where environmental impacts of engineering projects must be addressed to ensure sustainable engineering solutions. <br/><br/><strong>INDICATIVE CONTENT</strong><br/><br/>Selection of measurement techniques and consideration of measurement scale, conceptualising environmental responses to human activities, environmental sampling and monitoring design, systematic review of causal evidence, statistical analysis of environmental effects, risk assessments for occupational health and safety during environmental field programs.</p>"
+    ],
+    "ilo": [
+        "Identify the practical challenges of conducting environmental observations",
+        "Design an environmental monitoring program to meet the requirements of a client, including conceptualising the environmental system under investigation",
+        "Select environmental sensors, sampling theory and field techniques",
+        "Use and interpret environmental measurements",
+        "Use a range of environmental instrumentation",
+        "Demonstrate team and communication skills."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: MC-ENVENG Master of Environmental Engineering, Environmental specialisation (formal) in the MC-ENG Master of Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENEN30001Environmental Eng Systems CapstoneSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN30001",
+                        "Name": "Environmental Eng Systems Capstone",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: MC-ENSYSEN Master of Environmental Systems Engineering, 206EC Master of Environmental Engineering, MC-SPATENG Master of Spatial Engineering, MC-ENVSC Master of Environmental Science, Integrated Water Catchment Management specialisation (formal) in the MC-ENV Master of Environment, Waste Management specialisation (formal) in the MC-ENV Master of Environment, Climate Change specialisation (formal) in the MC-ENV Master of Environment, Tailored specialisation informal specialisation in the MC-ENV Master of Environment, Environmental Management and Science specialisation (formal) in the MC-ENV Master of Environment"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENEN20002Earth Processes for EngineeringSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One 2000 word individual report. Intended Learning Outcomes (ILOs) 1, 4 and 6 are addressed in this report",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Within-semester and field camp participation. ILOs 1 to 6 are addressed in these \u00a0activities",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": "Complete attendance at the field camp is a hurdle requirement to pass this subject.",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 1000 word student/group report due around week 6. ILOs 1, 2, 3 and 6 are addressed in this report",
+            "bullets": [
+                "10-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One 1000 word/student group report. ILOs 1 to 6 are addressed in this report",
+            "bullets": [
+                "10-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due after field camp",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Two x 15 minute tests distributed around Week 4, Week 7. ILOs 2, 3 and 4 are addressed in these tests",
+            "bullets": [
+                "30 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One 10-15 minute oral presentation. ILO 6 is adressed in this \u00a0presentation",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the field camp",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Angus Webb",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 12 hours per semester; Tutorials: 12 hours per semester; Field camp: 5 days).",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Angus Webb",
+            "contact_email": "angus.webb@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>In this subject students will learn about how to evaluate the feasibility of a project and then to define, structure and organise the initial planning phase for both construction projects and complex projects (e.g. IT, high technology projects). The interaction between commercial expectations and project management approaches will be considered broadly based on process and systems thinking. The subject builds on and integrates knowledge from CVEN90043 Sustainable Infrastructure Engineering and/or MCEN90010 Finance and Human Resources for Engineers where the fundamentals of economic appraisal is described, the planning approaches detailed in subject CVEN90045 Engineering Project Implementation and the fundamentals of risk management for which detailed approaches are provided in MULT90014 Business Risk Management. The subject is particularly important for students wishing to understand how to structure and scope projects such that they are well planned on the basis of triple bottom line thinking and the project management processes are efficiently structured.<br/><br/><strong>INDICATIVE CONTENT</strong><br/><br/>Techniques considered include the use of logic maps, business cases and system based project management concepts. Details include the development of acquisition strategies, system life-cycle, boundaries, scope management and mechanisms to control of client expectations and assist them to make sound project decisions leading to the sanctioning of a project. Expected value and Monte Carlo techniques are used as tools to refine project decisions based on risk evaluation.<br/><br/>Project governance arrangements are considered along with cultural context, resourcing requirements of a project and how this is organised and managed. Specific areas considered include the selection of consultants or contractors, communication processes, industrial relations, occupational health and safety, meetings, delegation and leadership.<br/><br/></p>"
+    ],
+    "ilo": [
+        "Assist project owners to sensibly consider the feasibility of projects",
+        "Develop investment logic maps",
+        "Structure an acquisition strategy for either traditional projects or a complex engineering or IT project",
+        "Clarify a project\u2019s scope and establish boundaries to the scope of complex projects",
+        "Analyse and evaluate project risks and project decisions",
+        "Develop and communicate projects in a consolidated project management plan that considers client interface, governance, organizational structure and resources to assist in the management and control of projects to achieve targeted key performance indicators",
+        "Understand the influence of cultural differences when resourcing large international projects."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to conduct an engineering project",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN90043Sustainable Infrastructure EngineeringNot available in 202412.5CVEN90045Engineering Project ImplementationSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN90043",
+                        "Name": "Sustainable Infrastructure Engineering",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CVEN90045",
+                        "Name": "Engineering Project Implementation",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination, maximum of 2700 words in length.  This is a take home exam and will be open for 2 days. Intended Learning Outcomes (ILOs) 1 - 7 are addressed in this assessment.",
+            "bullets": [
+                "48 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written Assignment -\n\nOne 2000 word report. ILOs 1, 2 and 6 are addressed in this assessment.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Presentation -\n\nOne 10 minute poster presentation. ILOs 3 and 4 are addressed in this assessment.",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "In-class Mini Tests.  5 mini quizzes of 10 minutes duration, each worth 2% (best of 6 opportunities) 10% in total. ILOs 1, 5 and 6 are addressed in this assessment.",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Structured active readings. 5 structured online reading exercises each worth 2% (5 x 2% = 10%). Approx. 1 hr and 15 minutes to complete each. ILOs 1 - 7 are addressed.",
+            "bullets": [
+                "6.5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (Lectures: 2 hours per week; Tutorials: 1 hour per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Robert Moehler",
+            "contact_email": "robert.moehler@unimelb.edu.au"
+        }
+    ]
+}

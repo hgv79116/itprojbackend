@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p><strong>This subject has been designed and developed for online delivery and assessment only.</strong></p>",
+        "<p>This <em>online</em> subject provides students with the opportunity to apply key principles in objectivist research within the field of music therapy.</p>",
+        "<p>Students will learn about the most common research designs used within the field and explore the methods associated with each through detailed examples of specific projects.</p>",
+        "<p>This subject deepens understandings about objectivist research through direct examples from the literature with key skills being developed and assessed.</p>"
+    ],
+    "ilo": [
+        "design an ethically sound research protocol relevant to music therapy practice that aims to answer research questions about effectiveness or characteristics of clinical practice;",
+        "review and critique literature that identifies research needs and knowledge gaps and is used to inform the design of a research protocol;",
+        "demonstrate understanding of the aims of objectivist research through the selection, design, and development of appropriate research methods;",
+        "communicate the essentials of a complex process in a concise, accessible and engaging form."
+    ],
+    "generic_skills": [
+        "compare and contrast research perspectives from objective and reflexive research traditions relevant to music therapy;",
+        "be able to plan and execute a minor research project in music therapy."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI90038",
+                        "Name": "Music Therapy Practice 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research pitch",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Research design proposal",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours, comprising 12-hours of online lecture content, and 12-hours synchronous online tutorials.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jinahk@unimelb.edu.au"
+        }
+    ]
+}

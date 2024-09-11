@@ -1,0 +1,77 @@
+{
+    "overview": [
+        "<p>In this travelling studio students will engage in a two-week immersive experience in a country of the Asia- Pacific region involving workshops in traditional theatre making where design plays a key role. The designed components may include puppetry, costume, masks, properties and/or scenic elements. In addition, students will visit sites of cultural significance and attend live performance events that further develop their awareness of, and appreciation for, design and performance making in the destination country.</p>"
+    ],
+    "ilo": [
+        "engage in design and performance activities specific to a cultural context with commitment and awareness;",
+        "record learning activities undertaken in a specific cultural context;",
+        "analyse traditional design and performance making approaches of a specific cultural context in relation to own practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DPSS10009",
+                        "Name": "Production Studio 1",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Active participation in all activities including workshop, site visits and performance attendances.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Annotated process journal documenting all activities including workshop, site visits and performance attendances.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Reflective paper",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "3 Weeks after the end of teaching",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Hurdle requirement of minimum attendance of 80% of all activities",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,157 @@
+{
+    "overview": [
+        "<p>This subject focuses on understanding the procedures involved in breeding crops and the role of genetics in the process. <a name=\"_Hlk511509745\"></a>The integration of conventional breeding approaches and the use of gene technologies in breeding new crop varieties are explored. Emphasis is placed on how plant breeders identify priority traits and the management of breeding programs in a commercial setting. The practical sessions aim to develop skills in plant breeding methodologies and research techniques.</p>",
+        "<p>Topics covered include:</p>",
+        "<ul><li>Domestication of crop species and conservation of plant genetic resources</li><li>Evolutionary processes and genetic variability of plant populations</li><li>Reproductive systems</li><li>Methods of breeding self\u2013 and cross-pollinating plants</li><li>Supplementary breeding approaches including mutation breeding</li><li>The use of molecular biology techniques in plant breeding</li><li>Genetics of important crops within the Australian agricultural context and discussion of priority traits for improvement</li></ul>"
+    ],
+    "ilo": [
+        "Evaluate trait inheritance and determine the most suitable methods to dissect the genetic factors of a trait",
+        "Explain how and why molecular techniques are used to facilitate the identification of genetic elements to improve crop production",
+        "Distinguish differences in breeding programs based on the crop type and breeding objectives",
+        "Critique the role of traditional breeding methods and gene technology approaches in the production and commercialization of new crop varieties"
+    ],
+    "generic_skills": [
+        "The capacity for independent critical thought, rational inquiry and self-directed learning and research",
+        "An ability to derive, interpret and analyse technical information from primary and other sources",
+        "An ability to integrate information across a relevant discipline to solve problems in applied situations",
+        "The ability to plan work, use time effectively and manage small projects",
+        "The capacity for independent critical thought, rational inquiry",
+        "An intellectual curiosity"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10051",
+                        "Name": "Genetics for Agriculture",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10010",
+                        "Name": "Foundational Biology: Life's Complexity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10011",
+                        "Name": "Biology: Life's Complexity",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10005\tGenetics and The Evolution of Life"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20035",
+                        "Name": "Applied Crop Production and Horticulture",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20037",
+                        "Name": "Crop Production and Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20026",
+                        "Name": "Plant Growth Processes",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quiz 1",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Mid-Semester Test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Quiz 2",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Practical Report",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x 1 hr lectures per week (24 hours), and 1x2hr practicals per week (9 weeks, 18 hours)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "mohammad.p@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "overview": [
+        "<p>This subject focuses on the nature of accounting from the perspective of a preparer of financial reports in order to understand financial reporting from a user perspective. The method of recording and reporting transactions in an accounting system to ultimately provide the foundation for judgements and decisions in preparation of financial reports will be covered. The importance of accounting within the Australian external reporting environment is explained as well as adherence to the Conceptual Framework for accounting that provides a theoretical underpinning of accounting standards and reporting. Choices within accounting standards and the implications for financial reports are explored. This subject also covers an overview of analytical methods used in assessment of the performance and financial standing of a company.</p>"
+    ],
+    "ilo": [
+        "Identify the principal regulatory authorities that influence the framework for external financial reporting in Australia and explain their roles and functions in this process;",
+        "Describe the nature and objectives of General Purpose Financial Reporting;",
+        "Explain the key components of the Conceptual Framework for accounting as it applies to the preparation of general purpose financial statements;",
+        "Record accounting transactions and prepare the Trial Balance, Balance Sheet and the Income Statement;",
+        "Explain the main issues to be considered in relation to reporting of key transactions and balances reported in the Balance Sheet and Income Statement;",
+        "Describe the nature of company transactions and account for various capital transactions and profit distribution;",
+        "Describe the policy choices available to preparers and the flexibility that preparers have in applying the accounting standards;",
+        "Identify limitations in financial reporting;",
+        "Construct and analyse a Cash Flow Statement;",
+        "Apply analytical methods to assess a firm's performance and financial position in comparison with past performance and with other firms;",
+        "Identify an ethical dilemma and explain an ethical outcome; and",
+        "Explain the purpose of a firm's sustainability report."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; use of computer software.",
+        "Moderate level of development: written communication; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: statistical reasoning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT10001",
+                        "Name": "Accounting Reports and Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Subject engagement",
+            "bullets": [
+                "12 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Three quizzes of 1 hour each",
+            "bullets": [
+                "8 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Practice set assignment using computerised accounting software",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Poonam Bir",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 90-minute lectures and two 90-minute tutorials per week for six weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to  9 February 2024",
+            "last_self_enrol_date": "8 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "24 February 2024",
+            "contact_name": null,
+            "contact_email": "poonam.bir@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Demi Wang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 90-minute lecture and one 90-minute tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "demi.wang@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Demi Wang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 90-minute lecture and one 90-minute tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "demi.wang@unimelb.edu.au"
+        }
+    ]
+}

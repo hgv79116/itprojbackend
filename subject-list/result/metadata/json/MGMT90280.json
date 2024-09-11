@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>With the explosion of data, it is critical that businesses harness the right analytical tools to make effective use of the available data. This subject is designed to equip students with a range of tools and techniques that are necessary for effective decision making. Key topics covered include both prescriptive analytics (e.g., linear optimisation, nonlinear optimisation, and Monte Carlo simulation) and predictive analytics (e.g., forecasting, logistic regression, classification and regression trees). Emphasis will be given to potential applications of these tools and techniques in various functional areas including international business, marketing, supply chain, and strategy.</p>"
+    ],
+    "ilo": [
+        "Develop the competence required to evaluate a business problem from an analytical perspective",
+        "Understand new decision analytics and emerging technologies and their potential in the workplace",
+        "Appreciate software capabilities used for business analysis",
+        "Apply the methods, tools and techniques learned to real word business problems",
+        "Understand and evaluate the power and limitations of optimisation and data analytical techniques"
+    ],
+    "generic_skills": [
+        "Problem-solving skills through written exercises and case discussions",
+        "Critical thinking skills through written exercises, case discussions, and the selection of reading materials",
+        "Teamwork skills through group assignments and team-based exercises",
+        "Verbal and written communication skills through discussion, presentation and written exercises",
+        "Research skills through the search and review of literature and preparation of the written exercises",
+        "Analytical skills through analyzing the data, and the frameworks and tools that will be learned"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-Semester Test",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group assignment (groups of 4-6)",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Group presentation (groups of 4-6)",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "End of semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Medo Pournader -mpournader@unimelb.edu.au",
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "lusheng.shao@unimelb.edu.au"
+        }
+    ]
+}

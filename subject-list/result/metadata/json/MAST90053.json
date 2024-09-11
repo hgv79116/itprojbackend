@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p>Modern computers have developed far beyond being great devices for numerical simulations or tedious but straightforward algebra; and in 1990 the first mathematical research paper was published whose sole author was a thinking machine known as Shalosh B Ekhad. This course will discuss some of the great advances made in using computers to purely algorithmically discover (and prove!) nontrivial mathematical theorems in for example Number Theory and Algebraic Combinatorics. Topics include: Automated hypergeometric summation, Groebner basis, Chaos theory, Number guessing, Recurrence relations, BBP formulas.</p>"
+    ],
+    "ilo": [
+        "have been introduced to non-numerical symbolic computation packages used in modern research in the areas of discrete mathematics and number theory;",
+        "acquire insight into the use of computers for discovering and formally proving mathematical theorems;",
+        "gain the ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30005",
+                        "Name": "Algebra",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30012",
+                        "Name": "Discrete Mathematics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30028",
+                        "Name": "Numerical Methods & Scientific Computing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30028Numerical Methods & Scientific ComputingSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30028",
+                        "Name": "Numerical Methods & Scientific Computing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 40 pages of written assignments (two assignments worth 15% each, due mid and late in semester)",
+            "bullets": [
+                "40 pages"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A take home exam",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an in-depth coverage of transistor (MOSFET and BJT) devices and their use in common circuits. In particular, students will study topics including: transistor operating modes and switching; principles of CMOS circuits; transistor biasing; current-source/emitter-amplifiers; low-frequency response; followers; class B amplifiers; current limiting; current sources and mirrors; differential pairs; feedback in amplifiers and stability; operational amplifiers; operational amplifier circuits; and voltage regulation. This material will be complemented by exposure to circuit simulation software tools and the opportunity to further develop circuit construction/test skills in the laboratory.<strong><br/><br/>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Design-focused field-effect and bipolar elementary transistor models, and design of elementary amplifier stages and biasing circuits. Static and dynamic behaviour of amplifier circuits including frequency response, feedback and stability, slew-rate and clipping. Operational amplifiers and opamp based circuits; voltage regulators, references and voltage converters. Verification of electronic circuits using simulation.</p>"
+    ],
+    "ilo": [
+        "Model and quantitatively analyse circuits with transistors and other nonlinear devices",
+        "Design and test amplifier circuits",
+        "Construct and test complex electronic circuits in the laboratory",
+        "Use software tools to simulate the behaviour of electronic circuits"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30009",
+                        "Name": "Electrical Network Analysis and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30014",
+                        "Name": "Analog and Digital Electronics Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN30011Electrical Device ModellingSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30011",
+                        "Name": "Electrical Device Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Continuous assessment of submitted group project work (2-3 students), not exceeding 30 pages over the semester",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Ranjith Rajasekharan Unnithan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 x one hour lectures per week) and up to 30 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "r.ranjith@unimelb.edu.au"
+        }
+    ]
+}

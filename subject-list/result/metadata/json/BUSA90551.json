@@ -1,0 +1,135 @@
+{
+    "overview": [
+        "<p>This subject integrates academic learning and practical challenges in implementing data analytics in an organisation via a 5-week group internship as a key learning and assessment aid for employability skills and attributes, providing improved knowledge of organisations, workplace culture and career pathways for students.   In conjunction with this students will also continue to work with the Careers Management Centre developing personal effectiveness in the workplace (communications skills, interview practice, negotiation skills)</p>",
+        "<p>Assessment of the subject is focused around the internship and includes the completion of the report and a project presentation. This is a team project. Students interested in a research higher degree may, with permission, undertake an individual research project.</p>",
+        "<p>The program focuses on two areas:</p>",
+        "<ul><li>Communication skills: These skills include effective presentations, verbal communication, written communication, public speaking, and communicating technical material to non-technical audiences.</li><li>Practicum skills: The completion of a 5-week project using real data in/from an industry setting under an approved supervisor.</li></ul>",
+        "<p>Successful completion of a range of core academic subjects as well as Professional Development I is a pre-requisite for this subject.</p>"
+    ],
+    "ilo": [
+        "Deliver a technical report appropriate for a non-technical audience.",
+        "Identify ethical issues & concerns in the acquisition, retrieval, storage, and analysis of data & appreciate the importance of ethical practice and apply it in a workplace context.",
+        "Produce original work in an appropriate format which demonstrates analytical, research and problem-solving skills.",
+        "Put into practice communication, interpersonal, organisational and time management skills in a workplace context.",
+        "Review and reflect on the process and output of a team-based business project to their academic and career development."
+    ],
+    "generic_skills": [
+        "Critical thinking, analytical and problem-solving skills",
+        "Communication skills",
+        "Interpersonal and networking skills",
+        "Team working skills",
+        "Effective evidence-based decision-making skills",
+        "Organisational skills",
+        "Commercial awareness and business acumen"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90539",
+                        "Name": "Business Data Platforms",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90537",
+                        "Name": "Coding for Business Problems",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90538",
+                        "Name": "Decision Making and Optimisation",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90536",
+                        "Name": "Statistical Learning for Business",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90542",
+                        "Name": "Machine Learning & AI for Business",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90541",
+                        "Name": "Predictive Business Analytics",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90543",
+                        "Name": "Text Analytics for Business",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90550",
+                        "Name": "Prof Development & Application I",
+                        "Teaching period": "January (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Syndicate research report",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the assessment to pass the subject. ",
+            "timing": "Week 6",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Syndicate oral presentation",
+            "bullets": [
+                "10 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Reflection essay",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "August",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "100 hours",
+            "teaching_period": "12 August 2024 to 29 November 2024",
+            "last_self_enrol_date": "3 September 2024",
+            "census_date": "6 September 2024",
+            "last_date_to_withdraw_without_fail": "18 October 2024",
+            "assessment_period_ends": "29 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

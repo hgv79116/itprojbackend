@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">The subject covers important aspects of the structure and chemistry of the hydrosphere, atmosphere and lithosphere (soil). The subject also examines sources, chemistry and impact of environmental pollution, energy resources (fossil fuels, nuclear and solar) and the impact of energy utilisation.</p>",
+        "<p class=\"MsoNormal\">Subject topics also include the principles and application of quantitative chemical analysis and environmental monitoring (calibration methods; experimental errors; volumetric analysis, spectrophotometry, gas and liquid chromatography, and atomic absorption spectrometry).</p>",
+        "<p class=\"MsoNormal\">A key aspect of this subject will be the comprehensive investigation of a current environmental chemistry issue, which will be covered in a small-group, scenario-based learning mode.</p>",
+        "<p class=\"MsoNormal\">The practical component of this subject will involve the application of titrimetric, optical (spectrophotometry, atomic absorption spectrometry) and chromatographic (gas chromatography, high performance liquid chromatography) analytical techniques to the determination of compounds of environmental interest.</p>"
+    ],
+    "ilo": [
+        "skills in analysing chemically based environmental problems;",
+        "an awareness of the possible effects of chemicals on the environment;",
+        "a capacity to interpret environmental data and to apply diverse chemical principles in the explanation of environmental phenomena;",
+        "an appreciation of the need for high quality environmental chemical analysis and the importance of selecting and utilising appropriate analytical methods and techniques for their monitoring;",
+        "an understanding of the principles of the key analytical methods used in environmental chemistry;",
+        "skills in investigating contemporary environmental chemistry issues;",
+        "an ability to operate in small teams;",
+        "an awareness of professional scientific practice."
+    ],
+    "generic_skills": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the scientific community and in a manner accessible to the wider community;",
+        "the ability to analyse and solve abstract technical problems;",
+        "the ability to connect and apply the learnt concepts to a broad range of scientific problems beyond the scope of this subject;",
+        "an awareness of advanced technologies;",
+        "the ability to use conceptual models to rationalise observations;",
+        "the ability to think and reason logically;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEM10004Chemistry 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10006Chemistry for BiomedicineSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10009Chemistry for BioSciencesNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10004",
+                        "Name": "Chemistry 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10009",
+                        "Name": "Chemistry for BioSciences",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEM10003Chemistry 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "With a result of at least 80"
+            },
+            {
+                "type": "paragraph",
+                "content": "A package of materials will be made available to provide additional preparation for this subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment as part of the scenario based learning component of the subject not exceeding 10 pages",
+            "bullets": [
+                "10 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An ongoing assessment of practical work in the form of short laboratory reports",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Satisfactory completion of both the practical work and the 2-hour written examination is necessary to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Brad Clarke",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week for 8 weeks (weeks 1-8); 1 x one hour tutorial per week for 6 weeks (weeks 4-10); 1 x 3.5 hour practical class per week for 6 weeks. Total 51 hours.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "brad.clarke@unimelb.edu.au"
+        }
+    ]
+}

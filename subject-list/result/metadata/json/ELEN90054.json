@@ -1,0 +1,195 @@
+{
+    "overview": [
+        "<p><strong>AIMS <br/></strong></p>",
+        "<p>This subject provides an introduction to probability theory, random variables, random vectors, decision tests, and stochastic processes. Uncertainty is inevitable in real engineering systems, and the laws of probability offer a powerful way to evaluate uncertainty, to predict and to make decisions according to well-defined, quantitative principles. The material covered is important in fields such as communications, data networks, signal processing and electronics. This subject is a core requirement in the Master of Engineering (Electrical, Mechanical and Mechatronics).<strong> <br/><br/>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Foundations \u2013 combinatorial analysis, axioms of probability, independence, conditional probability, Bayes\u2019 rule;</li><li>Random variables (rv\u2019s)\u2013 definition; cumulative distribution, probability mass and probability density functions; expectation and variance; functions of an rv; important distributions and their properties and uses;</li><li>Multiple random variables \u2013 joint cumulative distribution, probability mass and probability density functions; independent rv\u2019s; correlation and covariance; conditional distributions and expectation; functions of several rv\u2019s; jointly Gaussian rv\u2019s; random vectors;</li><li>Sums, inequalities and limit theorems \u2013 sums of rv\u2019s, moment generating function; Markov and Chebychev inequalities; weak and strong laws of large numbers; the Central Limit Theorem;</li><li>Decision testing - maximum likelihood, maximum a posterior, minimum cost and Neyman-Pearson rules; basic minimum mean-square error estimation;</li><li>Stochastic processes \u2013 mean and autocorrelation functions, strict and wide-sense stationarity; ergodicity; important processes and their properties and uses;</li><li>Introduction to Markov chains.</li></ul>",
+        "<p>This material is complemented by exposure to examples from electrical engineering and software tools (e.g. MATLAB) for computation and simulations.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of combinatorics, the axioms of probability, independence, random variables, conditioning and Bayes\u2019 rule",
+        "Demonstrate an understanding of important distributions, stochastic processes and decision tests, and their significance",
+        "Formulate random models of signals and systems encountered in engineering",
+        "Calculate and interpret probabilities, probability densities, means, variances and covariances, from given information",
+        "Use the law of large numbers, the central limit theorem, and inequalities to find approximations and bounds",
+        "Simulate random models using software tools"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Graduate Students:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ELECENG Master of Electrical Engineering",
+                    "MC-BIOMENG Master of Biomedical Engineering",
+                    "MC-MTRNENG Master of Mechatronics Engineering",
+                    "Electrical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Biomedical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Mechatronics specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Electrical with Business specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Undergraduate Students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN30012Signals and SystemsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5BMEN30006Circuits and SystemsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BMEN30006",
+                        "Name": "Circuits and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written  examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of the written exam and the two progress tests.  This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Continuous assessment of submitted project work and quizzes, not exceeding 30 pages over the semester",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "1-hour Progress Test 1 10% (week 5-6) and 1-hour Progress Test 2 10% (week 10-11)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures, up to 24 hours of tutorials/workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jmanton@unimelb.edu.au"
+        }
+    ]
+}

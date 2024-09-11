@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>This capstone subject is designed to put finance theory into practice and integrate a wide range of analytical skills developed by students enrolled in the Master of Management (Finance) and Master of Management (Accounting and Finance) programs. Working in groups, students will develop analyst reports on topics including firm valuation, capital structure, mergers and acquisitions, corporate governance, and other contemporary issues and present these for assessment using a range of relevant pedagogical approaches. Upon successful completion of this subject, students will be able to apply the tools, techniques and approaches typically required of financial analysts that support decision-making in corporate finance and investment management.</p>"
+    ],
+    "ilo": [
+        "Identify through the use of case studies and other mediums financial problems and evaluate these problems from a holistic view having regard to all stakeholders.",
+        "Synthesize and apply discipline specific knowledge from the compulsory subjects common to the Master of Management (Finance) courses to the identification, measurement, management and reporting of financial problems and solutions.",
+        "Apply strategic approaches to the resolution of financial problems confronting corporate entities, capital market participants and regulators.",
+        "Develop research skills to assist in decision making and the formulation of valid and justifiable arguments to support suggested solutions to problems.",
+        "Present high quality verbal and written presentations of a standard expected of industry practitioners.",
+        "Develop skills related to working as part of a research team consistent with expectations of industry practitioners."
+    ],
+    "generic_skills": [
+        "The ability to recognize the implications for different parties (owners, managers and finance intermediaries) of any one financial decision;",
+        "Critical and evaluative thinking in relation to conflicts between different classes of owners of a firm, between the owners and managers of the firm, and between the suppliers of financial capital and the suppliers of human capital to the firm;",
+        "Negotiation skills through an understanding of the potentially very different importance placed by investors, managers and financial intermediaries on the various parts of a single financial problem (such as the maturity, interest rate and security of a new bond issue);",
+        "Synthesis of data and other information through discussion of alternatives in financial decision making;",
+        "Decision-making skills through making a single recommendation of the best choice in applied settings when the various parties affected by that decision do not share a set of common preferences; and",
+        "Ethical thinking and work practice skills in financial decision making through the analysis of case studies and applied settings involving conflicts of interest between investors, managers and financial intermediaries."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of all foundation subjects and compulsory subjects plus at least one elective subject"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsFNCE90011Derivative SecuritiesSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE90011",
+                        "Name": "Derivative Securities",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group presentation of final report scheduled during the final meeting",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group written report. (Due 10 days after presentation)",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Attila Balogh",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Zhen Shi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

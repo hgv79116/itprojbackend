@@ -1,0 +1,134 @@
+{
+    "overview": [
+        "<p>This subject, the second subject in the Bachelor of Medical Science (Degree with Honours), will extend and integrate the knowledge and skills acquired in Introduction to Medical Research subject, by employing and implementing techniques that will locate, synthesise and evaluate medical and research evidence, and apply this knowledge to illustrate how these findings can inform clinical healthcare and best practice. This research into practice will focus on the challenges associated with updating clinical practice and \u2018knowledge transfer\u2019 and will cover scientific communication, clinical guideline development, clinical informatics and translation. You will further extend the knowledge and application of statistical techniques learnt in the Introduction to Medical Research subject to the interpretation of statistical findings presented in research papers. In this subject, you will also be paired with a clinical research mentor and under their supervision develop a research proposal on a relevant clinical problem. This proposal forms the basis of the advanced systemic review, meta-analysis or research project that is threaded to, and completed, in the subject \u2018Project in Medical Research\u2019.</p>"
+    ],
+    "ilo": [
+        "Produce a research proposal that is designed to answer a clear, coherent question related to a relevant clinical problem",
+        "Select and apply foundational and advanced data analysis techniques to evaluate research data and critically interpret the findings",
+        "Using pertinent examples, evaluate the relationship between clinical practice and research, and critically discuss the value of research in the advancement of clinical knowledge",
+        "Appraise the ethical responsibilities associated with the design, conduct and application of clinical research",
+        "Describe the principles of research knowledge translation and how this contributes to updating best clinical practice",
+        "Demonstrate proficient use of a variety of communication techniques to communicate with audiences in mixed settings and circumstances"
+    ],
+    "generic_skills": [
+        "Display advanced oral and written communication skills appropriate for a diverse a range of audiences and settings",
+        "Describe and actively apply strategies that facilitate collaborative teamwork and effective time management",
+        "Apply advanced critical and analytical skills and methods to the identification and evaluation of problems",
+        "Demonstrate skills in self-reflection and strategies to enhance self-directed study",
+        "Appreciate and implement the ethics associated with knowledge creation and usage"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS40007",
+                        "Name": "Introduction to Medical Research",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "MCQs or SAQs based on Clinical Research seminar series",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": "40% required for each mini quiz to pass",
+            "timing": "Weekly throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Biostatistics open book quizzes",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Weekly from Week 2 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Research into Practice: Knowledge-Translation Plan",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Research Project Proposal",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Oral Presentation: Research Project Proposal (8 minutes presentation and 2 minutes Q&A).",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Peer feedback, using a structed feedback scheme, of a research project proposal. Content of the peer feedback will be verified by the Subject Coordinator and/or a nominated academic/teaching staff member to ensure that the task is completed to the required word count with appropriate feedback and the feedback is professional and collegial.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Biostatistics Exam",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "This exam includes MCQs and SAQs",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "120 hours for  lectures and tutorials; approximately 15 hours of observership and 15 hours of meetings with mentors",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "29 January 2024 to 15 March 2024",
+            "last_self_enrol_date": "7 February 2024",
+            "census_date": "9 February 2024",
+            "last_date_to_withdraw_without_fail": "1 March 2024",
+            "assessment_period_ends": "22 March 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

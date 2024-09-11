@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the fundamentals of finance, financial securities and financial markets. Topics include: key financial concepts such as the time-value-of-money, risk, return, present value, diversification, arbitrage, leverage and voting control; key financial securities such as stocks, bonds, mortgages and other loans; key financial markets such as the stock, interest rate and foreign exchange markets; and key participants in financial markets such as investors, funds, companies, banks, intermediaries, governments and regulators.</p>",
+        "<p>This subject is designed for students who seek an understanding of financial concepts and markets, but who do not intend to pursue any further studies in finance.</p>"
+    ],
+    "ilo": [
+        "Explain the nature and role of different financial markets",
+        "Describe and distinguish the key features of different financial securities and participants",
+        "Apply key financial concepts to value financial securities and products",
+        "Explain the role of risk and return in financial decision making",
+        "Reflect on the content of current news in the financial press."
+    ],
+    "generic_skills": [
+        "Oral communication",
+        "Written communication",
+        "Problem solving",
+        "Team work",
+        "Critical thinking",
+        "Evaluation of data and other information."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE90018",
+                        "Name": "Corporate Financial Policy",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE90056",
+                        "Name": "Investment Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE90060",
+                        "Name": "Financial Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject is not available to students admitted to the Master of Management (Finance), Master of Management (Accounting) or Master of Management (Accounting and Finance) programs."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assignment 1  (4-5 students per group)",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group assignment 2 (4-5 students per group)",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Gaby Berhe Nardari",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours of lectures and seminars per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Gaby Berhe Nardari",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours of lectures and seminars per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

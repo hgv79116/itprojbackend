@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p><em>Formerly ECON20012</em></p>",
+        "<p>Agricultural Economics is an introduction to applying principles of agricultural economics to understanding the roles and practices of agriculture in the economy and the behaviour of producers and consumers in the agribusiness and farm sectors.</p>",
+        "<p>The content will include the role and operation of agricultural markets; agricultural supply and demand; the role of prices and competition between buyers and sellers in agribusiness markets and efficient use of resources; the theory and application of production economics; and rationale for international trade.</p>"
+    ],
+    "ilo": [
+        "An understanding of the fundamental economic principles underlying behaviour of agricultural producers and consumers in the economy;",
+        "Knowledge of the agricultural economic forces in the economy affecting the operation of agribusiness firms and farms using natural resources to produce food and fibre."
+    ],
+    "generic_skills": [
+        "1 hours"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10047",
+                        "Name": "Agriculture in Australia",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written test to be held approximately in week 4",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written test to be held approximately in week 9",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Bill Malcolm",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "43 hours incorporating 22 hours of lectures, 11 hours of tutorials or workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "b.malcolm@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,169 @@
+{
+    "overview": [
+        "<p>In this subject students will gain a detailed understanding of the molecular, biochemical and cellular events that regulate the development of specialised cells, tissues and organs during embryonic development. In particular, cell signalling pathways that regulate embryonic induction, tissue interactions and pattern formation, and expression of regulatory genes. A particular focus is the experimental strategies and techniques that are used to identify molecular and cellular mechanisms of development.</p>"
+    ],
+    "ilo": [
+        "Describe the morphological processes that transform a fertilised egg into a multicellular organism",
+        "Explain the molecular, biochemical and cellular events that regulate the development of specialised cells, tissues and organs during embryonic development",
+        "Identify model organisms used to investigate developmental biology and compare the developmental programmes of different organisms",
+        "Describe genetic, molecular and cellular techniques, including genome editing, used to investigate developmental and cell biology processes in various organisms",
+        "Demonstrate observational and technical skills to collect and analyse quantitative data, record observations, interpret findings and present experimental data",
+        "Work effectively in diverse groups to investigate and communicate concepts in cell and developmental biology"
+    ],
+    "generic_skills": [
+        "Be able to interpret scientific literature.",
+        "Have the capacity to integrate knowledge across several disciplines.",
+        "Have the ability to critically analyse scientific data."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBCMB20002Biochemistry and Molecular BiologySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5CEDB20003Fundamentals of Cell BiologySemester 1 (On Campus - Parkville)12.5CEDB30002Concepts in Cell & Developmental BiologySemester 1 (On Campus - Parkville)12.5GENE20001Foundations of Genetics and GenomicsSemester 1 (On Campus - Parkville)12.5GENE20004Applications of Genetics and GenomicsSemester 2 (On Campus - Parkville)12.5ZOOL20006Comparative Animal PhysiologySemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CEDB20003",
+                        "Name": "Fundamentals of Cell Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CEDB30002",
+                        "Name": "Concepts in Cell & Developmental Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE20001",
+                        "Name": "Foundations of Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE20004",
+                        "Name": "Applications of Genetics and Genomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20006",
+                        "Name": "Comparative Animal Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "GENE20002  Genes and Genomes"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "(For BBiomedicine students)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM20001Molecular and Cellular BiomedicineSemester 1 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Students will practice using microscopes and pipettes and receive EHS induction",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Attendance is required at this Introductory Practical, as it will provide essential training to prepare for the remaining practicals.",
+            "timing": "Week 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Four practical reports that can be completed during practical session (each report equiv. 150 words, worth 5% each)",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": "3 out of 4 reports are required. Each submitted report must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "From Week 2 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One essay",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Two MSTs (10% & 30 min each)",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Michael Murray",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 contact hours in total including 2hrs of lectures per week and 4 x 3hr practicals across the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

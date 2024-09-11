@@ -1,0 +1,126 @@
+{
+    "overview": [
+        "<p>This subject teaches practical skills and applied knowledge for a range of careers in geoscience. It builds on an understanding of fundamental geological processes and systems and explores a range of topics including: resource exploration, responsible extraction of water and mineral resources, ore deposits, hazards, remediation, sustainability and infrastructure applications. The subject is based on four modules in sequence: 1. Mineral Futures, 2. Applied Geophysics, 3. Engineering Geoscience, 4. Environmental Geoscience and Water Resources. Each module includes background theory, topical discussion and practical classes, with a strong emphasis on case studies from past and present. One of the modules will include a one-day field trip which will focus on an ongoing remediation challenge in Victoria, and draws together the different aspects of the course. The course will bring together theoretical frameworks, active research and industry applications.</p>"
+    ],
+    "ilo": [
+        "Apply strategies to acquire, analyse and interpret geoscientific data",
+        "Apply and integrate different types of data, samples and observations to assess and evaluate geological processes and resources in the context of sustainability.",
+        "Communicate geoscientific topics succinctly to non-specialists through presentations and reports.",
+        "Interrogate and discuss geoscientific data in small groups.",
+        "Classify the wide variety of metalliferous and non-metalliferous Earth resources and how they are used in society.",
+        "Categorise the geological and geophysical distribution of different Earth resources and the processes leading to their formation and/or concentration",
+        "Consider the range of challenges and hazards associated with the cross section of infrastructure, society and the underlying geology"
+    ],
+    "generic_skills": [
+        "Time-Management skills: the ability to meet deadlines and balance competing commitments",
+        "Critical thinking skills: the ability to organise observations of complex Earth systems and analyse these within different frameworks",
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies",
+        "Scientific skills: to design and test hypotheses"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOL30007",
+                        "Name": "Geobiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOL30009",
+                        "Name": "Field Geology",
+                        "Teaching period": "July (Off Campus)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOL30004",
+                        "Name": "Geochemistry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOL30002",
+                        "Name": "Tectonics and Geophysics",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOL30003",
+                        "Name": "Sedimentary Geology and Hydrogeology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-GEOSC Master of Geoscience"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two individual practical reports or exercises, equally weighted",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7 and end of Week 1 of Examination Period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Group presentation (every student will present)",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Practical test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of lectures per week (22 hours\u201311 Weeks)\n\n2 hours of practicals per week (22 hours\u201311 weeks)\n\n6-hour field visit\u2013one day of fieldwork (Week 10, depending on field conditions)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "brandon.mahan@unimelb.edu.au"
+        }
+    ]
+}

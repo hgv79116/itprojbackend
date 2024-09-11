@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>This subject builds on and extends the theoretical and analytical approaches to health economics introduced in Health Economics 1. The aim is to enhance students\u2019 ability to undertake economic analysis of health, health care and health policy issues by the use of more advanced theoretical and quantitative approaches.  The topics to be covered include Grossman\u2019s model of health production; health care quality; efficiency and equity of health care markets; health care costs control and financing; the economics of the pharmaceutical and life sciences industry; the economics of public and private health insurance; externalities and government\u2019s role in health care; health system reform; and evaluating the performance and impact of a health policy.</p>"
+    ],
+    "ilo": [
+        "Critically evaluate a health issue or health policy from an economic perspective,",
+        "Apply economic theories and analysis to the study of a health issue or health policy,",
+        "Critically examine findings and results of econometric analysis from empirical health economics research."
+    ],
+    "generic_skills": [
+        "Critical thinking and analysis",
+        "Finding, evaluating and using relevant information",
+        "Written communication",
+        "Persuasion and argument"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90094",
+                        "Name": "Health Economics 1",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90020",
+                        "Name": "Health Promotion",
+                        "Teaching period": "September (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One Minor Assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Online examination",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Major essay",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "30 hours (22 hours of lectures and 8 hours of tutorials, roughly 2-3 hours per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "sabine.deij@unimelb.edu.au"
+        }
+    ]
+}

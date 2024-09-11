@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>The subject aims to help students develop knowledge, skill and application within the context of nursing care provided to clients/patients experiencing chronic and complex health problems. Students will develop their capabilities in client/patient assessment, data collection, nursing problem identification and evidence-based application of relevant nursing interventions. Students will also build on their pre-existing capabilities in interprofessional experiences with medicine and allied health to deliver safe, effective, evidence-based collaborative care.</p>"
+    ],
+    "ilo": [
+        "Integrate the core principles covered in the subject and its pre-requisites, to develop practice knowledge and skills to support comprehensive patient assessment and monitoring across the lifespan while maintaining cultural awareness, respect and sensitivity;",
+        "Discuss the ethical and legal principles of end of life support and enduring powers of attorney as they apply to nurse-patient interactions and respecting cultural values and beliefs;",
+        "Illustrate how the principles of health education influence the assessment of the education needs of individuals/families/carers in acute and community settings;",
+        "Apply knowledge of patient assessment, evidence-based guidelines to select nursing interventions for patients with acute and chronic conditions;",
+        "Apply skills in clinical decision making, problem-solving, critical thinking, reflective practice and self-directed learning to planning the care of patients with complex disease processes;",
+        "Apply health assessment principles to plan, develop, implement, evaluate and revise comprehensive nursing care plans for patients with acute, chronic and complex illnesses across the lifespan while maintaining cultural awareness, respect and sensitivity;",
+        "Apply and integrate evidence-based pharmacokinetics and pharmacodynamics to clinical practice when caring for chronic and complex patients to optimise therapeutic planning across the lifespan, medication safety and risk and medication error management; and",
+        "Demonstrate safe and appropriate use of core digital health technologies, including electronic medical records, telehealth and electronic medication administration, whilst employing ethical frameworks and conceptual models to evaluate contemporary clinical digital health practices."
+    ],
+    "generic_skills": [
+        "capacity for information seeking, retrieval and evaluation",
+        "critical thinking and analytical skills in individual and interprofessional team settings",
+        "capacity to rethink own ideas and an openness to new ideas",
+        "appreciate how social-historical structures, including colonisation, contribute to social inequity and exclusion, and develop strategies that help redress this",
+        "development of digital literacy skills required to communicate new knowledge",
+        "demonstrate a profound respect for truth and intellectual integrity, and for the ethics of scholarship and practice"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90155",
+                        "Name": "Nursing of Acute Health Conditions",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 x discussion board activities (500 words each)\n\n10% each discussion board activity",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Case study analysis",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours lectures/seminars/workshops/webinars",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 January 2024 to 26 May 2024",
+            "last_self_enrol_date": "9 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "lauren.zarb@unimelb.edu.au"
+        }
+    ]
+}

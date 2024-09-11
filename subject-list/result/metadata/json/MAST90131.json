@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>Measurement analytics combines measurement science and validity theory with analytics methods. Its main application is to assess human (or sometimes organisational) performance or attributes, using digital big data and analytical techniques. Use of measurement analytics is appropriate when the objective of the analyst is to build reliable and valid assessments of individuals, especially when attributes or levels of performance can only be inferred, not directly observed, and when results have consequences for the individuals concerned.</p>",
+        "<p>There are many applications: in education, to any assessment of competence or understanding; in health and human services, to assessments of patient physiological or psychological status; in the professions and vocations for recruitment, to assessment of complex skills, including in areas such as music, sport, and non-cognitive attributes such as attitudes, values and beliefs; and in situations when automated assessments are generated from games, essays, videos or interviews.</p>",
+        "<p>In this subject students will develop an understanding of the rationale for using measurement analytics rather than alternative analytics techniques and become familiar with contemporary and emerging applications. This subject provides students with the ability to assess claims to reliability and validity of analytics-based assessments of attributes or performance of individuals, and provides basic understandings and skills in how to maximize validity using complex digital data.</p>"
+    ],
+    "ilo": [
+        "Understand the principles of measurement and learning analytics as well as the rationale for using measurement analytics rather than alternative techniques such as data mining, cluster or regression analysis for assessment purposes.",
+        "Understand and explore how various data and information can be used to measure complex human attributes and performance.",
+        "Understand and apply common approaches to conceptualizing human attributes for the purposes of assessment.",
+        "Apply measurement analytics techniques to digital big-data sets to generate and interpret measures.",
+        "Understand contemporary applications of measurement analytics to automated, algorithm-based, online adaptive assessment applications, especially those based on machine learning or data mining."
+    ],
+    "generic_skills": [
+        "Students will be provided with the opportunity to practice and reinforce:\n\n \n\n\u2022\tHigh level written communication skills.\n\n\u2022\tAdvanced information and interpretation skills.\n\n\u2022\tAdvanced analytic, integration and problem-solving skills\n\n\u2022\tDemonstrate competence in critical and theoretical thinking through report writing and online discussions."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90130",
+                        "Name": "Critical Thinking with Analytics",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contributions to online discussion posts",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online quizzes (Weekly)",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A conceptual framework",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 3 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 15 September 2024",
+            "last_self_enrol_date": "16 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "22 September 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

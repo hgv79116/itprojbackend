@@ -1,0 +1,148 @@
+{
+    "overview": [
+        "<p>Students are required to complete 40 days of placement in the University of Melbourne Psychology Clinic. Students will have the opportunity to observe a range of clinical presentations, conduct psychological assessments and deliver psychological interventions, under supervision with adult, child and family patients. They will gain experience in history taking, conducting mental state examinations, arriving at case formulations and making treatment plans. Under supervision, students will be given the opportunity to develop competence in the provision of psychological treatments to individuals and (where possible) groups. In addition, the subject aims to give the student experience of professional psychology practice, including case presentation, report writing and record keeping, managing a clinical caseload, and liaising with other professional practitioners.</p>",
+        "<p>Over the 40 days, students are required to complete at least 15 hours of psychological assessments and to accrue a further 85 hours of face-to-face contact with patients (predominately intervention-focussed work). Students are required to participate in regular weekly supervision. Supervisors for the Clinic placement will be registered as both psychologists and supervisors with the Psychology Board of Australia (PBA). Students undertaking this placement must be provisionally registered with the PBA and hold current Police and Working with Children's checks.</p>",
+        "<p>Students are also required to attend 4.5 hours of training in the administration and scoring of the WAIS, WMS and WISC and to demonstrate competency in administration and scoring of these tests. They will also be required to complete an online training module (\u2018RiskAware\u2019) that provides training in awareness of the risks associated with the clinical placement environment and ways to manage or control for these risks.</p>"
+    ],
+    "ilo": [
+        "Identify the clinical features of many mental health disorders experienced by children and adults."
+    ],
+    "generic_skills": [
+        "A capacity to work collaboratively",
+        "An ability to confront and manage unfamiliar problems",
+        "A capacity to value different cultures",
+        "A high regard for human rights, ethics and equity."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into or selection of one of the following:527CL Master of Psychology (Clinical Psychology)Admission into or selection of one of the following:080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy",
+                    "527CL Master of Psychology (Clinical Psychology)",
+                    "080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "527CL Master of Psychology (Clinical Psychology)"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsPSYC90011Introduction to Assessment and DiagnosisSummer Term (On Campus - Parkville)6.25PSYC90031Adult PsychopathologySummer Term (On Campus - Parkville)6.25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90011",
+                        "Name": "Introduction to Assessment and Diagnosis",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90031",
+                        "Name": "Adult Psychopathology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90006",
+                        "Name": "Basic Interventions",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90007",
+                        "Name": "Cognitive-Behaviour Therapy",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90008",
+                        "Name": "Ethics and Professional Issues",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at placement for 100 hours face to face clinical work (assessment and treatment) and regular (weekly or equivalent as negotiated with the subject coordinator/clinical supervisor) attendance at supervision.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Submission of  record of placement activities (including direct client hours, other client related activity and supervision hours- aka 'logbook')",
+            "bullets": null,
+            "hurdle": "Students must provide evidence that log books are checked and endorsed by their primary placement supervisor AT LEAST every fortnight.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Competency in a range of clinical skills  assessed on a pass/fail basis throughout year by supervisor",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "RiskAware online training as hurdle component to be completed prior to students commencing placement activities.  ",
+            "timing": "To be completed at commencement of teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Litza Kiropoulos",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Equivalent of 80 hours face to face client work over approximately 26 weeks.",
+            "total_time_commitment": "300 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "litzak@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject develops a foundation for pursuing research in the area of secure cyberphysical systems. Issues pertaining to the modelling, detection, and mitigation of attacks in cyberphysical networks are investigated from a system theoretic point of view. The coverage of fundamental material is complemented by exposure to realistic scenarios within the context of small projects.<br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Coverage of selected topics from the following:</p>",
+        "<p>Review of necessary tools from linear algebra, systems theory, graph theory, optimisation theory, statistics, and detection theory, particularly norms, eigenvalues and eigenvectors, fundamental linear spaces and their properties, system of simultaneous linear equations, least square solutions, numerical linear algebra, observability and controllability in dynamical systems, algebraic graph theory, Kuhn-Karush-Tucker conditions, and hypothesis testing.</p>",
+        "<p>Developing a unified framework for modelling potential attacks and vulnerabilities in cyberphysical systems such as replay attacks, denial of service attacks, eavesdropping (man-in-the-middle attacks), bias-injection attacks, etc.</p>",
+        "<p>Detecting attacks in cyberphysical systems under different information availability assumptions; introducing security indices to characterise vulnerabilities of cyberphysical systems; mitigating the attacks after detection through ameliorating their impact on the cyberphysical system.</p>"
+    ],
+    "ilo": [
+        "Characterise different attacks and vulnerabilities in the context of networked cyberphysical systems using a unified framework",
+        "Provide a security analysis for a given system in terms of how vulnerable the system is to different types of attack",
+        "Design methods to detect different attacks in a cyberphysical system based on the available information in the system",
+        "Implement mitigation strategies that counter-act the impacts of the attacks on the system"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Ability to communicate effectively, with the engineering team and with the community at large;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment consisting of submitted project work, not exceeding 40 pages in total across the semester.",
+            "bullets": [
+                "65 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A 20-minute presentation.",
+            "bullets": [
+                "26 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,82 @@
+{
+    "overview": [
+        "<p>The subject explores the complexities of integrated neuroscience by focusing on examples of major sensory systems, and on complex brain functions involved in language, numeracy and other areas of cognition. These processes are considered from the perspective of normal brain operation, the organisation of neural circuitry and from an examination of the abnormalities underlying neurological disorders.</p>"
+    ],
+    "ilo": [
+        "Develop a deep insight into how the brain performs some of its complex functions.",
+        "Develop an awareness of the major research achievements in understanding complex brain functions and the major outstanding questions.",
+        "Become familiar with the range of technologies and cutting-edge research for investigating brain operation.",
+        "Understand the organisation of brain circuits and the interactions of regional brain responses, through exploration of normal and clinical neuroscience settings."
+    ],
+    "generic_skills": [
+        "30 minutes"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NEUR30003",
+                        "Name": "Principles of Neuroscience",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A MCQ test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "65%"
+        },
+        {
+            "brief": "A written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Stuart Mazzone",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures per week , 3 x two hour workshops over the semester and 2 x online workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

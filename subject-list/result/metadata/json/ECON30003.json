@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>This subject is an introduction to the field of industrial organisation. Industrial organisation deals with the structure, management, and performance of firms and markets. It is concerned with firm behaviour and strategy, the implications of firm behaviour for economic efficiency, and the role public policy plays in promoting efficiency. Most of the time, models of perfect competition and monopoly fail to explain the composition and behaviour of most industries in modern capitalist economies. Our goal in this class is to depart from those two idealised models and to explain why industries are composed of a few large firms instead of many small ones. We will be looking at the strategic interactions between firms in a market, and analysing such market phenomena as price discrimination, product differentiation, price wars, mergers, vertical relationships between firms, advertising, entry and exit, and research and development. Whenever possible, we will try to study real-world applications of the theories that we learn in class.</p>"
+    ],
+    "ilo": [
+        "Explain and analyse the main issues and debates in the field of industrial economics",
+        "Describe the workings of different market structures",
+        "Critically evaluate different policy approaches to industry",
+        "Analyse the value and the limitations of existing theory in the area of industry economics",
+        "Explain the economic behaviour of different industries, firms and markets in relation to their output and pricing decisions",
+        "Analyse and provide policy recommendations about monopolies, cartels, non-cooperative oligopolies and other forms of imperfect competition",
+        "Critically evaluate the relationship between industrial structure and performance and the various approaches to innovation, entrepreneurship and industry policy"
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: written communication; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; collaborative learning; team work; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20005",
+                        "Name": "Competition and Strategy",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON30010",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "700 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "6.67%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "700 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "6.67%"
+        },
+        {
+            "brief": "Assignment 3",
+            "bullets": [
+                "700 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "6.67%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

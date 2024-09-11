@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p><strong>This subject is only available to students with approval from the subject coordinator.</strong></p>",
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides a capstone experience for students in Infrastructure Engineering. Students will combine their expertise in interdisciplinary groups or as individuals to address real-world problems, typically in contact with industry.</p>",
+        "<p><strong> </strong></p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Project topics will be advertised well in advance of commencement of the subject so that students can make an informed choice of topic and enrol early. Students must register their topic preference before the subject commences.</p>",
+        "<p>This subject is a semester long capstone research project taken over one semester. It is less suited to research projects that are dependent on methodologies requiring experiments that take longer than 6 weeks to complete, field work, and problems involving research on humans (for example surveys). It is more suited to methodologies involved computer simulations, analysis of pre-existing data, theoretical studies and shorter experimental programs.</p>",
+        "<p>The first half of semester addresses research training and comprises online lectures and tutorials on topics such as project development, literature review, methodology development, skill development, critical thinking, project documentation and scientific writing. Students will practise these skills throughout their project topics with supervisors providing feedback on the results.</p>",
+        "<p>Students then continue their project within their group, or individually, with regular progress meetings with their supervisor for the remainder of the semester. The project culminates with students presenting their project findings as a poster at a student expo, via an oral presentation, and also in written form in the style of a conference paper.</p>",
+        "<p>This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH).</p>",
+        "<p><strong>Notes</strong></p>",
+        "<p>Note 1: Students and their supervisors must adhere to the University Code of Conduct for research, which may include obtaining human or animal research ethics approval.</p>",
+        "<p>Note 2: Students working in University laboratories must comply with OH&amp;S requirements and may be required to undertake additional training such as Workshop Tools Training before access the labs.</p>",
+        "<p>Note 3: Students are advised to enrol in the subject at the earliest opportunity to ensure ease of communication prior to the start of semester.</p>",
+        "<p><br/></p>",
+        "<p><br/></p>"
+    ],
+    "ilo": [
+        "1. Search, analyse and document engineering science and other literature in order to determine the need for further research in a chosen area",
+        "2. Synthesize an hypothesis to be tested",
+        "3. Devise a methodology of investigation to test the hypothesis",
+        "4. Collect and analyse a range of data (qualitative and/or quantitative) and/or undertake computer modelling and simulation to implement the methodology",
+        "5. Write project reports that follow good engineering science practice",
+        "6. Present a poster of the findings of an investigation.",
+        "7. Make an oral presentation of the findings of an investigation."
+    ],
+    "generic_skills": [
+        "Discernment of knowledge development and research directions within the engineering discipline",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Understanding of professional and ethical responsibilities, and commitment to them."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assessment with individual components. (60 hrs per student). Addressing Learning Outcomes,  ILO's, 1-3 & 5.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group assessment with individual components. (240 hrs of work per student).\n\nILO's 1-5.",
+            "bullets": [
+                "240 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Non-technical (poster) presentation to lay-audience.\n\n(individual assessment).  15 hours total work.  ILO  6",
+            "bullets": [
+                "15 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral exam. Individual Assessment . (15 - 20 minutes per student)\n\nILOS's 1-7.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Murray Peel",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "18 hours (Workshops: 6 hours per semester; Progress meetings/feedback by academic supervisors: 12 hours per semester)",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Murray  Peel",
+            "contact_email": "mpeel@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "18 hours (Workshops: 6 hours per semester; Progress meetings/feedback by academic supervisors: 12 hours per semester)",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Patricia Sauri Lavieri",
+            "contact_email": "patricia.saurilavieri@unimelb.edu.au"
+        }
+    ]
+}

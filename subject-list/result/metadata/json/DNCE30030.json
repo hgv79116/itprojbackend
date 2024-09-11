@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This subject introduces students to areas of professional practice and equips them to navigate a journey through the profession and develop a career as a portfolio artist.</p>",
+        "<p>It prepares students for diverse pathways in dance through developing skills in auditioning, writing pitches, maintaining work/life balance, budgeting, formatting a CV, editing a creative portfolio, applying for funding and grant-writing.</p>",
+        "<p>Creative employability is mapped through pathways into company work, independent project-based work or further postgraduate study. Guest lecturers from the dance industry provide insights and inspiration.</p>"
+    ],
+    "ilo": [
+        "utilise skills in video capture and editing in the creation of an online artists portfolio;",
+        "apply knowledge of budgeting skills to the planning of a dance production;",
+        "develop and describe a proposal for a choreographic project;",
+        "develop and communicate a dance identity and values."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DNCE30026",
+                        "Name": "Dance Lab 5: Dance and Music",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "DNCE30027",
+                        "Name": "Inter-disciplinary Project",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10-minute group presentation to industry",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Present an online portfolio",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must submit all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "36 hours, comprising one 3-hour class per week",
+            "total_time_commitment": "204 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "julie.minaai@unimelb.edu.au"
+        }
+    ]
+}

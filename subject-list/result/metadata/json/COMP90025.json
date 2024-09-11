@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The subject aims to introduce students to parallel algorithms and their analysis. Fundamental principles of parallel computing are discussed. Various parallel architectures and programming platforms are introduced. Parallel algorithms for different architectures, as well as parallel algorithms addressing specific scientific problems are critically analysed.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics include: principles of parallel computing, PRAM model, PRAM algorithms, parallel architectures, OpenMP, shared memory algorithms, systolic algorithms, parallel communication patterns, PVM/MPI, scientific applications, hypercube, graph embeddings and extended parallel computing models.</p>"
+    ],
+    "ilo": [
+        "Have an understanding of parallel algorithms, analysis and architectures",
+        "Obtain experience developing parallel algorithms for various parallel architectures"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90015Distributed SystemsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90015",
+                        "Name": "Distributed Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "Master of Computer Science Students may take COMP90015 concurrently but will need to submit an enrolment variation form. Subject Coordinator approval is not required."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Intended Learning Outcomes (ILOs) 1 and 2 are addressed by extensive Project work requiring approximately 50 - 55 hours or work, which involves programming exercises, measurements and analysis, architecture specific programming and written work",
+            "bullets": [
+                "50-55 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "",
+            "percentage": "40%"
+        },
+        {
+            "brief": "ILO 1 is also addressed by one examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Lachlan Andrew",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising one 3-hour lecture per week. Non-contact time commitment is 84 hours",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "lachlan.andrew@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to research presentation, university level teaching and core areas of contemporary philosophical research.</p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Enhanced general knowledge of contemporary work in their discipline outside their speciality",
+        "An understanding of philosophical pedagogy."
+    ],
+    "generic_skills": [
+        "Be able to communicate their research findings in a clear and intelligible manner",
+        "Have refined their skills in crafting persuasive written arguments",
+        "Improved their understanding of and capacity for tertiary level pedagogy."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHIL70005",
+                        "Name": "Shorter Thesis - Philosophy",
+                        "Teaching period": "Time-based Research (On Campus - Parkville)",
+                        "Credit Points": "0"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One paper to be submitted for evaluation (75%). During the semester this paper will be presented and defended in one seminar as a lead paper or in two seminars as respondent (25%)",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.  ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Francois Schroeter",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "18 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "fschro@unimelb.edu.au"
+        }
+    ]
+}

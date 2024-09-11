@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>This subject explores the main areas of grammar, at the level of the word, the sentence and the text. Throughout the subject, material is drawn from across a range of contexts of use and varieties of English, including Standard English. Through seminars and practical application students gain a systematic understanding of the major features of English grammar, including morphology, syntax, and stylistics, with additional focus on the role of grammar in language use, and descriptive and methodological approaches to the analysis of grammar.</p>"
+    ],
+    "ilo": [
+        "Demonstrate a firm understanding of the major elements of English grammar",
+        "Identify and describe the main grammatical features in a wide variety English texts using appropriate terminology and techniques of linguistic analysis",
+        "Demonstrate an awareness of a range of issues in the study of grammar in applied linguistics."
+    ],
+    "generic_skills": [
+        "Developed their skills in critical thinking and analysis through seminar discussion and completion of analytical exercises",
+        "Developed their skills in thinking creatively and in theoretical terms through forming judgements and arguments from data and by critical analysis",
+        "Developed their skills in communicating knowledge intelligibly and economically."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LING20011",
+                        "Name": "Grammar of English",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical assignments",
+            "bullets": [
+                "2500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A final paper or assignment",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.  There is an expectation that students attend lectures where offered.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 10 University business days from the original assessment due date without written approval.\n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours: 1 x 2 hour lecture and 1 x 1 hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "Mae.Carroll@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "Equivalent of  36 hours: Self-directed activities including following seminar recordings, weekly participation in online activities as directed by the subject coordinator. There are no classes for online study.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

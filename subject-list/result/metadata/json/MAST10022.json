@@ -1,0 +1,155 @@
+{
+    "overview": [
+        "<p>This subject covers the same material as MAST10007 Linear Algebra, but to a greater depth including a greater emphasis on mathematical rigour and proof.</p>",
+        "<p>This subject gives a solid grounding in key areas of modern mathematics needed in science and technology. It develops the concept of a vector space, including linear transformations, matrices and the methods of linear algebra. There will be an emphasis on the axiomatic treatment of vector spaces, linear transformations, and inner product spaces.</p>",
+        "<p>Students will develop the ability to use the methods of linear algebra and gain an appreciation of mathematical proof including the ability to prove results about vector spaces.</p>",
+        "<p>Topics covered include: systems of linear equations; matrices and determinants; vectors in real n-space, cross product, lines and planes; general vector spaces; linear independence; bases and dimension; linear transformations; eigenvalues and eigenvectors; inner product spaces; symmetric and orthogonal matrices; diagonalisation of linear transformations and matrices.</p>"
+    ],
+    "ilo": [
+        "be able to use matrix techniques to represent and solve a system of simultaneous linear equations",
+        "understand the use of vectors\u00a0as a tool for describing lines and planes in solid geometry",
+        "understand the\u00a0axiomatic definition of an\u00a0abstract vector spaces of arbitrary dimension",
+        "understand linear transformations, their matrix representations and applications",
+        "be familiar with the use of a computer package for symbolic and numeric calculation",
+        "be able to\u00a0construct a simple mathematical proof"
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis",
+        "collaborative skills: the ability to work in a team",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments",
+        "computer skills: the ability to use mathematical computing packages"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Required subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": "A study score of at least 36 in VCE Specialist Mathematics 3/4, or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5No longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "",
+                        "Name": "No longer available",
+                        "Teaching period": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four to Six written assignments due at regular intervals during the semester (approximately 15 hours in total, 12%).",
+            "bullets": [
+                "15 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "12%"
+        },
+        {
+            "brief": "An on-line mid-semester test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "8%"
+        },
+        {
+            "brief": "One 45-minute computer laboratory test held at the end of semester (10%).",
+            "bullets": [
+                "45 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "3-hour written examination in the examination period (70%).",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week, 1 x one hour practice class per week, 1 x one hour computer laboratory class per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

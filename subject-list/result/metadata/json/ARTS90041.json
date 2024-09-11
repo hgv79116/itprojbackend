@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>Advanced skill development in laboratory-based phonetics or in syntactic theory will be provided for those students who require these specialised skills for their thesis work. Advanced Linguistic Analysis A and B will be taken consecutively over one semester. These subjects are designed to ensure that students have the necessary skill set in advanced phonetics or advanced syntax to enable them to define their thesis topic in line with contemporary theoretical literature.</p>"
+    ],
+    "ilo": [
+        "Enhanced knowledge of the topic or area of scholarship taught in the module",
+        "An ability to reflect upon their own research work in relation to the content of the module",
+        "Enhanced engagement with leading-edge research in Arts today."
+    ],
+    "generic_skills": [
+        "The capacity to contextualise research within an international corpus of specialist knowledge",
+        "An advanced ability to evaluate and synthesise research-based and scholarly literature",
+        "An advanced understanding of key disciplinary and multi-disciplinary norms and perspectives relevant to the field."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARTS90040",
+                        "Name": "Advanced Linguistics Analysis A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written work",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.  ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total 12 hours: delivered as seminars.",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "omaxwell@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total 12 hours: delivered as seminars.",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "chloe.diskinholdaway@unimelb.edu.au"
+        }
+    ]
+}

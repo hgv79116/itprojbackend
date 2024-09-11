@@ -1,0 +1,170 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This subject provides an introduction to astrophysics discussing the basic structure of stars, our galaxy, and the universe and introducing the most recent research questions.</p>",
+        "<p class=\"MsoNormal\">Topics covered include:</p>",
+        "<ul><li>structure and evolution of stars, degenerate stars, black holes, the structure of the Milky Way and other cosmic objects, emission processes in astrophysics, high energy astrophysics, relativistic cosmology and cosmological models</li></ul>"
+    ],
+    "ilo": [
+        "explain the structure and evolution of stars, the Milky Way and other cosmic objects and cosmological models;",
+        "explain the physics underlying emission processes in astrophysics, high energy astrophysics and cosmology, and",
+        "demonstrate an understanding of emission processes, degenerate stars, black holes, accretion processes and relativistic cosmology;",
+        "solve problems relevant to these topics."
+    ],
+    "generic_skills": [
+        "analyse how to solve a problem by applying simple fundamental laws to more complicated situations;",
+        "apply abstract concepts to real-world situations;",
+        "solve relatively complicated problems using approximations;",
+        "participate as an effective member of a group in tutorial discussions;",
+        "manage time effectively in order to be prepared for tutorial classes, undertake written assignments and the examination, and prepare and give a group presentation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Physics:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsPHYC20012Quantum and Thermal PhysicsSemester 1 (On Campus - Parkville)12.5PHYC20015Special Relativity and ElectromagnetismSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC20012",
+                        "Name": "Quantum and Thermal Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20015",
+                        "Name": "Special Relativity and Electromagnetism",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Mathematics:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20026Real AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5PHYC20014Theoretical Physics 2Semester 2 (On Campus - Parkville)12.5MAST20033Real Analysis: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20014",
+                        "Name": "Theoretical Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20033",
+                        "Name": "Real Analysis: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 x 1500 word equivalent written assignments, written in groups of 2-3; due in Weeks 4, 8 and 11 (each assignment will be the outcome of 4 x1-hour problem workshops in each of these weeks)",
+            "bullets": [
+                "4500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance of at least 9 of the problem workshops held in Weeks 4, 8 and 11",
+            "timing": "From Week 4 to Week 11",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Rachel Webster",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 to 4 hours per week, 36 in total, lectures and problem-solving classes",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "PHYC30019@physics.unimelb.edu.au"
+        }
+    ]
+}

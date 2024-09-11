@@ -1,0 +1,151 @@
+{
+    "overview": [
+        "<p>After completion of this subject, students will have comprehensive knowledge of the sono-anatomy and the skill in when and how to safely perform ultrasound-guided percutaneous procedures commonly performed in critical care including central and peripheral vascular access, drainage of effusions from the lung, heart and peritoneal cavities, and ultrasound-guided surgical airway procedures. Students will perform, interpret, write a report and submit a log-book of at least 15 ultrasound-guided studies and interpret and report on an additional 10 online studies.</p>"
+    ],
+    "ilo": [
+        "Be familiar with the anatomy relevant to ultrasound-guided drainage of effusions from the pericardial, pleural, and abdominal cavities and cannulation of vessels and the trachea",
+        "Be familiar with how to minimise infectious and mechanical complications from ultrasound-guided percutaneous procedures",
+        "Display competence in ultrasound-guided procedures on simulators and/or humans including central and peripheral vascular access, drainage of effusions from the lung, heart and peritoneal cavities, and ultrasound-guided surgical airway procedures and write a structured ultrasound report",
+        "Evaluate the requirements for training, competence, and certification in ultrasound-guided procedures"
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Improved procedural skills for students who select a practical subject",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90129",
+                        "Name": "Clinical Ultrasound - Core Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90054",
+                        "Name": "Ultrasound Guided Procedures",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to perform and interpret clinical ultrasound. A  student is expected to demonstrate: Sufficient visual acuity to perform the required range of skills, including reading ultrasound monitors across a bed and interpreting ultrasound images on standard commercially available ultrasound machines."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills"
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills are required in performing clinical ultrasound. A student is expected to demonstrate adequate gross and fine motor skills to perform focused ultrasound whilst avoiding injury to patients, colleagues and self."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple choice questions following each tutorial (25 MCQ).",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Interpretation of 10 online case studies assessed by structured questions pertaining to each case (50 MCQ)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Two ultrasound examinations",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Complete a logbook of 15 focused ultrasound studies relating to critical care procedures on simulators and/or patients",
+            "bullets": null,
+            "hurdle": "Students must submit a logbook of 15 focused ultrasound studies relating to critical care procedures on simulators and/or patients to pass this subject",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Open-book summative examination of 25 MCQ",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

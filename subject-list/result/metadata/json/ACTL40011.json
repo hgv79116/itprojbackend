@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p>Students will be required to submit three assignments of between 3,000 and 3,500 words each, on dates specified at the start of the academic year. The word count includes bibliography, footnotes, appendices and the number of words which would take up space used for tables, formulae and charts.</p>"
+    ],
+    "ilo": [
+        "Be able to work independently on prescribed topics in actuarial studies;",
+        "Identify the bibliographic and data sources relevant to the topics;",
+        "Analyse the literature relevant to the topics;",
+        "Apply appropriate actuarial and quantitative methods of analysis;",
+        "Complete written research reports."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: use of computer software; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; synthesis of data and other information; evaluation of data and other information."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL40010",
+                        "Name": "Actuarial Studies Projects Part 1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL40001",
+                        "Name": "Actuarial Studies Research Essay",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Students will be required to submit three assignments of between 3000 and 3500 words each.",
+            "bullets": [
+                "9000-10500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Dates specified at the start of the academic year.",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": "Ping Chen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "A series of, at most, five 1-hour meetings per semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "12 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "ping.chen@unimelb.edu.au"
+        }
+    ]
+}

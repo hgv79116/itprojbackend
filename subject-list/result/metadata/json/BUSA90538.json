@@ -1,0 +1,75 @@
+{
+    "overview": [
+        "<p>There is an assortment of mathematical methods to obtain efficient solutions to a large variety of complex business problems. This component helps student formulate a business problem as a mathematical model and then use computational techniques to estimate and solve the model. Topics covered may include decision making under uncertainty, optimal location allocation of resources in business processes, decision trees, linear programming, integer linear programming, and Monte Carlo simulations.</p>"
+    ],
+    "ilo": [
+        "Appreciate the importance and application of mathematical models for solving several problems in business.",
+        "Understand the most relevant methods and the trade-off between methods required to solve these models including: decision trees, linear programming, integer linear programming, local search and meta-heuristics.",
+        "Perform optimization techniques to solve business problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: MC-BUSANA Master of Business Analytics, GD-BUSANA Graduate Diploma in Business Analytics, GC-BUSANA Graduate Certificate in Business Analytics, PR-BUSANA Professional Certificate in Business Analytics"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students admitted to the MBA course may enrol in this subject as an elective subject. Students are required to achieve 70% or above in Data Analysis"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Syndicate Project",
+            "bullets": [
+                "1700 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Midterm test",
+            "bullets": [
+                "1.25 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final Examination",
+            "bullets": [
+                "2.5 hours"
+            ],
+            "hurdle": "Students need to pass the final exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "11 March 2024 to  3 May 2024",
+            "last_self_enrol_date": "21 March 2024",
+            "census_date": "5 April 2024",
+            "last_date_to_withdraw_without_fail": "19 April 2024",
+            "assessment_period_ends": "10 May 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

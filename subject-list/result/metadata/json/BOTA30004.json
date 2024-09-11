@@ -1,0 +1,152 @@
+{
+    "overview": [
+        "<p>This subject provides a detailed knowledge of vegetation structure and natural values of Victorian plant communities and their assessment, including environmental limiting factors, threats due to land use, development and fragmentation, and management issues related to environmental impact assessment and conservation of native vegetation. The subject will be based around short excursions to examine different vegetation types in the Melbourne region, and a series of special lectures by scientists, managers and consultants from both the government and private sectors. Topics will include:</p>",
+        "<ul><li>ecology and natural history of Victorian plant communities;</li><li>environmental impacts and vegetation assessment;</li><li>conservation and management issues (e.g. revegetation, rare species, fauna habitat, weed invasions);</li><li>biodiversity legislation and government agencies;</li><li>consulting services and client focus.</li></ul>"
+    ],
+    "ilo": [
+        "Understand the legislative requirements and governmental structure for managing native vegetation in Victoria;",
+        "Apply recognised techniques to the assessment of the structure, composition and significance of Victorian native plant communities;",
+        "Create vegetation assessments, a map, and develop a management plan combining field observation, expert opinion, and scientific literature;",
+        "Evaluate empirical support for common vegetation management models and actions."
+    ],
+    "generic_skills": [
+        "\u2022\tRecognize the need for information; effectively search for, evaluate, manage and apply that information in support of scientific investigation or scholarly debate",
+        "\u2022\tEmploy highly developed conceptual, analytical, quantitative and technical skills and are adept with a range of technologies",
+        "\u2022\tEvaluate the role of science, mathematics, technology, and engineering in addressing current issues facing local and global communities, for example climate change, land use change",
+        "\u2022\tWork effectively in groups to meet a shared goal with people whose disciplinary and cultural backgrounds differ from their own",
+        "\u2022\tCommunicate clearly and convincingly about science and technology ideas, practice and future contributions to expert and non-expert audiences, matching the mode of communication to their audience"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "at least 50 points of which are from subjects from a Science degree"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBOTA20001Green Planet: Plants and the EnvironmentSemester 1 (On Campus - Parkville)12.5BOTA20002Plant BiodiversitySemester 2 (On Campus - Parkville)12.5BOTA20004Flora of VictoriaSummer Term (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BOTA20001",
+                        "Name": "Green Planet: Plants and the Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BOTA20002",
+                        "Name": "Plant Biodiversity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BOTA20004",
+                        "Name": "Flora of Victoria",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Basic ecology:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECOL20003EcologySemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in practical work and fieldwork activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written report on practical work",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written report on practical work",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written report on practical work",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Take home exam",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must punctually attend, and satisfactorily participate in, at least 80% of offsite practicals.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Peter Vesk",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "pvesk@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>This subject studies topological spaces and continuous maps between them. It demonstrates the power of topological methods in dealing with problems involving shape and position of objects and continuous mappings, and shows how topology can be applied to many areas, including geometry, analysis, group theory and physics. The aim is to reduce questions in topology to problems in algebra by introducing algebraic invariants associated to spaces and continuous maps. Important classes of spaces studied are manifolds (locally Euclidean spaces) and CW complexes (built by gluing together cells of various dimensions). Topics include: homotopy of maps and homotopy equivalence of spaces, homotopy groups of spaces, the fundamental group, covering spaces; homology theory, including singular homology theory, the axiomatic approach of Eilenberg and Steenrod, and cellular homology.</p>"
+    ],
+    "ilo": [
+        "an understanding of the concepts of homotopy and homotopy equivalence of topological spaces;",
+        "an understanding of the fundamental group, homology groups, and covering spaces;",
+        "the ability to calculate fundamental groups and homology of spaces;",
+        "the ability to solve problems involving topological spaces and continuous maps by converting them into problems in algebra;",
+        "the ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30005",
+                        "Name": "Algebra",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30026",
+                        "Name": "Metric and Hilbert Spaces",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 60 pages of assignments (three assignments worth 20% each, due early, mid and late in semester)",
+            "bullets": [
+                "60 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "dcrowley@unimelb.edu.au"
+        }
+    ]
+}

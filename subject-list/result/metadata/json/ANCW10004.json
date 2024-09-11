@@ -1,0 +1,78 @@
+{
+    "overview": [
+        "<p>This subject is an introduction to the grammar and reading of Syriac. It covers grammatical concepts and paradigms, sentence formation and translation and reading simple texts. Background information on the cultural context in which Syriac was spoken is woven into the subject matter. The aim is for students to acquire the elements of the grammar, syntax and vocabulary of Syriac, and attain reading skills sufficient to begin reading literary and dramatic texts.</p>"
+    ],
+    "ilo": [
+        "Be familiar with the elements of the grammar, syntax and vocabulary of Syriac and have attained reading skills sufficient to begin reading simpler literary texts",
+        "Have discovered the importance of reading ancient texts in the original languages for the study of history and the ancient world in general."
+    ],
+    "generic_skills": [
+        "Be skilled in critical thinking and analysis",
+        "Possess effective written communication skills",
+        "Have an understanding of social, ethical and cultural context."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANCW20018",
+                        "Name": "Intensive Syriac Aramaic",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANCW30020",
+                        "Name": "Intensive Syriac Aramaic",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Exercises",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the Summer semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Februrary 26th 2016",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the audiological evaluation and management of adult patients. In particular, this subject covers history taking; clinical examination including otoscopy; the theory and practice of diagnostic audiological techniques including pure tone air and bone conduction audiometry, masking techniques, speech audiometry, tympanometry and acoustic reflex testing; infection control procedures; professionalism and clinical communication skills.</p>"
+    ],
+    "ilo": [
+        "Demonstrate developing clinical examination skills, incorporating clinical history taking and appropriate use of diagnostic tools;",
+        "Develop clinical reasoning skills for the interpretation and integration of test results; and",
+        "Recognise the role of professionalism and communication skills in a clinical environment."
+    ],
+    "generic_skills": [
+        "At the completion of this subject, students should be able to demonstrate:\n\n\u2022 critical thinking, analytical and problem solving skills\n\n\u2022 the ability to integrate theory and practice and to apply this in novel situations\n\n\u2022 an openness to new ideas\n\n\u2022 planning and time management skills\n\n\u2022 the ability to communicate their knowledge in both oral and written form\n\n\u2022 the ability to behave in a professionally appropriate manner"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT90004",
+                        "Name": "Anatomy and Physiology for Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90016",
+                        "Name": "Pathologies of the Auditory System",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90049",
+                        "Name": "Principles of Hearing Rehabilitation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90050",
+                        "Name": "Acoustics and Perception of Speech",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90051",
+                        "Name": "Principles of Paediatric Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four equally weighted 7-minute online MCQ tests",
+            "bullets": [
+                "28 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 2,6,8 & 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A two hour written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A clinical skills assessment by OSCE",
+            "bullets": [
+                "30 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Satisfactory participation and attendance (>90% attendance rate in scheduled placements) throughout the semester.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": null
+        }
+    ]
+}

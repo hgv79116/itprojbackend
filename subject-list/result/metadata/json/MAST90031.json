@@ -1,0 +1,80 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">The subject is about the use of generating functions for enumeration of combinatorial structures, including partitions of numbers, partitions of sets, permutations with restricted cycle structure, connected graphs, and other types of graph. The subject covers the solution of recurrence relations, methods of asymptotic enumeration, and some applications in statistical mechanics. The methods covered have widespread applicability, including in areas of pure and applied mathematics and computer science.</p>"
+    ],
+    "ilo": [
+        "Learned about the use of generating functions for enumeration of combinatorial structures, including partitions of numbers and of sets, permutations with restricted cycle structure, connected graphs and other types of graph;",
+        "Studied the solution of recurrence relations; methods of asymptotic enumeration;",
+        "Considered some applications in statistical mechanics; and",
+        "The ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "Problem-solving skills including the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills through the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis; and",
+        "Time management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 40 hours of assignments (two assignments worth 20% each, due mid and late in semester)",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "nrbeaton@unimelb.edu.au"
+        }
+    ]
+}

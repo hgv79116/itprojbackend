@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>This subject focuses on a range of strategic performance management control system issues including performance measurement, incentives, reward systems and risk; profit analysis; planning and budgeting; and, strategic investments. These issues are explored in a number of different organisational settings and relationships.</p>"
+    ],
+    "ilo": [
+        "Explain the role performance measurement and control systems play in planning and controlling organisational activities;",
+        "Identify the elements that constitute effective performance measurement and control systems;",
+        "Describe the behavioural implications of different types of performance measurement and control systems in different organisational contexts;",
+        "Explain the notion of \u2018responsibility accounting\u2019;",
+        "Analyse the link between organisational structure, and planning and control systems;",
+        "Analyse and review performance within an organisation;",
+        "Identify potential problems with the use of traditional performance measurement systems;",
+        "Describe the current performance measurement trends in, and their suitability to, organisations; and",
+        "Explain how rewards are used to influence behaviour."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Moderate level of development: oral communication; collaborative learning; team work.",
+        "Some level of development: use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT20001",
+                        "Name": "Cost Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester Test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group assignment (groups of 1-5 students)",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Albie Brooks",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 90-minute lecture and one 90-minute tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "albieb@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Patrick Ferguson",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 90-minute lecture and one 90-minute tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "pfer@unimelb.edu.au"
+        }
+    ]
+}

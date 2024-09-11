@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>This subject builds on the principles of immunology acquired by students in the pre-requisite subject MIIM30002 and provides a more detailed study of specific aspects of immunology. These include clinical and emerging areas in immunology such as: immune mechanisms that protect against pathogens and the implications for vaccine development and global health; immune system control and the diseases that may arise when that control is compromised; applications of immunology in organ transplantation; and immunotherapies to treat diseases of the immune system and cancers.</p>",
+        "<p>This subject is delivered by specialist research-based and clinical immunologists, who are experts in these areas of immunology. They will discuss the experimental basis of our knowledge of immunology, how laboratory-based research has been translated into clinical practice, and future directions for immunology research and clinical application.</p>"
+    ],
+    "ilo": [
+        "Describe the mechanisms by which various components of the immune system act in concert to provide protection against various infectious agents and cancer.",
+        "Discuss how these responses can be harnessed to develop vaccines and the role of vaccination in global health.",
+        "Describe the aetiology, pathogenesis and treatment of adverse immune responses occurring as a result of immune system dysregulation, such as occurs in autoimmune diseases.",
+        "Explain how immunotherapy modulates immune function leading to improved outcomes for immune disease and cancer patients, and understand the risk of unwanted effects.",
+        "Explain the immunological challenges of organ transplantation and how they are addressed.",
+        "Interpret experimental evidence that supports exemplar immunological concepts.",
+        "Integrate knowledge acquired throughout the subject and apply it to novel scenarios.",
+        "Relate laboratory-based experimental results to translated clinical applications."
+    ],
+    "generic_skills": [
+        "the ability to interpret scientific literature and interpret data from electronic databases.",
+        "the capacity to integrate knowledge across disciplines.",
+        "the ability to comprehend a question, evaluate the relevant information and communicate an answer"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMIIM30002Principles of ImmunologySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MIIM30002",
+                        "Name": "Principles of Immunology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who have obtained 40% \u2013 49% for MIIM30002 Principles of Immunology are advised to discuss the possibility of being accepted into this subject with the subject coordinators."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 X written examinations held at around Week 5 and Week 10 of semester (2 X 20%).",
+            "bullets": [
+                "45 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sammy Bedoui",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three 1-hour lectures per week. Six 1-hour tutorials (approximately fortnightly)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

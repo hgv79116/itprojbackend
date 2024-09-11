@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>This subject focuses on understanding the main agronomic factors affecting Australian agriculture in the endeavour for efficient and sustainable farming systems. It builds on students\u2019 knowledge of crop production with a particular emphasis placed on the management of and interaction between fertilisers, water, pests and weeds. The subject begins with a general introduction on the application of principles of agronomy for guiding the formulation of decisions made by producers, their interpretation and the impacts they may have. Students will interpret and analyse soil, crop and system information with a view to predicting fertiliser requirements and designing other management strategies for common agronomic scenarios and problems. Students will critically evaluate the impacts agronomic decisions have on the production and quality of crops and wider cropping systems.</p>"
+    ],
+    "ilo": [
+        "Demonstrate advanced knowledge of Australian agricultural systems, crop production and soil-plant interactions",
+        "Critically evaluate the strengths, limits and practical realities of agronomic practices and decisions in the endeavour for efficient and sustainable farming systems",
+        "Demonstrate understanding of the role of fertilisers and their management",
+        "Interpret and analyse soil, crop and system information with a view to predicting fertiliser requirements and designing other management strategies for common agronomic scenarios and problems",
+        "Understand the importance of experiment design, sample collection and analysis protocols of field studies for obtaining meaningful data to inform agronomic decisions",
+        "Utilise agricultural decision support tool(s) and discuss the principles, benefits and limitations of their use"
+    ],
+    "generic_skills": [
+        "Respect for truth, intellectual and professional integrity",
+        "The capacity for independent critical thought, rational inquiry and self-directed learning and research",
+        "An ability to derive, interpret and analyse technical information from primary and other sources",
+        "An ability to integrate information to solve problems in applied situations",
+        "The ability to plan work, use time effectively and manage small projects",
+        "Capability to work effectively as part of a team"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20035",
+                        "Name": "Applied Crop Production and Horticulture",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20037",
+                        "Name": "Crop Production and Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical report",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Practical report",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-Semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": "James Hunt",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "10 x 2 hour lectures\n\n6 X 2 hour tutorials\n\n4 x 3 hour workshops\n\n2 field trips ( 1 x 8 hr and 1 x 4 hr)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "james.hunt@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": "James Hunt",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "10 x 2 hour lectures\n\n6 X 2 hour tutorials\n\n4 x 3 hour workshops\n\n2 field trips ( 1 x 8 hr and 1 x 4 hr)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "james.hunt@unimelb.edu.au"
+        }
+    ]
+}

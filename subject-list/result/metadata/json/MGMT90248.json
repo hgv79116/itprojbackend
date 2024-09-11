@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>This subject will broaden students\u2019 understanding of the variety of ways analytics is being used in society and the range of challenges that are associated with its use. It will also introduce students to how analytics may be used to support and drive social and organizational change.</p>",
+        "<p>Students will study the different stakeholders who engage in analytics projects, at both individual and group level, identifying the variation that occurs in their perspectives and its consequences for analytics use. Students will also examine the role that analytics plays in organisations and society, as a tool for evidence-based decision making and the evaluation of policies and their impact. </p>",
+        "<p>Students will examine professional codes of conduct for the use of analytics, in regard to ethical issues and ways to achieve an appropriate balance between privacy and utility.</p>",
+        "<p>Students will also investigate the motivations and ways that analytics is used by organisations to implement change, methods for measuring its impact and potential barriers for successful analytics deployment and service delivery.</p>"
+    ],
+    "ilo": [
+        "appraise, prioritise and clearly communicate strategic and operational issues related to the application of analytics in organisations and society",
+        "categorise risks related to the impact of analytics and suggest remedies to mitigate in accordance with relevant professional standards",
+        "recommend an approach for deploying and disseminating the findings from an analytics solution that will minimise resistance from various stakeholders to potential organisational changes."
+    ],
+    "generic_skills": [
+        "high level written communication skills",
+        "data analysis and interpretation skills",
+        "competence in critical and conceptual thinking through report writing and online discussions."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90130",
+                        "Name": "Critical Thinking with Analytics",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Code of Conduct, poster and written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Case scenario critical reflection",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Contribution to Online Discussions throughout term (20min/week for 8 weeks)",
+            "bullets": [
+                "160 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Case Analysis Report",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "4 hours per week (for a term of 8 weeks), including online lectures, resources and interactions",
+            "total_time_commitment": "160 hours",
+            "teaching_period": "29 April 2024 to 23 June 2024",
+            "last_self_enrol_date": "23 April 2024",
+            "census_date": "17 May 2024",
+            "last_date_to_withdraw_without_fail": "7 June 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-analytics"
+        },
+        {
+            "semester": "Term 4 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "4 hours per week (for a term of 8 weeks), including online lectures, resources and interactions",
+            "total_time_commitment": "160 hours",
+            "teaching_period": "14 October 2024 to  8 December 2024",
+            "last_self_enrol_date": "8 October 2024",
+            "census_date": "1 November 2024",
+            "last_date_to_withdraw_without_fail": "22 November 2024",
+            "assessment_period_ends": "15 December 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-analytics"
+        }
+    ]
+}

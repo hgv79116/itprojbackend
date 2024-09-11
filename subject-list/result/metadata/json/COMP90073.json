@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>As we become more dependent on data in every aspect of our lives the task of protecting it and applications dependant on it becomes harder. The sheer quantity of data and sophistication of the attacks is rapidly making manual analysis infeasible. Security Analytics will examine how we can protect data and automate the analysis of data to better detect, predict and prevent privacy and security vulnerabilities. </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>"
+    ],
+    "ilo": [
+        "Evaluate the suitability of different types ofmonitoring data for detecting security incidents",
+        "Describe and implement a range of pattern recognition and machine learning algorithms for use in security analytics",
+        "Select algorithms appropriate to a given security analysis task",
+        "Apply pattern recognition and machine learning techniques to non\u2010trivial security analysis tasks",
+        "Evaluate computational techniques for security analytics to solve real\u2010world problems, based on their accuracy and efficiency",
+        "Discuss theoretical challenges and emerging trends for security analytics research"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to complex problems",
+        "Capacity for creativity and innovation",
+        "Ability to communicate the results of complex analysis effectively to both technical audiences and the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP30018Knowledge TechnologiesNo longer availableCOMP30027Machine LearningSemester 1 (On Campus - Parkville)12.5COMP90049Introduction to Machine LearningSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30018",
+                        "Name": "Knowledge Technologies",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "COMP30027",
+                        "Name": "Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90049",
+                        "Name": "Introduction to Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The Master of Information Technology requires all students to enrol in subjects where they will require:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "The ability to comprehend complex theory and technology-related information",
+                    "The ability to clearly and independently communicate a knowledge and application of theory, and technology principles and practices during assessment tasks",
+                    "The ability to actively and safely contribute in IT development and management activities"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students must possess behavioural and social attributes that enable them to participate in a complex learning environment. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students."
+            },
+            {
+                "type": "paragraph",
+                "content": "There may be additional inherent academic requirements for some subjects, and these requirements are listed within the description of the requirements for each of these subjects."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who feel their disability will impact on meeting this requirement are encouraged to discuss this matter with the relevant Subject Coordinator and the Disability Liaison Unit:http://www.services.unimelb.edu.au/disability/"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Programing and research-based project",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": "A combined mark of at least 20/40 for both the projects.",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Programing and research-based project",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": "A combined mark of at least 20/40 for the projects.",
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One 2 hour end of semester written examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "You must obtain 50% in the exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sarah Monazam Erfani",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of  two 1 hour lectures and 1 tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "sarah.erfani@unimelb.edu.au"
+        }
+    ]
+}

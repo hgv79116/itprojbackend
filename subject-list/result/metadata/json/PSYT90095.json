@@ -1,0 +1,74 @@
+{
+    "overview": [
+        "<p>This subject extends the knowledge and skills developed in the prerequisite Mental Health and Ageing course. Management of mental health in older persons is explored from a range of biomedical and social perspectives. Topics include optimising mental health during ageing, preventing and managing common mental health disorders in older age, current models of mental health care and challenges for the future. Pharmacological, psychotherapeutic and environmental interventions are considered. Population health strategies and mental health promotion to support and ageing worldwide population are explored.</p>"
+    ],
+    "ilo": [
+        "Demonstrate and informed understanding of evidence based management strategies for the common mental health disorders, including biological, psychological, sociocultural and environmental interventions, and appropriate tools to monitor intervention effectiveness;",
+        "Demonstrate an understanding of the role of carers in management of mental health problems in later life and identify assessment and support strategies for carers;",
+        "Identify and discuss competing models of mental health care for older persons, including benefits and risks for individuals, carers and the community;",
+        "Critically discuss, assess and develop strategies to support late life mental health in a growing ageing worldwide population, including benefits and risks, short-term and long-term consequences."
+    ],
+    "generic_skills": [
+        "High-level written communication skills;",
+        "Advanced research skills;",
+        "Advanced analytic, integration and problem-solving skills;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYT90092",
+                        "Name": "Mental Health and Ageing",
+                        "Teaching period": "Term 4 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to online discussions, weekly.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Three on-line quizzes, each worth 5%, approx 3 weekly intervals or equivalent",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1,500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Critical essay",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

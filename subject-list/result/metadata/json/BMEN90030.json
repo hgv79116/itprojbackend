@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>BioDesign Innovation is a \u201creal world\u201d course in creating successful medical devices. The course is given over two semesters of one academic year and is composed of frontal lectures, practical training, and a guided project. The first semester focusses on identifying clinical needs, brainstorming and concept creation. The second semester focusses on concept development and business implementation. Teams of 2-3 students from engineering disciplines will team up with business students and with people from medical and law backgrounds to conceive and design an innovative medical device, taking it through all steps of development. The students in the teams will complete assessment items together, each member primarily contributing according to their specialisation. The teams will create an engineering prototype of their invention, draft a provisional patent application, and compose a detailed business plan. BioDesign Innovation is taught by a combination of academics, medical device entrepreneurs, corporate executives, intellectual property attorneys and venture capitalists. As such, it provides a unique opportunity to gain real world experience while still in an academic environment.</p>"
+    ],
+    "ilo": [
+        "Work as part of an interdisciplinary team to complete a technical project",
+        "Search, analyse and document clinical practice, engineering science and relevant literature in order to determine the need for further research and development in a chosen clinical area",
+        "Devise a methodology of investigation to research and apply established theories to an interdisciplinary body of knowledge and practice",
+        "Collect and analyse a range of data (both qualitative and quantitative) to analyse critically, reflect on and synthesise complex information, problems, concepts and theories in a chosen topic",
+        "Build a device or write software that helps to technologically address a clinical need",
+        "Develop a business plan, including market overview, regulation and reimbursement strategies and intellectual property (IP) strategies",
+        "Write a project report that follows good engineering science practice",
+        "Present oral presentations of the findings of the investigation to an specialist and non-specialist audiences."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution.",
+        "Ability to utilise a systems approach to design and operational performance.",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member.",
+        "Understanding of the principles of sustainable design and development.",
+        "Understanding of the principles of research and development.",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning.",
+        "Openness to new ideas and unconventional critiques of received wisdom."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "null Master of Biomedical Engineering",
+                    "Biochemical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Biomedical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Biomedical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Mechanical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Structural specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "A minimum of four oflevel 9 Engineering subjects completed."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students are required to have achieved a H2B average or better in their course."
+            },
+            {
+                "type": "paragraph",
+                "content": "Enrolment in this subject requires approval of the subject coordinator. Students will be notified by the subject coordinator of the application process, which includes IP considerations, for this subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One team-based written assignment on a clinical need of approximately 2000 words per student. ILOs 1,2,3,4,7 are assessed in this written assignment.",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in week 7 of first semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One team-based written assignment on the medical device of approximately 2000 words per student. ILOs 1,2,3,4,7 are assessed in this written assignment. Due in week 12 of first semester",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in week 12 of first semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One team-based oral presentation comprising 15 minutes per student. This presentation should provide a detailed description from the team of a clinical problem, a broad market review, an engineering concept of 3-4 solutions, regulation and reimbursement strategies, and IP challenges. ILOs 1,2,3,4,6,8 are assessed in this presentation.",
+            "bullets": [
+                "100 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in week 1 of second semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A technical oral examination of no more than 30 minutes duration per student. Technical oral examination includes a formal presentation of 15 minutes per student followed by questions from an academic supervisor and academic examiner. ILOs 1,2,3,4,5,6,8 are assessed in this examination.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due in weeks 10-11 of second semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A lay person oral examination of no more than 15 minutes duration, supported by static display materials (e.g. poster, computer demonstration, prototype). ILOs 1,2,3,4,5,6,7,8 are assessed in this examination.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due in weeks 11-12 of second semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A professional research report of 5,000 words per student, excluding appendices or supporting material that can include diagrams, tables, computations and computer code/output. ILOs 1,2,3,4,5,6,7 are assessed in this report.",
+            "bullets": [
+                "200 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in week 12 of second semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "David Grayden",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours",
+            "total_time_commitment": "800 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Professor David Grayden",
+            "contact_email": "grayden@unimelb.edu.au"
+        }
+    ]
+}

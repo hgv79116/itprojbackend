@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>For long term sustainability, a company must focus on its Triple Bottom Line (Financial performance, Environmental performance and Sociological performance). This subject will cover the key parameters needed to manage performance in each of these areas for both new projects and redevelopments.<br/><br/>This is the key chemical engineering economics subject which introduces students to process plant economics. It is a key subject that is required to be mastered before the capstone Design Project can be attempted.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject will include the following topics:</p>",
+        "<ul><li>Project Management: The stages of a project; how to conduct a feasibility study; team building; communication; network analysis</li><li>Financial performance: Revenue, capital and operating cost forecasting; simple accounting; profitability analysis and applications</li><li>Environmental performance: Sustainable development; global warming &amp; emission control; water management</li><li>Sociological performance: Safety Management; ethics; intellectual property etc.</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Analyse and evaluate competing economic, environmental and social impacts criteria in generating feasibility studies for new projects and re-developments",
+        "Demonstrate an ability to utilise contemporary project management skills when undertaking large projects",
+        "Defend decisions made relating to safety, ethics and legal requirements made as a practicing engineer"
+    ],
+    "generic_skills": [
+        "Strong reasoning and analytical skills, particularly when presented with complex and unfamiliar problems",
+        "Strong communication skills, both verbal and written forms",
+        "Skills to work as an efficient and effective team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20010",
+                        "Name": "Material and Energy Balances",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEN20011Digitisation in the Process IndustriesSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20011",
+                        "Name": "Digitisation in the Process Industries",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short quizzes and assignments, not exceeding a total of 3000 words plus accompanying tables and calculations. Intended Learning Outcomes (ILOs) 1 to 3 will be assessed in the assignment",
+            "bullets": [
+                "50-55 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A 2-hour closed book exam. ILOs 1 to 3 will be assessed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rebecca McQuillan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Maximum of 4 hours of lectures per week + 1 x 1 hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Rebecca McQuillan",
+            "contact_email": "mcquillan.r@unimelb.edu.au"
+        }
+    ]
+}

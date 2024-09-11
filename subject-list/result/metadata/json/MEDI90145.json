@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p><span>After completion of this subject, students will have the knowledge and skill  to perform and interpret focused clinical ultrasound of commonly encountered conditions of the arterial and venous systems and be able to write a structured report. Students will perform, interpret, write a report and submit a log-book of 15 ultrasound studies and ultrasound-guided cannulation of peripheral and/or central arteries and veins on patients and/or simulators and interpret and report an additional 10 on-line ultrasound studies. </span></p>"
+    ],
+    "ilo": [
+        "Comprehensively understand the indications, uses and limitations of focused clinical ultrasound in assessment of the vascular assessment including arterial aneurysm, stenosis and deep venous thrombosis.",
+        "Perform ultrasound to diagnose commonly occurring pathology of the carotid artery, abdominal aorta, the arteries of the upper and lower limb and the lower limb veins and write a structured ultrasound report on patients and/or simulators",
+        "Perform ultrasound-guided cannulation of peripheral and/or central arteries and veins",
+        "Evaluate the requirements for training, competence and certification of vascular diagnostic and procedural ultrasound"
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Improved procedural skills for students who select a practical subject",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90129",
+                        "Name": "Clinical Ultrasound - Core Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to perform and interpret clinical ultrasound. A  student is expected to demonstrate: Sufficient visual acuity to perform the required range of skills, including reading ultrasound monitors across a bed and interpreting ultrasound images on standard commercially available ultrasound machines."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills"
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills are required in performing clinical ultrasound. A student is expected to demonstrate adequate gross and fine motor skills to perform focused ultrasound whilst avoiding injury to patients, colleagues and self."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple-choice questions following each tutorial (25 MCQ)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Interpretation of 10 online case studies assessed by structured MCQ pertaining to each case (50 MCQ)",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Two ultrasound examinations",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Complete a logbook of 15 focused ultrasound studies and 5 ultrasound-guided procedures on either patients or simulators",
+            "bullets": null,
+            "hurdle": "Students must submit a completed logbook of 15 focused ultrasound studies and 5 ultrasound-guided procedures on either patients or simulators to pass this subject",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Open-book examination of 25 MCQ. Equivalent to a total 35-40 minutes and 625 words assessment",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

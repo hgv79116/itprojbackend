@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>The Honours program in the Department of Pathology provides an introduction to the challenging area of investigation of disease processes at the cellular and molecular level. In this subject, advanced scientific lectures will be provided by experienced researchers discussing current scientific methods and their application to the study of pathological diseases. These lectures provide a foundation for critical analysis tasks which are consolidated during tutorials which assist students in reading and understanding scientific research articles. Students will be taught key learning objectives including, the application of scientific methods, how to write manuscript titles and abstracts, and in the art of critical analysis of scientific papers. The course is composed of 12 lectures and up to 8 tutorials. The lectures and tutorials are held during first semester.</p>"
+    ],
+    "ilo": [
+        "To ensure students develop competent skills in reading and understanding of scientific research articles.",
+        "To acquire skills for the critical analysis of research articles.",
+        "To appreciate the importance of constructing a title and composing an abstract that conveys the significance of the research problem.",
+        "To be able to identify the purpose of a research article by determining the proposed hypothesis or aims.",
+        "To appreciate the technical basis of the proposed research and determine whether the appropriate methods were used to address the aims.",
+        "To appreciate the need for good experimental design, the appropriate use of controls and standards, the clear presentation of data in graphs, tables or images, validation of results through statistical testing and concise description of the experimental results.",
+        "To generate awareness of how a discussion summarises the results relating to the hypothesis and reconciles the results with published literature.",
+        "To become familiar with being able to extrapolate new research ideas from the published research."
+    ],
+    "generic_skills": [
+        "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+        "BH-SCI Bachelor of Science (Degree with Honours)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                    "BH-SCI Bachelor of Science (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PATH40001",
+                        "Name": "Pathology Research Project Part 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPATH30004Advanced Investigation of Human DiseaseSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PATH30004",
+                        "Name": "Advanced Investigation of Human Disease",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An oral presentation critically evalulating components of a research paper",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Students are required to perform critical analysis of a research article. This is an open book examination",
+            "bullets": [
+                "4 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Theo Mantamadiotis",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

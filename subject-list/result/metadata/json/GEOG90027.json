@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>Fire is one of the most important controls over the distribution of vegetation on Earth. This subject examines the role of fire in natural systems, with a particular emphasis on the importance of fire in determining global vegetation patterns and dynamics over long periods of time. The aim is to understand how terrestrial systems have evolved to cope with and exploit fire, and to place the extreme flammability of Australia's vegetation within a global context. The subject will examine concepts such as resilience, positive feedback loops, hysteresis and alternative stable states. The use of fire by humans to manipulate environments will be examined, with a particular emphasis on the variety of approaches employed by people across a diversity of environments over long periods of time, allowing an exploration of the social and cultural dynamics of fire and environmental management. A March field excursion in Tasmania will visit a number of sites which will exemplify the subject themes. The practical exercises leading up to the field trip will focus on how to gather fire-related ecological data. The practical exercises following the field trip will be devoted to processing, analysing, interpreting and reporting on the field data. At the end of the subject, students will have gained an understanding of the way in which fire has shaped natural systems, as well as acquiring the skills necessary to formulate and test hypotheses.</p>",
+        "<p>More information about the subject and field trip can be seen at: <a href=\"http://michaelsresearch.wordpress.com/GEOG30025/\">http://michaelsresearch.wordpress.com/GEOG30025/</a></p>",
+        "<p><strong><em>The estimated additional cost of the 7 day field trip to Cradle Mountain, Tasmania, is in the vicinity of $750.</em></strong></p>"
+    ],
+    "ilo": [
+        "An understanding of the causes and consequences of fire in terrestrial systems;",
+        "An understanding of the specific adaptations that plants and animals have evolved to cope with fire;",
+        "An ability to generate and test ecological hypotheses, design in-field ecological experiments and gather data to address specific hypotheses;",
+        "Familiarity with the key literature and current debates on fire-ecology;",
+        "An understanding of how the current global warming debate fits into the longer-term perspective."
+    ],
+    "generic_skills": [
+        "ability to conduct library searches to source the latest relevant literature on key topic areas;",
+        "ability to comprehend some of the current debates in the field;",
+        "software skills, such as Excel and more specialised software, such as ecological ordination software and R;",
+        "basic introduction to plant identification, ecological data acquisition and analysis;",
+        "field skills, especially an ability to design and execute controlled field experiments;",
+        "data interpretation skills, informed by the relevant literature;",
+        "group field and research activities."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOG30025",
+                        "Name": "Biogeography and Ecology of Fire",
+                        "Teaching period": "January (Off Campus)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four online reading assignments due during last two weeks of February",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Early term",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Field Journal due at end of the field trip",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Early term",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Individual report based on the analysis of field data due at the end of February",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Early term",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Group presentation due in the last week of February",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Early term",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Attendance at laboratory sessions (students must attend a minimum of 90% of these sessions)",
+            "bullets": [
+                "12 hours"
+            ],
+            "hurdle": "Attendance at laboratory sessions is required for students to gather sufficient data for their final Field Report ",
+            "timing": "Early term",
+            "percentage": "0%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January - Off Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "19 January 2024 to 13 February 2024",
+            "last_self_enrol_date": "23 November 2023",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "16 February 2024",
+            "assessment_period_ends": "9 March 2024",
+            "contact_name": null,
+            "contact_email": "michael.fletcher@unimelb.edu.au"
+        }
+    ]
+}

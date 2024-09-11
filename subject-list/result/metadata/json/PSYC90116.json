@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p>This subject provides students with further opportunities to put into practice the knowledge and skills acquired in earlier subjects in this course and extends their practical experience gained through Professional Psychology Placement 1. Students will be given further opportunity to engage with simulated client interactions and role-plays, and they will also be given the opportunity to practice their skills with patients in a variety of clinical contexts under the supervision of a registered psychologist. They will also receive training in the delivery of psychology services via telehealth modalities. To complete the subject students will investigate an individual research question relevant to professional practice and submit a written report of a case study including assessment, formulation, literature review, tailored intervention, and outcome monitoring.</p>"
+    ],
+    "ilo": [
+        "Recognise the clinical features of mental health disorders, problem-oriented interviewing and communication, formal clinical examination, diagnostic formulation, and case presentation;",
+        "Identify the principles underlying the delivery of psychology services via telehealth modalities;",
+        "Demonstrate knowledge of research principles and methods applicable to the study of professional psychology."
+    ],
+    "generic_skills": [
+        "Work collaboratively with others,",
+        "Confront and manage unfamiliar problems,",
+        "Value different cultures, and",
+        "Develop a high regard for human rights, ethics and equity,",
+        "Develop effective interpersonal and communication skills,",
+        "Link theory to practice"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90006",
+                        "Name": "Basic Interventions",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90007",
+                        "Name": "Cognitive-Behaviour Therapy",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90011",
+                        "Name": "Introduction to Assessment and Diagnosis",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90031",
+                        "Name": "Adult Psychopathology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90114",
+                        "Name": "Professional Psychology Skills 2",
+                        "Teaching period": "January (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "PSYC90115",
+                        "Name": "Professional Psychology Placement 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written report- addressing aspects of telehealth delivery of psychological services",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "For the purposes of meeting this hurdle requirement, the assessment must be complete and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Completion of simulated and actual patient case work - assessment, diagnosis and intervention planning (Pass/fail)",
+            "bullets": [
+                "220 hours"
+            ],
+            "hurdle": "For the purposes of meeting this hurdle requirement, the assessment must be complete and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "Throughout the semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Written report of an independent single case study relevant to professional practice including assessment, case formulation, literature review, tailored intervention, and outcome monitoring",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": "For the purposes of meeting this hurdle requirement, the assessment must be complete and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "End of semester",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Lisa Catania",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Principal Supervisor: Lisa Catania",
+            "contact_email": "lisa.catania@unimelb.edu.au"
+        }
+    ]
+}

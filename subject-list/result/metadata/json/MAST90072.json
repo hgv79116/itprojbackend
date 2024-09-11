@@ -1,0 +1,74 @@
+{
+    "overview": [
+        "<p>The basis for decision making in biotechnology is often the analysis of data. In order for these decisions to be reliable data must be correctly collected and analysed. To control costs data should be efficiently collected and it needs to be properly stored and managed. The interpretation of an analysis requires some knowledge of basic statistical ideas and techniques and the results will often be communicated to a non-specialist audience who will make decisions based on the presentation. Alternatively decisions may be made from the analyses and interpretations of others. This subject examines the whole process of data collection, analysis and decision making.</p>",
+        "<p>This subject is a core subject for Master of Biotechnology (MC-SCIBIT) and examples and curriculum are designed for MC-SCIBIT students.</p>"
+    ],
+    "ilo": [
+        "Apply statistical techniques from experimental design and data collection to present a report to a possibly non-specialist audience;",
+        "Recognise and apply different statistical techniques used in biotechnology;",
+        "Identify statistical processes and associated resources required to effectively manage projects;",
+        "Demonstrate competence in using major statistical computing package."
+    ],
+    "generic_skills": [
+        "problem-solving skills (especially through tutorial exercises and assignments) including engaging with unfamiliar problems and identifying relevant strategies;",
+        "analytical skills including the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of the analysis;",
+        "the ability to work in a team, through interactions with other students."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 written assignments of approximately 500 words each. Due early, mid and late semester",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Project Report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Wei Huang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours comprising two 1-hour lectures per week and one 1-hour computer laboratory.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "wei.huang@unimelb.edu.au"
+        }
+    ]
+}

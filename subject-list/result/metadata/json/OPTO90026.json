@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>Note: This subject is only available to students enrolled in the Doctor of Optometry.</p>",
+        "<p>In this subject, students will continue to integrate their knowledge of clinical vision sciences into an understanding of the diagnosis and management of ocular and visual system disease and will refine their clinical diagnostic skills. They will complete study in the areas of anterior and posterior eye disease, contact lenses, paediatrics, neurological disorders and low vision. Students will also study professional practice, including the role of optometry in the health care system and the community, the role of government and professional bodies, visual standards, communication, and ethical and cultural considerations in optometry. Throughout this subject, students will be required to demonstrate a high standard in clinical techniques and their capacity to apply these methods to the examination and management of patients. Additionally, students will work in small groups and as individuals to explore the evidence-based management of clinical cases. </p>"
+    ],
+    "ilo": [
+        "describe the mechanisms and associated manifestations of ocular and visual system diseases and disorders, and apply this knowledge to patient care;",
+        "competently construct and conduct a complete and targeted clinical examination;",
+        "develop and justify an appropriate management plan use evidence-based practice, considering the best available research evidence, clinical expertise, the individual patient and the practice context;",
+        "demonstrate interpersonal and communication skills, both written and oral, to establish and maintain professional relationships with patients, professional colleagues and the general public;",
+        "describe the moral, ethical and legal responsibilities of professional conduct, and apply them in clinical practice;",
+        "articulate the role of optometry in the health care system and the community, including eye safety and vision standards;",
+        "demonstrate culturally safe approaches, informed by critical reflection, to build trust and relationships with patients from diverse backgrounds (including Aboriginal and Torres Strait Islander peoples);",
+        "explain and apply the safe and effective use of therapeutic medications; and",
+        "manage patients in a broad range of sub-areas, including: anterior and posterior eye disease, binocular vision, contact lenses, paediatrics, low vision and neurological disorders."
+    ],
+    "generic_skills": [
+        "apply critical thinking and problem-solving skills to new problems;",
+        "communicate clearly in written and oral forms;",
+        "integrate knowledge from different domains;",
+        "work as part of a team to address a common goal;",
+        "appreciate the design, conduct and reporting of original research;",
+        "manage competing demands on time, including self-directed project work;",
+        "show a respect for truth   and intellectual integrity, and for the ethics of scholarship;",
+        "value the collection and recording of accurate and complete data;",
+        "keep up to date and critically evaluate the latest innovations;",
+        "treat people with dignity, integrity, respect and compassion;",
+        "reflect upon and identify deficiencies in their knowledge and develop strategies to address those deficiencies.",
+        "accept responsibility for one's actions; and"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "OPTO90023",
+                        "Name": "Applied Clinical Training",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "75"
+                    },
+                    {
+                        "Code": "OPTO90025",
+                        "Name": "Research Studies in Vision and Optometry",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two 3-hour written examinations",
+            "bullets": [
+                "6 hours"
+            ],
+            "hurdle": null,
+            "timing": "Semester 1 examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Two 3-hour written examinations",
+            "bullets": [
+                "6 hours"
+            ],
+            "hurdle": null,
+            "timing": "Semester 2 examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Clinical performance",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Satisfactory performance in competency assessments, typically stream-specific written examinations, clinical proficiency examinations and oral/written case reports.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance at preclinical duties and clinical placements.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Anthea Cochrane",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Sem 1: Six hours of lectures per week; Twelve hours of clinical work per week; Four hours of tutorials/seminars per week; Four hours per week of reflective analysis and computer-assisted learning/assessment. Sem 2: Five hours of lectures per week; Twelve hours of clinical work per week; Four hours of tutorials/seminars per week; Four hours per week of reflective analysis and computer-assisted learning/assessment; plus attendance at the Doctor of Optometry Student Conference",
+            "total_time_commitment": "1,560 hours",
+            "teaching_period": "1 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "antheac@unimelb.edu.au"
+        }
+    ]
+}

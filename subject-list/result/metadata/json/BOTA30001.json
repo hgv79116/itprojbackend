@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>(An enrolment quota of 30 students applies to this subject)</p>",
+        "<p>This subject will introduce students to the biology of marine and estuarine plants (seaweeds, seagrasses and phytoplankton). Fieldwork focuses on the identification, diversity and ecology of Australia's unique marine flora. Topics to be covered include:</p>",
+        "<ul><li>biodiversity and evolution</li><li>structure, life history and classification</li><li>distribution and ecology</li><li>human impacts and commercial uses</li><li>gain, spread and loss of photosynthesis in protists</li><li>role of phytoplankton in the marine environment</li></ul>"
+    ],
+    "ilo": [
+        "Describe and explain the biology, diversity and evolution of Australian marine plants and protists; the unique nature of the Australian seaweed flora; the role of algae in marine ecosystems; the diverse cell biology of marine protists; and current themes in algal research;",
+        "Demonstrate practical skills in identifying common seaweeds and marine protists, and in processing, preserving and culturing marine plants and plankton;",
+        "Exercise independent critical thought and rational enquiry;",
+        "Analyse and evaluate technical literature;",
+        "Operate as part of a team to perform scientific tasks and interpret scientific data."
+    ],
+    "generic_skills": [
+        "Independent critical thought and rational enquiry;",
+        "Reading and interpreting technical literature;",
+        "Working as a team to perform scientific tasks."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "25 credit points in aLevel 1 biology subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "50 credit points in aLevel 2 biological sciences subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EVSC20004",
+                        "Name": "Blue Planet - Intro to Marine Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in practical work, laboratory work, and fieldwork activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One mid-subject test",
+            "bullets": [
+                "200 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid-way through the intensive teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One 15-minute group research project presentation due on the last day of class",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Collection, preservation and identification of 6-10 seaweed specimens",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 1.5-hour laboratory examination, taken ca. 1 week after the intensive teaching period",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "35%"
+        },
+        {
+            "brief": "One 1.5-hr written examination, taken ca. 1 week after the intensive teaching period",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": []
+}

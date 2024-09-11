@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>A series of weekly seminars focussed upon helping individual students to identify key issues in the field of contemporary art practice. The subject continues to develop skills enabling students to locate, contextualise and articulate theories relevant to their own practice and concerns.</p>"
+    ],
+    "ilo": [
+        "critically assess key issues in contemporary art relevant to individual student practice and interests;",
+        "locate and critically analyse key theorists relevant to individual student practice and interests;",
+        "present and explain a critical and creative response to key issues and problems in contemporary art;",
+        "analyse, interpret and evaluate selected works of art and theoretical texts in relation to individual practice;",
+        "evaluate interdependence of theory and practice in contemporary art."
+    ],
+    "generic_skills": [
+        "utilise at an advanced level skills of analysis, interpretation and evaluation in their own critical response to works of art;",
+        "critically test their own and others opinions and assertions about works of art;",
+        "communicate in a clear and persuasive manner, verbally and in writing, their analysis, interpretation and evaluation of works of art."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FINA90006",
+                        "Name": "Perspectives in Art & Cultural Theory 1",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual tutorial presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Presentation paper",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written paper",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend 80% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "24 hours, comprising one 2-hour seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "sean.lowry@unimelb.edu.au"
+        }
+    ]
+}

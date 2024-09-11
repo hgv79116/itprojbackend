@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p>This subject describes the physics of the climate system, and how the system is represented in numerical models.</p>",
+        "<p>Key aspects include:</p>",
+        "<ul><li>Radiation balance and heat balance of the earth</li><li>Carbon dioxide, water vapour and other Greenhouse Gas absorption spectra</li><li>Other key climate drivers including solar variability, aerosols and clouds</li><li>The global carbon cycle and the modelling of other greenhouse gases</li><li>Impacts of climate change including sea level rise and extreme events</li></ul>",
+        "<p>It covers aspects of uncertainty and chaos to understand why climate models are imperfect but invaluable tools. Students will build a simple climate model and run numerical experiments with different greenhouse gases. Existing knowledge in python programming is recommended but can be acquired throughout the course. The subject will also briefly discuss the processes of the United Nations Framework Convention on Climate Change (UNCCC) and Intergovernmental Panel on Climate Change (IPCC). </p>",
+        "<p>The 12 lectures cover the following themes: 1. Introduction; 2. Radiative forcing; 3. Climate feedbacks; 4. Carbon &amp; gas cycles; 5. Oceans &amp; sea level rise; 6. Aerosols &amp; Clouds; 7. Variability and El Nino*; 8. Water Cycle and Extremes; 9. Ensemble &amp; probabilistic projections, D&amp;A; 10. Scenarios, carbon dioxide removal and solar radiation management; 11. Climate Targets, carbon budgets and the Paris Agreement*; 12. Wrap Up</p>",
+        "<p>The lectures are accompanied with weekly exercises that provide students with hands-on conceptual learning, modelling and data analysis experience.</p>"
+    ],
+    "ilo": [
+        "Debate the reality of climate change in both a qualitative and quantitative manner;",
+        "Develop and apply simplified climate models and make projections of future climate change;",
+        "Assess different climate models currently in use, including quantification of uncertainty and its implications for future projections; and",
+        "Critically examine existing literature, its gaps and limitations on various aspects of the climate system."
+    ],
+    "generic_skills": [
+        "Effective communicate with the science community at large and general public;",
+        "Understanding of the process of scientific research with modelling and data challenges and uncertainties;",
+        "Critical thinking about concepts, their nuances and the importance of precise definitions; and",
+        "Understanding of the depth and complexity of key scientific concepts that inform national and international policy making on climate change."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 Assignments (Essay plus programming), in weeks 3, 6, and 9.",
+            "bullets": [
+                "750 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 9",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Weekly Exercises (written task plus programming)",
+            "bullets": [
+                "150 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Malte Meinshausen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "12 weeks: 1 x 3hr seminar (2hr lecture + 1hr practical) per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

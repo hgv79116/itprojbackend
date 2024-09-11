@@ -1,0 +1,159 @@
+{
+    "overview": [
+        "<p>This subject is designed for students who commenced the Ancient Greek stream with some previous knowledge of Ancient Greek (VCE level or equivalent) and have completed both Ancient Greek 3 &amp; 4. Students translate and discuss the interpretation of a selected work of Greek (historiography, drama, or similar). Students will also undertake work in Ancient Greek literary and textual criticism. On completion of this subject students should have consolidated their skills in working with Ancient Greek texts and have discovered some of the many important contributions which reading original texts can make to understanding the ancient world.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Read an Ancient Greek text in the original",
+        "Consolidate their knowledge of grammar and syntax, and extend their vocabulary (including the Ionic dialect)",
+        "Gain knowledge of classical Greek history and culture",
+        "Develop critical thinking skills and be able to think in theoretical terms",
+        "Become familiar with the communication conventions of another culture."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCLAS10020Ancient Greek 3Semester 1 (On Campus - Parkville)12.5CLAS20015Ancient Greek 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10020",
+                        "Name": "Ancient Greek 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLAS20015",
+                        "Name": "Ancient Greek 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCLAS10021Ancient Greek 4Semester 2 (On Campus - Parkville)12.5CLAS20016Ancient Greek 4Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10021",
+                        "Name": "Ancient Greek 4",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLAS20016",
+                        "Name": "Ancient Greek 4",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "An approved equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS30024",
+                        "Name": "Ancient Greek 5",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Fortnightly tests",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An assessment test (50 minutes)",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An essay",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A final examination (1 hour)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Hyun Jin Kim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours -  3 x 1-hour seminars per week for 12 weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kim.h@unimelb.edu.au"
+        }
+    ]
+}

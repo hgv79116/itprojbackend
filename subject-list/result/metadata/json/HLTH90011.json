@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>This subject offers students the opportunity to design an original research project with academic supervision. The preparation for this subject starts in Semester 1 through the HLTH90014 Healthcare Research: Principles and Designs course. Students are encouraged to collaborate with a research supervisor to develop their own research project and complete any required Human Research Ethics applications. The chosen topics can align with students' personal interests or be relevant to ongoing research in clinical genetics or other healthcare services. </p>",
+        "<p>The subject comprises a combination of face-to-face and online seminars, as well as regular meetings with research supervisors. Students will also have access to additional resources and upskilling opportunities provided by the University of Melbourne. </p>"
+    ],
+    "ilo": [
+        "Develop a comprehensive proposal/plan for a research project.",
+        "Construct a well-written review of relevant research literature.",
+        "Prepare an ethics application for submission to a Human Research Ethics Committee (HREC)."
+    ],
+    "generic_skills": [
+        "Effective Oral and written communication skills.",
+        "Critical analytical skills for problem solving.",
+        "Skills in self-directed learning.",
+        "Finding, evaluating and using relevant information."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsHLTH90014Healthcare Research-Principles & DesignsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "HLTH90014",
+                        "Name": "Healthcare Research-Principles & Designs",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "with a minimum grade of H2B (70%) or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project outline oral presentation",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Project specific literature review",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written draft of HREC application and Project Proposal",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "The contact hours reflect a mix of face-to-face (F2F) and online seminars plus supervisor meetings and upskilling opportunities: \n\n3 hours of online seminars per fortnight = 18 hours\n\n3 hours of F2F seminars per fortnight = 18 hours\n\n6 hours of supervisor meeting across semester = 6 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

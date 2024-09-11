@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>Biomechanics, which relates structure and function in biological systems, is important in the understanding of human movement, and in the treatment of conditions affecting the musculoskeletal and neuromuscular systems. This subject introduces students to musculoskeletal biomechanics of the human body, with applications to the behaviour of biological tissues such as bone, cartilage, ligament and muscle during human movement.</p>",
+        "<p>The subject will provide theory and practical exposure to human motion measurement and modelling of the joint forces and moments that actuate human movement. This subject will introduce biomechanics in sport and implant systems, including ageing, injury and associated musculoskeletal disorders. It will provide an overview of orthopaedics strategies for the treatment of end-stage bone and joint conditions and relate this to relevant mechanics for designing implant systems. </p>",
+        "<p>Please view this video for further information: <a href=\"https://youtu.be/NPPhgZH31Ow?feature=shared\">Biomechanics</a></p>"
+    ],
+    "ilo": [
+        "Model musculoskeletal mechanics in the context of human movement.",
+        "Describe principles of tissue biomechanics related to bone, cartilage, ligament and muscle.",
+        "Model biomechanics of bones and joints in the orthopaedics context .",
+        "Evaluate the effects of ageing and injury on the musculoskeletal system and human movement.",
+        "Analyse sports biomechanics, including principles of performance, training, injury and injury prevention."
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals.",
+        "The ability to undertake problem identification, formulation and solution.",
+        "The ability to utilise a systems approach to complex problems and to design and operational performance.",
+        "Proficiency in engineering design.",
+        "A capacity for creativity and innovation.",
+        "The ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member.",
+        "A capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30010",
+                        "Name": "Mechanics for Bioengineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN20001 Biomechanical Physics & Computation"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30005",
+                        "Name": "Introduction to Biomechanics",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two group problem solving activities with written reports (in groups of 3-4). Intended Learning Outcomes  (ILOs) 1 and 5 are addressed in this assessment.",
+            "bullets": [
+                "6 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 5",
+            "percentage": "6%"
+        },
+        {
+            "brief": "Four individual biomechanical engineering drawing submissions . ILOs 3 and 4 are addressed in this assessment.",
+            "bullets": [
+                "8 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 10",
+            "percentage": "4%"
+        },
+        {
+            "brief": "Two written individual assignments; 7.5% each. 15 hours (of work required) each. ILOs 1, 2 and 5 are addressed in this assessment.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One group assignment with an oral presentation (groups of 3-4); 5 minutes of presenting per student. ILOs 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "5 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written Exam - final examination. ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "The examination must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Kathryn Stok",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x 1.5 hours of lectures per week (24 x 1.5 hours of lectures in one semester); 11 x 2 hours of workshops (weeks 2-12)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Kathryn Stok",
+            "contact_email": "kathryn.stok@unimelb.edu."
+        }
+    ]
+}

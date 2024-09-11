@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject develops students' knowledge of fundamental market and business research concepts. It addresses the purpose, procedures and applications of market business research; helps view market and business research from a 'users' and 'doers' perspective; and aims to improve the managerial value of such research for strategic decision making. Specific topics include the formulation of the research problem; research design; data collection instruments; data collection procedures; statistical data analysis tools including multiple regression analysis; and the interpretation and use of research results. Market and Business Research is designed for future marketing managers and researchers and aims to help students develop skills to address management problems using analytical tools.</p>"
+    ],
+    "ilo": [
+        "Analyse the role of market and business research in marketing decision making;",
+        "Learn the marketing research process and apply in marketing research projects;",
+        "Perform essential qualitative and quantitative techniques and methods to analyze market and business research data;",
+        "Interpret the implications of market and business research on business development; and",
+        "Apply market and business research principles by conducting an in-depth market research project for a real management problem."
+    ],
+    "generic_skills": [
+        "Problem solving, such as translating a management problem into a research question;",
+        "Written communications;",
+        "Statistical analysis skills;",
+        "Collaborative learning and team work; and",
+        "Assessing research materials from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT20001",
+                        "Name": "Organisational Behaviour",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MKTG10001",
+                        "Name": "Principles of Marketing",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Tutorial quizzes",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group assignment 1 (groups of 4 students)",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group assignment 2 (groups of 4 students)",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Stephanie Kwari",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "stephanie.kwari@unimelb.edu.au"
+        }
+    ]
+}

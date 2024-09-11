@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>This subject will provide Masters-level training in some of the fundamental skills that you will need to complete a capstone project in the Master of Geoscience. In particular, you will gain experience of applied petrography, field mapping, and the writing of scientific articles and technical reports.</p>",
+        "<p>Learning is built around a series of assignments that are designed to review key concepts and to develop practical skills. The subject is self-paced, with teaching staff available to provide guidance and feedback.</p>"
+    ],
+    "ilo": [
+        "Recognise a range of fundamental laboratory and field-based techniques as currently used in the workforce or research laboratory;",
+        "Apply these techniques to obtain useful results for further analysis;",
+        "Evaluate the results of laboratory or field analysis; and",
+        "Recommend a course of action, as if to a client or collaborator, on the basis of analytical results."
+    ],
+    "generic_skills": [
+        "Effective written and oral communication skills;",
+        "Time and workload management skills;",
+        "Critical thinking skills;",
+        "Problem-solving skills for new and unfamiliar tasks."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two practical worksheets (1000 words each)",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Field Report",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Technical Report",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "A total of 30 hours. \n\nThis includes approximately 4 hours of lectures per week and 8 hours of practicals per week (over a two-week period), plus 1 day of fieldwork (approximately 6 hours), conducted on a weekend during the Subject.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to  8 March 2024",
+            "last_self_enrol_date": "28 February 2024",
+            "census_date": "8 March 2024",
+            "last_date_to_withdraw_without_fail": "22 March 2024",
+            "assessment_period_ends": "5 April 2024",
+            "contact_name": null,
+            "contact_email": "eleanor.green@unimelb.edu.au"
+        },
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "A total of 30 hours. \n\nThis includes approximately 4 hours of lectures per week and 8 hours of practicals per week (over a two-week period), plus 1 day of fieldwork (approximately 6 hours), conducted on a weekend during the Subject.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "8 July 2024 to 19 July 2024",
+            "last_self_enrol_date": "10 July 2024",
+            "census_date": "19 July 2024",
+            "last_date_to_withdraw_without_fail": "26 July 2024",
+            "assessment_period_ends": "9 August 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

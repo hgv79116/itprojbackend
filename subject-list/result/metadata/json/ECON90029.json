@@ -1,0 +1,72 @@
+{
+    "overview": [
+        "<p>The course introduces students to the economic principles and framework used by economists to consider issues of public policy. The importance of rigorous analysis in problem solving is emphasised. The policy areas likely to be covered will be taken from public finance, industry policy, competition policy, micro-economic reform, taxation and income distribution, as well as health, education and infrastructure provision. The emphasis is on current issues and so the actual policies covered may vary in response to current events.</p>"
+    ],
+    "ilo": [
+        "Apply economic concepts in a rigorous way in a public policy context, but in a way that is useful to non-economists;",
+        "Analyse policy-related information to identify relevant matters for economic analysis;",
+        "Combine different economic theories in a way that is meaningful and useful in developing and assessing public policies over a range of subject areas;",
+        "Evaluate the relevance of alternative economic theories for analysing different policy issues."
+    ],
+    "generic_skills": [
+        "Written communication",
+        "Oral communication",
+        "Problem solving",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Critical thinking",
+        "Receptiveness to alternative ideas"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "PD-ARTS Public Policy and Management informal specialisation in the PD-ARTS Postgraduate Diploma in Arts",
+                    "344AB Master of Public Policy and Management",
+                    "706AA Master of Social Policy"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assignment composed of a\u00a05000-word group and\u00a0a presentation in group of 4 students. Presentation's slides must be sent to the lecturer who will post them on LMS.",
+            "bullets": [
+                "35 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam and a pass (50%) for the weighted average of the final exam and mid-term assignment (0.7*mark_exam + 0.3*mark_mid_term-assignment >= 50).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

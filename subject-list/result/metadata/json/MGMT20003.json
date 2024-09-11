@@ -1,0 +1,107 @@
+{
+    "overview": [
+        "<p>This subject will offer the opportunity to develop the skills and knowledge necessary to manage projects with particular focus on project conception, initiation, planning, monitoring and control. It focuses both on the analytical side of project management, referring to schedule cost, and resource management, as well as the 'people' and client management issues that must be dealt with in order to ensure success of the projects. The subject will cover the core principles of the project management 'body of knowledge' and the key elements required to bring projects to successful fruition.</p>"
+    ],
+    "ilo": [
+        "Explain the steps involved in planning and managing projects",
+        "Describe the distinguishing characteristics of projects (cf. processes);",
+        "Explain and analyse the criteria for selecting projects in order to ensure that the projects are in sync with the overall organizational strategies;",
+        "Plan, analyse, and schedule activities and resources for simple projects;",
+        "Explain how risks can be identified and managed proactively;",
+        "Explain, calculate and interpret Earned Value and other project performance measures",
+        "Explain the tacit behavioural expectations from team members for effective management of projects;",
+        "Explain the role and responsibilities of the project manager",
+        "Perform a stakeholder analyis",
+        "Demonstrate proficiency in the use of MS Project software;",
+        "Demonstrate research and presentation skills relating to project management;",
+        "Exhibit analytical skills"
+    ],
+    "generic_skills": [
+        "High level of development: collaborative learning; team work; application of theory to practice; interpretation and analysis; critical thinking; receptiveness to alternative ideas.",
+        "Moderate level of development: oral communication; written communication; problem solving; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON10005",
+                        "Name": "Quantitative Methods 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR10004",
+                        "Name": "Engineering Technology and Society",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MGMT10002",
+                        "Name": "Principles of Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MGMT20001",
+                        "Name": "Organisational Behaviour",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "INFO10001 Informatics 1: Practical Computing"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "ERTH10001 The Global Environment"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "ISYS30005 Project Management"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assignment (normally in groups of 3-5)",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "End of semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

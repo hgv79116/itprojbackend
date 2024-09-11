@@ -1,0 +1,177 @@
+{
+    "overview": [
+        "<p>Computers are invaluable tools for modelling and simulating complex systems in a range of real word domains. The complex behaviours exhibited by many biological, social and technological systems - such as epidemics, urban systems and robotics - challenge our ability to predict, analyse and design such systems. Building computational models of these systems can help us better understand their structure and behaviour, and make better decisions about their design and control. </p>",
+        "<p>The aim of this subject is to provide students with a solid foundation in the conceptual and technical skills required to design, implement and evaluate computational models of complex systems. </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered will be selected from:</p>",
+        "<ul><li>the use of models for science, engineering and policy</li><li>dynamical systems analysis</li><li>complexity and emergent behaviour</li><li>agent-based models</li><li>design, communication and evaluation of models</li><li>analysis and visualisation of model behaviour</li><li>case study exemplars of specific types of models, such as:</li></ul>",
+        "<ul><li><ul><li>spatial models (eg, transportation)</li><li>network models (eg, epidemics)</li><li>adaptive models (eg, robotics)</li></ul></li></ul>"
+    ],
+    "ilo": [
+        "Identify and abstract the key features of complex systems from a variety of domains",
+        "Understand the theoretical basis underpinning the analysis of complex systems",
+        "Evaluate and select, amongst different modelling techniques, the most appropriate for analysing specific systems",
+        "Create computational models to analyse the behaviour of complex systems."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Capacity for independent critical analysis and problem-solving, including engaging with unfamiliar problems and identifying relevant strategies",
+        "Ability to analyse models, and self-directed research for modelling approaches",
+        "Intellectual curiosity and creativity, including the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency a model-based analysis.",
+        "Openness to new ideas and unconventional critiques of received wisdom"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP90041Programming and Software DevelopmentSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5SWEN20003Object Oriented Software DevelopmentSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SWEN20003",
+                        "Name": "Object Oriented Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CS Master of Computer Science",
+                    "MC-SCICMP Master of Science (Computer Science)",
+                    "MC-SOFTENG Master of Software Engineering",
+                    "Software specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Software with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                    "100pt Program course entry point in the MC-IT Master of Information Technology",
+                    "150pt Program course entry point in the MC-IT Master of Information Technology"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One individual assignment, requiring approximately 25 - 30 hours of work, due in week 5.  Addressing Intended Learning Outcomes (ILO's) 1 and 4.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One staged group research project, done in teams of 2-3, including a proposal, report, and demonstration, requiring approximately 30 -40 hours of work, due in week 8 (proposal)  and week 12 (report and demonstration). ILO's 1 - 4 are addressed in this assessment..",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "5 x Quizzes - 10%. ILOs 1, 2 and 3 are addressed.",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester exam, 2 hours.  ILO's 1 -3 are addressed in the exam.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve 15/30 on the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "munoz.m@unimelb.edu.au"
+        }
+    ]
+}

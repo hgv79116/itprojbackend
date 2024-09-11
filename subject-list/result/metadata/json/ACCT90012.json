@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>The framework within which regulatory aspects of corporate reporting are conducted, the preparation of general purpose financial reports in accordance with the Corporations Law, the Australian Accounting Standards, and Interpretations.</p>"
+    ],
+    "ilo": [
+        "Describe the different types of corporate entities",
+        "Explain both the legislated and professional regulation that governs financial reporting of corporate entities",
+        "Prepare the information contained in Financial Statements and associated note disclosures in accordance with the relevant Accounting Standards",
+        "Apply key Accounting Standards. These include accounting for assets, revaluations, impairments, financial instruments, leases, consolidations and income tax",
+        "Undertake basic evaluation of current Australian Standards and proposed amendments and new Standards",
+        "Resolve accounting issues by reference to the conceptual framework and accounting standards, including those not covered in the subject",
+        "Discuss and explain incentives that may influence accounting choices by preparers of financial reports"
+    ],
+    "generic_skills": [
+        "Analytical and problem solving skills",
+        "Application of theory to accounting practice",
+        "Critical evaluation of evidence in support of an argument or proposition",
+        "Teamwork skills through a collaborative assignment"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsACCT90004Accounting for Decision MakingSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90004",
+                        "Name": "Accounting for Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A group assignment (normally in groups of 3-5 students)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Brad Potter",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprised of one 90 minute lecture and one 90 minute seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "bnpotter@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Richard Comerford",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprised of one 90 minute lecture and one 90 minute seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rctcome@unimelb.edu.au"
+        }
+    ]
+}

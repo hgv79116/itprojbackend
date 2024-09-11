@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>Students undertake an original investigation of a topic relevant to analytics and its application. Under the supervision and guidance of an academic researcher, students are required to design and conduct a practice-oriented investigation. This would typically involve a literature review, data collection, data analysis and critical reflection of real-world practice. The results will be reported as a thesis and in a public presentation. In some instances, it is expected that the results will also be submitted for publication in a conference or journal.</p>",
+        "<p>The project will require an explorative approach, where students will pursue outcomes associated with new knowledge or understanding, within the analytics disciplines, often as an adjunct to existing academic research initiatives. It is expected that the Capstone Project will incorporate findings associated with both well-defined professional practice and research principles.</p>",
+        "<p>Research will be conducted on a topic of mutual interest under the guidance of an experienced researcher.</p>"
+    ],
+    "ilo": [
+        "apply the knowledge gained in other subjects to successfully investigate a substantially complex analytics research problem, sourcing and collating information associated with disciplines studied in prior coursework, adhering to relevant professional standards,",
+        "and develop hypotheses from which decisions will be made, and communicate and synthesise contributions arising from project and professional practice activities."
+    ],
+    "generic_skills": [
+        "Conducting independent research and/or scholarshi",
+        "Analysing and synthesising technical researc",
+        "Collaboration with peers",
+        "Conducting critical evaluation of research",
+        "Communicating their research in scholarly reports and in public presentations; and",
+        "Time management and project management"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMAST90130Critical Thinking with AnalyticsTerm 3 (Online)Term 1 (Online)12.5MGMT90248Analytics and SocietyTerm 4 (Online)Term 2 (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90130",
+                        "Name": "Critical Thinking with Analytics",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MGMT90248",
+                        "Name": "Analytics and Society",
+                        "Teaching period": "Term 4 (Online)Term 2 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "First Term: Project Report",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Second Term: Presentation (10 minutes), plus peer feedback on presentations of  two other students (250 words x 2).",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Second Term: Thesis\n\nSupervisors will set mid-project milestones as a hurdle\n\nrequirement to determine successful progress.",
+            "bullets": [
+                "8000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of term",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 3 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 15 September 2024",
+            "last_self_enrol_date": "16 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "22 September 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

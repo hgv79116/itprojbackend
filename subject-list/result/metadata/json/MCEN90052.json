@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>Students will learn about the mechanical behaviour and structure of materials, from the continuum  modelling of properties to  the microscopic origin of the behaviour with reference to available and  appropriate multiscale modelling techniques.  </p>",
+        "<p>The subject will cover the microstructure\u2010property relation in elastic and plastic deformation, timedependent deformation (creep) <br/>and failure in materials with emphasis on engineering materials. The  diverse mechanical behaviour will be discussed for different <br/>materials classes, including metals, functional materials, architectured materials, composites and polymers.  </p>"
+    ],
+    "ilo": [
+        "Illustrate the origins of materials' strength.",
+        "Explain the structure-property-processing relation in the mechanical behaviour of materials.",
+        "Explain linear elastic properties of materials.",
+        "Explain multiscale character of plasticity and failure in materials.",
+        "Establish links between theoretical concepts and observed phenomena; identify problems and formulate informed solution strategies.",
+        "Recommend appropriate models for mechanical strength.",
+        "Interpret materials failure and deduce the cause of failure.",
+        "Expand their analytical and cognitive skills through learning experiences in an interdisciplinary field.",
+        "Describe contemporary issues in the research on mechanical behaviour of materials."
+    ],
+    "generic_skills": [
+        "Capacity for independent thought.",
+        "Ability to apply knowledge of engineering science and engineering methods to solve complex problems.",
+        "Ability to comprehend complex concepts and effectively communicate this understanding.",
+        "Gain proficiency in materials engineering.",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90014",
+                        "Name": "Materials",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group project and report, requiring 40 hours of work per student. Intended Learning Outcomes (ILOs) 1-9 are addressed in this assessment.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Assignment - individual problem solving; max 1000  words,  requiring  24 hours of  work. ILOs 1-9 are addressed in this assessment.",
+            "bullets": [
+                "24 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Exam ILOs 1-4, 6-9 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Weekly individual quiz. ILOs 1-4, 6-9 are addressed in this assessment.",
+            "bullets": [
+                "12 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and 12 hours of tutorials",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Christian Brandl",
+            "contact_email": "christian.brandl@unimelb.edu.au"
+        }
+    ]
+}

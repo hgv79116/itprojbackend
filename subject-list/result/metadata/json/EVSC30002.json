@@ -1,0 +1,135 @@
+{
+    "overview": [
+        "<p>This subject focuses on how science contributes to environmental decision-making and management. Students will investigate how science from different disciplines is used and apply it to the process of environmental monitoring and assessment. Workshops associated with each module will emphasize practical aspects of how decisions get made in the face of scientific uncertainty. An individual capstone project will provide opportunities for in-depth critical thinking and analysis in an area of interest chosen by the student. By the end of the subject, students will have a scientific toolbox that they can use to solve real-world environmental problems after graduation whether undertaking further study or in the workforce.  </p>"
+    ],
+    "ilo": [
+        "Examine the role of scientists in the process of environmental decision-making;",
+        "Apply different scientific approaches to environmental problems;",
+        "Analyse methods used for assessing human impacts on the natural environment;",
+        "Evaluate statistical principles underlying the design of environmental impact assessment and monitoring; and",
+        "Produce new ideas or solutions for environmental problems through a capstone experience."
+    ],
+    "generic_skills": [
+        "employ highly developed conceptual, analytical, quantitative and technical skills;",
+        "demonstrate adeptness with a range of technologies;",
+        "evaluate the role of science in addressing current issues facing local and global communities;",
+        "apply appropriate methods to solve a scientific problem, including the planning and undertaking of a significant project;",
+        "work effectively in groups to meet a shared goal with people whose disciplinary and cultural backgrounds differ from their own; and",
+        "communicate clearly and convincingly about science and technology to expert and non-expert audiences."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EVSC30003",
+                        "Name": "Environmental Risk Assessment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC20004",
+                        "Name": "Blue Planet - Intro to Marine Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC20007",
+                        "Name": "Modelling the Real World",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in workshop activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written examination during class time, covering lecture and workshop material",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual capstone project oral presentation during class time",
+            "bullets": [
+                "8 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual written self-reflection based on workshops 1 and 2",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "7.5%"
+        },
+        {
+            "brief": "Group graphical abstract based on workshops 3 or 4",
+            "bullets": [
+                "300 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "7.5%"
+        },
+        {
+            "brief": "Individual capstone project written report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one-hour lectures per week, and 18 hours of workshops during the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "suzie.reichman@unimelb.edu.au"
+        }
+    ]
+}

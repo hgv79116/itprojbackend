@@ -1,0 +1,150 @@
+{
+    "overview": [
+        "<p>Contemporary business is awash in data. Modern business processes and activities usually involve multiple streams of data from areas as diverse as marketing activities, operational processes and financial activities. Therefore, managers are frequently confronted with how to harness these to understand their business better, so that they can make more informed decisions. This subject provides the fundamental quantitative skills necessary for an MBA student to extract information from data, through quantitative analysis, to make better managerial decisions. Students will be familiarized with the tools of quantitative analysis, develop the necessary skills for analytical thinking and a quantitative mind set in measuring performance. The fundamental quantitative skills from this subject provide a foundation to the advanced subjects within the MBA and provide students an analytical framework towards solving managerial problems later in their career.</p>"
+    ],
+    "ilo": [
+        "Analyse and summarise multivariate data clearly using Excel",
+        "Apply the principles of statistical variation in data analysis.",
+        "Select appropriate performance metrics based on statistical principles",
+        "Combine multiple performance metrics quantitatively.",
+        "Distinguish between correlation and causation in statistical analyses",
+        "Construct relevant statistical models from ambiguous business problems",
+        "Undertake regression analysis to quantify complex relationships between multiple explanatory variables and a response variable",
+        "Identify elements from regression output that are directly relevant to a business problem or question.",
+        "Identify and model nonlinear effects and interactions in regression models",
+        "Measure and articulate statistically significant relationships between variables",
+        "Apply quantitative methods and analyses to identify optimal decision strategies and risks",
+        "Evaluate the robustness and appreciate the limitations of data analyses"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90532",
+                        "Name": "Business Essentials",
+                        "Teaching period": "January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "BUSA90552",
+                        "Name": "Business Essentials",
+                        "Teaching period": "September (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)Summer Term (Online)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "15 x Class preparation exercises (equivalent of individual 300 words)",
+            "bullets": [
+                "300 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Mid-term test",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Syndicate assignment (equivalent of individual 500 words)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Final Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "students are required to pass the final exam to pass the subject.",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "15 January 2024 to 22 March 2024",
+            "last_self_enrol_date": "8 January 2024",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "1 March 2024",
+            "assessment_period_ends": "29 March 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "April",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "8 April 2024 to 14 June 2024",
+            "last_self_enrol_date": "1 April 2024",
+            "census_date": "19 April 2024",
+            "last_date_to_withdraw_without_fail": "24 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Degree Program Services",
+            "contact_email": "programservices@mbs.edu"
+        },
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "1 July 2024 to  6 September 2024",
+            "last_self_enrol_date": "14 June 2024",
+            "census_date": "12 July 2024",
+            "last_date_to_withdraw_without_fail": "16 August 2024",
+            "assessment_period_ends": "13 September 2024",
+            "contact_name": "Degree Program Services",
+            "contact_email": "programservices@mbs.edu"
+        },
+        {
+            "semester": "September",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "23 September 2024 to 29 November 2024",
+            "last_self_enrol_date": "6 September 2024",
+            "census_date": "4 October 2024",
+            "last_date_to_withdraw_without_fail": "8 November 2024",
+            "assessment_period_ends": "6 December 2024",
+            "contact_name": "Degree Program Services",
+            "contact_email": "programservices@mbs.edu"
+        }
+    ]
+}

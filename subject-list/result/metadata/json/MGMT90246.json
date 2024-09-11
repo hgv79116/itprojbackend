@@ -1,0 +1,61 @@
+{
+    "overview": [
+        "<p>This subject comprises the Capstone experience for this course. Drawing on theory, knowledge and skills developed during the program, participants design and complete an individually negotiated, supervised investigative project.</p>",
+        "<p>Projects tackle a real life policy or management issue; integrate student learning; and present an actionable proposal for policy makers or institutional managers.</p>",
+        "<p>Participants are introduced to research and project management methods; given guidance in the design of their project; and must submit an 10,000 word report that may later form the basis of a workplace report or journal article.</p>",
+        "<p>A hurdle requirement for this subject is that students will present their project design and findings to a panel and their peers on two occasions. The final presentation should include a reflection on the key learnings they have gained from their studies in the Master of Tertiary Education (Management).</p>"
+    ],
+    "ilo": [
+        "Apply and synthesise theory, knowledge and skills developed during the course to plan, execute and deliver individually negotiated, supervised investigative project;",
+        "Research a real life policy or management issue; integrate student learning; and present an actionable proposal for policy makers or institutional managers;",
+        "Tackle complex tertiary education management problems; present evidence and analysis; and manage the practical elements of an investigative project that may involve clients or research participants."
+    ],
+    "generic_skills": [
+        "communicate and present to people who work in different cultures and contexts",
+        "investigate policy and strategy problems, and generate options to resolve them",
+        "assess the risks and benefits of different solutions to management problems",
+        "apply accepted policies and principles to different kinds of cases",
+        "make well-informed management decisions that consider specific contexts."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Final project proposal containing project summary and rationale",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final Project Report",
+            "bullets": [
+                "9000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of term",
+            "percentage": "90%"
+        },
+        {
+            "brief": "Two presentations to academic and peer panel as scheduled (15 mins each)",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": "Two presentations to academic and peer panel as scheduled (15 mins each)",
+            "timing": "Mid term",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

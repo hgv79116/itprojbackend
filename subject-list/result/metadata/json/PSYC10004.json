@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>Mind, Brain and Behaviour 2 focuses on the development of the individual and their interaction with their environment and considers what the consequences are, both when this interaction proceeds smoothly and when it does not proceed smoothly.</p>",
+        "<p>The subject comprises five core topic areas: Human Development; Social Psychology; Personality Psychology; Clinical Psychology; and Quantitative Psychological Research Methods. In presenting these topics, the subject aims to provide students with knowledge of major theories, historical trends and empirical findings.</p>",
+        "<p>An understanding of some basic issues in human development is complemented with an examination of the nature and development of personality and human interaction in social groups and cultural settings.</p>",
+        "<p>Moreover, the subject provides opportunity for students to develop and apply a range of fundamental skills in areas of critical thinking, psychological research methods, and communication of psychological knowledge.</p>",
+        "<p>A common research-centred framework is adopted and the statistical tools that support this framework are introduced and developed as an integral part of the course.</p>"
+    ],
+    "ilo": [
+        "Human Development, Social Psychology, Personality Psychology, Clinical Psychology and Quantitative Methods and varied approaches that comprise the field of psychology;",
+        "Some key psychological concepts and theories from Human Development, Social Psychology, Personality Psychology, Clinical Psychology and Quantitative Methods;",
+        "Clinical and social perspectives of psychological health and wellbeing, including correlates of wellbeing and risk factors for diminished wellbeing.",
+        "Cultural diversity and its impact on research methodology in psychology, including an emphasis on the specific ethical requirements for working with Indigenous populations;"
+    ],
+    "generic_skills": [
+        "Apply critical thinking analytical skills to new issues;",
+        "Apply a hypothesis testing approach to new questions, including formulation of a research question, collection of relevant observations, analysis and interpretation of data using basic descriptive statistics to arrive at a conclusion;",
+        "Communicate the findings of empirical studies."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPSYC10007Mind, Brain and Behaviour BSeptember (Online)12.5PSYC90098Mind, Brain & Behaviour 2Summer Term (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC10007",
+                        "Name": "Mind, Brain and Behaviour B",
+                        "Teaching period": "September (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC90098",
+                        "Name": "Mind, Brain & Behaviour 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A multiple-choice examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "brief": "A laboratory report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Participation in up to five hours of research activities as detailed at https://psychologicalsciences.unimelb.edu.au/research/research-experience-program with 1% awarded for each hour of participation (by the end of week 12)",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "An online hurdle module",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": "This piece of assessment must be submitted.",
+            "timing": "From Week 4 to Week 7",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance of at least 80% of laboratory classes.\n\nIn case of failure to meet the attendance requirement, additional work related to the missed class activities (e.g., an essay with a length of 500 words for each tutorial missed) will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Chris Groot",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 one hour lectures (two times a week), and 16.5 hours (11 x 1.5 hours) of practical classes and tutorials. 5 hours of research participation.",
+            "total_time_commitment": "172 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Christopher J. Groot",
+            "contact_email": "grootc@unimelb.edu.au"
+        }
+    ]
+}

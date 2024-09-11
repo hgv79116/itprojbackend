@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p><span>Students will learn how to interpret focused clinical ultrasound assessment of early pregnancy problems and pelvic pain and how to write an interpretive ultrasound report. Students will critically interpret and write a report on 10 online focused early pregnancy and basic gynaecology ultrasound studies.</span></p>"
+    ],
+    "ilo": [
+        "Describe the indications, uses and limitations of focused clinical ultrasound in assessment of early pregnancy problems and pelvic pain.",
+        "Interpret and write a structured interpretive report of focused clinical ultrasound for early pregnancy problems and pelvic pain.",
+        "Evaluate the requirements for training, competence and certification in early pregnancy and basic gynaecology ultrasound."
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90112",
+                        "Name": "Clinical Ultrasound \u2013 Core Concepts",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90101",
+                        "Name": "Obstetrics Gynaecology and Practicum",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to interpret clinical ultrasound. A student is expected to demonstrate sufficient visual acuity to perform the required range of skills, including reading ultrasound images from a computer monitor."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple-choice questions following each tutorial",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Interpretation of 10 case studies assessed by structured questions pertaining to each case",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Open-book summative examination",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

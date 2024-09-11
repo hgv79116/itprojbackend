@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction  to nuclear science and engineering. It presents the properties of atomic nuclei, radioactivity, nuclear reactions, and selected topics in thermodynamics as required for the analysis of power systems based on nuclear fission. The working principles of nuclear reactors and nuclear power plants are discussed, focusing on pressurised-water reactor systems.</p>",
+        "<p><strong>Indicative content:</strong></p>",
+        "<ul><li>Introduction to nuclear physics</li><li>Thermodynamics of nuclear power plants</li><li>Nuclear power generation</li></ul>"
+    ],
+    "ilo": [
+        "Analyse nuclear reactions and radioactive decay series.",
+        "Explain the basic working principles of nuclear reactors, nuclear power plants and their components.",
+        "Perform thermodynamic analysis of nuclear power systems with pressurised-water reactors."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to communicate effectively with the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment 1",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 6-7 of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Assignment 2",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 11-12 of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,166 @@
+{
+    "overview": [
+        "<p>This subject represents a definitive Capstone subject for students completing a major in pharmacology and is equally relevant for all students interested in biomedical research. Students will learn how to design and perform experiments to investigate biological systems. Students will also gain experience in a wide range of molecular and cellular approaches and in analytical techniques used in drug discovery. Students will be provided with the opportunity to apply their experience and discipline-specific knowledge in challenging and authentic, real-world scenarios, before completing a short University-led research project. The assessment will develop and reinforce essential research skills. In their research project, students will work within a small team under the supervision of a University academic to design and conduct a study to investigate their unique research question and learn how to effectively communicate their research and disseminate their findings.</p>"
+    ],
+    "ilo": [
+        "Demonstrate practical skills relevant to contemporary biomedical research",
+        "Understand the experimental basis of scientific enquiry and apply the principles in practice",
+        "Recognise the importance of, and apply quantitative pharmacological analysis to the characterisation of biological systems",
+        "Evaluate scientific literature and demonstrate skills in hypothesis formation",
+        "Demonstrate skills in critical thinking and problem solving through the design and implementation of experiments and the analysis and interpretation of data",
+        "Employ skills in written and oral scientific communication including good laboratory note keeping",
+        "Recognise ethical considerations in biomedical research",
+        "Demonstrate effective teamwork, self-management, and organisational skills"
+    ],
+    "generic_skills": [
+        "Data analysis and interpretation",
+        "Critical thinking and problem solving",
+        "Scientific communication",
+        "Small group work",
+        "Evaluation of scientific literature",
+        "Recognition and consideration of ethical issues in research",
+        "Hypothesis formulation and testing"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "BSc students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHRM20001Pharmacology: How Drugs WorkSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHRM20001",
+                        "Name": "Pharmacology: How Drugs Work",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "A minimum of one ofany Level 2 subject in one of the following disciplines: Anatomy and Cell Biology; Biochemistry and Molecular Biology; Microbiology and Immunology; Neuroscience; Pathology; Physiology; or Zoology."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "BBiomed students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM20002Human Structure and FunctionSemester 2 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Breadth students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students wishing to undertake this subject as breadth will need the approval of the subject coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-Semester Test (MST)",
+            "bullets": [
+                "35 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Around weeks 6-8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "University research project report \u2013 comprises an abstract, a poster and an oral presentation.",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 10 to 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Continuing assessment of scientific research skills including evaluation of a completed laboratory notebook - 2 reports/assignments (approximately 700 words each) as relevant to the skill being developed, and a laboratory notebook.",
+            "bullets": [
+                "1400 words (equivalent)"
+            ],
+            "hurdle": "Attendance and participation in 80% of the practicals is a hurdle requirement",
+            "timing": "Practical reports/assignments are due in weeks 3\u20104 and 8-9. Submission of completed laboratory notebook is in week 12",
+            "percentage": "35%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Makhala Khammy",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One x 4 hour practical per week plus two x 1 hour workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "23 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Makhala Khammy",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours: One x 4 hour practical per week plus two x 1 hour workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "30 June 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

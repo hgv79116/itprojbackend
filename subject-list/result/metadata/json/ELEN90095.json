@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Construct and critique systems-level formulations and architectures for robotic systems to perform tasks, using tools such as block diagrams and Markov decision processes.",
+        "Analyse and implement model-based methods for providing stability and performance, such as: PID, MPC, system identification, or adaptive control schemes",
+        "Analyse and implement reinforcement learning (RL) methods for discrete-time dynamical systems with continuous spaces",
+        "Appriase and combine the strengths of  multiple decision-making and learning algorithms for implementation on real-world systems, including an interdisciplinary perspective on using concepts and approaches from the engineering and computer science domains to develop an integrated solution.",
+        "Communicate and collaborate on AI and decision-making projects through formats such as: technical reports, presentations, and informational videos, and reflection",
+        "Differentiate and critique the variety of definitions, applications, and safety implications of AI for engineering systems"
+    ],
+    "generic_skills": [
+        "Ability to identify, formulate, analyse and solve complex problems using a systems approach",
+        "Capacity for independent critical thought, rational inquiry, creativity, and innovation",
+        "Ability to communicate effectively through verbal and written means with a variety of target audiences, including with one's direct team, other engineers and professions, and with the community at large",
+        "Ability to function effectively in multi-disciplinary and multi-cultural teams of various sizes, with the capacity to be an effective leader, manager, and team member as appropriate to the context",
+        "Ability to scope and plan project work and manage competing demands on time to deliver a substantial outcome, including any self-directed learning necessary"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: MC-ELECENG Master of Electrical Engineering, MC-MTRNENG Master of Mechatronics Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN90066Embedded System DesignSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90066",
+                        "Name": "Embedded System Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual upskilling with hardware and software, in the form of demonstration, oral test, log book, and/or code submission. Learning Outcomes (ILOs) 1-4 are addressed in this assessment",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Continuous individual assessment of team project work, in the form of reports, presentations and/or videos, not exceeding 40 pages per student over the semester. Approximately 60 hours of work per student. 4 submissions between Weeks 3-14, spaced approximately 3-4 weeks.  Intended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 14",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Individual presentation. ILO 5-6 are addressed in this assessment",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of the individual upskilling, individual presentation, mid-semester test and written exam. This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "From Week 4 to Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Progress Test. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of the individual upskilling, individual presentation, mid-semester test and written exam. This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final Exam. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of the individual upskilling, individual presentation, mid-semester test and written exam. This hurdle requirement will be set by the Board of Examiners and be no higher than 50%",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours, comprising of two hours of lectures and three hours of workshops per week for 12 weeks",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "paul.beuchat@unimelb.edu.au"
+        }
+    ]
+}

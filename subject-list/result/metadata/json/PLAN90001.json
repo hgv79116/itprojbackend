@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to quantitative data analysis for the social sciences, focusing on the data and techniques commonly used in analysis of cities. It develops understanding and skill in the use of the collection, interpretation, analysis, and representation of information.</p>",
+        "<p>The subject is presented in two parts. Part 1 introduces common demographic and economic data available from secondary sources, including Census data. Students learn the fundamentals of data analysis, including how to define units of analysis, develop appropriate quasi-experimental designs, and construct reliable and valid indicators. Students also learn techniques for analysing and interpreting population data, as well as population forecasting techniques.</p>",
+        "<p>Part 2 provides an introduction to basic statistical analysis of small-sample and large-sample data. Topics include descriptive statistics, confidence intervals and power, hypothesis testing, measures of association, and an introduction to regression techniques</p>"
+    ],
+    "ilo": [
+        "Demonstrate proficiency in the use of census data and indicators and arrange them in a coherent narrative to describe a place, it's relationship to the region in which it sits, and its change over time",
+        "Create effective maps, tables, and figures that support this narrative",
+        "Communicate this narrative using a common format, a poster session",
+        "Critique indicators from planning reports and professional publications",
+        "Project the population of a place in ten years' time",
+        "Formulate hypotheses and perform statistical hypothesis tests to analyze these hypotheses, choosing the appropriate method from a set of available methods",
+        "Describe the relevance to the normal curve to variation in nature and human behavior",
+        "Identify the area under the normal curve and apply this to solving problems where there is uncertainty",
+        "Describe the Central Limit Theorem and its contribution to statistics",
+        "Compute point estimations of mean and central tendency",
+        "Compute confidence intervals and estimate required sample sizes to achieve a specified confidence",
+        "Estimate bivariate and multivariate regression models",
+        "Control for spurious factors in regression and descriptive analysis."
+    ],
+    "generic_skills": [
+        "A working knowledge of some of the secondary data available for planning and social science analysis",
+        "Basic tools of demographic and economic analysis using secondary data",
+        "A foundation in understanding statistical techniques, and their application to social science problems",
+        "Ability to write about and present findings of these analyses",
+        "Written, verbal and graphic communication of data and findings",
+        "Identification of key social and spatial issues"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90135",
+                        "Name": "Analytical Methods",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Draft Team Narrative - Short writing assignment. \n\nStudents can work in pairs, or groups of three or four. The assessments are scaled according to the size of the group.",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Problem Set 1",
+            "bullets": [
+                "400 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Problem Set 2",
+            "bullets": [
+                "400 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group work peer and self-assessments.\n\nStudents can work in pairs, or groups of three or four. The assessments are scaled according to the size of the group.",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Problem Set 3",
+            "bullets": [
+                "400 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Presentation of Community Profile. Students can work in pairs, or groups of three or four. The assessments are scaled according to the size of the group.",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Community Profile - Report.\n\nStudents can work in pairs, or groups of three or four. The assessments are scaled according to the size of the group. \n\n2500 words total (the 2500 words for this assessment task incorporates work from the Team Narrative and Problems Sets 1, 2, 3. 1000-1250 words equivalent of original work is required for this assessment task (per student).",
+            "bullets": [
+                "2500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

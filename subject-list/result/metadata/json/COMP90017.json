@@ -1,0 +1,60 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Sensor networks are a key component of today\u2019s increasingly pervasive computing technologies. In this subject, the aim is to develop an understanding of sensor network technologies from three different perspectives: sensing, communication, and computing (including hardware, software, and algorithms) and their applications.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>Topics covered include:</p>",
+        "<ul><li>Attributes of sensor networks</li><li>Wired and wireless sensors</li><li>Sensors and networks design and deployment issues</li><li>Bandwidth and energy constraints aware techniques for network discovery</li><li>Network control and routing</li><li>Collaborative information processing</li><li>Offloading processing and data management tasks, querying</li><li>Tasking and programming sensor networks</li><li>Standards that provide the models and schema encoding for defining the geometric, dynamic and observational characteristics of a sensor, and</li><li>Applications</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Develop an understanding of sensor network technologies from three different perspectives: sensing, communication, and computing (including hardware, software, and algorithms) and their applications",
+        "Discuss and present new sensor network technologies in oral and written form"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One project due around week 12",
+            "bullets": [
+                "35-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One 10 minute presentation and a term paper (1000 words)",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

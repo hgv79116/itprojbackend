@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>This subject develops technical capabilities required for sound infrastructure decision-making about digital health solutions and management, including telehealth, cloud computing, security and standards. It reviews the digital health building blocks of hardware, hosting platforms and networks. It identifies requirements for designing solutions to support clinical workflows and the need for interoperability of systems, as well as outlining technical management and governance issues.</p>",
+        "<p>Five major topics are covered in lectures and tutorials, as well as demonstrations and site visits where possible: (a) End user computing and the health devices layer; (b) Digital health network connectivity; (c) Health information and communication systems, platforms and hosting; (d) Functional interoperability and secure messaging in healthcare ; (e) Governance and management of health ICT infrastructure.</p>"
+    ],
+    "ilo": [
+        "Explain current trends in ICT infrastructure and their implications for digital transformation of healthcare services",
+        "Express critical awareness of current digital health governance frameworks and their relevance to the development of health ICT infrastructure plans",
+        "Communicate to diverse stakeholders an understanding of technical requirements and solutions for health data exchange and connected health information systems",
+        "Describe and analyse the current and future roles and responsibilities of the Chief Information / Digital / Technical Officer in healthcare services"
+    ],
+    "generic_skills": [
+        "Understanding of global issues relating to health",
+        "The ability to work across different disciplines",
+        "Excellent in-depth knowledge to support responsible leadership"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "HLTH90006",
+                        "Name": "Basics of Digital Health for Clinicians",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ISYS90069",
+                        "Name": "Digital Transformation of Health",
+                        "Teaching period": "July (Online)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90048",
+                        "Name": "Managing ICT Infrastructure",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two written reports based on individual computer-based learning, tutorials and practical activities done in class, of approximately 1250 words, worth 25% each. First report is due in week 3, 4 or 5 as assigned. Second report is due 3 weeks after first report, in week 6, 7 or 8 as assigned. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "65-70 hours (of work required)"
+            ],
+            "hurdle": "The written reports must be passed to pass the subject.",
+            "timing": "From Week 3 to Week 8",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Project report on a digital health infrastructure design project comprising: one class presentation of approximately 10 minutes duration (equivalent to 500\n\nwords) (10%) due in week 11 or 12 as assigned and one written report  (40%) of approximately 2000 words, due in week 14. ILOs 3 and 4 are addressed in this assessment.",
+            "bullets": [
+                "65-70 hours (of work required)"
+            ],
+            "hurdle": "The project report must be passed to pass the subject.",
+            "timing": "From Week 11 to Week 14",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": "Kathleen Gray",
+            "mode_of_delivery": "Online",
+            "contact_hours": "1 hour per week of 1-1 tutorials;\n\n2 hours per week of asynchronous learning using resources in Canvas LMS",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Kathleen Gray",
+            "contact_email": "kgray@unimelb.edu.au"
+        }
+    ]
+}

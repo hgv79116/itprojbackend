@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p>The first half of this subject is an introduction to two-dimensional conformal field theory with emphasis on the operator formalism and explicit calculations. The second half is an introduction to string theory based on the first half. For concreteness, the representation theory of Virasoro algebra and bosonic strings will be emphasized.</p>"
+    ],
+    "ilo": [
+        "have learnt the basics of two-dimensional Conformal Field Theory (CFT), including basic representation of Virasoro algebra, the Hilbert space of states, of free bosons, and conformal blocks;",
+        "have learnt the basic theory of bosonic strings, including the origin of the critical dimension, computations of tree amplitudes, etc;",
+        "appreciate the role of role of conformal field theory in string theory;",
+        "have the ability to pursue further studies in these and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30021Complex AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 40 pages of written assignments (two assignments worth 20% each, due mid and late in semester)",
+            "bullets": [
+                "40 pages"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "thomas.quella@unimelb.edu.au"
+        }
+    ]
+}

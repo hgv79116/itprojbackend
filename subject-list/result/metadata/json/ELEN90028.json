@@ -1,0 +1,56 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of this subject is to give students an introduction to some advanced topics in the analysis of nonlinear systems.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include: properties of solutions of nonlinear differential equations; Lyapunov stability theory; linearization; the invariance principle; converse stability theorems; input-output stability; stability of perturbed systems; averaging, singular perturbations.</p>"
+    ],
+    "ilo": [
+        "Understand the fundamental properties of nonlinear systems, such as the existence, uniqueness and continuity of solutions",
+        "Apply fundamental Lyapunov stability techniques in the analysis of nonlinear systems, as they arise in a variety of contexts",
+        "Apply input-output stability concepts for stability analysis of interconnected nonlinear systems",
+        "Apply averaging techniques for approximation of solutions and stability analysis of nonlinear systems",
+        "Apply singular perturbation techniques for approximation of solutions and stability analysis of nonlinear systems."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity;",
+        "Openness to new ideas and unconventional critiques of received wisdom;",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of homework assignments, not exceeding 30 pages in total over the semester (Addressing ILOs 1-5)",
+            "bullets": [
+                "55-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final examination (Addressing ILOs 1-5)",
+            "bullets": null,
+            "hurdle": "Students must pass the end of semester examination to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

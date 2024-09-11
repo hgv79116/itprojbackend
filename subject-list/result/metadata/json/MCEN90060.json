@@ -1,0 +1,138 @@
+{
+    "overview": [
+        "<p>Humankind faces global challenges related to economy, ecology and socio-policy, e.g. population growth, climate change, and unequal development.  Unsustainable consumption and production patterns have resulted in substantial economic and social costs and may endanger life on our planet. Engineers and scientists have developed methods and tools to evaluate and implement technological and societal processes to tackle the challenges of sustainability.  Therefore, this subject aims to develop a holistic view of engineering the entire life cycle of a product or service from raw material extraction, production, usage to disposal. </p>",
+        "<p>This subject consists of four main modules 1) sustainable development and life cycle thinking; 2) life cycle analysis tools, 3) eco-design and cleaner production, and 4) closed-loop economy. This subject will engage students with the state-of-the-art research development and leading industrial practices in topics such as product life cycle management, life cycle assessment, sustainable manufacturing, circular economy etc. Guest speakers are also invited to provide broader examples from a global perspective.</p>"
+    ],
+    "ilo": [
+        "ILO1. Analyse triple bottom line of sustainability in an engineering context;",
+        "ILO2. Evaluate the whole life cycle of a product or service by applying life cycle analysis tools;",
+        "ILO3. Apply eco-design methods to reduce the environmental impact of a product;",
+        "ILO4. \tApply methods and technologies to promote cleaner production;",
+        "ILO5. Analyse end-of-life strategies to promote circular economy."
+    ],
+    "generic_skills": [
+        "An understanding of social, cultural, global and environmental responsibilities and the need to employ principles of sustainable development;",
+        "The ability to utilise a systems approach to complex problems and to design for operational performance;",
+        "The ability to comprehend complex concepts and effectively communicate this understanding;",
+        "Capacity to manage competing demands on time, including self-directed project work;",
+        "The ability to function effectively as an individual and in multidisciplinary and multicultural teams;",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-INDENG Master of Industrial Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 100 credit points of study."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-MECHENG Master of Mechanical Engineering",
+                    "MC-MTRNENG Master of Mechatronics Engineering",
+                    "Mechanical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Mechanical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Mechanical with Aerospace specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Mechatronics specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 150 credit points of study."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual mid semester test. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group written report 1. Max. 2500 words for agroup of 4. ILO 2 is addressed in this assessment.",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group written report 2. Max. 2500 words for a group of 4. ILO 3 is addressed in this assessment.",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final assignment - Individual written report max 2000 words and a short 5-10 minute video presentation. ILOs 1 to 5 are addressed in this assessment.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Wen Li",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures and 24 hours of workshops/tutorials",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

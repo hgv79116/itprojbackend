@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p>This subject involves in-depth investigation of a significant problem related to Computing. The subject also provides students with skills and knowledge for analysing and solving problems, and enhanced written and oral communication skills.</p>",
+        "<p>The subject is a research-based project, giving a capstone experience and piece of scholarship to students that is suitable as a pathway to PhD.</p>",
+        "<p>Enrolment in this subject requires a weighted average mark of 75 or above. </p>",
+        "<p>Completing enrolment into the subject will give students access, via the LMS, to information about possible topics, supervision, and timelines. Students should negotiate a project topic with a project supervisor before the start of semester. The topic must be relevant for the student\u2019s specialisation, broadly interpreted. Students who are in doubt about the suitability of a chosen topic can contact the degree coordinator for an opinion about its suitability.</p>",
+        "<p>By the end of Week 1 of semester, students must formally register their project, using an online form available via the LMS. If a chosen topic is deemed unsuitable, students will be alerted about this by the degree coordinator. Note that the degree coordinator's approval is an assessment hurdle requirement; if approval is not obtained, enrolment in the subject will be cancelled, until an acceptable project can be found.</p>"
+    ],
+    "ilo": [
+        "Independently investigate topic areas relating to the student's stream of specialisation: Computing, Distributed Computing, Cybersecurity, or Artificial Intelligence",
+        "Synthesise work related to the topic of study",
+        "Write and present a proposal and report"
+    ],
+    "generic_skills": [
+        "Be able to undertake problem identification, formulation and solution",
+        "Have a capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Have a profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "Be able to present work in written form; and",
+        "Be able to present work orally and answer questions about it"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students who meet the above criteria will need to complete an Enrolment Assistance form; Coordinator approval is not required:"
+            },
+            {
+                "type": "paragraph",
+                "content": "https://students.unimelb.edu.au/your-course/manage-your-course/course-enrolment/enrolment-assistance"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completing enrolment into the subject will give students access, via the LMS, to information about possible topics, supervision, and timelines. Students should negotiate a project topic with a project supervisor well before the start of semester. By the end of Week 1 of semester, students must formally register their project, using an online form available via the LMS."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90082",
+                        "Name": "Software Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "GEOM90017",
+                        "Name": "Spatial Industry Internship",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A detailed project proposal of 800-1000 words, due in Week 3, requiring approximately 10-12 hours of work, submitted to the project supervisor.",
+            "bullets": [
+                "12 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 15 minute presentation of the project, including answering audience questions, held in Week 12, requiring approximately 10-12 hours of work.",
+            "bullets": [
+                "12 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A project report of 6000 - 8000 words, requiring approximately 320 hours of work, due in first week of examination period.\u00a0ILO's 1 to 3.",
+            "bullets": [
+                "320 hours (of work required)"
+            ],
+            "hurdle": " A mark of at least 50% (40/80) must be obtained for the project report.\n\n\n\n",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Peter Schachte",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular contact of at least one hour per week with a project supervisor",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Peter Schachte",
+            "contact_email": "schachte@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Farhana Choudhury",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular contact of at least one hour per week with a project supervisor",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "farhana.choudhury@unimelb.edu.au"
+        }
+    ]
+}

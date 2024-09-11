@@ -1,0 +1,130 @@
+{
+    "overview": [
+        "<p>Students will work intensively under advanced industry supervision on an agreed journalistic project, such as a documentary, series of articles, book or investigative assignment. Working with the resources of the Centre for Advanced Journalism and other academic staff, the student will complete a publishable piece of innovative journalism, and a short essay reflecting on their professional practice.</p>"
+    ],
+    "ilo": [
+        "Reflect on their journalistic practice",
+        "Demonstrate high level journalistic skills",
+        "Demonstrate developed time management and planning skills through managing and organising workloads",
+        "Understand the fundamental principles for making critical and ethical judgments regarding professional journalism practice",
+        "Demonstrate cultural and ethical understanding through reflection, reading and practical experience of journalists' responsibilities."
+    ],
+    "generic_skills": [
+        "A high level ability to analyse communication techniques and effects",
+        "A high level of ability to interview, research and perform other key journalistic functions",
+        "A high level ability to communicate thoughts, ideas and observations in accessible written and/or audio and/or video and/or multimedia forms."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "JOUR90025",
+                        "Name": "Journalism Project Part 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "JOUR90018",
+                        "Name": "Journalism Project (Extended) Part 2",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "JOUR90019",
+                        "Name": "Journalism Project (Extended) Part 3",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "JOUR90012 Journalism Project"
+            },
+            {
+                "type": "paragraph",
+                "content": "JOUR90017 Journalism Project (Extended) Part 1"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Portfolio of journalistic work and/or equivalent in multimedia",
+            "bullets": [
+                "7500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        },
+        {
+            "brief": "Essay reflecting on journalistic practice",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students are required to attend a minimum of 80% of meetings with Centre for Advancing Journalism staff, as individual meetings with their assigned supervisor and/or the subject coordinator, and complete a portfolio of journalistic work in order to be eligible to pass this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.\n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "Total 8 hours: 4 x 2hr workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "sami.shah@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "Total 8 hours: 4 x 2hr workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "sami.shah@unimelb.edu.au"
+        }
+    ]
+}

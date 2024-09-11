@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Over the last half-century, computers have improved at a faster rate than almost any other technology on the planet, yet the principles on which they work have remained mostly constant. In this subject, students will learn how computer systems work \"under the hood\".</p>",
+        "<p>The specific aim of this subject is for the students to develop an understanding of the basic concepts underlying computer systems. A key focus of this subject is the introduction of operating systems principles and computer network protocols. This knowledge is essential for writing secure software, for writing high performance software, and for writing network-based services and applications.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong><strong><br/></strong></p>",
+        "<p>Topics covered include:</p>",
+        "<ul><li>The role of the operating system</li><li>The memory hierarchy (caches, virtual memory, and working sets)</li><li>Interrupt handling, processes and scheduling</li><li>File systems</li><li>Introduction to multiprocessors and synchronization</li><li>Introduction to network protocols (OSI model)</li><li>Development of client-server applications</li><li>Computer system security and cryptographic protocols</li></ul>"
+    ],
+    "ilo": [
+        "ILO 1 - Demonstrate their knowledge of operating systems from the programmer's perspective",
+        "ILO 2 - Demonstrate their knowledge of networking technologies from the programmer's perspective",
+        "ILO 3 - Apply this knowledge to select appropriate tools and technologies for a problem at hand",
+        "ILO 4 - Build simple server applications",
+        "ILO 5 - Recognise some common security vulnerabilities and the reason why they are present in a particular system"
+    ],
+    "generic_skills": [
+        "An ability to apply knowledge of basic science and engineering fundamentals",
+        "An ability to undertake problem identification, formulation and solution",
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The capacity for critical and independent thought and reflection",
+        "An expectation of the need to undertake lifelong learning, and the capacity to do so."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90007",
+                        "Name": "Internet Technologies",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP30017"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project work throughout the semester consists of two components. The first component is due roughly by week 5 while the second component is due roughly by week 11. Completed individually.  Intended Learning Outcomes (ILOs) 1-5 are addressed.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": "See under Additional Details.",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Weekly tutorial participation activity. Intended Learning Outcomes (ILOs) 1-5 are addressed.",
+            "bullets": null,
+            "hurdle": "See under Additional Details.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written mid-semester test.  Intended Learning Outcomes (ILOs) 1-5 are addressed.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": "See under Additional Details.",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written end-of-semester exam.  Intended Learning Outcomes (ILOs) 1-5 are addressed.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "See under Additional Details.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising of two 1-hour lectures and one 2-hour workshop per week (a workshop is a 1-hour tutorial followed by a 1-hour computer lab per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "maria.read@unimelb.edu.au"
+        }
+    ]
+}

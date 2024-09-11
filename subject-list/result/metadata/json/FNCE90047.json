@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>The structure of the financial system; terminology, trading and pricing of money and capital market instruments; duration, value at risk, financial market volatility; term structure of interest rates; inflation, interest rates and indexed securities; regulation of securities markets and financial institutions; market; tax treatment of financial institutions; tax and company finance; futures markets; options markets; forward rate agreements; swaps; developments in retail financial markets.</p>"
+    ],
+    "ilo": [
+        "Analyse the nature of financial markets and explain the principles by which financial markets operate;",
+        "Describe the major institutional participants and markets;",
+        "Explain the risk return spectrum and the characteristics of financial instruments;",
+        "Describe derivatives and explain how they are used in the management of financial risk;",
+        "Apply the theory of regulation to current markets and critically assess the current regulatory structures."
+    ],
+    "generic_skills": [
+        "Oral communication",
+        "Written communication",
+        "Collaborative learning",
+        "Problem solving",
+        "Team work",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Interpretation & analysis",
+        "Critical thinking",
+        "Synthesis of data and other information",
+        "Evaluation of data and other information",
+        "Using computer software",
+        "Accessing data and other information from a range of sources"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-FIN Master of Finance",
+                    "GD-FIN Graduate Diploma in Finance",
+                    "MC-FINANCE Master of Finance",
+                    "MC-FINENH Master of Finance (Enhanced)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assignment (normally groups of 5-6 students).",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Carole Comerton-Forde",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours of lectures and seminars per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Andrea Lu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours of lectures and seminars per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

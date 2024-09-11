@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject provides the capstone course in business financial analysis and firm valutaion. The subject will include a detailed analysis of a firm's business strategy, financial statements and additional disclosures to assess the quality, profitability, risk, future prospects and value of the firm.</p>"
+    ],
+    "ilo": [
+        "Compare different accounting methods used in financial statements for valuation purposes.",
+        "Assess the quality of financial information and make adjustments if necessary.",
+        "Analyse financial statements to obtain the relevant information (profitability, risk, and growth potential) for valuing equities.",
+        "Explain business activities that determine value, identify \u201cvalue created for shareholders\u201d.",
+        "Develop skills to build forecasts of a firm\u2019s future financial performance.",
+        "Analyse how fundamental values (or \u201cintrinsic values\u201d) are estimated",
+        "Synthesise, evaluate, and compare the dividend discount model, the discounted cash flow model, and the residual income model in valuing equities",
+        "Investigate the difference between fundamental, market and book values"
+    ],
+    "generic_skills": [
+        "High level of development: team work; application of theory to practice; interpretation and analysis; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources.",
+        "Moderate level of development: collaborative learning; written communication; critical thinking; use of computer software; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; statistical reasoning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsACCT20002Intermediate Financial AccountingSemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT20002",
+                        "Name": "Intermediate Financial Accounting",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "FNCE20001  Business Finance"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsFNCE10002Principles of FinanceSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE10002",
+                        "Name": "Principles of Finance",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written group assignment totalling not more than 5000 words",
+            "bullets": [
+                "5000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A mid-semester test",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Tutorial participation marks",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p>This subject covers key concepts associated with the synthesis and design of organic and inorganic molecules, molecular architecture and the energy transformations associated with chemical and physical processes. Topics covered include synthesis of simple polyfunctional organic compounds, thermodynamically controlled reactions of s-, p- and d- block elements, thermodynamics, intermolecular forces and the electrical, optical and mechanical properties of solids. These topics have applications in drug discovery, chemical industry, nanotechnology, and energy harnessing through conventional and alternative energy sources.</p>"
+    ],
+    "ilo": [
+        "Understand the molecular properties and energetics and be able to apply these concepts to the synthesis of organic and inorganic compounds",
+        "Recall and apply approaches to the synthesis and some reactions of simple polyfunctional organic compounds;",
+        "Distinguish between kinetically and thermodynamically controlled reactions and to apply these concepts to rationalise synthetic transformations;",
+        "Understand basic thermodynamic concepts and the application of these approaches to real solutions, mixtures and phase equilibria;",
+        "Interpret and differentiate the main factors controlling the substitution and redox reactions of main group and transition metal elements."
+    ],
+    "generic_skills": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the scientific community and in a manner accessible to the wider community;",
+        "the ability to analyse and solve abstract technical problems;",
+        "the ability to connect and apply the learnt concepts to a broad range of scientific problems beyond the scope of this subject;",
+        "an awareness of advanced technologies;",
+        "the ability to think and reason logically;",
+        "the ability to think critically and independently."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEM10004Chemistry 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10006Chemistry for BiomedicineSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10009Chemistry for BioSciencesNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10004",
+                        "Name": "Chemistry 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10009",
+                        "Name": "Chemistry for BioSciences",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CHEMENG Master of Chemical Engineering",
+                    "Materials specialisation (formal) in the MC-MECHENG Master of Mechanical Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students enrolling in this subject through CHEM10006 Chemistry for Biomedicine or CHEM10009 Chemistry for BioSciences are strongly advised to contact the coordinator to discuss the subject and the background knowledge required."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CHEM20021 Physical Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20022 Organic Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20023 Inorganic Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20024 Organic and Inorganic Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20025 Physical and Inorganic Chemistry 2"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Five short tests conducted on-line using the learning management system (LMS); the tests will run at the end of weeks 3, 5, 7, 9 and 11 and each test will contribute equally to this component of the assessment.",
+            "bullets": [
+                "60 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week; 1 x one hour tutorial per week; up to 3 x one hour non-compulsory enrichment seminars within normal university hours during the semester. Total 51 hours.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "pjackson@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p><strong>Aims</strong></p>",
+        "<p>The ability to access, manipulate, organise, analyse and display data are fundamental skills for scientists, historians, managers, financiers, artists and many other professions. This subject explores various computational methods to represent, transform, and make sense of large, diverse sets of data such as share market prices, scientific data or demographic data. This subject is core within the Bachelor of Science for the Major of Informatics. Students completing the Diploma of Informatics can also take this subject.</p>",
+        "<p><strong>Indicative Content</strong></p>",
+        "<p>This subject serves as an introduction to Informatics. Its main focus is on representing and manipulating data using spreadsheet tools; basic web page construction using HTML and style-sheets; representing and manipulating information on the web using a scripting language. These skills form a useful basis for those looking at careers in which the manipulation and visualisation of information takes place.</p>"
+    ],
+    "ilo": [
+        "Apply the fundamental concepts of the Informatics discipline",
+        "Manipulate large data sets in various domains",
+        "Solve practical data management tasks using ICT tools",
+        "Manipulate live web-based data",
+        "Communicate information effectively using Informatics tools",
+        "Appreciate the social implications of computing."
+    ],
+    "generic_skills": [
+        "The ability to analyse and solve real-world problems with computers",
+        "Provide clear and constructive critique of other students\u2019 work",
+        "Synthesise information and communicate results effectively",
+        "Work effectively as a member of a project team."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "VCE Algorithmics units 3/4"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Achieving at least 75% in the programming competency test"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP20008Elements of Data ProcessingSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20008",
+                        "Name": "Elements of Data Processing",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "INFO10002"
+            },
+            {
+                "type": "paragraph",
+                "content": "600-152 Informatics-2: People, Data, and the Web"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One three-stage project (40% total), comprising of:\n\n Part 1 \u2013 Individual \u2013 Solving a practical data manipulation problem (10%) due in week 4, requiring 10-12 hours of work. Intended Learning Outcomes (ILOs) 1 to 5 are addressed in part 1 of the project.Part 2 \u2013 Groups of 3 students \u2013 Design and analysis of data representation (10%) due in week 8, requiring 10-12 hours work per group member. ILOs 1 to 5 are addressed in part 2 of the project.Part 3 \u2013 Groups of 3 students \u2013 Developing an application that enables the presentation, visualisation, and analysis of data (20%) due in week 8, requiring 20 to 30 hours work per group member. ILOs 1 to 5 are addressed in part 3 of the project.",
+            "bullets": [
+                "40-54 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "From Week 4 to Week 8",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One written closed book examination. ILOs 1 to 6 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

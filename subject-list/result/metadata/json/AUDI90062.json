@@ -1,0 +1,150 @@
+{
+    "overview": [
+        "<p>In this subject, students will learn how to apply best practice interventions and evaluate aural rehabilitation outcomes for clients with diverse backgrounds and needs. The subject builds on the fundamental knowledge and skills obtained in Sound and Innovative Solutions A and B. Through workshop-based activities and case studies, students will consider a broad range of management options for individuals with hearing loss. Students will also apply and consider modifications to management based on individual needs and abilities. By the end of this subject, students will understand the scope as well as the limitations of industry tools and be able to adapt educational and/or intervention programs that are client- and family-centred and evidence-informed. </p>"
+    ],
+    "ilo": [
+        "Generate, modify, apply, and appraise management, intervention and aural-rehabilitation strategies that are client and family-centred.",
+        "Adapt and apply communication skills to advocate and assist clients with complex needs and diverse backgrounds in areas including rehabiliation education, hearing protection and prevention of hearing loss.",
+        "Evaluate and understand the limitations of technologies and interventions related to hearing needs.",
+        "Justify the role an Audiologist plays in hearing loss education and prevention.",
+        "Critically evaluate strategies to address the barriers to ear and hearing care in Aboriginal and Torres Strait Islander peoples."
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90053",
+                        "Name": "Audiology Practice A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90055",
+                        "Name": "Professionalism and Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90054",
+                        "Name": "Audiology Practice B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90060",
+                        "Name": "Evidence-Based Practice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90056",
+                        "Name": "Professionalism and Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90058",
+                        "Name": "Sound and Innovative Solutions B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90063",
+                        "Name": "Audiology Research Project",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AUDI90061",
+                        "Name": "Complex Audiological Cases",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AUDI90064",
+                        "Name": "Transition to Practice",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three-part case study assignment",
+            "bullets": [
+                "4000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Project outline due first half of semester 1\n\nOral presentation due mid Semester 2\n\nWritten assignment due mid Semester 2",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Examination must be passed.",
+            "timing": "During the semester 1 examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "OSCE",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "Examination must be passed.",
+            "timing": "During the Semester 1 examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the Semester 2 examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

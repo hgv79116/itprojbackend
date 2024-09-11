@@ -1,0 +1,149 @@
+{
+    "overview": [],
+    "ilo": [
+        "Construct a sound knowledge of business analytics and decision making in the context of management practice of information systems in organisations",
+        "Apply skills in critical thinking and systems analysis to identify, evaluate and/or communicate strategic and operational issues suited to the application of business analytics and decision making in the real-world practice of information systems",
+        "Apply skills related to business communication, interpersonal, and team skills suited to the application of business analytics and decision making in the real-world practice of information systems",
+        "Demonstrate professional codes of conduct and ethical standards as they apply to business analytics and decision making in business practice",
+        "Research and argue disparate beliefs/theories of business analytics and decision making"
+    ],
+    "generic_skills": [
+        "A high level of development: collaborative learning; problem solving; team work; interpretation and analysis; critical thinking",
+        "Moderate level of development: oral communication; written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ISYS90049Digital Business AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5INFO90002Database Systems & Information ModellingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ISYS90049",
+                        "Name": "Digital Business Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "INFO90002",
+                        "Name": "Database Systems & Information Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsISYS90086Data WarehousingNot available in 202412.5ISYS90094Business Analytics and Decision MakingNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90086",
+                        "Name": "Data Warehousing",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ISYS90094",
+                        "Name": "Business Analytics and Decision Making",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and the Assessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            },
+            {
+                "type": "paragraph",
+                "content": "The interactive lectures and tutorials are essential parts of the course requirement. Students are expected to attend at least 80% of tutorials and as many lectures as possible, where there will be interactive and peer learning exercises and activities."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "1. Bi-weekly contribution to online discussions (1000 words) \n\n\n\n2. Response to at least 5 student posts (100 words each). Intended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Bi-weekly from weeks 2 - 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Business Case Plan - outline of the chosen business case.\n\n\n\nThe business case explores the need for analytics for decision making purposes within an organisation.\n\n\n\nThe case chosen can be a real-life example or allocated from a case study (750 words). ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": "Students must submit this assessment item to attain a passing grade in the subject",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Business Case Final Report - final business case report, including the business case plan.\n\n\n\nThe business case explores the need for analytics for decision making purposes within an organisation.\n\n\n\nThe case chosen can be a real-life example or allocated from a case study (2500 words). ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Take Home Exam: Report addressing questions about an organization described in a case study (1500 words). ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total 4 hours (1 two-hour meeting in week 1; 1 two-hour meeting in week 12)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Ofir Turel",
+            "contact_email": "oturel@unimelb.edu.au"
+        }
+    ]
+}

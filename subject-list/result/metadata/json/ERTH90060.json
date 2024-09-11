@@ -1,0 +1,65 @@
+{
+    "overview": [
+        "<p>This subject introduces the fundamentals of spatial data analytics and geoprocessing. By using hands-on exercises with real-life geological datasets, the students learn how to handle data in relational databases, query data with simple SQL statements, cleaning, formatting and exporting geospatial datasets and geo-processing the data in GIS software packages. At the start the subject will focus on looking at the basics of database structures, data analytics and data querying. In the second part of the course the students will create GIS projects, plot spatial data, start analysing and geoprocessing geospatial data, creating interpolated heatmaps, rasterizing point clouds and combining and standardizing disperse datasets. We will also practice data extraction, such as how-to geo-reference a map in Google Earth and in GIS, extract data locations from a geo-referenced image and how to create a final GIS project, including legend and map. Finally, the course concludes with bringing all the data together and creating a final GIS project visualizing all pre-analysed data.</p>"
+    ],
+    "ilo": [
+        "Critically examine and assess the feasibility of creating big data projects;",
+        "Have an advanced understanding of how to analyse data in GIS and create own technical advanced projects;",
+        "Gain unique skills in geoprocessing of spatial data and interpretation of the outcomes; and",
+        "Gain insights into the potential of machine learning and artificial intelligence use in exploration workflows."
+    ],
+    "generic_skills": [
+        "Handle large datasets in digital format;",
+        "Exercise critical judgement;",
+        "Undertake rigorous and independent thinking;",
+        "Adopt a problem-solving approach to new and unfamiliar tasks;",
+        "Develop high-level written report and/or oral presentation skills;",
+        "Interrogate, synthesise and interpret the published literature; and",
+        "Work as part of a team."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Completion of a final data and GIS project based on provided dataset and individual tasks. The final mark will be assessed by means of a 15 \u2013 20 min presentation by each student.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Due one week after the classroom teaching has concluded.",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Submission of a technical report (~2000 words) describing steps of data processing, GIS interpretations and final summary",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due one week after the classroom teaching has concluded.",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "October",
+            "principal_coordinator": "Ralf Haese",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total of 40 contact hours over 5 days: x4hrs lectures & x4hrs practicals per day",
+            "total_time_commitment": "75 hours",
+            "teaching_period": "28 October 2024 to  1 November 2024",
+            "last_self_enrol_date": "29 October 2024",
+            "census_date": "29 October 2024",
+            "last_date_to_withdraw_without_fail": "31 October 2024",
+            "assessment_period_ends": "1 November 2024",
+            "contact_name": null,
+            "contact_email": "ralf.haese@unimelb.edu.au"
+        }
+    ]
+}

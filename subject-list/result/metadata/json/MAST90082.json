@@ -1,0 +1,151 @@
+{
+    "overview": [
+        "<p>The theory of statistical inference is important for applied statistics and as a discipline in its own right. After reviewing random samples and related probability techniques including inequalities and convergence concepts the theory of statistical inference is developed. The principles of data reduction are discussed and related to model development. Methods of finding estimators are given, with an emphasis on multi-parameter models, along with the theory of hypothesis testing and interval estimation. Both finite and large sample properties of estimators are considered. Applications may include robust and distribution free methods, quasi-likelihood and generalized estimating equations. It is expected that students completing this course will have the tools to be able to develop inference procedures in novel settings.</p>"
+    ],
+    "ilo": [
+        "Understand the principles of mathematical statistics and some of its important applications; and",
+        "Be able to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team; and",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20005StatisticsSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "12.5 credit points of level 3 subject in statistics or stochastic processes which could include one of the below:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30001Stochastic ModellingSemester 2 (On Campus - Parkville)12.5MAST30025Linear Statistical ModelsSemester 1 (On Campus - Parkville)12.5MAST30027Modern Applied StatisticsSemester 2 (On Campus - Parkville)12.5MAST30020Probability for InferenceSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30001",
+                        "Name": "Stochastic Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30025",
+                        "Name": "Linear Statistical Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30027",
+                        "Name": "Modern Applied Statistics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30020",
+                        "Name": "Probability for Inference",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-DATASC Master of Data Science"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST90104 A First Course In Statistical Learning"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuing assessment of up to 40 hours work, worth 20% of the mark, throughout the semester",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Liuhua Peng",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one-hour interactive lectures per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "liuhua.peng@unimelb.edu.au"
+        }
+    ]
+}

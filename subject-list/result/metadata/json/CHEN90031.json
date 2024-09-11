@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject aims to establish an understanding of how chemical and biochemical engineering principles can be applied to the sustainable production of chemical products. The subject will focus on the application of biological conversion processes, in particular the use of microorganisms, and the conversion of renewable biomass feedstocks using chemical and biochemical pathways. This subject introduces students to the area of sustainable chemical production and bioprocessing, an area of growing importance to society.</p>",
+        "<p>Topics covered will include: biochemistry of biological feedstocks; basic microbiology, cell structure and nutritional requirements; products from microbes and bioprocesses; cell growth kinetics and product formation; batch and continuous microbial growth and product formation; cellular maintenance energy and endogenous respiration; design of fermentation processes; bioreactor design and kinetics; industrial sterilisation &amp; aseptic design; chemical conversion of biomass; biochemical separation processes.</p>"
+    ],
+    "ilo": [
+        "Interpret the key biochemical and microbial concepts underlying sustainable bioprocessing",
+        "Apply mathematically complex biochemical and microbial conversions",
+        "Design key aspects of an industrial-scale bioprocess",
+        "Appraise important chemical engineering issues relating to sustainability of resources and sustainable development."
+    ],
+    "generic_skills": [
+        "Capacity for independent thought",
+        "The ability to analyse and solve open-ended problems",
+        "The ability to comprehend complex concepts and communicate lucidly this understanding",
+        "Awareness of advanced technologies in the discipline",
+        "Ability to work in a team (practical work component)",
+        "Understand key separation processes",
+        "Develop capability to review literature."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEN30001Reactors and CatalysisSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN30001",
+                        "Name": "Reactors and Catalysis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: MC-CHEMENG Master of Chemical Engineering, MC-SCIBIT Master of Biotechnology, Chemical specialisation (formal) in the MC-ENG Master of Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One examination. The examination paper will consist of problems designed to test whether the student has acquired the ability to apply fundamental principles to the solutions of problems involving bioprocesses. The problems set for the exam will be similar in style to those undertaken in the tutorial classes, but will require the student to show that they can extend themselves beyond the level of the simpler tutorial problems.  Intended Learning Outcomes (ILOs) 1, 2, and 4 are addressed in the examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "At least 40% in the final exam is required to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "brief": "One written assignment. ILOs 1, 2. and 4 are addressed in the written assessment.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Summer Intake: Due weeks 2 to 3; and Semester 1 : Due weeks 6 to 7.",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Two practical work assignments. (10% total; 5% each). ILO 3 is assessed in the practical work.",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Summer Intake: Due weeks 1 to 3; and Semester 1: Due weeks 2 to 5",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Greg Martin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3x 1-hour lectures  and 1x 1-hour tutorial per week, and  2x-2 hour practical work sessions per semester.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Email:au",
+            "contact_email": null
+        }
+    ]
+}

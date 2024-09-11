@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject will provide foundational conceptual frameworks for understanding learning and teaching necessary to Teacher Candidates\u2019 development as Clinical Practitioners. It will examine how learning can be understood and enhanced from a range of evidence-based, theoretical perspectives. Candidates will gain knowledge and understanding of physical, social and intellectual development and how characteristics of students may affect learning. Specifically, pedagogical practices focusing on understanding how learning occurs and the processes that facilitate classroom learning will be identified. This subject will also support Teacher Candidates\u2019 explorations of classroom management practices and strategies that support students\u2019 well being and safety to provide high-quality learning environments that meet school and/or system, curriculum and legislative requirements. It will equip Teacher Candidates with the fundamental skills necessary to begin to observe, design and implement whole classroom approaches to inclusion. This subject will introduce the Clinical Judgement for Teaching Cycle as a primary approach to teacher practice that positions assessment as a key underpinning to teachers\u2019 instructional planning using the collection and interpretation of valid evidence. Examples of various conceptualisations and purposes of assessment \u2013 such as unformal and formal, diagnostic, formative and summative assessment \u2013 will be used to develop deep understandings of methods of evidence collection and interpretation. The theme of this core subject is \u2018planning and evidence\u2019.</p>"
+    ],
+    "ilo": [
+        "Identify learning as both a process and a product that has implications for teaching judgements (Graduate Standards 1.2)",
+        "Understand physical, social and intellectual development and characteristics of students and how these may affect learning and implications for clinical judgements (Graduate Standards 1.1, 1.2, 5.5)",
+        "Collect, analyse, interpret and use assessment evidence about learners, what they already know and what they are ready to learn, to make judgements about learning and subsequent teaching (Graduate Standards 1.1, 3.1, 5.1, 5.4, 5.5)",
+        "Recognise and plan for the use of research-informed pedagogical practices in a specific context (Graduate Standards 1.2, 2.1, 3.3, 4.5)",
+        "Recognise and develop safe and supportive learning environments that promote positive behaviour, wellbeing and the purposeful engagement of learners (Graduate Standards 1.4, 4.1, 4.2, 4.4)"
+    ],
+    "generic_skills": [
+        "Clinical reasoning and thinking",
+        "Problem solving",
+        "Evidence based decision making",
+        "Creativity and innovation",
+        "Teamwork and professional collaboration",
+        "Learning to learn and metacognition",
+        "Responsiveness to a changing knowledge base",
+        "Reflection for continuous improvement",
+        "Linking theory and practice",
+        "Inquiry and research",
+        "Active and participatory citizenship"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90901",
+                        "Name": "Educational Foundations (Sec)",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "EDUC90908",
+                        "Name": "Clinical Teaching Practice (Sec) 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Planning document",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Case study",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Clinical Praxis Exam (School) individual oral report (15 minutes; 2000 words equivalent for this subject). This is a shared task with EDUC90901 Educational Foundations (Sec)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "Successful completion of the Clinical Praxis Exam with a minimum 50% pass grade is required to achieve an overall pass in this subject",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at all scheduled seminars, tutorials and workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

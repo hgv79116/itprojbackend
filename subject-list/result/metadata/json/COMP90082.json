@@ -1,0 +1,145 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject gives students in the Master of Information Technology experience in analysing, designing, implementing, managing and delivering a software project related to their stream of IT speciality. The aim of the subject is to guide students in being an independent member working within a team over the major phases of IT development, giving hands-on practical application of the topics seen throughout their degree. The subject also gives students a concrete understanding of teamwork processes and tools that underpin the practical aspects of developing software.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Students will work in small teams to conceive, analyse, design, implement, test, and maintain a software product for a group of stakeholders. Workshops are tied closely to the projects and the particular phases of each project and will explore the application of theory to the project, including topics on: requirements analysis, software design, software release, communication, ethical principles, and software project management tools. Students will be required to demonstrate independence while working as part of a team.</p>"
+    ],
+    "ilo": [
+        "Design, implement, validate, release, and maintain a software product in their stream of speciality that achieves specific project goals using a repeatable process",
+        "Independently research and evaluate technologies for specific problems as part of IT projects",
+        "Work with stakeholders to develop IT systems to meet their needs while applying ethical principles and procedures",
+        "Integrate the knowledge gained in other subjects in designing and building applications for a real-world problem",
+        "Demonstrate effective teamwork and communication skills, including communicating technical outcomes to non\u2010technical stakeholders and using contemporary professional tools"
+    ],
+    "generic_skills": [
+        "Have the ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Be able to undertake problem identification, formulation and solution",
+        "Have a capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Have a profound respect for truth and intellectual integrity, and for the ethics of scholarship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN90016",
+                        "Name": "Software Processes and Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "No more than 75 points short of degree completion."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90055",
+                        "Name": "Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "GEOM90043",
+                        "Name": "Spatial IT Project",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "INFO90008",
+                        "Name": "HCI Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "INFO90010",
+                        "Name": "Technology Innovation Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP90019 Distributed Computing Project"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Artefacts related to analysis, design, validation, and teamwork, requiring approximately 160-180 hours per student,  due throughout the semester.\n\nAll team members will receive the same team mark, unless there are exceptional circumstances to warrant individual marking. Specific timing of artefacts is dependent on the team's project plan, to be defined in coordination with their supervisor. Addressing Intended Learning  Outcomes (ILO's) 1, 3, 4, & 5.",
+            "bullets": [
+                "180 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final product, requiring approximately 80-120 hours per student. All team members will receive the same team mark, unless there are exceptional circumstances to warrant individual marking. Addressing ILO's 1, 3, 4 & 5.",
+            "bullets": [
+                "120 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Each student's mark will be based on their individual work, including: (1) the student's individual contribution to the project, assessed on the same quality criteria as the artefacts and final product; and (2) demonstration of individual competences on professional tools, processes, and communication skills. Students are expected to participate in team meetings and workshops and contribute towards artefact and product, requiring  80-100 hours per student.  Duet hroughout the semester. Addressing ILO's 1 to 5.",
+            "bullets": [
+                "100 hours (of work required)"
+            ],
+            "hurdle": "Students must receive 20/40 to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Eduardo Araujo Oliveira",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising one 1-hour lecture per week and weekly supervisory meetings",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Eduardo Araujo Oliveira",
+            "contact_email": "eduardo.oliveira@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Lucy Sparrow",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising one 1-hour lecture per week and weekly supervisory meetings",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "lucy.sparrow@unimelb.edu.au"
+        }
+    ]
+}

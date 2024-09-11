@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>This subject involves completion of a 10-week project using real data from an industry setting. The subject integrates academic learning, practical challenges in implementing data analytics in an organisation, employability skills and attributes and an improved knowledge of how analytics can be implemented within organisations. The assessment week of the subject will involve the completion of the report for the subject and a project presentation. This is an individual project. Students interested in a research higher degree may, with permission, undertake an individual research project.</p>"
+    ],
+    "ilo": [
+        "Clearly articulate the business problem to be solved and the data & tools required to solve the problem.",
+        "Identify and articulate their analytics knowledge and skills and apply them to relevant organisational contexts and work-settings; as well as linking them to specific professions and career pathways.",
+        "Produce original work in an appropriate format which demonstrates analytical, research and problem-solving skills;",
+        "Put into practice communication, interpersonal, organisational and time management skills in a workplace context;",
+        "Present their work professionally in a way that makes the connections between the results of their analysis and business issues for an organisation."
+    ],
+    "generic_skills": [
+        "\u2022\tHigh level of development: problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; synthesis of data and other information; evaluation of data and other information; use of computer software; accessing data and other information from a range of sources.\n\n\u2022\tHigh level of development:  written communication; critical thinking; receptiveness to alternative ideas.\n\n\u2022\tHigh level of development: collaborative learning; team work"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "a minimum of 125 credit points of study in the course"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90504",
+                        "Name": "Individual Research Project",
+                        "Teaching period": "August (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "\u2022The ability to explain and evaluate concepts, theories, and business operations of organisations"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022Ability to use analytic techniques to solve business problems"
+            },
+            {
+                "type": "paragraph",
+                "content": "Melbourne Business School welcomes applications from students with disabilities and takes reasonable steps to implement adjustments to provide equal participation opportunities for students with disability."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project proposal",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "",
+            "timing": "Week 2",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Project report and presentation (report is 5,000 word and presentation is 30 minutes which in total are equivalent of 8000 word assessment)",
+            "bullets": [
+                "8000 words"
+            ],
+            "hurdle": "",
+            "timing": "Week 10",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "15 January 2024 to 22 March 2024",
+            "last_self_enrol_date": "9 January 2024",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "1 March 2024",
+            "assessment_period_ends": "29 March 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "April",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "8 April 2024 to 14 June 2024",
+            "last_self_enrol_date": "26 March 2024",
+            "census_date": "19 April 2024",
+            "last_date_to_withdraw_without_fail": "24 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

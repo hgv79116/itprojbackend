@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p>This subject introduces students to key foundational concepts of self-awareness, reflective practice, and the dynamic nature of working with diverse populations in a healthcare setting, contextualised through a hearing health lens. On completion of the subject, students will be able to describe how individual attributes (of both themselves and others) impact professional practice in a clinical setting. Students will be able to demonstrate awareness of the foundational skills required for clinical practice.</p>"
+    ],
+    "ilo": [
+        "Outline and employ knowledge of professional boundaries and self-awareness to basic clinical practice.",
+        "Describe the importance of reflective practice in the context of modern healthcare.",
+        "Identify the importance of mental health and wellbeing awareness in self and others.",
+        "Explain where the audiologist fits within the health system at a local, population and global level.",
+        "Recognise the ethical and legal boundaries of audiology practice.",
+        "Adapt communication for clients with differing backgrounds, needs and requirements."
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90053",
+                        "Name": "Audiology Practice A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two written assignments",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Assignment 1: mid Semester; \n\nAssignment 2: End of Semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Group presentation",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Between Weeks 3-9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Roleplay OSCE",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Clinical passport",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": "Student must submit a satisfactory clinical passport",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at 85% of placements",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Peter Carew",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures (2 hours), workshops (2 hours) and clinical placements (2 hours) per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "pcarew@unimelb.edu.au"
+        }
+    ]
+}

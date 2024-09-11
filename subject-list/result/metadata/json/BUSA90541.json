@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>Predicting key business and economic variables is increasingly important, as it drives both objective decision-making and improved profitability. This component aims to cover the main methods used to predict business and economic variables, based on historical data. These include traditional regression, time series, multivariate and econometric models, as well as emerging methods such as ensemble forecasts. Both point and density prediction will be considered, along with metrics for the quality of both. Throughout, the focus will be on introducing methods in the context of substantive business and economic problems, using a wide range of prediction methods. The importance of benchmarking different methodologies, and the use of prediction in decision-making frameworks, will also be stressed.</p>"
+    ],
+    "ilo": [
+        "Understand a wide range of models and methodologies relevant to predicting business outcomes.",
+        "Apply appropriate modelling and forecasting techniques to business and economic contexts, and to critique and compare competing methodologies.",
+        "Translate forecasting outputs to information and provide recommendations to address the relevant business problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90536",
+                        "Name": "Statistical Learning for Business",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Syndicate assignment",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students are required to pass the final examination to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "May",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "27 May 2024 to 19 July 2024",
+            "last_self_enrol_date": "6 June 2024",
+            "census_date": "14 June 2024",
+            "last_date_to_withdraw_without_fail": "5 July 2024",
+            "assessment_period_ends": "26 July 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

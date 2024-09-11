@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>Contemporary business is awash in data. Modern businesses\u2019 business processes and activities usually involve multiple streams of data from areas as diverse as marketing activities, operational processes and financial activities. Therefore, managers are frequently confronted with how to harness these to understand their business better, so that they can make more informed decisions. Data analysis is the process of converting such raw data into meaningful information to inform business decision-making.</p>",
+        "<p>This subject provides an introduction to the fundamental data analysis skills and techniques that are used in contemporary business and management. These skills are essential both for later MBA subjects, and also for solving managerial problems in your later career. The course is computer based and students are required to perform all manipulations and computations themselves.</p>"
+    ],
+    "ilo": [
+        "find probablities for normal distributions",
+        "compute a confidence interval for a mean, proportion and the difference between two means",
+        "conduct a hypothesis test for a mean or a proportion",
+        "identify possible errors or biases in sampling",
+        "compute the correlations between variables",
+        "use Excel to run a regression analysis",
+        "interpret the output of a regression analysis and evaluate the validity and usefulness of a regression model in the context of the business issues that are being analysed"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90481",
+                        "Name": "Managerial Ethics & Business Environment",
+                        "Teaching period": "April (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "One of:\nBUSA90351   BUSA90350   BUSA90352   BUSA90354   BUSA90353"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to class learning",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Personal reflection of learning through case discussion",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Syndicate assignment report (equivalent of individual 600 words)",
+            "bullets": [
+                "600 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Day 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final Syndicate project report (equivalent of individual 1,200 words) and presentation (equivalent of individual 500 words)",
+            "bullets": [
+                "1700 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Day 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": "Students need to pass the final exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "April",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "4 April 2024 to  5 May 2024",
+            "last_self_enrol_date": "11 March 2024",
+            "census_date": "5 April 2024",
+            "last_date_to_withdraw_without_fail": "19 April 2024",
+            "assessment_period_ends": "5 May 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

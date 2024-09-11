@@ -1,0 +1,77 @@
+{
+    "overview": [
+        "<p>Students will acquire basic skills in the use of computers for music notation, composition and music education, and learn the fundamentals of MIDI (Musical Instrument Digital Interface).</p>"
+    ],
+    "ilo": [
+        "use notation software to enter, layout and edit music in a variety of formats, including music scored for multiple instruments, keyboard instruments, vocal parts;",
+        "produce audio and MIDI versions of their score;",
+        "produce scores and players' parts that are accurate and legible;",
+        "export graphics from notation software and incorporate them into other types of document, such as a word-processing file, presentation or web page;",
+        "understand the nature of difficulties encountered when transcribing real-time performances into usable notation, and of the issues involved in using combined;",
+        "demonstrate practical skills in using MIDI and sequencing software;"
+    ],
+    "generic_skills": [
+        "self-direct their learning of complex software packages through the use of computer-based and online resources;",
+        "negotiate around the common design constraints of music software, in order to advance the musical aims of the project at hand;",
+        "approach the learning of new technologies with a positive, explorative attitude."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two notation exercises due as assigned during the semester (10% each)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A 10-minute class presentation and written summary",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "A MIDI sequencing project of 1 minute duration, 4-track minimum",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An ensemble scoring project of approximately 30 bars, minimum 4 staves",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "12 hours, comprising one 1-hour class per week",
+            "total_time_commitment": "60 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "egyger@unimelb.edu.au"
+        }
+    ]
+}

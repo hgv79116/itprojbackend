@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>This subject examines the science, technology and policy instruments of a broad range of renewable energy technologies including solar, wind and water as well as other thermal renewables. Specifically, the subject covers:</p>",
+        "<ul><li><strong>Solar: </strong>Overview of the fundamental physics of solar radiation; Technical details of photovoltaic cells and concentrating solar power systems</li><li><strong>Wind and water: </strong>Overview of the fundamental physics of motion involved in energy in wind &amp; water; Technical details of wind turbines and hydro-power systems, including pumped Hydro-Energy Storage</li><li><strong>Other thermal renewables:</strong> Overview of the chemistry and technologies for biomass for heat and electricity and liquid biofuels</li><li><strong>Renewable integration and policy: </strong>Overview of renewable energy policy considerations; Understanding challenges of integration of renewables into power systems. This includes managing variability and the opportunities provided by storage and demand-side management.</li></ul>"
+    ],
+    "ilo": [
+        "Demonstrate a critical understanding of the technical details across a broad variety of renewable energy technologies;",
+        "Describe renewable energy resources and their dependencies on environmental factors in Australia and internationally;",
+        "Assess the relative merits of the different technologies in terms of cost, variability and technical constraints."
+    ],
+    "generic_skills": [
+        "Ability to communicate effectively on the technical topics both to a technically trained audience and to the general public",
+        "Understanding of the broad implications of technological change in the 21st century"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENGR90029Analysing Energy SystemsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90029",
+                        "Name": "Analysing Energy Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two quizzes (30 minutes each)",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 2 and Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Practical assignments (3 over the semester)",
+            "bullets": [
+                "700 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 4, 7 and 9",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "Total of 48 contact hours: 1x 3hr lecture and 1 x 1hr tutorial weekly",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "kelvin.say@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "overview": [
+        "<p>The subject comprises a series of advanced lectures, delivered in research seminar format with accompanying readings and learning activities, each focussing on a key area of physiotherapy research methodology in the context of a specific clinical field and practice context. Students will develop an understanding of a broad range of research methodologies that can be applied to address physiotherapy research questions across a range of areas such as acute cardiorespiratory rehabilitation, exercise oncology, neurological rehabilitation, musculoskeletal, and sports and exercise, and paediatrics.</p>",
+        "<p>Students will also attend workshops, journal clubs and postgraduate research presentations or research meetings relevant to their specific topic.</p>"
+    ],
+    "ilo": [
+        "Demonstrate and explain experimental design, experimental implementation, data evaluation and communication as it relates to current research in physiotherapy in a broad ethical context.",
+        "Identify the key themes in physiotherapy research within research environments and explain how these translate into clinical management",
+        "Select, summarise and critically appraise published research in an area of physiotherapy",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "generic_skills": [
+        "Understanding scientific and ethical approaches to research questions",
+        "Appreciating how data are evaluated",
+        "Presenting a constructive critique of research",
+        "Developed written and oral communication skills to a high standard",
+        "Contributing to intellectual discussion"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHTY40013Physiotherapy Science Research Project 1Semester 1 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY40013",
+                        "Name": "Physiotherapy Science Research Project 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Report \n\nStructured critical appraisal",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Oral presentation \n\nResearch report to lay audience",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Infographic figure",
+            "bullets": [
+                "1 pages"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written Reflection",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "80% Attendance at seminars",
+            "bullets": null,
+            "hurdle": "80% Attendance at seminars is required to pass the subject",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Adam Bryant",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "albryant@unimelb.edu.au"
+        }
+    ]
+}

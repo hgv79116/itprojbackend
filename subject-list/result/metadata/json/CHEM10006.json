@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p>An introduction to biomedical chemistry including the nature of:</p>",
+        "<ul><li>orbitals and bonding;</li><li>chirality and its relevance to biology and medicine;</li><li>organic molecules and functional groups;</li><li>their reactivity;</li><li>the structure and reactivity of bio-polymers;</li><li>properties of solutions;</li><li>the bio-geo-chemical cycles of selected elements;</li><li>energy acquisition, storage and transport;</li><li>bio-metals.</li></ul>"
+    ],
+    "ilo": [
+        "Understand the role of chemistry in biology, medicine and the environment;",
+        "Illustrate how the individual concepts taught throughout this subject connect with each other to form a fundamental basis of the molecular sciences;",
+        "Execute basic laboratory experiments; analyse and interpret experimental data and write laboratory reports;",
+        "Apply health and safety regulations associated with the safe handling and disposal of laboratory chemicals;",
+        "Describe the kinetics of chemical reactions and factors that affect rates of reactions;",
+        "Outline the unique characteristics of carbon-based compounds including bonding, chirality, classification of important functional groups, and the biogeochemical cycle of carbon;",
+        "Outline synthetic strategies to obtain carbon-based molecules; concepts of redox chemistry;",
+        "Describe the structure and synthesis of common biological molecules;",
+        "Outline basic energy concepts; chemical equilibrium; acids and bases and factors that determine their strengths;",
+        "Identify the general scientific research process and how to critically analyse scientific data."
+    ],
+    "generic_skills": [
+        "the organization of work schedules that permit appropriate preparation time for tutorials, practical classes and examinations.",
+        "the use of electronic forms of communication.",
+        "the utilisation of computer-aided learning activities to enhance understanding.",
+        "the performance of basic manipulations with laboratory equipment.",
+        "the recording of observations, the analysis of information and the interpretation data within a laboratory setting.",
+        "accessing information from the library employing both electronic and traditional means.",
+        "working collaboratively with other students.",
+        "the use of conceptual models.",
+        "problem solving.",
+        "critical thinking."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three equally weighted on-line tests",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 11",
+            "percentage": "6%"
+        },
+        {
+            "brief": "Ongoing assessment of practical work (6 x 3 hour practicals)",
+            "bullets": null,
+            "hurdle": "Satisfactory completion of practical work is necessary to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "74%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Independent learning tasks need to be completed in order to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sonia Horvat",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week, 1 x three hour lab/workshop per week, 1 x one hour tutorial/workshop session per week, 6 hours of computer-aided learning during the semester, 8 hours of independent learning tasks during semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "shorvat@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week, 1 x three hour lab/workshop per week, 1 x one hour tutorial/workshop session per week, 6 hours of computer-aided learning during the semester, 8 hours of independent learning tasks during semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "shorvat@unimelb.edu.au"
+        }
+    ]
+}

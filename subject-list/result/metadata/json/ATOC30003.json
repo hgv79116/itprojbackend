@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>This subject gives an overview of the weather and climate extreme phenomena in the tropical region, as driven by the interaction between the ocean and the atmosphere on a wide range of time and space scales. Topics include tropical cyclones, ENSO theory, Monsoon depression and Monsoon lows, cloud clusters and squall lines, tropical-extratropical interactions, the governing equations at low latitudes, momentum and heat exchanges in the ocean and atmospheric boundary layers, fundamental causes of ocean circulation, ocean wave theory including wind-waves and tides, Kelvin and Rossby waves, and intraseasonal oscillations. </p>"
+    ],
+    "ilo": [
+        "describe the fundamental causes of the general circulation of the ocean and its relationship to the general circulation of the atmosphere",
+        "reproduce the governing equations and approximations relevant to the tropical atmosphere and describe the key structural features of the tropical weather and climate",
+        "describe and solve the fundamental equations that explain waves in the ocean and the atmosphere, including equatorial waves and their relationship to tropical weather and climate",
+        "explain and quantify the fundamental processes causing upper-ocean mixing, variations in upper-ocean properties due to air-sea interaction effects, both locally and globally",
+        "communicate clearly the key concepts discussed in this subject",
+        "utilise appropriate numerical methods and computer programming to analyse, visualise and understand real-world weather and climate datasets"
+    ],
+    "generic_skills": [
+        "ability to demonstrate a high level of achievement in writing and problem-solving;",
+        "ability to apply analytical, quantitative and technical skills to problem solving;",
+        "ability to critically analyse information as life-long learners;",
+        "ability to demonstrate excellent organisational, planning and time management skills; and",
+        "ability to apply  scientific knowledge to  understand current technological and social changes."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsATOC20003Atmospheric ModellingSemester 2 (On Campus - Parkville)12.5MAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ATOC20003",
+                        "Name": "Atmospheric Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four problem sets (each worth 10%)",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Equally spaced throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures per week; 1 x two hour practical class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "yi.huang4@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>This subject develops the mathematical methods of applied mathematics and mathematical physics with an emphasis on integral transform and related techniques. An introduction is given to the calculus of variations and the Euler-Lagrange equation. Advanced complex contour integration techniques are used to evaluate and invert Fourier and Laplace transforms. The general theory includes convolutions, Green\u2019s functions and generalized functions. The methods of Laplace, stationary phase, steepest descents and Watson\u2019s lemma are used to asymptotically approximate integrals. Throughout, the theory is set in the context of examples from applied mathematics and mathematical physics such as the brachistochrone problem, Fraunhofer diffraction, Dirac delta function, heat equation and diffusion.</p>"
+    ],
+    "ilo": [
+        "have learned how the calculus of variations, transform methods and associated asymptotic analysis apply in a variety of areas in applied mathematics and mathematical physics;",
+        "appreciate the role of advanced contour integration techniques of complex analysis and to be able to use these techniques to calculate transform integrals;",
+        "understand the basic concepts of asymptotic evaluation of integrals, know how to implement Laplace\u2019s method, stationary phase and steepest descents and appreciate their applicability and limitations;",
+        "be familiar with the basic properties of generalized functions and Green\u2019s functions in applied mathematics and mathematical physics and their applications;",
+        "have the ability to pursue further studies in these and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST30029 Partial Differential Equations (pre-2014)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30030Applied Mathematical ModellingSemester 1 (On Campus - Parkville)12.5MAST30031Methods of Mathematical PhysicsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30030",
+                        "Name": "Applied Mathematical Modelling",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30031",
+                        "Name": "Methods of Mathematical Physics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 50 pages of written assignments (two assignments worth 20% each, due mid and late in semester)",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "nrbeaton@unimelb.edu.au"
+        }
+    ]
+}

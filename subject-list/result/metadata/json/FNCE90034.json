@@ -1,0 +1,72 @@
+{
+    "overview": [
+        "<p>Students may enrol in this subject only with the prior permission of the Course Director, which will be given only after presentation of an acceptable project proposal. The proposal must be submitted at least three weeks before the start of semester, and approval finalised before the start of the semester. The final project must be submitted at the end of the relevant semester. Students are encouraged to select a project topic that overlaps with their work activities.</p>"
+    ],
+    "ilo": [
+        "Identify a research topic that overlaps the students work activities;",
+        "Critically evaluate a chosen area of the appropriate literature;",
+        "Present an argument on a sound basis;",
+        "Analyse the limitations of previous research and implications for the interpretation of results;",
+        "Complete an applied research project in a chosen area."
+    ],
+    "generic_skills": [
+        "Oral communication",
+        "Written communication",
+        "Collaborative learning",
+        "Problem solving",
+        "Team work",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Interpretation & analysis",
+        "Critical thinking",
+        "Synthesis of data and other information",
+        "Evaluation of data and other information",
+        "Using computer software",
+        "Accessing data and other information from a range of sources"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE90019",
+                        "Name": "Principles of Finance",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "FNCE90020",
+                        "Name": "Derivative Securities",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject is only available to those students who would satisfy the entry criteria for the Master of Applied Finance."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment or equivalent",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": []
+}

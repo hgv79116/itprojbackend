@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>The theory of Lie algebras is fundamental to the study of groups of continuous symmetries acting on vector spaces, with applications to diverse areas including geometry, number theory and the theory of differential equations. Moreover, since quantum mechanical systems are described by Hilbert spaces acted on by continuous symmetries, Lie algebras and their representations are also fundamental to modern mathematical physics. This subject develops the basic theory in a way accessible to both pure mathematics and mathematical physics students, with an emphasis on examples. The main theorems are: the classification of complex semi-simple Lie algebras in terms of Cartan matrices and Dynkin diagrams, and the classification of finite-dimensional representations of these algebras in terms of highest weight theory.</p>"
+    ],
+    "ilo": [
+        "An understanding of the abstract theory of Lie algebras, and how they arise from Lie groups;",
+        "The ability to analyse examples of semisimple Lie algebras using the language of roots and coroots;",
+        "An understanding of the abstract theory of representations of Lie algebras;",
+        "The ability to analyse examples of representations using the language of weights; and",
+        "Facility with some basic applications of this theory to the study of symmetries in physical systems."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team; and",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30005",
+                        "Name": "Algebra",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30031",
+                        "Name": "Methods of Mathematical Physics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written assignment",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written assignment",
+            "bullets": [
+                "15 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One written assignment",
+            "bullets": [
+                "15 hours"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

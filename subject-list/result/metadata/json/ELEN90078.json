@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to the basic principles, analysis, and design of distributed systems and game theory within an engineering context, encompassing fundamental concepts, analytical tools, and algorithms. It focuses on multi-person decision-making on distributed systems and game-theoretic approaches to resource allocation. Both static, distributed, and convex optimisation and (non)linear dynamical systems are studied. The concepts and methods discussed are illustrated in multiple application areas including Internet of Things (IoT), smart grid and power systems, cyber-security, and communication networks.</p>",
+        "<p>The concepts taught in this subject will allow for a better understanding of distributed systems and provide much needed expertise for analysis and design of such systems using game theory.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered may include:</p>",
+        "<ul><li>A brief overview of convex optimisation and distributed systems;</li><li>Distributed optimisation and network utility maximisation;</li><li>Fundamentals of strategic (non-cooperative) games, Nash equilibrium and its distributed computation;</li><li>Static, dynamic, stochastic, and Bayesian games;</li><li>Coalition formation games;</li><li>Security games;</li><li>Basics of mechanism design, VCG mechanisms;</li><li>The role of information in distributed systems and strategic games;</li><li>Analysis of distributed systems using graph abstractions and games over graphs;</li><li>Applications of distributed algorithms and strategic games to Internet of Things (IoT), smart grid and power systems, cyber-security, and communication networks.</li></ul>"
+    ],
+    "ilo": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the subject coordinator"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assessment of submitted project work completed individually, not exceeding 15 pages over the semester [ILOs: 1, 2 and 4]",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assessment of submitted project work completed in small groups (2-3 students), not exceeding 15 pages over the semester [ILOs: 3, 4 and 5]",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral presentation of project work, team-based with 2-3 members, of approximately 15-20 mins duration [ILOs: 4 and 5]",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written examination [ILOs: 1, 2, 3 and 4]",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

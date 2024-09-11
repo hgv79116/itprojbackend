@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>This subject has two primary aims: </p>",
+        "<p>To provide fundamental principles of actuarial modelling. </p>",
+        "<p>To discuss techniques used to model and value cashflows dependent on death, survival, or other  uncertain risks.</p>"
+    ],
+    "ilo": [
+        "Define various assurance and annuity contracts, and develop formulae for the means and variances of the present values of the payments under these contracts, assuming constant deterministic interest.",
+        "Define and use assurance and annuity functions involving two lives.",
+        "Describe and use methods of projecting and valuing cashflows that are contingent upon multiple transition events and multiple decrement events.",
+        "Define the gross random future loss and calculate gross premiums and reserves of assurance and annuity contracts.",
+        "Define and calculate death strain at risk, expected death strain, actual death strain, and mortality profit for a single or a portfolio of insurance and annuity policy policies.",
+        "Project expected future cashflows and perform profit testing for various insurance policies.",
+        "Establish non-unit reserves to eliminate (\u201czeroise\u201d) future negative cashflows for unit-linked contracts."
+    ],
+    "generic_skills": [
+        "Written communication;",
+        "Problem solving;",
+        "Statistical reasoning;",
+        "Application of theory to practice;",
+        "Synthesis of data and other information;",
+        "Use of Computer Software"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL90006",
+                        "Name": "Life Insurance Models I",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Assignment 1",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid-semester exam (Week 7\u20108)",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual Assignment 2",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "final exam must be passed",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rui Zhou",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "A 2 hour seminar and a 1 hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

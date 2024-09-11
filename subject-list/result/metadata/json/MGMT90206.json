@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject is aimed at students undertaking graduate research programs. The overall aim is to provide the students an opportunity to broaden and deepen their understanding of core theoretical concepts within their discipline. This subject consists of a set program of weekly seminars on topics from the discipline within which candidate\u2019s thesis is undertaken or an approved reading course under the direction of academic member (s) of staff within the department.</p>"
+    ],
+    "ilo": [
+        "Explain the key issues associated with the special topic",
+        "Analyse the relationship of the special topic to broader management/marketing principles"
+    ],
+    "generic_skills": [
+        "Problem solving skills, which should be enhanced through the study of research design and research methods",
+        "Writing skills appropriate for the preparation of academic articles and research reports in Management and Marketing, including the doctoral thesis",
+        "Analytical skills, which should be developed through the evaluation of quantitative and qualitative empirical research literature"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-COMMGMT Master of Commerce (Management)",
+                    "MC-COMMKTG Master of Commerce (Marketing)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of 100 points"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual presentation (15 minute presentation plus 5 minute Q&A)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual project report",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "90%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Fang-Chi Lu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 contact hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "fangchi.lu@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 contact hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "fangchi.lu@unimelb.edu.au"
+        }
+    ]
+}

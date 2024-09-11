@@ -1,0 +1,194 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the diverse world of microbiology and the roles that microorganisms play in all aspects of agriculture, including animal, plant and soil science. The basic structure and biology of microorganisms will be covered, with a focus on bacteria, viruses and fungi. Aspects of molecular biology and genetics will also be introduced. The role that microorganisms play within the environment, in particular relating to plant, animal and soil health, will also be considered. The use of microorganisms in food and beverage production is also discussed, as well as how bioinformatics can be utilised in agricultural microbiology.</p>"
+    ],
+    "ilo": [
+        "Understand and accurately apply terminology used in the field of microbiology, and understand the fundamental differences between different types of microorganisms including bacteria, viruses, fungi, prions and protozoa",
+        "Describe the structure and biology of bacterial cells, including the arrangement and replication of genetic material, and understand the concept of virulence and virulence factors",
+        "Describe the structure and function of fungi",
+        "Explain the fundamental concepts of virus structure and replication",
+        "Explain how microorganisms may be detected within various environments, including how they may be cultivated within the laboratory setting, and molecular methods of detection",
+        "Be able to carry out basic laboratory techniques related to microbiology and molecular biology",
+        "Explain the various relationships microorganisms have with their environments, including pathogenic, symbiotic and commensal lifestyles",
+        "Give examples of specific microorganisms important to animals, plants and soil ecosystems, and explain why these microorganisms are significant",
+        "Explain how microorganisms are important in food and beverage production",
+        "Explain how bioinformatics can be used in agricultural microbiology."
+    ],
+    "generic_skills": [
+        "Explain their understanding of microbiology as it relates to agriculture, both in writing and orally",
+        "Review and evaluate readings relating to microbiology and agricultural production",
+        "Participate as an effective member of a group in workshop discussions, and study groups",
+        "Think independently and analytically, and direct his or her own learning; and",
+        "Manage time effectively in order to be prepared for regular classes, tests and the examination"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "SET A"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsAGRI10050Agricultural Systems BiologySemester 1 (On Campus - Parkville)12.5BIOL10006Systems BiologySemester 1 (On Campus - Dookie)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10050",
+                        "Name": "Agricultural Systems Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10006",
+                        "Name": "Systems Biology",
+                        "Teaching period": "Semester 1 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsAGRI10051Genetics for AgricultureSemester 2 (On Campus - Parkville)12.5AGRI10052Agricultural GeneticsSemester 2 (On Campus - Dookie)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10051",
+                        "Name": "Genetics for Agriculture",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI10052",
+                        "Name": "Agricultural Genetics",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "SET B"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10010Foundational Biology: Life's ComplexitySemester 2 (On Campus - Parkville)12.5BIOL10011Biology: Life's ComplexityNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10010",
+                        "Name": "Foundational Biology: Life's Complexity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10011",
+                        "Name": "Biology: Life's Complexity",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "4 written assessment tasks worth 5% each; to be completed during practicals and/or workshops",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Intra-semester test held approximately week 6 or 7",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Glenn Browning",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "54 hours. 33 hours of lectures and 21 hours of practicals or workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "glenfb@unimelb.edu.au"
+        }
+    ]
+}

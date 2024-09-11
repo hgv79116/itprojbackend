@@ -1,0 +1,72 @@
+{
+    "overview": [
+        "<p>Measure Theory introduces the modern conceptual framework of analysis that has led to a transformation and generalisation of such basic objects as functions, and such notions as continuity, differentiability and integrability.</p>",
+        "<p>It is fundamental to many areas of mathematics and probability and has applications in other fields such as physics and economics. Students will be introduced to the core topics of Lebesgue's theory of integration, and abstract measure theory, in particular signed measures, the Hahn-Jordan decomposition, the Radon-Nikodym derivative. Additional topics may include rudiments of probability theory (conditional expectation, Borel sets and measures) and geometric analysis (rectifiable curves, Hausdorff measure and dimension).</p>"
+    ],
+    "ilo": [
+        "Understand the fundamentals of measure theory and be acquainted with the proofs of the fundamental theorems underlying the theory of integration;",
+        "Understand how these underpin the use of mathematical concepts such as volume, area, and integration;",
+        "Develop a perspective on the broader impact of measure theory in ergodic theory; and",
+        "Have the ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team;",
+        "Ttime-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20022",
+                        "Name": "Group Theory and Linear Algebra",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30026",
+                        "Name": "Metric and Hilbert Spaces",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuing assessesment taking up to 40 hours, and worth 40% of the mark, throughout the semester.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

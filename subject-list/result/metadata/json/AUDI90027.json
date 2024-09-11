@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>The Clinical Processes A subject introduces skills for effective and accurate communication, and provides an introduction to the psychological and emotional aspects of clinical practice. This subject covers professionalism, ethics, history taking, and clinical communication skills (listening skills, empathy, informational and affective counselling). This subject is structured around 12 workshops, and includes group discussions/activities, videos, and role play.</p>"
+    ],
+    "ilo": [
+        "Demonstrate confident and effective communication with a variety of clients, directly and via interpreters or with the support of significant others;",
+        "Obtain a complete and accurate clinical history for a non-complex client;",
+        "Explain to clients, in appropriate language, the goals and requirements of the assessment session;",
+        "Classify speech pathology assessment tools and processes and how different types (e.g., formal versus informal) contribute to understanding communication and swallowing disorders;",
+        "Broadly interpret common assessment information that may be provided to speech pathologists, such as x-rays and audiology reports;",
+        "Compose simple and accurate reports of clinical findings using clear and patient-friendly language;",
+        "Interpret and explain the results of assessment information in clear and concise language;",
+        "Identify relevant ethical and privacy factors that impact on patient care in speech pathology settings;",
+        "Demonstrate self-awareness of themselves as a pre-novice speech pathologist leading to a commitment to on-going improvement in clinical communication."
+    ],
+    "generic_skills": [
+        "improved self-awareness leading to a better understanding of relationships with clients and families",
+        "improved self-awareness of his/her own beliefs and attitudes",
+        "critical thinking, analytical and problem solving skills",
+        "the ability to integrate theory and practice and to apply this in novel situations",
+        "an openness to new ideas",
+        "planning and time management skills",
+        "the ability to communicate their knowledge in both oral and written form",
+        "the ability to recognise ethical and professional behaviour and implement these practices within the clinical environment"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT90011",
+                        "Name": "Anatomy and Physiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90025",
+                        "Name": "Communication Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LING90033",
+                        "Name": "Linguistics for Speech Pathology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "OSCE",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Objective Structured Clinical Examination (OSCE) or video observation examination",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "Students must pass the OSCE/video observation examination in order to pass the subject overall.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Completion of written reflections and required tasks for two pre-clinical experiences",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "2 weeks after the preclinical experience",
+            "percentage": "20%"
+        },
+        {
+            "brief": "100% Attendance at 12 workshops and completed logbook entry for each workshop, as specified in the workshop.",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "dettmans@unimelb.edu.au"
+        }
+    ]
+}

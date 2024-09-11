@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The Internet pervades nearly every aspect of our lives, from banking through to dating, and onto our interactions with government. As more of our lives move online we face ever greater risks to our data and way of life from internet vulnerabilities and attacks. Web Security will examine the fundamentals behind common vulnerabilities and attacks, and will introduce students to ways of mitigating the risks associated with them. It will also examine some of the ethical challenges faced when evaluating security and disclosing vulnerabilities.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>The subject will examine some of the cyber security challenges faced during system implementation and deployment. In particular it will identity common attack vectors, covering in more detail some of the Open Web Application Security Project (OWASP) Top 10 list of web application vulnerabilities, which may include topics such as injection, cross\u2010site scripting, session hijacking, and cross\u2010site request forgery, amongst others. Where appropriate practical examples will be examined to relate theory to practice. The subject will discuss methods for mitigating the risks associated with such vulnerabilities, and may include discussions on distributed denial of service, input validation and sanitisation, penetration testing, and the associated ethical and legal constraints, automated vulnerability scanning, and web application firewalls.</p>"
+    ],
+    "ilo": [
+        "Identify common attack vectors",
+        "Discuss mitigation strategies for common attack vectors",
+        "Develop appropriate input validation and data sanitisation strategies",
+        "Compare software updating strategies and their effectiveness at mitigating software vulnerabilities",
+        "Explain the importance of correctly configuring software",
+        "Critique options for vulnerability disclosure and the associated ethical challenges"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to complex problems",
+        "Capacity for creativity and innovation",
+        "Understanding of professional and ethical responsibilities, and a commitment to them"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90015",
+                        "Name": "Distributed Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CS Master of Computer Science"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The Master of Information Technology requires all students to enrol in subjects where they will require:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "The ability to comprehend complex theory and technology-related information",
+                    "The ability to clearly and independently communicate a knowledge and application of theory, and technology principles and practices during assessment tasks",
+                    "The ability to actively and safely contribute in IT development and management activities"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students must possess behavioural and social attributes that enable them to participate in a complex learning environment. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students."
+            },
+            {
+                "type": "paragraph",
+                "content": "There may be additional inherent academic requirements for some subjects, and these requirements are listed within the description of the requirements for each of these subjects."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who feel their disability will impact on meeting this requirement are encouraged to discuss this matter with the relevant Subject Coordinator and the Disability Liaison Unit:http://www.services.unimelb.edu.au/disability/"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One programming\u2010based assignment in 2 parts (30\u201040 hours). Due in two parts, week 5 and 8.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": "Students must get a combined mark of 50% in the projects.",
+            "timing": "From Week 5 to Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One individual written report, consisting\n\nof approximately 1200\u20101500 words (25\u201035 hours).",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": "Students must get a combined mark of at least 50% in the assignments.",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One 2 hour written examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a mark of at least 25/50 on the exam.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Toby Murray",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "toby.murray@unimelb.edu.au"
+        }
+    ]
+}

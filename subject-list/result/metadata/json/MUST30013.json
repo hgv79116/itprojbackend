@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This elective subject offers students an immersive external experience with a musical theatre company.</p>",
+        "<p><strong>Placement</strong></p>",
+        "<p>Students will complete a daily rehearsal or performance process as offered by an approved professional theatre company. Students will engage in a rigorous process leading to or maintaining a high-quality performance.</p>",
+        "<p>This subject aims to further understand the production process for students to become effective collaborators and independent practitioners. Through the development of a prompt script, research and performance, students will create an industry perspective that will prepare them for their final semester of study and beyond.</p>"
+    ],
+    "ilo": [
+        "generate musical theatre industry written resources appropriate to the placement or individual project;",
+        "critically reflect and evaluate independent practice and performance;",
+        "compare and contrast external expectations and practices of music theatre training and performance;",
+        "utilise external perspective to enhance and perform acting, singing, and dancing within a music theatre context."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUST20015",
+                        "Name": "Music Theatre Studio 4",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Script document (Depiction of a chosen role's 'track' in assigned production)",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of placement",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Research project (Analysis of Music Theatre techniques within a given production)",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "End of placement",
+            "percentage": "20%"
+        },
+        {
+            "brief": "15 to 20-minute Performance project (An excerpt from engaged performance) - solo performance",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "2 weeks after placement",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Reflection report",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "3 weeks after placement",
+            "percentage": "30%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must submit all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "May",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "50 hours of professional placement delivered intensively.",
+            "total_time_commitment": "204 hours",
+            "teaching_period": "10 May 2024 to 20 May 2024",
+            "last_self_enrol_date": "13 May 2024",
+            "census_date": "17 May 2024",
+            "last_date_to_withdraw_without_fail": "31 May 2024",
+            "assessment_period_ends": "10 June 2024",
+            "contact_name": null,
+            "contact_email": "tyran.parke@unimelb.edu.au"
+        }
+    ]
+}

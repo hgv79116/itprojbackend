@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>Students will undertake a research project in an area of physiotherapy, gaining an advanced understanding of experimental design and conduct, and evaluating the research of others.</p>",
+        "<p>Students will undertake extensive research training with their own individually-supervised research project, acquiring relevant skills in experimental design, technical expertise in clinical research methodologies, critical thinking, analysis, project management and communication.</p>",
+        "<p>Students also learn about the broader significance of research translation as it relates to human health and the field of Physiotherapy.</p>"
+    ],
+    "ilo": [
+        "Identify, summarise and critically appraise published research in an area of physiotherapy",
+        "Formulate a research question based upon a synthesis of the published research evidence.",
+        "Identify, design and describe appropriate research methodologies",
+        "Conduct supervised research on a chosen research project, working effectively both in teams and autonomously.",
+        "Interpret and communicate the method and findings of a research project in oral and written form"
+    ],
+    "generic_skills": [
+        "Understanding scientific and ethical approaches to research questions",
+        "Appreciating how data are evaluated",
+        "Presenting a constructive critique of research",
+        "Developed written and oral communication skills to a high standard",
+        "Contributing to intellectual discussion"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY40012",
+                        "Name": "Physiotherapy Research in Practice",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation /plan",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due week 6 of semester 1",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Literature Review",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due week 12, semester 1",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation of project and findings ( 15-minute talk includes 5 minutes of question time)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the Semester 2 examination period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Research thesis (including manuscript in preparation)",
+            "bullets": [
+                "10000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due week 12, Semester 2",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Adam Bryant",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "albryant@unimelb.edu.au"
+        }
+    ]
+}

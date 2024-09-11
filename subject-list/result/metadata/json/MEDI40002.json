@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p>Students will attend and participate in the Continuing Education Program (approximately 12 hours) and attend the Departmental Research In Progress Seminars (60 minutes duration, held on a weekly basis (approximately 20 hours)). The Continuing Education Program has been especially designed to assist the student in gaining the skills necessary to succeed in their BSc Hons/BBiomed Hons. The program consists of a lecture series and number of workshops covering all of the assessment tasks in the Honours year including information relating to oral presentations, critical review of the literature, poster presentations, preparations of literature reviews, assignments, abstracts, posters and the research thesis. The Departmental Research in Progress program includes presentations encompassing a wide range of topics of central interest to contemporary biomedical research presented by external invited speakers and PhD students within the department.</p>"
+    ],
+    "ilo": [
+        "Select, summarise and critically appraise published research in an area of clinical sciences.",
+        "Identify and describe the variety of scientific topics in the medical community.",
+        "Work as part of a team.",
+        "Compare and contrast the relevant literature in understanding a research question.",
+        "Demonstrate excellent time management skills.",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "generic_skills": [
+        "planning and organisation",
+        "how to seek and retrieve relevant information;",
+        "critically analyse information;",
+        "compare and contrast the literature;",
+        "establish time management skills and manage the completion of a specific task;",
+        "communicate results in both oral and written format in accordance with guidelines provided."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "B-BMED Bachelor of Biomedicine",
+                    "BH-SCI Bachelor of Science (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI40014",
+                        "Name": "Biomedicine Research Project Part 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment on a selected topic that is far removed from the students' research project theme",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": "Achieve minimum H3 grade",
+            "timing": "Due in mid-May",
+            "percentage": "45%"
+        },
+        {
+            "brief": "An oral presentation in a seminar forum of the written assignment",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "Achieve minimum H3 grade",
+            "timing": "Due before end of May",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Regular attendance at weekly seminars and continuing education program workshops (Compulsory attendance of at least 1 per week during Semester: academic course coordinator to be notified of absence)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Barbara White",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "32",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordinator:",
+            "contact_email": ""
+        }
+    ]
+}

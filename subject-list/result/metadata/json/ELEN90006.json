@@ -1,0 +1,74 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject develops the professional value of students through building knowledge, skill, and confidence in the area of Internet Engineering. Students will develop their skills of analysing and documenting customer requirements, evaluating a range of technologies, and developing an integrated solution.<strong><br/><br/>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Packet transmission and switching; information transmission at Layer 1 and Layer 2;</li><li>Internet Protocol Suite \u2013 both current practice and emerging technologies;</li><li>The operation of applications including Domain Name System, World Wide Web, file transfer, email, video, voice, ecommerce, Web2.0 and P2P;</li><li>The ability of current (and likely future) Internet technologies to deliver satisfactory customer solutions with respect to Management, Performance, and Security;</li><li>Design of services to meet Performance and Security requirements, as well as management to address operational problems.</li></ul>"
+    ],
+    "ilo": [
+        "Analyse and document customer requirements",
+        "Evaluate technologies relative to customer requirements",
+        "Apply professional knowledge and skills to solve problems",
+        "Develop, in outline, an engineering solution that delivers value to customers"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A 10-minute team Seminar on Project (group mark)",
+            "bullets": [
+                "5-7 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written Report on Project. Maximum 1500 words per student (group mark)",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Formally supervised, written examination (individual mark)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

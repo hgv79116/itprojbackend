@@ -1,0 +1,138 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject aims to provide an advanced understanding of pharmaceutical and biochemical production processes; students will learn about processes in Australia and the Asia-Pacific region.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>How are drugs made? What steps are required to progress a successful drug candidate from the laboratory to large scale manufacture? How can cells and enzymes be used in manufacturing? This subject will answer these questions, examining unit operations and the design and operation of manufacturing processes that are used to make a range of products including opiates, blood plasma products, vaccines, monoclonal antibodies and other medicines. Unit operations will include the growth of bacterial, animal, plant and fungal cells, cell disruption and methods for product separation and purification, such as chromatography. Case studies will include the production of recombinant proteins and amino acids and the genetic techniques required to make these products. The sustainable production of other biochemicals will also be discussed, including biofuels and the growth of algae. Students will learn how cellular processes can also be used by chemical engineers to improve process efficiencies, clean up our environment and reduce chemical waste. Regulation, Good Manufacturing Practice and Validation processes will be introduced, along with the design of laboratories, pilot plants and manufacturing facilities and associated utilities and services. Industry speakers will also highlight new opportunities and best practice within the Australian pharmaceutical industry. Students will also be introduced to relevant analytical techniques used to track production and purity and will become familiar with the research literature in this field.</p>"
+    ],
+    "ilo": [
+        "Describe typical production processes for common pharmaceuticals",
+        "Discuss the role of chemical engineering in pharmaceutical development, the regulatory standards that apply to such products and the business drivers for product development",
+        "Apply systems approaches to describe how changes to a cell can be used to make new biochemical products",
+        "Describe the processes in research, development and practice that may increase the sustainability of biochemical and other production processes",
+        "Describe a range of biochemical products and develop create strategies to produce and purify these products",
+        "Discuss the synergies between biochemistry and chemical engineering ."
+    ],
+    "generic_skills": [
+        "In-depth technical competence in at least one engineering discipline",
+        "Ability to function effectively as an individual and in teams",
+        "Capacity for independent critical thought, rational enquiry and self-directed learning",
+        "Ability to communicate effectively, not only with engineers but also with the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90031",
+                        "Name": "Sustainable Bioprocessing",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BMEN90036",
+                        "Name": "Biofluid Mechanics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN30007 Biotransport Processes"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CHEN90016 Metabolic Engineering"
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "BIOL10002 Biomolecules and Cells"
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10004 Biology of Cells and Organisms"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEN90031 Bioprocess Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "And one of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM10006 Chemistry for Biomedicine"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM10003 Chemistry 1"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "And:"
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10006 Calculus 2"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four assignments, not exceeding 2000 words in total, 35-40 hours of work required. Intended Learning Outcomes (ILOs) 1 to 6 are addressed in this activity.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due around week 4, 6 , 8  and 10 of the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One closed-book written examination of 3 hours. Intended Learning Outcomes (ILOs) 1 to 6 are addressed in this activity.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "A mark of 40% or more in the end of semester examination is required to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "George Chen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "67 hours = 34 hours of lectures + 8 hours of tutorials + 10 hours of practicals + 15 hours of industrial site tours/ workshop(s)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr George Chen",
+            "contact_email": "gechen@unimelb.edu.au"
+        }
+    ]
+}

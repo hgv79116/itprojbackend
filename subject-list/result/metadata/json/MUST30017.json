@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject will focus on meeting industry practices and expectations of successful musical theatre performers. Students will use skills gained in Music Theatre Studio 5 to meet professional industry standards.</p>",
+        "<p>Classes will include spoken voice, dance techniques, audition technique and repertoire. Through skills-based performances and the completion of a repertoire folio, students will further enhance their skills in acting, singing, and dancing.</p>"
+    ],
+    "ilo": [
+        "refine a range of techniques and repertoire for increased diversity and versatility;",
+        "execute the rhythmic and spatial aspects of choreography accurately incorporating style, storytelling, and character to various genres and styles of dance;",
+        "present a vocal repertoire portfolio for auditions;",
+        "receive and apply direction and feedback in an audition and skills assessment setting."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUST30014",
+                        "Name": "Music Theatre Studio 5",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUST30015",
+                        "Name": "Production Studio 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUST30006",
+                        "Name": "Dance Skills 5",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Skills presentation (Audition Technique, Spoken Voice) accumulative 15-20 minutes solo and group presentation requiring approximately 30 hours of work to complete",
+            "bullets": [
+                "15-20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Formal Skills Presentation (Repertoire and MT Dance Audition), accumulative 30-40 minutes solo and group presentation requiring approximately 50 hours of work to complete",
+            "bullets": [
+                "30-40 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Repertoire portfolio requiring approximately 20 hours of work to complete",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "70 hours, comprising 2.5 hours of Singing (0.5 hours Individual Repertoire Lesson; 2 hours Spoken Voice), 3 hours of Acting (3 hours Audition Technique), and 4.5 hours of Dance (1.5 hours Technique; two 1.5-hour Choreography/Audition classes) per week for 7 weeks.",
+            "total_time_commitment": "204 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ross.hannaford@unimelb.edu.au"
+        }
+    ]
+}

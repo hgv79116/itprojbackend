@@ -1,0 +1,130 @@
+{
+    "overview": [
+        "<p>This subject describes how technologies enabling the sequencing of complete genomes have transformed biological research in the past decades. Bioinformatics provides the tools to analyse these massive data connecting nucleic acids to the structures and functions of life. The advanced topics will review current knowledge on genomics and transcriptomics and describe the databases used to gather this information.</p>",
+        "<p>The course will provide to non-specialised life-scientists the core concepts in genomics and bioinformatics. It will describe how to utilise public databases to retrieve biological information and develop a critical understanding of the methods used to generate them. This subject will explore how genomes are sequenced and annotated, and how connections are drawn between the different levels of molecular organisation to build a systems understanding of complex biological processes.</p>"
+    ],
+    "ilo": [
+        "demonstrate technical understanding of genome sequencing and analysis;",
+        "apply concepts concerning the evolution of genomes structure and the expression of genes, and critically appraise new datasets in this field;",
+        "assess the significance and applications of genomics and bioinformatics across fields of advanced research and biotechnology; and",
+        "utilise bioinformatic techniques and applications in the analysis of genomic data including that relating to protein structure and function."
+    ],
+    "generic_skills": [
+        "independent critical thought, rational inquiry and self-directed learning and research;",
+        "interpretation of scientific literature and data from public databases;",
+        "using information technology autonomously to acquire relevant knowledge;",
+        "integrating knowledge across disciplines and working as a team; and",
+        "comprehending questions, retrieving and evaluating relevant information."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE30002",
+                        "Name": "Genes: Organisation and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE20001",
+                        "Name": "Foundations of Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CEDB20003",
+                        "Name": "Fundamentals of Cell Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who hold an equivalent genetics or biochemistry subject from their final year of study in an undergraduate degree from outside of the University of Melbourne are encouraged to apply for entry via an Enrolment Variation request."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Report 1",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Report 2",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Report 3",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Report 4",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Alexandre Fournier-Level",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2x 1-hour lectures per week; 4x 3-hour practicals across semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "alexandre.fournier@unimelb.edu.au"
+        }
+    ]
+}

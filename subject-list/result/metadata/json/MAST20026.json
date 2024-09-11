@@ -1,0 +1,162 @@
+{
+    "overview": [
+        "<p>This subject introduces the field of mathematical analysis both with a careful theoretical framework as well as selected applications. Many of the important results are proved rigorously and students are introduced to methods of proof such as mathematical induction and proof by contradiction.<br/><br/>The important distinction between the real numbers and the rational numbers is emphasized and used to motivate rigorous notions of convergence and divergence of sequences, including the Cauchy criterion. These ideas are extended to cover the theory of infinite series, including common tests for convergence and divergence. A similar treatment of continuity and differentiability of functions of a single variable leads to applications such as the Mean Value Theorem and Taylor's theorem. The definitions and properties of the Riemann integral allow rigorous proof of the Fundamental Theorem of Calculus. The convergence properties of sequences and series are explored, with applications to power series representations of elementary functions and their generation by Taylor series. Fourier series are introduced as a way to represent periodic functions.</p>"
+    ],
+    "ilo": [
+        "Acquire an appreciation of rigour in mathematics, be able to use proof by induction, proof by contradiction, and to use epsilon-delta proofs both as a theoretical tool and a tool of approximation;",
+        "Understand the theory and applications of the Riemann integral and improper integrals;",
+        "Be able to determine the convergence and divergence of infinite series;",
+        "Have a good knowledge of the theory and practice of power series expansions and Taylor polynomial approximations; and",
+        "Understand the role of Fourier series in representing periodic functions."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10019: Calculus Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10018: Linear Algebra Extension Studies"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20033",
+                        "Name": "Real Analysis: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four to six written assignments due at regular intervals amounting to a total of up to 50 pages",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week; 2 x one hour practice classes per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "christian.haesemeyer@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week; 2 x one hour practice classes per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "brian.krummel@unimelb.edu.au"
+        }
+    ]
+}

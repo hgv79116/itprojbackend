@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>A subject of advanced study of topics in economics drawing on recently published articles or books and on-going research of staff and visitors. Details of specific topics to be covered each year will be provided to students a month before the beginning of the semester in which the subject is taught. Details of specific topics to be covered each year will be provided to students a month before the beginning of the semester in which the subject is taught.</p>"
+    ],
+    "ilo": [
+        "Describe key themes and issues in a major topic in the area of economics;",
+        "Generate a bibliography for publications and information on research on that topic;",
+        "Critically evaluate the significance and research methodologies of the literature on that topic;",
+        "Develop a synthesis of knowledge from the existing research literature on a major topic in the area of economics;",
+        "Prepare a written report summarizing the main findings from a review of existing research literature."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision-making",
+        "Problem solving skills",
+        "Written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90003",
+                        "Name": "Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval of the Department of Economics Postgraduate Program Director."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Essay to be submitted in the second last week of semester",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nAssignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nAssignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nTwo 10-minute oral presentations. Notice of the timing of these presentations will be given one month before the start of the semester. (10% each)",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Reshad Ahsan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rahsan@unimelb.edu.au"
+        }
+    ]
+}

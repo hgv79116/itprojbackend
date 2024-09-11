@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>The oceans cover 71% of the earth\u2019s surface and support an incredible diversity of life. This subject provides a comprehensive and contemporary overview of the biodiversity and biogeography of marine animals, plants and micro-organisms. It then explores the role that ecology and evolution play in shaping patterns of abundance, demography, biodiversity, and ecosystem functioning in the marine realm. </p>"
+    ],
+    "ilo": [
+        "identify common marine organisms to broad taxonomic groups using key diagnostic features and apply this knowledge to understand patterns of biodiversity and biogeography;",
+        "construct an argument (written and verbal) for how ecological and evolutionary processes produce patterns of variation in abundance, distribution, diversity and biogeography within and among marine species;",
+        "critically evaluate methods and study designs used in marine research;",
+        "design an experiment appropriate for a given question in marine biology and interpret data from relevant studies;",
+        "synthesise primary scientific literature to identify key knowledge gaps and opportunities in our understanding of marine biodiversity and ecosystem functioning; and",
+        "effectively communicate key scientific concepts in marine biology and their real-world application in understanding patterns of abundance, demography, biodiversity, and ecosystem functioning in the marine realm through written presentations and class discussion."
+    ],
+    "generic_skills": [
+        "the ability to understand current scientific literature, to identify knowledge gaps, and to explain the important concepts to non-scientists;",
+        "the ability to critique methods and study designs used in research;",
+        "the ability to read and synthesize current primary scientific literature and produce concise pieces of scientific writing; and",
+        "the ability to approach and assimilate new knowledge from observation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EVSC20004",
+                        "Name": "Blue Planet - Intro to Marine Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "A minimum of one ofCodeNameTeaching periodCredit PointsECOL20003EcologySemester 2 (On Campus - Parkville)12.5ZOOL20005Animal Structure and FunctionSemester 1 (On Campus - Parkville)12.5MAST20031Analysis of Biological DataSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20005",
+                        "Name": "Animal Structure and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Completion of assigned pre-class reading and writing tasks associated with five of six tutorials (100 words each). Due in weeks 1, 3, 5, 7, 9 and 11.",
+            "bullets": [
+                "100 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 11",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "Two written reports (2 x 500 words) based on practical classes . First report due between weeks 6 to 8, and second report due between weeks 10 to 12.",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Mid-term written examination",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "42 hours, comprising of: 24 x 1 hour lectures, 6 x 1 hour tutorials, 4 x 3 hour practicals.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "john.morrongiello@unimelb.edu.au"
+        }
+    ]
+}

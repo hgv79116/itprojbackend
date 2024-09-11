@@ -1,0 +1,73 @@
+{
+    "overview": [
+        "<p>This subject focusses on computational tools, processes, and theories for architectural design. The topics covered range from basic scripting for design automation and fabrication to the application of optimisation and machine learning techniques for performative design. </p>",
+        "<p>This is not an introductory subject to computational design. It builds on previous knowledge of design thinking and computational design tools, processes, and applications.</p>",
+        "<p><strong>Prescribed software programs with a cost</strong><br/>McNeel Rhino</p>",
+        "<p><strong>Prescribed software tools </strong><br/>Image editing software <br/>Vector editing software <br/>Layout software<br/><br/>Details of software availability and pricing are captured at: <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support\">https://msd.unimelb.edu.au/current-students/student-experience/it-support</a></p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Familiarise with a variety of computational design techniques, and appreciate both challenges and limits of using such techniques in real-world scenarios;",
+        "Formulate a design problem in computational terms;",
+        "Apply a variety of optimisation and machine learning techniques to solve design problems",
+        "Develop a critical awareness of the relationship between design thinking and design computing"
+    ],
+    "generic_skills": [
+        "Proficiency in the use of computational design tools for design automation (scripting), optimisation and machine learning.",
+        "Critical reflection, thinking, and analysis, related to computation design tools, processes and theories.",
+        "Problem-solving applied to computational design.",
+        "Ability to illustrate a computational design process through diagrams, codes and in writing."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Folio, Part 1: Written and/or graphic submission on design automation exercises",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 3",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Folio, Part 2: Written and/or graphic submission on optimisation and Machine Learning exercises (Folio, Part 2)",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Folio, Part 3: Written and/or graphic submission on Advanced Computational Design applications",
+            "bullets": [
+                "2750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Folio, Appendix: Individual review, reflections and quizzes on the weekly readings",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": []
+}

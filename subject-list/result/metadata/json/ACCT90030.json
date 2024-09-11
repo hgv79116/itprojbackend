@@ -1,0 +1,123 @@
+{
+    "overview": [
+        "<p>This subject provides a broad introduction to the key business processes that generate accounting transaction data and accounting information. Through an understanding of how information systems support business processes, you will acquire the skills to analyse, and improve the effectiveness and efficiency of business processes through the use of controls to ensure the reliability of accounting transaction data and the quality of information contained in accounting reports.</p>"
+    ],
+    "ilo": [
+        "Explain the role of information systems and technology in achieving reliable accounting transaction data",
+        "Describe and explain what is meant by Information quality in regards to accounting information",
+        "Interpret and analyse business process documentation",
+        "Describe and explain what internal controls are and their role within a business process",
+        "Describe and evaluate business processes",
+        "Design plans to achieve an adequate level of internal control, reliable accounting transaction data and the quality of information in accounting reports; and",
+        "Evaluate, analyse and interpret the efficacy of business processes, their related information systems, the reliability of accounting transaction data and the quality of information in accounting reports"
+    ],
+    "generic_skills": [
+        "Oral and written communication",
+        "Collaborative learning and team work",
+        "Interpretation and analysis of real-world cases; and",
+        "Problem solving"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsACCT90004Accounting for Decision MakingSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90004",
+                        "Name": "Accounting for Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Subject participation",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Computerised ERP Practice Set",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "20-minute group presentation (groups of 4-5 students) including a Q&A session. All students must present and answer questions. 4-5 minutes per student.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End of semester written exam (2 hours plus 15 minutes reading time)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end of semester examination. ",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Martin Weisner",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 90 minute lecture and one 90 minute workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "martin.weisner@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Martin Weisner",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 90 minute lecture and one 90 minute workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "martin.weisner@unimelb.edu.au"
+        }
+    ]
+}

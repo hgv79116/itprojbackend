@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p>In modern societies we are experiencing the great health challenges due to the way we live our lives. The driving force for our modern epidemic of obesity, diabetes and cardiovascular diseases is our own lifestyle, and at the leading edge of these factors is diet. This subject will look at the changes in diet over time with particular reference to our evolutionary development as a bipedal omnivore and the foods we evolved with and compare these to modern processed foods.</p>",
+        "<p>Connections will be made with these changed dietary factors to our health situation today, effects on the microbial makeup of our guts, with an overview of specific diet related medical conditions that have become common in modern times. These health-related issues will also be viewed from within a human life cycle framework from conception to old age. The subject will also look into how nutrition research is done, showing students how to separate actual scientific evidence from the plethora of information presented in popular press books, web sites and blogs. </p>",
+        "<p>The subject will combine lectures and tutorial activities that involve critically reviewing current scientific studies relating foods to health and disease and an assignment investigating in depth a specific food health connection. The topics to be covered are: </p>",
+        "<ul><li>Research methodology and evidence in nutrition science </li><li>Evolution &amp; human diet </li><li>Life cycle nutrition </li><li>Obesity and Metabolic Syndrome </li><li>Diet and CVD </li><li>Diet and diabetes </li><li>Diet and cancer </li><li>Diet and the gut microbiome </li></ul>"
+    ],
+    "ilo": [
+        "Interpret scientific studies in human nutrition, with an understanding of the strengths and weaknesses of specific types of epidemiological cohort studies and randomised clinical controlled trials.",
+        "Understand the basis of human macro and micro nutrient needs in the context of evolutionary adaptations of the digestive system and metabolic processes specific to humans.",
+        "Outline the nutritional content and physiochemical structural differences in modern processed foods relative to the natural foods of the human evolutionary past.",
+        "Understand how the differences in content and form of modern foods can influence health and development of chronic disease state.",
+        "Outline the nutritional requirements of humans in different stage of development from the foetal development through to old age.",
+        "Understand the basic diet and lifestyle issues associated with obesity, diabetes, cancers and cardiovascular diseases."
+    ],
+    "generic_skills": [
+        "An understanding of the role research methodology plays in the advancement of nutrition knowledge.",
+        "Skills in independent critical thinking, analysis, review and report writing.",
+        "Effective written and oral communication skills.",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning and research",
+        "Capacity for creativity and innovation, through the application of skills and knowledge",
+        "Develop the ability to work as a team member",
+        "An ability to determine the level of validity of scientific information as communicated via journals, web sites and the media."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20043",
+                        "Name": "Biochemistry in Agricultural Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "FOOD20003",
+                        "Name": "Intro to Food Science & Human Nutrition",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsBCMB20002Biochemistry and Molecular BiologySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Journal article critical review",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Mid semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group assignment - 750 words written submission + 3min presentation (per student in group)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Attendance and participation",
+            "bullets": null,
+            "hurdle": "Students must attend and complete at least 75% of the weekly tutorials and learning materials",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Kate Howell",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours - 1 x 2 hour lecture, 1 x 1 hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "shirley.poon@unimelb.edu.au"
+        }
+    ]
+}

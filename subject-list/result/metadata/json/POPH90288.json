@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>The aim of the capstone project is to deliver to the student a practical experience in a health and medical research work setting. The focus is on the application of knowledge and skills learnt during the core and elective coursework subjects. In this subject, students will learn to address the types of challenges that the practising biostatistician and their collaborator(s) typically face.</p>",
+        "<p>The statistical analysis of real data almost always requires compromises, since no single method is always guaranteed to be superior and more than one approach may be reasonable. Students will gain experience in applied, biostatistical work. This will require an iterative approach, involving refinement of the research question, planning and conducting statistical analyses, and presenting and discussing results and conclusions in close collaboration with subject-matter experts.</p>",
+        "<p>Effective communication with subject-matter experts is an important part of the biostatistician\u2019s role in the workplace and, therefore, of the capstone project. Under the guidance of a biostatistical supervisor, students have the opportunity to work with subject-matter experts to apply appropriate statistical methods to answer proposed research questions. Students will give an oral presentation describing their methods and results, and provide a written report.</p>",
+        "<p>In this research project the student has the option for breadth or depth: two distinct research projects or one larger project with multiple challenges. Students must conduct their research over two consecutive semesters, ie students must enrol in POH90288 and POPH90289 Biostatistics Research Project Part 2 in two consecutive semesters.. The alternative research project, POPH90151 is identical but within one semester, whereas POPH90149 is limited in scope, ie less breadth and depth. </p>"
+    ],
+    "ilo": [
+        "Apply the knowledge and skills learned from coursework by participating in a substantive, collaborative project in health and medical research;",
+        "Work with collaborators to translate a research question into a statistical question that can be answered by analysing available data;",
+        "Develop a statistical analysis plan and execute the analyses proposed in that plan using existing statistical software;",
+        "Interpret and explain the results of a statistical analysis of data including contextualising them by comparison with the published results of other studies; and",
+        "Disseminate results in the form of an oral presentation and a written report aimed at colleagues in health and medical research who do not have specialised knowledge of statistics."
+    ],
+    "generic_skills": [
+        "Communicate effectively to a range of audiences.",
+        "Think critically to answer research questions in the medical/health field.",
+        "Effectively organize, time manage and plan.",
+        "Demonstrate the technical skills for professional practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "A minimum of 50 credit points of study, inclusive of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST90102Foundations of RegressionJuly (Dual-Delivery - Parkville)12.5MAST90101Introduction to Statistical ComputingSemester 1 (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90102",
+                        "Name": "Foundations of Regression",
+                        "Teaching period": "July (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90101",
+                        "Name": "Introduction to Statistical Computing",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Portfolio or minor dissertation",
+            "bullets": [
+                "8,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due during the examination period of the second semester of enrolment",
+            "percentage": "80%"
+        },
+        {
+            "brief": "An oral presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Held during the 11th week of the second semester of enrolment",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "Independent study with supervision",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "megha.rajasekhar@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "Independent study with supervision",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "megha.rajasekhar@unimelb.edu.au"
+        }
+    ]
+}

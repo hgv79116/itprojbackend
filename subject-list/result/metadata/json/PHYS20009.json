@@ -1,0 +1,140 @@
+{
+    "overview": [
+        "<p>Students will develop an understanding of the principles of experimental design appropriate for investigating underlying mechanisms of physiological responses. They will also undertake a research project completed over several weeks, which will require them to formulate a suitable hypothesis to investigate a physiological problem, select and test suitable techniques, design appropriate experimental protocols to test their hypothesis, collect and analyse their data, and write a scientific report on their findings.</p>"
+    ],
+    "ilo": [
+        "To learn physiological concepts in a practical setting",
+        "Understand the principles and elements of experimental design",
+        "To develop and apply practical skills in how to conduct physiological experiments, and communicate these results in written form",
+        "To develop and apply skills of critical analysis of scientific literature",
+        "To develop skills to communicate ideas and physiological concepts in written form"
+    ],
+    "generic_skills": [
+        "900 words (total)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYS20008",
+                        "Name": "Human Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One of Level 1 quantitative science subject (e.g. Chemistry, Physics, Maths, Psychology)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 x in-class assignments, completed during workshop sessions (300 words each), due Weeks 2, 3 and 4",
+            "bullets": [
+                "900 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "In-class participation, each week",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A research study assignment",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "3 x written reports (500 words each), due Weeks 6, 7 and 8 (10% each)",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 8",
+            "percentage": "30%"
+        },
+        {
+            "brief": "3 x online quizzes (10 questions each), due Weeks 5, 6 and 7",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A research project and written report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Melody Chang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "one x 1 hour lecture and one x 3 hour practical per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "23 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Melody Chang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "one x 1 hour lecture and one x 3 hour practical per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "30 June 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

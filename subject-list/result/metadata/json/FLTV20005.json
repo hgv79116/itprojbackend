@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p><strong>This subject has been designed and developed for online delivery and assessment only.</strong></p>",
+        "<p>Making Movies 2 provides students who have been introduced to film making fundamentals in Making Movies 1.</p>",
+        "<p>This <em>online</em> subject provides a hands-on study of directors' pre-visualisation and mise-en-scene, the art of adaptation, experimental filmmaking, animation, writing the documentary and working with actors. All sessions are delivered by film making professionals.  </p>",
+        "<p>The assessment tasks provide an opportunity to apply the knowledge gained from the lectures to a variety of practical filmmaking exercises, including the development of a director's shooting script, and the production of an adapted screenplay, animation, documentary treatment or short experimental film.</p>"
+    ],
+    "ilo": [
+        "appraise and identify the different qualities inherent in a variety of film genres;",
+        "develop and plan the visualisation of a screen-based narrative;",
+        "critically analyse the application of filmmaking techniques and creative aesthetics to screen-based narratives;",
+        "apply complex visual and audio techniques to express screen-based ideas;",
+        "communicate story in both written and visual form."
+    ],
+    "generic_skills": [
+        "prepare a concept suitable for screenplay development;",
+        "prepare narratives using visual storytelling techniques;",
+        "critically analyse the use of filmmaking techniques;",
+        "be able to apply knowledge of basic filmmaking fundamentals;",
+        "communicate story in both written and visual form."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FLTV10010",
+                        "Name": "Making Movies 1",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "12 weekly brief online tests",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Practical assignment: The application of the directors pre-visualisation techniques to a prescribed narrative-fiction script",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Critical and creative practical task: Students choose between four different creative tasks to submit an original film or script",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attempt all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours, comprising one 2-hour online lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kate.lefoe@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours, comprising one 2-hour online lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "kate.lefoe@unimelb.edu.au"
+        }
+    ]
+}

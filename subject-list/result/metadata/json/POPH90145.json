@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>This subject presents methods for the analysis of data where outcome events occur over time, particularly in the context of a cohort study or more general longitudinal designs. It starts with the estimation of constant rates and two-group comparison of rates using the rate ratio, and progresses to the use of life tables and the Kaplan-Meier procedures to estimate a survival curve when rates are not assumed to be constant over time and (possibly right-censored) time-to-event data are available. Much of the subject is devoted to studying Poisson and proportional hazards (Cox) regression methods that allow adjustment for confounding variables when comparing rates between two or more primary exposure groups. Emphasis is on practical application and interpretation of results in the context of standard epidemiological study designs and particularly longitudinal studies. Practical work estimating rates and fitting models to data will use the statistical package Stata.</p>"
+    ],
+    "ilo": [
+        "Calculate a rate using time-to-event data and compare rates between groups (and draw appropriate inferences)",
+        "Implement the life table and Kaplan-Meier procedures for estimating survival curves both manually and with the use of a computer.",
+        "Describe the role of regression modelling of rates in epidemiology, particularly in the context of cohort and other longitudinal studies",
+        "Demonstrate practical skills in fitting and interpreting regression models for events over time (Poisson and Cox regression models) in the statistical computing package Stata",
+        "Recognise that the proportional hazards (Cox) regression model is a special case of both Poisson regression (for rates) and conditional logistic regression (for matched case-control sets)."
+    ],
+    "generic_skills": [
+        "Critical thinking and analysis",
+        "Finding, evaluating and using relevant information",
+        "Problem-solving",
+        "Written communication",
+        "Using computers"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90144",
+                        "Name": "Regression Methods in Health Research",
+                        "Teaching period": "July (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsPOPH90013BiostatisticsSemester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)12.5POPH90014Epidemiology 1Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90013",
+                        "Name": "Biostatistics",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "POPH90142 Epidemiology & Analytic Methods 1 \nPOPH90143 Epidemiology & Analytic Methods 2"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment (involving calculations and diagrams) of not more than 8 pages due at the start of the 4th week of the delivery period",
+            "bullets": [
+                "8 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written assignment of not more than 10 pages due about one week after the intensive delivery period",
+            "bullets": [
+                "10 pages"
+            ],
+            "hurdle": null,
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An open-book examination (administered by the School)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "To be held during the examination period at the end of semester 2",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "September",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 September 2024 to 24 October 2024",
+            "last_self_enrol_date": "12 September 2024",
+            "census_date": "20 September 2024",
+            "last_date_to_withdraw_without_fail": "25 October 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "eric.au@unimelb.edu.au"
+        }
+    ]
+}

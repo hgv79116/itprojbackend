@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>This placement represents the final set of training experiences for the student. In conjunction with the Field Supervisor and the Placement Coordinator, a range of experiences are designed. These include independent assessment and psychological reporting writing; developing and implementing evidence-based interventions; problem identification and case formulation; attending professional meetings; communicating with other agencies and interdisciplinary teamwork; providing consultation to a range of personnel and stakeholders; engaging in project design, implementation, and development; delivering professional development as appropriate. Students are required to conduct themselves in an autonomous professional manner; develop projects around issues of concern; communicate and consult with a range of professions and agencies and have an appreciation of the value of team work when appropriate; and utilise the combination of education and psychology to enhance practice.</p>",
+        "<p> The placement provides the opportunity to autonomously carry out the tasks of an educational and developmental psychologist under supervision and in accordance with Australian Psychology Accreditation Council (APAC) professional competency standards. Opportunities to receive feedback are built into the task design. This placement facilitates the development of an appreciation of complex professional issues, ethics, and identity. There are a series of lectures covering issues of professional practice, ethics, case formulation skills, report writing, supervision, and contemporary issues in educational and developmental psychology practice.</p>"
+    ],
+    "ilo": [
+        "Administer and report on psychological assessments as relevant to the setting;",
+        "Make observations of practices and interventions undertaken in the setting and plan behavioural interventions;",
+        "Research and evaluate key issues in the setting;",
+        "Demonstrate effective interpersonal, case formulation and counselling skills;",
+        "Communicate effectively with diverse client groups and other professionals;",
+        "Develop and implement intervention plans for a range of presenting cases;",
+        "Develop a collection of program resources relevant to the setting and the work of the psychologist;",
+        "Identify and address ethical issues related to working in the setting."
+    ],
+    "generic_skills": [
+        "Apply advanced psychological case formulation and problem identification skills.",
+        "Demonstrate professional conduct as a psychologist.",
+        "Apply ethical and legal frameworks to practice as a psychologist, complying with the professional code of ethics.",
+        "Engage in cultural reflexivity, and develop a high regard for human rights, ethics and equity.",
+        "Demonstrate professional, effective written and oral communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90229",
+                        "Name": "Ed Psych Practicum 1",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90218",
+                        "Name": "Ed Psych Practicum 2",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tRegistration or Provisional Registration with the Psychology Board of Australia"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tA current Working with Children Check"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Field placement: The assessment is undertaken by the host supervisor, in consultation with the Placement Coordinator, based on satisfactory attainment of professional graduate Level 3 competencies against Australian Psychology Accreditation Council standards. Completion of placement goals are assessed on a pass/fail basis.",
+            "bullets": [
+                "300 hours"
+            ],
+            "hurdle": "To pass the subject students must receive a satisfactory rating of performance from the host supervisor in consultation with the Placement Coordinator.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Case Presentation",
+            "bullets": [
+                "0.5 hours"
+            ],
+            "hurdle": "To pass, students must present a case study during a group supervision case conference.  The case study must address competencies expected at Level 4 of the APAC standards.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Student logbook",
+            "bullets": null,
+            "hurdle": "Student logbooks are checked and endorsed by the host supervisor AT LEAST every fortnight. Formative feedback is provided by the host supervisor in the logbook.",
+            "timing": "Fortnightly during the placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Placement proposal, review, and student evaluation",
+            "bullets": null,
+            "hurdle": "Students are required to complete a placement proposal at the commencement of placement; a mid-placement review where formative feedback is provided in consultation with the host supervisor; and a student evaluation of placement at the conclusion.",
+            "timing": "Throughout the placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Placement attendance",
+            "bullets": null,
+            "hurdle": "100% attendance on all placement days.",
+            "timing": "Throughout the placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Coursework attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at, or engagement with, all sessions identified as coursework contact hours (including lectures, workshops, and group supervisions)",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Chelsea Hyde",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "300 hours of placement, and 14 hours of coursework (comprising 8 hours of lectures/workshops and 6 hours of group supervision/case conferences)",
+            "total_time_commitment": "324 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 October 2024",
+            "last_date_to_withdraw_without_fail": "1 November 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "chelsea.hyde@unimelb.edu.au"
+        }
+    ]
+}

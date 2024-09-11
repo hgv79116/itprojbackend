@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>Field crop production is a major component of Australia\u2019s economy, and landholders manage their resources to balance environmental, economic and social demands. This subject discusses how these resources are managed to produce high quality crop products.</p>",
+        "<p>Topics include:</p>",
+        "<ul><li>An appraisal of the cropping enterprises in southern Australia - the location, scale and nature of cropping enterprises and their contribution to the national economy</li><li>Growth, development and yield in crop production - definitions and relations between growth and development attributes, yield and yield components, measurement of crop yields, biological and economical yield and harvest index (complemented by field exercises)</li><li>Environmental constraints limiting productivity - climate and growing season, water and nutrient availability</li><li>Agronomic management to optimise production and product quality, including water and nutrient management, soil management and rotations</li><li>Problems and prospects of both dryland and irrigated crop production within farm systems, comparative cost-return analysis, marketing strategies</li></ul>"
+    ],
+    "ilo": [
+        "Identify the ecological principles underpinning crop production systems",
+        "Understand how the processes of growth and development of plants interact with management operations in a crop production system",
+        "Identify the role and place of selected crops in production systems",
+        "Develop skills in predicting outcomes from particular management practices on economic and environmental benchmarks"
+    ],
+    "generic_skills": [
+        "An ability to demonstrate a broad knowledge of fundamental scientific concepts across crop production systems",
+        "An understanding of the structures of agriculture and related industries and the principal factors that determine location, environmental impact, sustainability, profitability and international trade competitiveness",
+        "The capacity to apply scientific knowledge to the definition, analysis, and solution of agricultural and environmental problems",
+        "A capacity for the exchange, acquisition and dissemination of scientific and industry information and for technology transfer"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10048",
+                        "Name": "Plant Production Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10010",
+                        "Name": "Foundational Biology: Life's Complexity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10011",
+                        "Name": "Biology: Life's Complexity",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20035",
+                        "Name": "Applied Crop Production and Horticulture",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20038",
+                        "Name": "Principles of Soil Science",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical report based on the field trips due approximately week 7",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Practical report based on the field trips due approximately week 10",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jenny Downing",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of lectures per week, 1 hour of tutorials per week and 24 hours of field work",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jennyhd@unimelb.edu.au"
+        }
+    ]
+}

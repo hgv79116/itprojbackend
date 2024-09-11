@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of this subject is to give students an understanding of the theoretical and technical principles behind systems analysis and software requirements engineering, applying techniques in a real-world project environment to analyse the requirements for systems.</p>",
+        "<p>The subject is core in the MC-ENG Master of Engineering (Software) degree.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>The first step in the development of any non-trivial software system is an analysis of the problem domain in order to formulate a requirements specification. In this subject students will explore the aims, principles, processes and techniques involved in business and domain analysis and the formulation of requirements. Topics covered will include: an understanding of the domain analysis problem; business and domain analysis; an exploration of methods for eliciting, analysing, specifying and validating requirements; requirements metrics; analysis techniques for \u2018special domains\u2019 drawn from a selection of enterprise systems, safety critical systems, usability and security.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Be able to understand the role of requirements in software engineering projects",
+        "Be able to understand the methods for the elicitation, analysis and specification of system requirements and to be able to apply those methods in practice",
+        "Be able to understand the different types of requirements, the methods for their specification and the role that they play in system analysis",
+        "Work together in a team that interacts with clients/stakeholders to elicit requirements",
+        "Be able to select methods appropriate to a particular application or problem"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Understanding of the business environment",
+        "Ability to communicate effectively both with the engineering team, clients and the community at large",
+        "Ability to manage project-related information and documentation",
+        "Capacity for creativity and innovation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN30006",
+                        "Name": "Software Modelling and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SWEN90016",
+                        "Name": "Software Processes and Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assessment 1 - A team- based project throughout the semester with deliveries at various points from week 4 .  Intended Learning Outcomes (ILO's) 2, 3, 4 and 5 are addressed in the project.",
+            "bullets": [
+                "85-90 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (30/60) in the team based project.",
+            "timing": "From Week 4 to Week 12",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Assessment 2 - Acceptance test and final digital prototype of software demonstration, in the examination period, requiring approximately 15-20 hours (20%), that assesses the team's ability to develop a non-trivial (and feasible) software high-fidelity prototype using software engineering principles and techniques.",
+            "bullets": [
+                "15-20 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assessment 3 - 20% of each student's mark will be based on their individual contribution to the project (continuous assessment throughout the teaching period).",
+            "bullets": [
+                "85-90 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Mansooreh Zahedi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mansooreh.zahedi@unimelb.edu.au"
+        }
+    ]
+}

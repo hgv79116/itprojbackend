@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p>In this subject, students will apply the skills and knowledge gained over the course to develop competency in working effectively with patients experiencing a range of common mental disorders found in professional psychology contexts. Students will accrue placement hours by engaging in simulated patient work. They will demonstrate competency in administration and scoring of key psychological tests covered in the Psychology Board of Australia National Psychology Exam. Students will also participate in \u201cWays of Knowing\u201d: an Indigenous and interprofessional learning journey in cultural safety and collaborative practice.</p>"
+    ],
+    "ilo": [
+        "Describe the clinical features of a range of common mental health disorders and presentations;",
+        "Describe  the practical skills involved in counselling, interviewing, conducting mental state examinations and history taking and diagnostic interviewing;",
+        "Describe  definitions and determinants of health as they apply to 'cultural safety practice' and 'collaborative practice' in interprofessional contexts."
+    ],
+    "generic_skills": [
+        "Work collaboratively with others,",
+        "Confront and manage unfamiliar problems,",
+        "Value different cultures, and",
+        "Develop a high regard for human rights, ethics and equity",
+        "Develop effective interpersonal and communication skills",
+        "Link theory to practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90023",
+                        "Name": "Child Psychopathology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90110",
+                        "Name": "Ethics & Psychological Practice",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC90111",
+                        "Name": "Well-being in Practice",
+                        "Teaching period": "Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC90100",
+                        "Name": "Applied Research Methods",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC90113",
+                        "Name": "Professional Psychology Skills 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90006",
+                        "Name": "Basic Interventions",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90007",
+                        "Name": "Cognitive-Behaviour Therapy",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90031",
+                        "Name": "Adult Psychopathology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90011",
+                        "Name": "Introduction to Assessment and Diagnosis",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90114",
+                        "Name": "Professional Psychology Skills 2",
+                        "Teaching period": "January (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation - demonstration of competency in test administration",
+            "bullets": [
+                "3.5 hours"
+            ],
+            "hurdle": "Student must administer each of the required tests covered in the subject.",
+            "timing": "From Week 4 to Week 10",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Completion of simulated case work - assessment, diagnosis and treatment planning",
+            "bullets": [
+                "80 hours"
+            ],
+            "hurdle": "Submission of case work commensurate with 80 hours of client-related activity. ",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Completion of interprofessional learning program in cultural safety and collaborative practice: Two reflective activities from the Ways of Knowing program: 1. Artifact and 150-word reflection on the cultural walk; 2. Submission of 500-word reflection on interprofessional learning and culturally safe practices following the interdisciplinary panel discussion. Minimum 1 hour for both activities.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Hurdle requirement",
+            "timing": "Early in the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Lisa Catania",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "250 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Principal supervisor: Lisa Catania",
+            "contact_email": "lisa.catania@unimelb.edu.au"
+        }
+    ]
+}

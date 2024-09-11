@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This subject will build on the experience gained in second year practical chemistry through the synthesis and characterisation of complex molecules, the acquisition and interpretation of advanced spectroscopic and physical data and the investigation of chemical systems through computational techniques. It consists of a series of laboratory-based experiments aimed at developing skills in the synthesis, safe handling and analysis of chemical substances of a range of different classes of compounds; an understanding of modern characterisation techniques (e.g. chromatography, atomic and molecular spectroscopy); and the operation of instrumentation for the acquisition of kinetic, structural and thermodynamic data.</p>",
+        "<p class=\"MsoNormal\">A component of this subject will also involve the development of skills in independent practical work through the design and implementation of experimental procedures and techniques, and data interpretation. The subject will also provide opportunities for the development of scientific writing and presentation skills, problem solving and small group collaboration, while introducing resources and software commonly used within chemical research fields (i.e. scientific databases, chemical drawing software, molecular modelling &amp; optimisation, etc).</p>",
+        "<p class=\"MsoNormal\">In addition to increased proficiency in standard techniques, this subject provides an introduction into research-based chemistry through integrated and themed experiments. It will provide skill development in a range of techniques utilised in the modern chemistry laboratory.</p>",
+        "<p class=\"MsoNormal\">The subject provides experience across multiple traditional chemical disciplines whilst highlighting the importance of these disciplines in diverse 'real world' applications such as materials science and medicinal chemistry.</p>"
+    ],
+    "ilo": [
+        "Assemble complex molecules through chemical reactions.",
+        "Acquire and interpret spectroscopic data for the characterisation of compounds.",
+        "Apply computational and mathematical techniques in the analysis of chemical data.",
+        "Record, interpret and report scientific observations."
+    ],
+    "generic_skills": [
+        "the ability to use conceptual models to rationalise observations;",
+        "data recording and interpretation of scientific observations;",
+        "ability to search databases and the scientific literature;",
+        "ability to use advanced computational packages;",
+        "be able to apply procedures for data and error analysis;",
+        "ability to write clear and concise scientific reports;",
+        "an understanding and basic operations of modern techniques;",
+        "an awareness of safe and diligent laboratory practice, including safe chemical and glassware handling, and proper instrument operation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEM20019Practical Chemistry 2Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM20019",
+                        "Name": "Practical Chemistry 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsCHEM30016Reactivity and MechanismSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Exchange students are required to contact the subject coordinator prior to enrolment."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10 individual experiments (one per week):\n\neach experiment is chosen from a group of 2-4 available experiments in each block. The assessment type for each experiment is either written report, viva or oral presentation, determined by the academic in charge of the experiment.\n\nIncludes 7 short experiments (6 hours of preparation time for the report/ viva/ presentation) and 3 long experiments (12 hours of preparation time for the report/ viva/ presentation )",
+            "bullets": [
+                "78 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 10",
+            "percentage": "78%"
+        },
+        {
+            "brief": "Group experiment: 20-minute group oral presentation",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group experiment, with written report completed in group (3 students/group)",
+            "bullets": [
+                "12 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During Weeks 9 - 12, with report due during the examination period",
+            "percentage": "12%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Wallace Wong",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "On average 7 hours a week of practical laboratory work. Total 84 hours.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "third-year-lab@chemistry.unimelb.edu.au"
+        }
+    ]
+}

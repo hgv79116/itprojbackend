@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This subject involves completion of a 5-week project using real data from an industry setting under an approved supervisor. The subject integrates academic learning, practical challenges in implementing data analytics in an organisation, employability skills and attributes and an improved knowledge of organisations, workplace culture and career pathways. The assessment week of the subject will involve the completion of the report for the subject and a project presentation. This is a team project. Students interested in a research higher degree may, with permission, undertake an individual research project.</p>"
+    ],
+    "ilo": [
+        "Identify and articulate their knowledge and skills and apply them to relevant organisational contexts and work-settings; as well as linking them to specific professions and career pathways.",
+        "Produce original work in an appropriate format which demonstrates analytical, research and problem-solving skills;",
+        "Put into practice communication, interpersonal, organisational and time management skills in a workplace context;",
+        "Present their work professionally in a way that makes the connections between the results of their analysis and business issues for an organisation;",
+        "Review and reflect on the process and output of a business project to their academic and career development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90501",
+                        "Name": "Advanced Business Analytics",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "37.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90504",
+                        "Name": "Individual Research Project",
+                        "Teaching period": "August (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Syndicate Research Report (equivalent of individual 5000 word assessment)",
+            "bullets": [
+                "5000 words (equivalent)"
+            ],
+            "hurdle": "",
+            "timing": "Week 6",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Syndicate Oral Presentation (equivalent of individual 3000 word assessment)",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Reflection (individual piece of assessment for all students)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "October",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "320 hours",
+            "teaching_period": "14 October 2024 to 22 November 2024",
+            "last_self_enrol_date": "22 October 2024",
+            "census_date": "25 October 2024",
+            "last_date_to_withdraw_without_fail": "15 November 2024",
+            "assessment_period_ends": "22 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>Modern techniques have revolutionised biology and medicine, but interpretative and predictive tools are needed. Mathematical modelling is such a tool, providing explanations for counter-intuitive results and predictions leading to new experimental directions. The broad flavour of the area and the modelling process will be discussed. Applications will be drawn from many areas including population growth, epidemic modelling, biological invasion, pattern formation, tumour modelling, developmental biology and tissue engineering. A large range of mathematical techniques will be discussed, for example discrete time models, ordinary differential equations, partial differential equations, stochastic models and cellular automata.</p>"
+    ],
+    "ilo": [
+        "appreciate the context in which continuum and discrete modelling may arise in mathematical modelling;",
+        "have high level mathematical tools and knowledge that can be used to model a range of problems in mathematical biology;",
+        "have the ability to implement physically justified approximations to solve complex problems;",
+        "have been exposed to both computational and analytical tools, and understand the various contexts in which they can be applied;",
+        "have the ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMAST30030Applied Mathematical ModellingSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30030",
+                        "Name": "Applied Mathematical Modelling",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST30029 Partial Differential Equations (pre-2014)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 50 pages of written assignments (three assignments worth 20% each, due early, mid and late in semester)",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

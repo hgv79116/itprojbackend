@@ -1,0 +1,77 @@
+{
+    "overview": [
+        "<p>Social Computing is a field of study that investigates computing techniques and systems to support, mediate, and understand aspects of social behaviours. Understanding the principles and foundations of Social Computing is important because of the rapid proliferation of social systems, particularly those aimed at end-users (e.g. social networking websites, crowd sourcing platforms, knowledge sharing platforms, etc.). This subject will introduce you to key concepts and principles of Social Computing, and provide you with training to investigate how these systems influence human behaviours, how to improve current implementations, and how to identify ways to better support social activities and interactions.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of a range of social computing applications and concepts",
+        "Demonstrate an ability to apply and analyse the different approaches to using socio-technical designs for supporting social behaviours and activities",
+        "Be able to evaluate and create social computing applications",
+        "Demonstrate knowledge of contemporary tools and environments for social analytics"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 \u2013 Review: Individual report on different types of social computing systems, and how they differ in supporting social behaviours and activities. A report of 1000 words requiring approximately 10 hours of work. Due in week 3 or week 4. Addressing Intended Learning Outcomes (ILO's) 1 and 2.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 2 \u2013 Social System Design: Group project (3-4 students) involving the design of an application that supports collaborative and co-located crowdsourcing. A report of 2000 to 3000 words, requiring approximately 20 hours of work per student. Addressing ILO's 2 and 3.",
+            "bullets": [
+                "60-80 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 3 \u2013 Social System Implementation and Analysis: Propose and complete a group project (3-4 students) that entails designing, launching and evaluating a social computing application. A demonstration of the system lasting 10 minutes, requiring approximately 10 hours of work per student. Addressing ILO's 3 and 4.",
+            "bullets": [
+                "30-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 4 - Social System Implementation and Analysis: Final report describing the group work and findings. Due second week of examination (30%). Addressing ILO's 3 and 4.",
+            "bullets": [
+                "2000-3000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jorge Goncalves",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "35, comprising of one 2-hour lecture per week and one 1-hour tutorial in Weeks 2 - 12",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Jorge Goncalves",
+            "contact_email": "jorge.goncalves@unimelb.edu.au"
+        }
+    ]
+}

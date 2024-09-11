@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p>Wildlife Management has varied goals, addressing issues as diverse as conservation and biodiversity, human-animal conflict, pest animal control, overabundance and potential for disease spill over.</p>",
+        "<p>This subject will expose students to real-life examples of wildlife management in Australia, and provide them with opportunities to meet and interact with relevant professionals in this field during synchronous online teaching sessions. Although examples in this subject are based in Australia, the principles students engage with are applicable across the globe. All synchronous teaching activities will also be recorded, and thus available asynchronously. </p>",
+        "<p>Staff from a variety of government and not-for-profit agencies involved in wildlife management will present an outline of their management programs and provide detailed information about specific management issues and activities. Further materials to support the themes discussed, and to provide students with additional background and context for each management example, will be provided through asynchronous delivery.</p>"
+    ],
+    "ilo": [
+        "Define the meaning of wildlife management",
+        "List common stakeholders and explain the broad types of challenges faced by wildlife managers",
+        "Describe the main reasons for managing wildlife, common methods employed, including their advantages and disadvantages and approaches to monitoring success",
+        "Suggest appropriate strategies for specific wildlife management problems within Australian and international contexts",
+        "Integrate the knowledge gained and the scientific literature to answer a research question relevant to wildlife management"
+    ],
+    "generic_skills": [
+        "Apply critical and analytical skills to the identification and resolution of problems",
+        "Communicate effectively",
+        "Have good time management skills",
+        "Critically analyse and synthesise scientific publications",
+        "Write a scientific literature review",
+        "Demonstrate intellectual honesty and ethical values"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "BIOL90020 - Wildlife Management"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Engagement with prescribed reading through interactive online discussion prior to each field class",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Prior to each field trip",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Task sheets for each of the 5 field trips",
+            "bullets": [
+                "200 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Within 48 hours after the field trip",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual oral presentation on the topic to be covered in the individual assignment. To be held in last week of Semester 1",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual written assignment. The deadline for submission of final assignments will be announced at the start of the subject, but is typically the end of the first week of the exam period",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Presentations will be held over one full day at the end of semester. Attendance at all presentations is a hurdle requirement.",
+            "bullets": null,
+            "hurdle": "Presentations will be held over one full day at the end of semester. Attendance at all presentations is a hurdle requirement. ",
+            "timing": "Late in the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Attendance and participation in all classes (5x field trips and 2x seminars)",
+            "bullets": null,
+            "hurdle": "Students are required to attend and participate in all classes (field trips and seminars)",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "50 contact hours, with one approximately half-day class roughly every two weeks throughout semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "evl@unimelb.edu.au"
+        }
+    ]
+}

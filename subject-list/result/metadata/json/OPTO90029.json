@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>Note: This subject is only available to students enrolled in the Doctor of Optometry. Students will only enrol in this subject on the instruction of the OD Progress Committee.</p>",
+        "<p>This subject provides students with the opportunity to maintain the clinical skills developed through the completion of the subject OPTO90024 Preclinical Optometry, by providing further practice and training in the optometric procedures for the examination of the eyes and the treatment of common visual disorders. On completion of the subject, students will be able to investigate a patient\u2019s visual problems, make a diagnosis, and plan an appropriate course of management for common conditions. Practical sessions maintain a student's skill in taking and recording a routine patient history, investigating an ocular complaint, completing a comprehensive refractive examination, and performing a routine screen to detect overt visual dysfunction.</p>"
+    ],
+    "ilo": [
+        "identify and assess the structure and function of the normal human eye and visual system; and",
+        "conduct a basic clinical ocular examination using key ophthalmic equipment and skills according to current best-practice standards."
+    ],
+    "generic_skills": [
+        "manage competing demands on time, including self-directed project work;",
+        "integrate knowledge from different domains;",
+        "value the collection and recording of accurate and complete data; and",
+        "reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "OPTO90024",
+                        "Name": "Preclinical Optometry",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "OPTO90027",
+                        "Name": "Integrated Ophthalmic Sciences",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "75"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3x 45-min Clinical proficiency examinations",
+            "bullets": [
+                "135 minutes (total)"
+            ],
+            "hurdle": "Satisfactory perfomance in clinical proficiency examinations.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at all preclinical duties ",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 hrs pratical and clinical work per week",
+            "total_time_commitment": "160 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "overview": [
+        "<p>The Developing Clinical Practice 2 subject builds on year 1 and continues to provide the arena in which all the other subjects in the program are integrated into participants' developing expertise as a classroom teacher, and their developing understandings of professional knowledge, professional practice and professional engagement. As clinical practice is the foundation of Faculty of Education's Master of Teaching programs, this subject is underpinned with the core conviction that each and every student can learn, and will learn through teaching interventions that are derived from classroom data and research evidence.</p>",
+        "<p>Participants continue to be provided with opportunities to observe demonstrations of quality teaching, by lead / expert teachers from the school or nearby schools. Clinical Specialists and Transition Mentors organise these demonstrations as well as providing regular feedback on teaching practice and professional conduct.</p>",
+        "<p>Through direct practical engagement, participants continue to develop and enhance their understanding of the Australian Professional Standards for Teachers (APST) and demonstrate evidence to support the attainment of these standards. This subject also enables participants to prepare for the attainment of full teacher registration by undertaking assessment tasks, including Elements 1-3 of the Assessment for Graduate Teachers (AfGT), that are linked to the Victorian Institute of Teachers (VIT) process for full registration and that comply with registration requirements.</p>"
+    ],
+    "ilo": [
+        "demonstrate progress towards attainment of Australian Professional Standards for Teachers (Graduate Standards 1-7)",
+        "establish positive and supportive relationships around learning with all students in their classes and effectively manage student behaviour (Graduate Standards 4.2, 4.3)",
+        "reflect on observations of quality teaching, build professional knowledge through practice (Graduate Standards 2.3, 6.1)",
+        "learn in an interactive learning community, responding to continuous feedback on teaching practice (Graduate Standards 6.3)",
+        "refine practice in light of new knowledge acquired and data gathered about student learning (Graduate Standards 6.3)",
+        "use evidence and clinical judgement in teaching practice, to effectively engage and motivate learners (Graduate Standards 2.3, 5.4)",
+        "know their students and understand what they are ready to learn based on evidence (Graduate Standards 2.3, 3.2, 3.3)",
+        "identify preferred teaching strategies that are differentiated to meet the diverse needs of learners (Graduate Standards 2.3, 3.3)"
+    ],
+    "generic_skills": [
+        "Be skilled communicators who can effectively articulate and justify their professional practice;",
+        "Use evidence based knowledge to inform practice;",
+        "Be flexible and able to adapt to change through knowing how to learn;",
+        "Receive and respond to continuous feedback;",
+        "Work in teams with skills in cooperation, communication and negotiation;",
+        "Be independent of mind, responsible, resilient, self-regulating;",
+        "Have a conscious personal and social values base that is evident in their teaching."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90593",
+                        "Name": "Developing Clinical Practice 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90582",
+                        "Name": "Evidence Based Learning and Teaching 2",
+                        "Teaching period": "January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90997",
+                        "Name": "Learning Area A2",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "EDUC90998",
+                        "Name": "Learning Area B2",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assessment for Graduate Teachers (AfGT) Elements 1, 2 and 3",
+            "bullets": [
+                "2400 words (equivalent)"
+            ],
+            "hurdle": "This task must be passed to successfully complete the subject (each element 1-3 of the AfGT must be passed)",
+            "timing": "October",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Teaching Performance: Observed teaching practice in School, Terms 1-4",
+            "bullets": [
+                "5100 words (equivalent)"
+            ],
+            "hurdle": "Teaching Performance must be passed",
+            "timing": "Final result in November",
+            "percentage": "65%"
+        },
+        {
+            "brief": "Employment in a school on a 0.8 teaching load",
+            "bullets": null,
+            "hurdle": "Must meet all elements of the contract agreement with the school for employment ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Compilation of evidence of clinical practice which includes lesson plans/ unit plans/ notes and a log of a minimum of 15 classroom observations",
+            "bullets": null,
+            "hurdle": "Must present evidence to assessor of all elements of practice as listed",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "100% attendance at all scheduled lectures, tutorials, seminars and workshops",
+            "bullets": null,
+            "hurdle": "100% attendance at all face to face classes, unless special consideration application approved",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Julie Ryan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 (includes professional learning in school of employment, and on-campus sessions during study intensives)",
+            "total_time_commitment": "255 hours",
+            "teaching_period": "15 January 2024 to 20 October 2024",
+            "last_self_enrol_date": "26 January 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "julie.ryan@unimelb.edu.au"
+        }
+    ]
+}

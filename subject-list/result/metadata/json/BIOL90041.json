@@ -1,0 +1,59 @@
+{
+    "overview": [
+        "<p>This subject provides an overview of data science concepts and techniques as they pertain to the field of biology. Students will learn how to apply data science methods to real-world biological data, including techniques for data collection, curation, analysis, and visualization. The subject will provide practical skills in programming languages commonly used for data science, such as R or Python, and best practices for reproducible research, including documentation and data sharing. It will also provide with the students a practical experience of high-performance computing (HPC) and cloud computing. By the end of the subject, students will have developed a robust foundation across this set of skills, empowering them to work confidently with the kind of large-scale dataset that is becoming increasingly common across all fields of biology.\u202f </p>"
+    ],
+    "ilo": [
+        "apply fundamental principles of data science to biological data sets;",
+        "collect, organise, and curate biological data for analysis;",
+        "assess the appropriateness of experimental designs and analysis techniques to interpret biological data;",
+        "visualise and interpret the results of data analysis; and",
+        "develop practical skills in programming languages commonly used for data science."
+    ],
+    "generic_skills": [
+        "collecting, curating, and interpreting quantitative data;",
+        "developing the ability to exercise critical judgement;",
+        "rigorous and independent thinking; and",
+        "time management and self-management."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5x in-class quizzes",
+            "bullets": [
+                "200 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 2-12, every 2-3 weeks",
+            "percentage": "20%"
+        },
+        {
+            "brief": "2x coding assignments",
+            "bullets": [
+                "750 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 3-4 and Weeks 8-10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "2x written reports",
+            "bullets": [
+                "1250 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 6-7 and during examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

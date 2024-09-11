@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p>In this subject students consolidate the basic elements covered in Latin 1, and are introduced to more complex grammar and syntax. Increasingly difficult literary and dramatic texts are read. Background information on Roman culture is woven into the subject matter throughout the semester. By the end of the subject, students should have a sufficient grasp of the language to read texts of moderate difficulty with vocabulary assistance. Students who complete this subject may progress to Latin 3.</p>"
+    ],
+    "ilo": [
+        "Read and comprehend basic Latin texts",
+        "Translate basic Latin passages and sentences into English",
+        "Identify and explain basic Latin grammar, vocabulary and syntax",
+        "Identify and articulate the relationship between basic Latin texts and their original socio-cultural context."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10006",
+                        "Name": "Latin 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS30004",
+                        "Name": "Intensive Beginners Latin",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "CLAS20021",
+                        "Name": "Intensive Beginners Latin",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CLAS10003 Intensive Beginners Latin"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who have completed VCE Latin are not permitted to enrol in this subject."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "6 in-class tests (equivalent to 750 words)",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "3 translation exercises",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An exam (equivalent to 2000 words)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Edward Jeremiah",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Summer - 45 hours: 1 hour lecture and 2 hours of tutorials per day for 15 days.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 February 2024 to 22 February 2024",
+            "last_self_enrol_date": "6 February 2024",
+            "census_date": "9 February 2024",
+            "last_date_to_withdraw_without_fail": "16 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": "",
+            "contact_email": "edwardj@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Semester 2 - 48 hours: 1 hour lecture per week for 12 weeks and 1 hour tutorial 3 times per week for 12 weeks.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "edwardj@unimelb.edu.au"
+        }
+    ]
+}

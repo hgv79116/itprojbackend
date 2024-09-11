@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an insight into the fundamental elements to analyse electrical power transmission and distribution systems, with both analytical and simulation tools for analysis of operations of these systems. Problems related to power flow and use of Newton-Raphson and other algorithms such as backward-forward sweep will be discussed. Fault calculation and analysis, symmetrical components, and analytical methods for solving symmetrical (balanced) faults will be covered. Principles, concepts and problems related to power system dynamics and control, particularly for frequency and voltage regulation, will be discussed and analysed in detail. Finally, small-signal, transient, voltage and frequency stability will be introduced and exemplified. Focus will be put on real-world examples, particularly to prepare the student for the ongoing transition towards a low-carbon grid dominated by renewables and distributed energy resources.</p>",
+        "<p><strong><br/>INDICATIVE CONTENT</strong></p>",
+        "<ul><li>Power flow calculations, Newton-Raphson, Gauss-Seidel and backward-forward sweep methods;</li><li>Fault calculations, balanced and unbalanced, symmetrical components, fundamentals of protection;</li><li>Frequency regulation and frequency stability,</li><li>Voltage regulation in transmission and distribution networks, including use of flexible AC transmission systems (FACTS);</li><li>Voltage stability, small-signal stability, transient stability;</li><li>Computer simulations.</li><li> </li></ul>"
+    ],
+    "ilo": [
+        "1.  Interpret the behaviour of the basic components of power systems",
+        "2. Compute power flow in transmission systems",
+        "3. Compute fault quantities, such as voltage, current and power in transmission systems under normal and fault conditions",
+        "4. Ascertain the stability of power systems from operating conditions",
+        "5. Use software tools to simulate and study the steady-state and dynamic behaviour of electrical power systems"
+    ],
+    "generic_skills": [
+        "Ability to apply basic fundamentals of science and engineering to solve real life problems associated with power systems;",
+        "Ability for in-depth technical competence in power systems engineering discipline;",
+        "Ability to identify, formulate, analyse and solve practical engineering problems;",
+        "Capacity for independent critical thought, rational assessment and self-directed learning;",
+        "Ability to communicate and work effectively with teams;",
+        "Ability to write technical reports in a clear and concise manner;",
+        "Ability to present results of technical investigation to a large audience."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90074",
+                        "Name": "Introduction to Power Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90055",
+                        "Name": "Control Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written 90 minutes examination at the end of semester. ILOs 1,2,4, part of 3 are addressed in this assessment.",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": "To pass the subject, students must exceed a hurdle on the sum of the mid-semester and end-of-semester exams.",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One written 90 minutes examination at mid-semester. ILOs 1,2, part of 3 are addressed in this assessment.",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": "To pass the subject, students must exceed a hurdle on the sum of the mid-semester and end-of-semester exams.",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Three workshop reports completed in groups, (approximately 45-50 hours of work per student). Reports  (15 % each) to be submitted in weeks 7, 10 and 14. ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 14",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures plus 36 hours of combined workshops/tutorial/consultations",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "pierluigi.mancarella@unimelb.edu.au"
+        }
+    ]
+}

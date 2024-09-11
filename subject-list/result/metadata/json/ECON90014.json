@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>This subject aims to provide students with a standard  tool kit to analyse dynamic macroeconomic models and to give a detailed coverage of some important applications in macroeconomics. The subject is composed of four parts. Part I provides a brief review of the formal theory of dynamic optimization. Part II devotes to some general numerical techniques to solve and simulate a dynamic model. Part III introduces some econometric techniques that are used to estimate a structural model with data. Part IV focuses on applications of these techniques in some important research areas of macroeconomics, including real business cycle models and its various extensions, incomplete market models, firm dynamics models, monetary models. </p>"
+    ],
+    "ilo": [
+        "Formulate a dynamic optimization problem recursively and conduct some analytical analysis;",
+        "Numerically solve a dynamic model in a proper way;",
+        "Parameterise the structural model such that it links to the data properly;",
+        "Simulate the estimated model to derive model predictions;",
+        "Be familiar with the literature on several important areas of macroeconomic research;",
+        "Replicate and discuss a piece of economic analysis from a professional journal."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence;",
+        "Synthesis of ideas, views and evidence;",
+        "Strategic thinking;",
+        "Critical thinking;",
+        "Application of theory to economic policy and business decision making;",
+        "Summary and interpretation of information;",
+        "Statistical reasoning;",
+        "Problem solving skills;",
+        "Collaborative learning and teamwork;",
+        "Written communication;",
+        "Numerical computing and simulation of economic models."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON90003MacroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90003",
+                        "Name": "Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four take-home problem-set assignments (due every 3 weeks,\n\n400 words each, 20% total/5% each)",
+            "bullets": [
+                "1600 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Mid-semester in-class exam, (15% or 35% depending on student's relative performance between the two exams)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester examination, (65% or 45% depending on student's relative performance between the two exams)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Faisal Sohail",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Seminars or lectures and tutorials totalling three hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "faisal.sohail@unimelb.edu.au"
+        }
+    ]
+}

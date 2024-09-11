@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>Decision making in central banks, consulting firms, and other institutions relies on advanced empirical analyses of economic data. This subject provides a cutting-edge econometric methodology for empirical macroeconomic research. The focus is put on modelling unit-root nonstationary processes that describe many economic time series well. Applications of the considered econometric techniques include forecasting and nowcasting macroeconomic variables including using big data, estimating the effects of monetary policy, as well as modelling of trend inflation. Topics in Climate Change include forecasting CO2 emissions for the 21st century and modelling long-run trends in global temperatures. Particular attention is paid to developing programming skills that allow for performing rigorous applied macroeconomic research in R.</p>"
+    ],
+    "ilo": [
+        "Apply quantitative analysis to model and forecast the essential variables and quantities for the empirical macroeconomic research.",
+        "Understand, derive, and program estimation algorithms for univariate and multivariate structural models and for economically interpretable quantities such as impulse response functions and forecast error variance decompositions, inflation trend, output gap, etc.",
+        "Comprehend and apply Bayesian analysis of unit-root nonstationary variables in uni- and multi-variate systems.",
+        "Forecast economic variables of interest, with the focus on density forecasting, using big data with dedicated models applying appropriate numerical techniques that make the task computationally feasible.",
+        "Use structural multivariate models to identify the monetary policy shock and estimate its effect on the real business cycle indicators.",
+        "Understand and estimate state-space models in macroeconomic applications.",
+        "Apply macroeconomic modeling in climate change topics."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence;",
+        "Synthesis of ideas, views and evidence;",
+        "Critical thinking;",
+        "Summary and interpretation of information;",
+        "Using computer programs;",
+        "Problem solving skills; and",
+        "Written communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECOM40006Econometrics 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM40006",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM90007",
+                        "Name": "Macroeconometrics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "13%"
+        },
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "13%"
+        },
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "14%"
+        },
+        {
+            "brief": "End-of-Semester Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tomasz Wozniak",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "tomasz.wozniak@unimelb.edu.au"
+        }
+    ]
+}

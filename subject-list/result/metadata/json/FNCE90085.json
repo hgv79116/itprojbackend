@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p>This is a practice-based capstone subject which enables students to develop their skills in the researching and production of a substantive piece of work (written, video and/or multi-media based) whilst also engaging with finance practitioners to identify current issues of interest to the broader society. The piece produced by each student will make use of the technical skills that they have developed during the first semester in the Master of Finance program and is designed to be consumed by a non-specialist audience.  The subject would be team-taught by faculty from both the Department of Finance in the Faculty of Business and Economics and the Centre for Advancing Journalism in the Faculty of Arts. Department of Finance faculty will be responsible for coordinating the guest lectures by finance practitioners that occur in the first half of the course. It is anticipated that the practitioners chosen would represent a diverse range of market participants including; regulators, financial institutions, consultants, industry bodies, corporates and consumer rights organisations. Faculty from the Centre for Advancing Journalism will take responsibility for the development of the technical research and writing skills necessary for the students to successfully produce their final piece of work.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an awareness of key issues currently of interest to financial market participants",
+        "Demonstrate a high-level of written communication skills",
+        "Display expertise in researching, writing and editing their own work",
+        "Demonstrate a practical understanding of how researched pieces of work are put together for non-specialist audiences",
+        "Critically reflect on challenges that content-producers face across different media",
+        "Demonstrate the skills involved in accessing, analysing and curating data from publicly available sources"
+    ],
+    "generic_skills": [
+        "Oral and written communication",
+        "Problem solving",
+        "Application of theory to practice",
+        "Team work",
+        "Critical thinking",
+        "Evaluation of data"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-FINANCE Master of Finance",
+                    "MC-FINENH Master of Finance (Enhanced)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 37.5 credit points of study"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 short writing exercises in class (400 words per exercise)",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Attendance and regular class participation",
+            "bullets": null,
+            "hurdle": "Students are required to attend a minimum of 80% of classes to pass the subject",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Initial draft work submitted to assess progress.",
+            "bullets": [
+                "300 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Final work submission",
+            "bullets": [
+                "3500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Marina Gertsberg",
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Gaby Berhe Nardari",
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "One x 1 hour lecture and one x 2 hour workshop",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

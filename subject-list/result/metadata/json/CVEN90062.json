@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>In the past few years, the Architecture Engineering and Construction (AEC) industry has observed the evolution of simple 2D drafting programs into integrated Building Information Modelling (BIM) based on 3D spatial technologies. In this subject, students will learn how BIM is used to model, store and visualise architectural, structural, and facilities components of an infrastructure in 3D. Students will also learn how adding time and cost information to BIM allows AEC to foster collaboration in designing infrastructures, minimize the risk of construction errors and optimise the maintenance of them.</p>",
+        "<p>The subject is of particular relevance to students wishing to establish a career in civil engineering, property management, surveying, spatial information and urban planning but is also relevant to a range of disciplines where 3D building information should be considered.</p>"
+    ],
+    "ilo": [
+        "Explain the function of BIM in the Architecture, Engineering and Construction industry",
+        "Apply BIM in designing, visualising and maintaining components of infrastructures",
+        "Analyse how collaborative techniques in BIM increase productivity and reduce the risk of construction and usage errors",
+        "Design infrastructures and plan for their construction and maintenance using BIM"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to communicate effectively, with the engineering team and with the community at large;",
+        "Ability to manage information and documentation."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1, 1500 word report and a BIM file on designing and communicating an infrastructure; group submission. Intended Learning Outcomes (ILOs) 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Assignment 2, 1500 word report and a BIM file on analysing an infrastructure; individual submission. ILO 4 is addressed in this assessment.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "4 x quizzes each worth 5%. ILO s 1-4 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "48 hours",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "yiqun.c@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Benny Chen",
+            "contact_email": "yiqun.c@unimelb.edu.au"
+        }
+    ]
+}

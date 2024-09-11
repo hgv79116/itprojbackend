@@ -1,0 +1,164 @@
+{
+    "overview": [
+        "<p>This Capstone subject draws together students\u2019 undergraduate experiences in psychology by emphasising links between the science and practice of psychology in contemporary life.</p>",
+        "<p>In the lecture series, students engage with topics relating to current applications of psychological research and practice such as the ethical practice of psychology and the measurement of attitudes, behaviour, and behavioural change as related to contemporary issues such as climate change, indigenous cultural respect, drug addiction, and psychological health and wellbeing.</p>",
+        "<p>In the research seminars, students work in small groups to design and conduct a research project under the supervision of an academic researcher.</p>",
+        "<p>Together, the lecture and research streams prepare students for further studies in psychology or to enter the workplace having developed skills in applying psychological knowledge, conducting research, working collaboratively, and communicating effectively about psychological theories and findings. Students\u2019 achievements are celebrated in a final poster presentation evening at which the research conducted by groups over the semester is presented to peers and academic staff.</p>"
+    ],
+    "ilo": [
+        "The key research findings that underpin psychological science and how these can be applied to psychological practice and contemporary social issues",
+        "The principles of ethical research and practice in psychology, with reference to the Australian Psychological Society Code of Ethics and NHMRC National Statement on Ethical Conduct in Human Research.",
+        "An awareness of and respect for diverse experiences and culture, including specific reference to the experiences and cultures of Aboriginal and Torres Strait Islander peoples."
+    ],
+    "generic_skills": [
+        "Literature review and research methods;",
+        "Critical thinking and analysis of arguments;",
+        "Reflective thinking and self-evaluation;",
+        "Giving and receiving feedback;",
+        "Goal setting, time management and self-directed learning;",
+        "Effective written and oral communication;",
+        "Sensitivity to ethical issues and cultural diversity;",
+        "Working effectively in a team to design, execute and present a collaborative project."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC30013",
+                        "Name": "Research Methods for Human Inquiry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Two ofCodeNameTeaching periodCredit PointsPSYC20006Biological PsychologySemester 1 (On Campus - Parkville)12.5PSYC20007Cognitive PsychologySemester 2 (On Campus - Parkville)12.5PSYC20008Developmental PsychologySemester 1 (On Campus - Parkville)12.5PSYC20009Personality and Social PsychologySemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC20006",
+                        "Name": "Biological Psychology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC20007",
+                        "Name": "Cognitive Psychology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC20008",
+                        "Name": "Developmental Psychology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC20009",
+                        "Name": "Personality and Social Psychology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "For students undertaking a Bachelor degree with a major sequence in psychology, the completion of at least 200 points is required."
+            },
+            {
+                "type": "paragraph",
+                "content": "For students undertaking the Graduate Diploma in Psychology, the completion of at least 50 points is required."
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC40013",
+                        "Name": "Advanced Psychological Theory & Practice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group poster",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual laboratory report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Graduate Attributes Portfolio",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": "",
+            "timing": "Week 8",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "80% attendance at research seminars (5 of 6 lab classes), throughout semester. In case of failure to meet the\u00a0attendance requirement, additional work related to the missed class activities (e.g., short 500\u2010word essay on missed topic) will be required before a passing grade can be awarded.\u00a0",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Isabel Krug",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours total contact comprising: 12 weekly lectures (each 2 hours); 6 x 2 hour research seminars.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

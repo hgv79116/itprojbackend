@@ -1,0 +1,83 @@
+{
+    "overview": [
+        "<p>Particle Physics is the study of the elementary constituents of matter, and the fundamental forces of nature. The subject introduces modern elementary particle physics, with an emphasis on the theoretical description of the Standard Model of Particle Physics and its experimental basis. Specific topics may include basic group theory; parity and CP violation; global and local symmetries; non-abelian gauge theory; QCD and the quark model; running coupling constants and asymptotic freedom; spontaneous symmetry breaking and the Higgs mechanism; the complete Standard Model Lagrangian; interactions of particles with matter; accelerators and detectors; deep inelastic scattering and structure functions; flavour mixing and neutrino oscillations.</p>"
+    ],
+    "ilo": [
+        "to introduce the experimental motivation and theoretical framework of the Standard Electroweak theory and QCD;",
+        "to understand the role that global and local symmetries play in modern elementary particle physics and to become acquainted with the concept of symmetry breaking;",
+        "to develop tools to enable the quantitative calculation of tree-level electroweak cross-sections;",
+        "to provide a foundation for more advanced studies in particle physics."
+    ],
+    "generic_skills": [
+        "analysing how to solve a problem by applying simple fundamental laws to more complicated situations;",
+        "applying abstract concepts to real-world situations;",
+        "solving relatively complicated problems using approximations;",
+        "participating as an effective member of a group in discussions and collaborative assignments;",
+        "managing time effectively in order to be prepared for group discussions and undertake the assignments and exam."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC90007",
+                        "Name": "Quantum Mechanics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC90008",
+                        "Name": "Quantum Field Theory",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to four assignments totalling up to 36 pages of written work, spaced equally",
+            "bullets": [
+                "36 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "4 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jeffrey McCallum",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours comprising 3 one-hour lectures/week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "msc@physics.unimelb.edu.au"
+        }
+    ]
+}

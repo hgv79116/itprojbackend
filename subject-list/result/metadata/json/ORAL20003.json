@@ -1,0 +1,123 @@
+{
+    "overview": [
+        "<p>This subject comprises four modules:</p>",
+        "<p><strong>Pharmacology and Pain Management:</strong> local anaesthetics agents and drug schedules; the pharmacology of local anaesthesia; applied anatomy relevant to local analgesia; administration of infiltration and inferior dental nerve block analgesia, complications of local analgesia and the management of dental pain.</p>",
+        "<p><strong>Oral Biology \u2013 cariology and periodontology:</strong> The causation, natural history, clinical appearance, treatment and prevention of the common dental conditions: caries and periodontal disease.</p>",
+        "<p><strong>Oral medicine and pathology:</strong> healing and repair in the oral cavity; developmental abnormalities of the dentition; microbiology, biochemistry and pathology of caries and periodontal diseases; pigmentation of the oral mucosa; oral ulcerations; premalignant oral lesions; cysts of the oral region; dysplasia and neoplasia of the oral mucosa; odontogenic neoplasms; dermatological and salivary gland disorders; infectious diseases and specific oral infections; oral manifestations</p>",
+        "<p><strong>Management of patients with complex and additional needs:</strong> management of patients with speech pathology; cardiovascular conditions; respiratory disease; endocrine, haematological, neurological, psychiatric and neoplastic disorders; and intellectual, physical and sensory disabilities.</p>"
+    ],
+    "ilo": [
+        "recognise the causes and pathogenesis of the common oral conditions;",
+        "compare the management of the common oral disorders;",
+        "recall the biochemistry of teeth, supporting structures and saliva;",
+        "recognise oral pathology in the clinical situation and to instigate appropriate referral;",
+        "evaluate the relevance to dental care of the various medical conditions and associated therapies;",
+        "identify the principles of pharmacology in relation to drugs and other medical agents used in dentistry;",
+        "practice the administration of local analgesia;",
+        "synthesise medical conditions and associated therapies which are relevant to dental care; and",
+        "define periodontal pathogenesis, system conditions and the periodontium."
+    ],
+    "generic_skills": [
+        "be able to access new knowledge from different sources, analyse and interpret it in a critical manner;",
+        "have developed skills in effective communication with teaching staff and peers;",
+        "have developed effective organizational skills and time management;",
+        "have developed skills in team work;",
+        "be able to identify and address their own learning needs (self evaluation);",
+        "understand the need for precision, accuracy and self-evaluation;"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ORAL20005",
+                        "Name": "Oral Health Practice 2",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Ongoing in-class assessments throughout the semester",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Local Anaesthesia Practical Assessment",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "Pass / Fail",
+            "timing": "Early in the first half of year teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid-year examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group oral presentation",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group written report",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of year examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Jenn Copley",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "118 contact hours and 222 non-contact hours.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "30 January 2024 to 20 October 2024",
+            "last_self_enrol_date": "9 February 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Jenn Copley",
+            "contact_email": "jenn.copley@unimelb.edu.au"
+        }
+    ]
+}

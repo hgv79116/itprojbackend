@@ -1,0 +1,67 @@
+{
+    "overview": [
+        "<p>Game theory is a branch of mathematics where the interactions between rational decision makers (players) are modelled and analysed. Game theory can broadly be divided into the study of noncooperative games and cooperative games. For noncooperative games we study two-player games, games in extensive form, games of perfect and imperfect information, games with complete and incomplete information, games with chance moves, repeated games, and Bayesian games. To analyse these games we introduce the concepts of Nash equilibria, evolutionary stable strategies, subgame perfect equilibria, and belief spaces. For cooperative games we study coalitional games with transferable utility, and introduce the concepts of coalitions, characteristic functions, the core, the Shapley value, the nucleolus, and dual games. We prove the well known Bonderava-Shapley theorem which gives conditions for the nonemptyness of the core. This subject provides a rigorous mathematical treatment of game theory, and will include applications selected from queueing theory, biology, population dynamics, resource allocation, auction theory, political science, and military applications.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of the fundamental concepts and techniques for modelling and analysing noncooperative and cooperative games;",
+        "Demonstrate their developed skills needed to solve problems in game theory from a rigorous mathematical perspective;",
+        "Analyse and solve problems in noncooperative and cooperative game theory;",
+        "Develop and analyse game theoretical models in areas where game theory can be applied; and",
+        "Pursue further studies in game theory and related areas."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team; and",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30022",
+                        "Name": "Decision Making",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuing assessment of up to 40 hours work, worth 40% of the mark, throughout the semester",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

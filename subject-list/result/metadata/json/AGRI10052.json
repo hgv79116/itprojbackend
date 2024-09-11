@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>The objective of this subject is to introduce students to the concepts of genetics and the effects of genetic variation and selection used to propagate valuable heritable trait combinations in crop plants and farm animals.</p>",
+        "<p>Topics covered include - Historical background around (origin) genetics, nature of variation, cell structure and cell division, early concepts of inheritance, Mendel's laws, chromosomal theory of inheritance, Quantitative genetics, Gene interactions, Major genes, Sex determination, differentiation and sex-linkage, Sex influenced and sex-limited traits, linkage-detection, estimation, recombination and genetic mapping, Population genetics, Frequencies of genes and genotypes, Hardy-Weinberg equilibrium, Molecular genetics, Gene expression and Central Dogma (DNA to RNA to protein), Genotyping and Genomic selection, Genetic defects and DNA testing, Conventional plant and animal improvement, Genotype and Environment interactions, genetic modification, implications of biotechnology to agricultural sustainability.</p>"
+    ],
+    "ilo": [
+        "basic mechanisms of inheritance, recombination and mutation LO2 the linkage between genotype",
+        "the linkage between genotype and phenotype",
+        "the interactions between genotype and environment",
+        "the implications of genetic change in biological systems",
+        "the principles and extension of Mendelian genetics in plant and animal breeding",
+        "the application of both conventional and molecular breeding, and outline the social and regulatory issues relating to recombinant DNA technology in an agricultural context",
+        "the application of range of genetic tools (including genomic technologies) used for the design of breeding strategies to improve plant and animal populations",
+        "the constraints to production gain using genetic selection programmes"
+    ],
+    "generic_skills": [
+        "Demonstrate critical thinking, analysis and problem-solving skills",
+        "Record observations, analyse and interpret scientific data",
+        "Statistically analyse genetic data",
+        "Demonstrate the ability to communicate scientific data effectively in both written and verbal formats"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10051",
+                        "Name": "Genetics for Agriculture",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short multiple choice test",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Short multiple choice test",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Short multiple choice test",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written work related to practical classes",
+            "bullets": [
+                "900 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Surinder Singh Chauhan",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "2 hours lectures/ week, 1 hour tutorial/ week \n\n3 hours/fortnight practicals\n\n4 hours per week of e-learning activities, independent learning tasks, pre lecture activities, and post laboratory activities.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ss.chauhan@unimelb.edu.au"
+        }
+    ]
+}

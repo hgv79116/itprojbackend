@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The evolution of construction methods and the development of structural systems enable buildings to be built faster and safer than traditional construction methods. This subject introduces advanced steel and composite structures that can be used in modern construction, where most parts of a building are prefabricated off-site in a factory before assembling them on-site. The subject covers different types of structures, including steel structures, composite slabs, composite beams, composite columns, and cold-formed steel. Application of finite element analysis and design methods for modular and prefabricated buildings and steel structures under fires are also introduced to provide students with comprehensive knowledge of modern construction methods. Students will also experience design exercises of real-world structures from senior experienced practising engineers, which will place them at the forefront of both theory and practice. </p>"
+    ],
+    "ilo": [
+        "Describe the design principles of prefabricated and modular buildings",
+        "Undertake structural analyses of different types of structures using commercial package",
+        "Apply Australian design codes to design steel and composite structures",
+        "Undertake preliminary and detailed design of real-world structures",
+        "Design cold-formed steel members, steel structures in fire, composite slabs, composite beams, composite columns and connections"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Proficiency in engineering design",
+        "Ability to conduct an engineering project",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN90049Structural Theory and Design 2Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN90049",
+                        "Name": "Structural Theory and Design 2",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group design report in groups of 5 students. Equivalent to 1500 words per student, 35 hours. Intended Learning outcomes (ILOs) 2, 3, 4 and 5 are addressed in this assessment.",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One group design report in groups of 5 students. ILOs 3 and 6 are addressed in this report. Equivalent to 500 words per student, 15 hours. ILOs 3and 5 are addressed in this assessment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written three hour end-of-semester examination. ILOS 1 to 5  are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Nilupa Herath",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 contact hours (36 hours of lecture, 24 hours of workshops/practicals)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "nherath@unimelb.edu.au"
+        }
+    ]
+}

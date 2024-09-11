@@ -1,0 +1,235 @@
+{
+    "overview": [
+        "<p>This subject introduces Einstein\u2019s Special Principle of Relativity and develops the fundamental principles of electromagnetism and Maxwell\u2019s equations in differential form. Special relativity topics include the foundations of special relativity, spacetime invariance, simultaneity, and Minkowski diagrams, relativistic kinematics, the Doppler effect, relativistic dynamics, and nuclear reactions. Electromagnetism topics include the electric field (e.g. Gauss\u2019s law in integral and differential form, scalar potential and gradient, Poisson and Laplace equations), the magnetic field (e.g. Ampere\u2019s law in integral and differential forms), Maxwell\u2019s equations in vacuum (integral and differential forms), Maxwell\u2019s equations in matter (polarization, electric displacement, magnetic vector potential), time-varying electric and magnetic fields (Maxwell\u2019s equations in general form, wave equations for E and B, plane electromagnetic wave, Poynting vector). The presentation concludes with the relativistic formulation of the Lorentz force law.</p>"
+    ],
+    "ilo": [
+        "discuss the key observations and events that led to the development of Einstein\u2019s theory of special relativity and Maxwell\u2019s equations of electromagnetism;",
+        "explain the fundamental principles of special relativity and electromagnetism and the far-reaching connections between them",
+        "use these fundamental physical principles in the analysis of simple problems;",
+        "discuss the experimental basis of these fundamental principles and how this contributed to the subsequent development of fundamental physics."
+    ],
+    "generic_skills": [
+        "Explain their understanding of physics principles and applications lucidly, both in writing and orally;",
+        "Describe the experimental and observational basis of the physical principles presented in the subject, both in writing and orally;",
+        "Participate as an effective member of a group in tutorial discussions and study groups;",
+        "Think independently and analytically and direct his or her own learning;",
+        "Manage time effectively in order to be prepared for regular tutorial classes, tests, the examination and to complete assignments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsPHYC10001Physics 1: AdvancedSemester 1 (On Campus - Parkville)12.5PHYC10003Physics 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5PHYC10009Foundations of PhysicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10001",
+                        "Name": "Physics 1: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10003",
+                        "Name": "Physics 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10009",
+                        "Name": "Foundations of Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Important: To qualify as a prerequisite for this subject, PHYC10009 must be completed with a result of at least 75 (H2A)."
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsPHYC10002Physics 2: AdvancedSemester 2 (On Campus - Parkville)12.5PHYC10004Physics 2: Physical Science & TechnologySummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5PHYC10006Physics 2: Life Sciences & EnvironmentSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10002",
+                        "Name": "Physics 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10004",
+                        "Name": "Physics 2: Physical Science & Technology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10006",
+                        "Name": "Physics 2: Life Sciences & Environment",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10019 Calculus Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10018  Linear Algebra Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three written assignments requiring a total of up to twenty-four hours of work outside class time to be submitted and assessed early, mid and late semester (10% for each assignment).",
+            "bullets": [
+                "24 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours comprising 36 hours of lectures and 12 hours of tutorials.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "quiney@unimelb.edu.au"
+        }
+    ]
+}

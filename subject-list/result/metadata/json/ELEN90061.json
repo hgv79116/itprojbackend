@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<h3>AIMS</h3>",
+        "<p>This subject introduces the basic principles, analysis, and design of communication networks. It covers relevant analytical methods, the layered network architecture of the Internet, and a multitude of network protocols.</p>",
+        "<p>Analytical tools from queueing, optimisation, and graph theories are used to develop an in-depth understanding of basic principles and the role they play in network design. Specifically, queueing and graph theories are emphasised as methodological frameworks for communication network delay and structure analysis.</p>",
+        "<p>The concepts taught in this subject lead to a better understanding of the Internet as well as modern communication paradigms such as Software-Defined Networks, Machine-to-Machine communication, Internet of Things, and social networks.</p>",
+        "<h3>INDICATIVE CONTENT</h3>",
+        "<p>Topics covered may include:</p>",
+        "<ul><li>The layered network architecture with a focus on physical-layer multiple access (TDM, FDM, WDM), link layer protocols and medium access control (MAC), network layer topologies, least-cost routing algorithms and protocols, transport layer protocols and the principles and techniques of practical reliable transport;</li><li>LAN protocols, Ethernet, Wi-Fi, and serial communications;</li><li>The Internet's network layer including the Internet Protocol (IP) and routing protocols including an introduction to BGP and the operation of forwarding tables in routers and shortest prefix routing;</li><li>The Internet's transport layer protocols UDP and TCP, including the flow and congestion control algorithms;</li><li>Network security, application layer, cloud and fog computing, Machine-to-Machine communication, and Internet of Things;</li><li>Queuing theory: basics, birth-death processes, M/M/x and Markovian queues, networks of queues;</li><li>Basics of graph theory and social network analysis relevant to communication networks.</li></ul>"
+    ],
+    "ilo": [
+        "Analyse, design, and simulate modern communication networks by drawing upon cognitive, technical, and creative skills",
+        "Quantitatively analyse and synthesise modern communication networks by applying fundamental engineering modelling methods",
+        "Demonstrate mastery of theoretical knowledge on basic concepts related to communication network design, the layered architecture, and relevant network protocols, and their relationship and to reflect critically on their theory and professional practice",
+        "Apply fundamental techniques from communication networks to address problems associated with engineering systems and use numerical and simulation tools when appropriate while working in a small team",
+        "Demonstrate technical research skills on communication networks to justify and interpret related engineering solutions, methodologies, conclusions, and professional decisions",
+        "Communicate effectively with specialist audiences as well as professionals across different engineering disciplines, through media such as concise technical reports and informational videos or live presentations"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90054",
+                        "Name": "Probability and Random Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A one-hour progress test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Total of all individual hurdle assessments must be passed",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A one-hour progress test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Total of all individual hurdle assessments must be passed",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Continuous individual assessment of project work, including peer assessment, not exceeding 50 pages per student over the semester. Approximately 50 hours of work per student",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": "Total of all individual hurdle assessments must be passed",
+            "timing": "Throughout the teaching period",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Submission of a final team report not exceeding 30 pages, including an individual contribution statement. Approximately 30 hours of work per team (3-4 students)",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rajitha Senanayake",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and up to 24 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "rajitha.senanayake@unimelb.edu.au"
+        }
+    ]
+}

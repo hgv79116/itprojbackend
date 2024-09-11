@@ -1,0 +1,153 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Good craftsmen know their tools, and compilers are amongst the most important tools that programmers use. There are many ways in which familiarity with compilers helps programmers. For example, knowledge of semantic analysis helps programmers understand error messages, and knowledge of code generation techniques helps programmers debug problems at assembly language level. The technologies used in compiler development are also useful when implementing other kinds of programs. The concepts and tools used in the analysis phases of a compiler are useful for any program whose input has a structure that is non-trivial to recognize, while those used in the synthesis phases are useful for any program that generates commands for another system. This subject provides an understanding of the main principles of programming language implementation, as well as first hand experience of the application of those principles.</p>",
+        "<p><br/></p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>The subject describes how compilers analyse source programs, how they translate them to target programs, and what tools are available to support these tasks. Topics covered include compiler structures; lexical analysis; syntax analysis; semantic analysis; intermediate representations of programs; code generation; and optimisation.</p>"
+    ],
+    "ilo": [
+        "Describe important concepts and techniques in programming language implementation",
+        "Exploit their knowledge of compilers to be more effective programmers",
+        "Use analysis tools to help implement programs whose input has a structure that is non-trivial to recognise",
+        "Use synthesis tools to help implement programs that generate commands for other programs"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to complex problems and to design for performance",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP30020Declarative ProgrammingSemester 2 (On Campus - Parkville)12.5COMP90048Declarative ProgrammingSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30020",
+                        "Name": "Declarative Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90048",
+                        "Name": "Declarative Programming",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Cyber Security specialisation (formal) in the MC-IT Master of Information Technology"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A multi-stage programming project, including peer reviewing. Addressing Intended learning Outcomes (ILO's) 1 to 4, requiring approximately 35 \u2013 40 hours of work.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written 3 - hour closed book examination, end of semester exam period.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

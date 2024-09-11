@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p>Rapid advancements in technology (particularly the internet) combined with fast and cheap computing power has enable firms to radically transform their industries by developing business models and reengineering their supply chains. This component provides students with (i) knowledge of mathematical modelling and analytic tools relating to logistics and supply chain optimization problems, (ii) the ability to use these tools and techniques to analyse strategic, tactical and operational decisions pertaining to inventory management, facility location, logistics and other supply chain management related decisions and (iii) exposure to real world logistics and supply chain decisions through case studies.</p>"
+    ],
+    "ilo": [
+        "Develop the skill to create mathematical models for diverse problems arising from the supply chain industry (e.g. location problems, inventory management, process optimisation).",
+        "Understand supply chain management metrics commonly used.",
+        "Learn the main methods (exact and heuristics) to find good solutions to the mathematical models.",
+        "Evaluate the appropriate method to solve a supply chain problem.",
+        "Learn how to model current challenges in the transportation industry regarding revenue management and auction design for procurement of transportation services."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBUSA90538Decision Making and OptimisationMarch (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90538",
+                        "Name": "Decision Making and Optimisation",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Syndicate assignment",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Midterm test",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students are required to pass the final examination to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "October",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "7 October 2024 to 29 November 2024",
+            "last_self_enrol_date": "17 October 2024",
+            "census_date": "25 October 2024",
+            "last_date_to_withdraw_without_fail": "15 November 2024",
+            "assessment_period_ends": "6 December 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

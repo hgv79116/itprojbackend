@@ -1,0 +1,149 @@
+{
+    "overview": [
+        "<p>In this capstone subject students advance their exploration of the production process to become effective collaborators and independent practitioners.</p>",
+        "<p>It combines the conceptual and technical skills learnt in Production Studios 1 to 4 as well as those learnt in Production Practice 1 and 2. Students will have the opportunity to further develop their conceptual, technical and management skills through placements in senior level production roles in the creation and realisation of live performance.</p>",
+        "<p>In negotiation with the Subject Coordinator, students may propose and undertake a negotiated independent project of a significant scale to independently develop their conceptual, technical and management skills. Students must complete at least one production role.</p>",
+        "<p><em>This subject is the first part of a two-subject sequence, taught over two consecutive study periods. Students are required to enrol in DPSS30008 Production Practice 3 - Part A (37.5 points) and DPSS30009 Production Practice 3 - Part B (37.5 points), consecutively, for a total enrolment of 75 points.</em></p>",
+        "<p><em>Students will receive a 'CNT' grade for Part A. An overall result for the subject is given following completion of the two-subject sequence.</em></p>",
+        "<p><em>Assessment, Subject Intended Learning Outcomes, and Total Time Commitment applies to the entire enrolments across Parts A and B of the subject.</em></p>",
+        "<p><em>The Total Time Commitment for the subject is approximately 1,224 hours, inclusive of the two study periods [DPSS30008 Production Practice 3 - Part A (37.5 points) and DPSS30009 Production Practice 3 - Part B (37.5 points)]</em>.</p>"
+    ],
+    "ilo": [
+        "perform a senior level production role requiring conceptual, technical, managerial and collaborative skills;",
+        "interpret and implement the roles, responsibilities and processes in the production of live performance;",
+        "initiate safe work and best practices in technical theatre;",
+        "integrate and implement creative processes and technical skills employed by a theatre practitioner in the realisation of live performance in a production environment;",
+        "facilitate communication and cooperation to collaborate effectively with theatre makers and production departments to an advanced level;",
+        "create and manage industry standard documentation relevant to the production of live performance;",
+        "evaluate and reflect on the process and output of a placement/project and articulate insights into professional development gained from the experience."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DPSS20012",
+                        "Name": "Production Practice 2",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "DPSS20013",
+                        "Name": "Production Studio 4",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Production role OR project proposal",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the Part A teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Placement on one VCA production OR independent project",
+            "bullets": [
+                "9600 words (equivalent)"
+            ],
+            "hurdle": "Students are required to achieve a pass grade or above for their placement on a VCA production.",
+            "timing": "Throughout the Part A teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Reflective essay",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the Part A teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Production role OR project proposal",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the Part B teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Placement on one VCA production OR independent project",
+            "bullets": [
+                "9600 words (equivalent)"
+            ],
+            "hurdle": "Students are required to achieve a pass grade or above for their placement on a VCA production.",
+            "timing": "Throughout the Part B teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Reflective essay",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the Part B teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students are required to attend a minimum of 75% of all timetabled classes,  consultations and tutorials, and 100% of all key production events relevant to assigned role which may include: design presentations, \"meet and greet\" gatherings, production meetings, technical rehearsals, bump in, show calls, and bump out. ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must submit all elements of assessment to be eligible for a pass in this subject. \n\nFor the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "20 hours across Parts A and B, comprised of lectures, seminars and de-briefs.",
+            "total_time_commitment": "612 hours",
+            "teaching_period": "26 February 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "matthew.scott@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "20 hours across Parts A and B, comprised of lectures, seminars and de-briefs.",
+            "total_time_commitment": "612 hours",
+            "teaching_period": "22 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "matthew.scott@unimelb.edu.au"
+        }
+    ]
+}

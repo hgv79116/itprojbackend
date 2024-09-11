@@ -1,0 +1,157 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to econometrics, which involves using data and statistical methods to estimate economic relationships, test economic theory, and predict the impact of policy. Topics covered include probability and statistics, single linear regression, multiple linear regression, non-linear regression, model internal and external validity, field and natural experiments, and time series models. Econometric methodology and application will be motivated and illustrated through applications to economics, accounting, finance, marketing, and management.</p>"
+    ],
+    "ilo": [
+        "Apply least-squares method of estimation and inference to the context of single and multiple linear regression;",
+        "Use statistical program to estimate econometric models, test hypotheses, and undertake forecasting exercises.; and",
+        "Understand and explain various problems that arise in the development and interpretation of econometric models including multicollinearity, specification error, heteroskedasticity, autocorrelation, internal validity and external validity."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; collaborative learning; problem solving; team work; statistical reasoning; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; use of computer software.",
+        "Moderate level of development: oral communication; evaluation of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON10005",
+                        "Name": "Quantitative Methods 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10010",
+                        "Name": "Data Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "",
+                        "Name": "No longer available",
+                        "Teaching period": ""
+                    },
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20006",
+                        "Name": "Probability for Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM30001",
+                        "Name": "Basic Econometrics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Assignment 3",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "12 Online Quizzes",
+            "bullets": [
+                "200 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Tutorial Participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Aaron Barkley",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "aaron.barkley@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "David Byrne",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "byrned@unimelb.edu.au"
+        }
+    ]
+}

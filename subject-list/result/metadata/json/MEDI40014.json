@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p>This subject aims to provide opportunities for students to gain an understanding in, and extend the practice of biomedical research. <br/><br/>The student will conduct an original research project in a basic or clinical research laboratory under the supervision of a research scientist from the Dept during the period February to November.<br/><br/>The student will be introduced to current literature and techniques in specialised areas.<br/><br/>The research project will form part of a larger project or the basis of an expanded project. In both cases the work may culminate in an original research publication.<br/><br/></p>"
+    ],
+    "ilo": [
+        "Identify the position of their research, and develop a hypothesis and the supporting aims required to test the hypothesis.",
+        "Solve problems and troubleshoot throughout the research period.",
+        "Extend the research observations to formulate ideas for future scope of the research.",
+        "Select, summarise and critically appraise published research in an area of clinical and biological sciences.",
+        "Identify and apply ethical conduct of animal and human experimental ethics, including regulatory requirements.",
+        "Demonstrate critical analysis and decision-making skills.",
+        "Compare and contrast the relevant literature in understanding the research question posed.",
+        "Conduct supervised research on a chosen research project and work effectively in a team environment and autonomously at times.",
+        "Effectively plan and organise research methodologies and techniques to be implemented.",
+        "Demonstrate excellent time management skills.",
+        "Communicate the method and findings of a research project in oral and written form. Engagement with the audience/examiner, maintaining interest from the audience and demonstrating adequate stage presence (eye contact, steady pace, confidence). Strong ability to answer questions confidently and with sound knowledge of the research area."
+    ],
+    "generic_skills": [
+        "design a scientific project to address a specific question whilst considering the ethical principles and processes used in biological research;",
+        "identify the best experimental approaches to address these questions;",
+        "locate and utilise information available in scientific and medical literature, and ensure an understanding of experimental data in order to construct a rational scientific argument;",
+        "critically assess, compare and contrast the literature;",
+        "identify unresolved scientific questions;",
+        "apply new research techniques to a specific project;",
+        "enhance their problem solving skills by undertaking methodological approaches to research;",
+        "establish time management skills and manage the completion of specific tasks;",
+        "communicate research results in both written and oral form, including the organisation of knowledge and identification of the potential scope of the research project."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI40002",
+                        "Name": "Advanced Studies in Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review and research plan",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": "Achieve minimum H3 grade",
+            "timing": "Due end of March",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A research abstract (250 words in length) describing the research findings to date, followed by a 5-minute oral presentation to two examiners and 10 minutes of question time",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "Achieve minimum H3 grade",
+            "timing": "Due in September",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A written research thesis",
+            "bullets": [
+                "10000 words"
+            ],
+            "hurdle": "Achieve minimum H3 grade",
+            "timing": "Due before end of October",
+            "percentage": "75%"
+        },
+        {
+            "brief": "Oral presentation of research project (15 minutes presentation + 5 minutes question time)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "Achieve minimum H3 grade",
+            "timing": "Due early November",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Barbara White",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jmayall@unimelb.edu.au"
+        }
+    ]
+}

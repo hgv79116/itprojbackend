@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>Knowledge of genome structures from various organisms and the rapid development of technologies that exploit such information are having a big impact in biology, medicine and biotechnology. This subject describes the structure and expression of genomes in higher organisms and provides an understanding of the technologies used to analyse and manipulate genes. Students will learn how the modification of genes in cells and whole organisms can be used to discover gene function or to modify phenotype. The structure of eukaryotic chromosomes is presented to demonstrate how genetic material is replicated and how transcription of RNA is controlled. We illustrate how pathways that regulate RNA and protein are integrated to control cell metabolism and cell fate. The content will cover the bioinformatic techniques used to interpret and extend genomic information. The approaches of functional genomics to the study of specific human diseases will be discussed to illustrate the application of molecular biology to the study of human biology and health.</p>"
+    ],
+    "ilo": [
+        "Explain current concepts concerning the molecular bases of genome structure and the regulation of gene expression in eukaryotic organisms (yeast, animals and plants)",
+        "Discuss the role of genome structure and regulatory networks in controlling metabolic and developmental pathways",
+        "Describe the role of signalling pathways to convey information between and within cells to regulate gene function",
+        "Explain the theory behind recombinant DNA technology and how it is applied in biomedicine and biotechnology",
+        "Compare and analyse genome sequences using bioinformatic techniques",
+        "Devise experimental approaches  to probe molecular and cellular function  using recombinant DNA techniques and genetic manipulation of cell lines and whole organisms",
+        "Describe how functional genomics can be applied to the study of human diseases.",
+        "Critically analyse current scientific literature concerning genomic and bioinformatics."
+    ],
+    "generic_skills": [
+        "the ability to interpret scientific literature and interpret data from electronic databases.",
+        "the capacity to integrate knowledge across disciplines.",
+        "the ability to comprehend a question, evaluate the relevant information and communicate an answer."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Other combinations that provide similar background will be considered by the coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "BBiomedSc students who received credit for 521-308 Genome Science are not permitted to enrol and gain credit for this subject."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5-10 written assessments totalling approx. 1600 words including prepared figures",
+            "bullets": [
+                "1600 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Mid Semester Test 1",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Around week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid Semester Test 2",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Around week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Attendance at 70% of  workshops",
+            "bullets": null,
+            "hurdle": "Attendance at 70% or workshops i.e. 10-11 x 2 hour workshops",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

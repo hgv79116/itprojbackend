@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of this subject is to develop a thorough understanding of the main concepts, techniques and performance criteria used in the analysis and design of digital communication systems and wireless networks.<br/>Such systems and networks lie at the heart of the information and communication technologies (ICT) that underpin modern society and are very much part of the Internet of Things which involves machine to machine communication.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject provides an in-depth treatment of the main concepts and techniques used in the analysis and design of digital communication systems and wireless networks.</p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Source coding; entropy, Shannon source coding bound, data compression techniques; </li><li>Channel modelling, modulation over time-varying fading channels, time and frequency diversity, energy and spectral efficiency, multiple carrier modulation including orthogonal frequency division multiplexing (OFDM) modulation, phase noise characteristics and its impact on single-carrier and multicarrier systems, spatial multiplexing for multiple access protocols, multiple antenna technologies (MIMO systems), cellular networks;</li><li>Channel coding for error control: mutual information, channel capacity, Shannon channel coding bound, channel coding concepts, block codes; convolutional / trellis codes; introduction to LDPC codes, turbo codes, polar codes.</li></ul>",
+        "<p>Examples include short, medium and long range communication systems such as bluetooth, cellular and satellite communication systems.</p>"
+    ],
+    "ilo": [
+        "ILO 1 - Understand and model channel impairments such as noise, interference and fading;",
+        "ILO 2 - Articulate what techniques can be used to communicate effectively despite channel impairments;",
+        "ILO 3 - Describe the performance measures that are used to assess effective communication in digital communications systems and wireless networks;",
+        "ILO 4 - Relate the overall performance of digital communications systems and wireless networks;",
+        "ILO 5 - Develop systems engineering skills in translating transmitter/channel/receiver requirements and constraints into the specification of digital modulation and coding schemes;",
+        "ILO 6 - Value the broader context, implications and applications of digital communication systems in society."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90057",
+                        "Name": "Communication Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "(prior to 2011, ELEN30003 Communication Systems)"
+            },
+            {
+                "type": "paragraph",
+                "content": "Master of Telecommunications Engineering (MTE) students may be eligible on the basis of subject(s) equivalent to ELEN90057, subject to approval by the ELEN90051 subject coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Progress Test . ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": "*See below on hurdle requirement",
+            "timing": "From Week 5 to Week 9",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Quizzes in class, approximately 10 minutes each. ILOs  1-6 are addressed in this assessment",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written Assignments. Three equally-weighted assignments not exceeding 30 pages in total and completed in groups of up to 3 students. Due in weeks 4, 8 and 12. Assignments worth 10% each. ILOs 1-6 are addessed in this assessment.",
+            "bullets": [
+                "30 pages"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One 2-hour written examination. Intended Learning Outcomes (ILOs ) 1-5 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "*See below on hurdle requirement",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Margreta Kuijper",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Four hours of workshops per week for 12 weeks. These workshops integrate what would traditionally be called lectures, tutorials and laboratories.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mkuijper@unimelb.edu.au"
+        }
+    ]
+}

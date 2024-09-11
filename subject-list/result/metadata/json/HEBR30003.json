@@ -1,0 +1,130 @@
+{
+    "overview": [
+        "<p>This subject focuses on advanced modern literary texts, including study of contemporary Hebrew writers in prose and poetry, modern conversational idiom, and newspaper and academic articles. Students further extend their competencies in writing, reading, speaking and listening by engaging with authentic texts and situations. In this subject, Students will engage with authentic texts that deal with past and present themes of increasing complexity and that are of significance to Israeli and Jewish Culture. Students also acquire advanced linguistic structures that allow them to express with greater complexity their own experiences, aspirations and views.</p>"
+    ],
+    "ilo": [
+        "Have further enhanced and developed their oral and written competencies acquired previously",
+        "Employ their skills in comprehending and interacting with complex literary and non-fiction texts in Hebrew",
+        "Form and express persuasive opinions through writing and orally about a range of key topics relevant to the study of Israeli and Jewish life and culture",
+        "Interpret and analyse complex texts and genres occurring in a variety of audio-visual media",
+        "Present complex ideas in class discussions using a board range linguistic form and vocabulary",
+        "Further develop their reading skills and understanding of advanced scientific and academic articles and essays, enriching their knowledge of the modern idiom written and spoken in Israel today;",
+        "Deploy a range of vocabulary relating to contemporary Israeli and Hebrew culture in their writing and be familiar with particular and specialised terms and relating to important literary, linguistic and cultural aspects of Hebrew."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "HEBR20006",
+                        "Name": "Hebrew 4",
+                        "Teaching period": "Semester 2 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "HEBR10011",
+                        "Name": "Hebrew 5",
+                        "Teaching period": "Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "HEBR20007",
+                        "Name": "Hebrew 5",
+                        "Teaching period": "Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5 essays",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A listening comprehension test",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "An oral exam",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A written exam, equivalent to 2000 words",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": "Dvir Abramovich",
+            "mode_of_delivery": "Online",
+            "contact_hours": "48 hours: 2 x 2 hour lectures per week for 12 weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "dvir@unimelb.edu.au"
+        }
+    ]
+}

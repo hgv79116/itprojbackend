@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject introduces the fundamentals of mobile and wireless network design with a focus on the design and performance evaluation of the Radio Access Network of 2G, 3G and beyond cellular wireless networks. It develops the theoretical and conceptual underpinnings of the mathematical models of radio propagation, SINR, diversity and queuing that provide the basis for designing and performance evaluation of wireless networks.</p>",
+        "<p>It introduces the specific design elements that are common to these networks with reference to the models and develops a framework for students to apply to solving their specific design problem in the project. Practical engineering constraints and requirements including radio and teletraffic performance targets are included in this approach, providing the network performance objective for the design.</p>",
+        "<p>In the laboratory, students get hands-on exposure to analysis and design methodologies that are needed for current and emerging technologies and can learn how the modelling and simulation environments can be applied as tools for network design and performance evaluation. There is access to tools in Excel or MATLAB developed within the theoretical discourse that students utilise for their design and problem solving.</p>",
+        "<p>Students are exposed to a range of technologies covering GSM/EDGE, WCDMA, HSDPA and LTE and the underlying multiple access techniques of FDAM, TDMA, CDMA and OFDMA. Models of these access technologies are covered and student learn how to apply these along with the propagation and queueing models to the design problems.<strong><br/><br/>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>This subject provides the fundamentals of mobile and wireless network design. In particular it includes the following topics:</p>",
+        "<ul><li>Introduction to wireless communications;</li><li>Frequency division, orthogonal frequency division, time division and code division multiple access. Frequency division duplexing and time division duplexing;</li><li>The cellular concept, frequency reuse, channel allocation schemes, handoff, call control, interference, C/I analysis, interference limited capacity, sectorisation, system capacity based on call blocking;</li><li>Teletraffic models for cellular mobile networks, Erlang loss function (Erlang B), Erlang delay (Erlang C), M/M/m, M/G/1 Processor Sharing queue and their application to dimensioning cellular communications networks for voice and data, system capacity, demand modelling and performance, Grade of Service and Quality of Service;</li><li>Propagation, free space propagation, basic propagation mechanisms, two ray model, empirical path loss models (Hata, Cost231-Hata, Erceg), log-normal shadow fading, small-scale multipath propagation and Rayleigh fading;</li><li>SNR, sensitivity and link budget calculations, micro and macro diversity to combat fading, calculation of radio coverage for cellular networks: multiple access techniques for cellular communications;</li><li>CDMA system principals &amp; spread spectrum for 3G wireless systems;</li><li>Cellular broadband wireless systems (3G+ and 4G) including simulation models for performance evaluation.</li></ul>",
+        "<p>This material is complemented by the use of software tools (e.g. Excel and MATLAB) for computation and simulation, and practical experience with network design.</p>"
+    ],
+    "ilo": [
+        "Analysis and evaluation of re-use planning via the calculation of key performance indicator such as CIR",
+        "Application and evaluation of propagation models to wireless networks",
+        "Teletraffic modelling and performance analysis for wireless networks",
+        "Dimensioning of wireless networks",
+        "Modelling and design of wireless systems",
+        "Performance evaluation of wireless broadband networks",
+        "Design and evaluation of coverage for wireless networks based on a link budget",
+        "Large and small scale fading mitigation using space diversity techniques"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "4-year Electrical Engineering degree"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN90057Communication SystemsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90057",
+                        "Name": "Communication Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "Credit may not be obtained for both:"
+            },
+            {
+                "type": "paragraph",
+                "content": "ELEN90013 Mobile and Wireless Networks and Design and (431-633) Mobile and Wireless Networks"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the end of semester examination to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "brief": "A network design project equivalent to 3000 words",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

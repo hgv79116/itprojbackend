@@ -1,0 +1,82 @@
+{
+    "overview": [
+        "<p>Bioinformatics is a key research tool in modern agriculture, medicine, and the life sciences in general. It forms a bridge between complex experimental and clinical data and the elucidation of biological knowledge. This subject presents bioinformatics in the context of its role in science, using examples from a variety of fields to illustrate the history, current status, and future directions of bioinformatics research and practice.</p>"
+    ],
+    "ilo": [
+        "Discuss the multidisciplinary nature of bioinformatics and its role in modern scientific research and clinical practice. The multidisciplinary nature of bioinformatics and its role in modern scientific research and in biological practice",
+        "Name and describe the range of data types used in bioinformatics and how they are generated",
+        "Identify and describe the major software tools / analysis pipelines and their application areas",
+        "Review and critique bioinformatics applications in the research literature",
+        "Select an appropriate technology platform and analysis pipeline for a variety of different applications",
+        "Interpolate the application of bioinformatics tools between different scenarios"
+    ],
+    "generic_skills": [
+        "The ability to construct and express logical arguments.",
+        "The capacity to integrate different types of information to generate a unified understanding which can be communicated clearly either verbally or in writing."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Essay",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Two equally weighted workshop assignments ( 5% each, approx. 2- 3 hours time commitment each assignment)",
+            "bullets": [
+                "2-3 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in weeks 3 - 5 and weeks 8 - 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Critical Review",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a mark of 50% to successfully pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Chol-Hee Jung",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total 36 hours = 24 x lectures (two per week), 12 x one-hour workshops (one per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

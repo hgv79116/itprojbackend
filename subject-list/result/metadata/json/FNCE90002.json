@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p>This subject involves a study of the theoretical underpinnings of modern finance. Topics covered include choice under uncertainty, portfolio theory, asset pricing models, option pricing models, investment evaluation, corporate financial policy, agency theory.</p>",
+        "<p><br/></p>"
+    ],
+    "ilo": [
+        "Understand individual preferences and choices under uncertainty, including the axiomatic foundations of utility theory",
+        "Understand how and when individual choices affect equilibrium prices; CAPM and variants",
+        "Understand the concept of arbitrage and its implications for the value of investments in real and financial assets",
+        "Apply the preceding to portfolio choices, financing choices, and other financial decisions facing investors and firms."
+    ],
+    "generic_skills": [
+        "Oral communication",
+        "Written communication",
+        "Problem solving",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Critical thinking",
+        "Synthesis of data and other information",
+        "Evaluation of data and other information"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 8",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Qi Zeng",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Seminars or lectures and tutorials totalling 3 hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "overview": [
+        "<p>Clinical Audiology B is a year-long subject that builds on the knowledge and clinical skills obtained in first year. As a clinical subject it encompasses the clinical placement program, but also a theory arm that explores advanced aspects of clinical assessments, including complex cases, specialist diagnostic procedures and global health concepts. The assessments incorporate a combination of clinical skills and theoretical applications. Learning activities include on-line modules, in class workshops, inquiry and problem-based learning and peer learning activities.</p>",
+        "<p>The subject is part of the clinical placement program. Students should be expected to be allocated to clinical placements at the University Clinic and across metropolitan and rural services including hospitals and community settings.</p>",
+        "<p><br/><br/></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Design and apply accurate adult diagnostic assessment journeys for complex patient groups, including history taking and management planning",
+        "Adapt clinical behaviours that are responsive to the needs of patients from a diverse range of backgrounds",
+        "Demonstrate analytical skills by incorporating the theoretical principles of clinical decision making",
+        "Evaluate population health programs at a national and global level",
+        "Demonstrate professionalism and clinical communication ability"
+    ],
+    "generic_skills": [
+        "15 minutes"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90012",
+                        "Name": "Electrophysiological Assessment A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90021",
+                        "Name": "Clinical Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90022",
+                        "Name": "Paediatric Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90023",
+                        "Name": "Hearing Devices and Rehabilitation A",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90001",
+                        "Name": "Electrophysiological Assessment B",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90006",
+                        "Name": "Paediatric Audiology B",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "AUDI90024",
+                        "Name": "Hearing Devices and Rehabilitation B",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple choice quiz",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 8, semester 1",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Clinical exam (simulated patient and oral exam)",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": "Students must pass Clinical exam to pass the subject",
+            "timing": "Exam period, semester 1",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Case study assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6, semester 2",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must pass written exam to pass the subject",
+            "timing": "Exam period, semester 2",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Most Complex Patient presentation and discussion board contribution",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11, semester 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Clinical portfolio and oral presentation",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": "Students must complete all components of the eportfolio to a satisfactory standard (50% mark) and pass the oral presentation to pass the assessment.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Grace Nixon",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "38 hours lectures, problem-based learning case discussions, practical work and peer review assignments, 80 hours clinics.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Lucy Shiels",
+            "contact_email": "shiels.l@unimelb.edu.au"
+        }
+    ]
+}

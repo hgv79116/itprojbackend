@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>The School of Earth Sciences is home to a large and diverse range of research programs. Interests include the solid Earth, the fluid Earth (including our atmosphere and oceans) and processes that operate at the interface between these upon which all life on Planet Earth depends. Current research activities include: Climate Variability and Change, Atmosphere and Ocean Dynamics, Synoptic and Mesoscale Meteorology, Hydrogeology and Aqueous Biogeochemistry, Sedimentary Geology and Palaeontology, Palaeoclimate and Palaeoenvironmental Reconstruction, Thermochronology, Neotectonics and Landscape Evolution, Ore Deposit Geology, Geochemistry and Geochronology, Structural Geology, Tectonics and Geodynamics, Thermodynamics of Metamorphic Systems (THERMOCALC), Geochemistry and Geochronology of Magmatic Systems, Noble Gas Geochronology and Geochemistry, Computer Simulation of Geological and Geophysical Fluid Dynamics, Physics and Chemistry of the Earth's Deep Interior, and Energy: Resources and Futures.</p>",
+        "<p>This subject comprises a major piece of original supervised research on a topic as agreed by the student and their supervisor. A literature review is conducted in the first six months of candidature and includes a research proposal describing the aims, significance and approach of the project.</p>",
+        "<p>Students enrol in a total of 75 points of research project across the duration of the Honours program. This is achieved by enrolling in two of subjects across two consecutive semesters to achieve a total 75 credit points. Students enrol in a Part 1 subject in the first semester and a Part 2 subject in the second semester of the program.</p>",
+        "<p>This subject (ERTH40010 Earth Sciences Research Project Pt 2) is a 25 point version for one semester.</p>"
+    ],
+    "ilo": [
+        "Knowledge of the existing literature in Earth Sciences on the topic of interest and the address key outstanding questions in this field.",
+        "The ability to plan an appropriate program of data acquisition and manipulation (e.g. modelling) in order to constrain the questions being addressed.",
+        "The ability to interpret the results of their work, suggesting further avenues for research beyond the scope of their project.",
+        "Laboratory and/or computing skills required to create new research results in the chosen field of the research project.",
+        "High-level report writing and oral presentation skills.",
+        "The ability to plan and conduct a program of research and exercise critical judgement and rigorous, independent thinking, adopting a problem-solving approach to new and unfamiliar tasks.",
+        "The ability to Interrogate, synthesized and interpret the published literature.",
+        "Research skills in field work.",
+        "The ability to complete a large research project.",
+        "Critical evaluation skills and the ability to interpret complex quantitative information."
+    ],
+    "generic_skills": [
+        "planning and conducting a program of research",
+        "exercising critical judgement",
+        "undertaking rigorous and independent thinking",
+        "adopting a problem-solving approach to new and unfamiliar tasks",
+        "developing high-level writing report and oral presentation skills",
+        "interrogating, synthesizing and interpreting the published literature and",
+        "field-work (where applicable)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "A major in a field relevant to the research project being conducted."
+            },
+            {
+                "type": "paragraph",
+                "content": "Enrolment in the subject will only be approved if the student has met entry requirements for the course, including having a supervisor who has agreed to supervise this research project."
+            },
+            {
+                "type": "paragraph",
+                "content": "Permission of the Honours coordinator in the School of Earth Sciences."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A literature review of no more than 4,000 words",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due around the end of the first semester of study",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "A 15-minute long project-related oral presentation within two months of the conclusion of the project (hurdle requirement)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "",
+            "timing": "Due within two months of the conclusion of the project",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A thesis of no more than 15,000 words due at the end of the course",
+            "bullets": [
+                "15000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due at the end of the course",
+            "percentage": "57.5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "2 January 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "josephine.brown@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "josephine.brown@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>In this subject, students gain experience in designing a substantial educational research investigation that could be subsequently used to inform the development of a research proposal within a higher research degree. Students negotiate to undertake the completion of a theoretically and methodologically defensible research proposal with assistance from an academic supervisor.</p>"
+    ],
+    "ilo": [
+        "Demonstrate a depth of knowledge in an area of contemporary research in education",
+        "Demonstrate a critical understanding of the purpose of research methodology",
+        "Understand the theoretical context of an issue of concern in education",
+        "Critically assess the purpose of selected research methodologies",
+        "Identify ethical challenges in the education research process",
+        "Design a significant research project in education",
+        "Communicate the plan for research",
+        "Demonstrate a capacity to engage in reflective, critical discussion of the area of particular interest"
+    ],
+    "generic_skills": [
+        "Critical reasoning and thinking in educational research",
+        "Appraisal of education research debates and practices",
+        "Evaluation and communication of education research and practice"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsEDUC90419Education Research MethodologyJuly (Dual-Delivery - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90419",
+                        "Name": "Education Research Methodology",
+                        "Teaching period": "July (Dual-Delivery - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90558",
+                        "Name": "Education Research Design",
+                        "Teaching period": "Semester 2 (Early-Start) (Dual-Delivery - Parkville)Year Long (Dual-Delivery - Parkville)Semester 1 (Early-Start) (Dual-Delivery - Parkville)",
+                        "Credit Points": "37.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "EDUC90420 Education Research Study (subject no longer offered)"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "EDUC90738 Research Project (subject no longer offered)"
+            },
+            {
+                "type": "paragraph",
+                "content": "EDUC90925 Education Research Study (subject no longer offered)"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Proposal summary\u00a0and rationale",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Within the first 6 weeks",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Extended research proposal",
+            "bullets": [
+                "13,500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "90%"
+        },
+        {
+            "brief": "Oral presentation (maximum of 15-minute presentation + 5 minutes for questions), prior to submission of the Extended Research Proposal",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": "",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "Scheduled contact hours include 6 hours of lectures, attendance at student presentation sessions (where students present their work for feedback) and supervision time. \n\nIf attending online, some classes will be asynchronous.",
+            "total_time_commitment": "255 hours",
+            "teaching_period": "9 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "dibiaser@unimelb.edu.au"
+        }
+    ]
+}

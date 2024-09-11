@@ -1,0 +1,74 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an introduction to the business side of telecommunications, breaking down the business into market segments - retail, enterprise, wholesale - to understand what drives each of the business areas and how government regulations impact their business.<strong><br/><br/>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>To understand how a Telecommunications Company delivers service to their customer, the following topics will be included:</p>",
+        "<ul><li>Telecoms marketplace (retail, enterprise, wholesale, network);</li><li>Telecoms market views (Australia, SEA, Europe, Americas);</li><li>Overview of BSS and OSS systems;</li><li>Telco processes \u2013 as defined by eTOM;</li><li>Products \u2013 definition / creation;</li><li>Services \u2013 definition / creation / existing standards;</li><li>Systems Integration;</li><li>Terminology;</li><li>Contracts and SLA management.</li></ul>"
+    ],
+    "ilo": [
+        "Telco product structure / theory / concepts",
+        "Practical knowledge of real life products",
+        "Practical knowledge of various network technologies (IP, Ethernet, MPLS, SDH, FTTP, etc.)",
+        "Network management / service assurance",
+        "Telco data model (SID etc.)",
+        "Telecoms Business Processes \u2013 Lead-to-Cash, Order-to-Activation, Plan & Build, etc.",
+        "Process analysis/design as a generic skill",
+        "BSS/OSS architecture - practical understanding",
+        "SLA management",
+        "Network abstraction / metadata modelling",
+        "Career options",
+        "Knowledge of specific BSS/OSS COTS products",
+        "Trends (i.e. FTTN/FTTH) and topical issues (i.e. Social Media)"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Formally supervised written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the end of semester examination to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Homework assignments",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

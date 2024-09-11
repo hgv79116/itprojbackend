@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>This subject outlines the methods used to identify pathogens causing plant diseases, the consequences of diseases for plant productivity, and control of plant diseases. The links between classic plant pathology and modern molecular pathology techniques are explored as plant breeders and pathologists seek novel integrated disease management procedures to control pathogens.</p>",
+        "<p>Topics covered include:</p>",
+        "<ul><li>Taxonomy, identification and biology of the main groups of plant pathogens affecting Australian cropping industries and abiotic causes of plant diseases</li><li>Host pathogen relationships, and the nature of disease resistance and pathogenesis</li><li>Methods to identify pathogens, and development of tools for diagnosis</li><li>Modern bioinformatic techniques used in plant pathology</li><li>Processes leading to plant disease epidemics and their evaluation</li><li>Evolutionary processes and management practices affecting pathogen populations in agricultural ecosystems</li><li>Management and integrated control of plant diseases</li><li>Current professional opportunities and challenges in the field of plant pathology</li></ul>",
+        "<p>Practical work includes:</p>",
+        "<ul><li>Identification and diagnosis of common diseases</li><li>Development of skills in traditional and molecular research techniques and methodology in plant pathology</li><li>Development of bioinformatic skills used in pathogen diagnosis and molecular taxonomy of plant pathogens</li></ul>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of the classification and biology of the major groups of plant pathogens",
+        "Apply an understanding of plant pathology and molecular biology techniques to isolate and diagnose plant pathogenic organisms.",
+        "Demonstrate an understanding of bioinformatics tools used in plant pathology and be able to conduct DNA sequence analyses for diagnostics and molecular taxonomy",
+        "Identify the factors leading to disease epidemics",
+        "Formulate a practicable approach to integrated disease control in commercial plant species"
+    ],
+    "generic_skills": [
+        "Capacity to tackle unfamiliar problems",
+        "Ability to integrate knowledge from different disciplines",
+        "Communication skills, through written reports",
+        "Quantitative analysis skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BOTA20001",
+                        "Name": "Green Planet: Plants and the Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20026",
+                        "Name": "Plant Growth Processes",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment based on practical classes to identify a post harvest disease",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Completion and submission of molecular biology practical tasks, through submission of practical report at end of Practical 7",
+            "bullets": [
+                "200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Completion and submission of bioinformatics practical tasks, through the completion of practical report at the end of Practical 9",
+            "bullets": [
+                "200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Assignment comprising a collection of plant diseases",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Niloofar Vaghefi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours total - 24 hours of lectures, 36 hours of practicals.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "vaghefin@unimelb.edu.au"
+        }
+    ]
+}

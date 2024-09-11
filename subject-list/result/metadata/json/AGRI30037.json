@@ -1,0 +1,80 @@
+{
+    "overview": [
+        "<p>A knowledge of appropriate methods for management of our soils is vital for sustainable food production and environmental health. This subject will provide students with a thorough understanding of key soil chemical, physical and biological processes to enable practical solutions to soil management issues at appropriate scales. The subject will discuss major soil management issues such as: carbon storage; soil acidification; salinity; erosion and sodicity, including soil structure and its maintenance; the use of fertilizers, including composts, biosolids, manures and effluents from intensive animal industries and processing plants; the use of soil testing for maintenance of soil fertility and; offsite impacts of management on air and water quality. The role of the soil microbiome in improving plant productivity and the role of soil organisms in improving soil fertility and promoting nutrient transformations will also be explored. Practicals and excursions will be used to demonstrate methods of soil survey and land capability assessment.</p>"
+    ],
+    "ilo": [
+        "List the major soil management issues at appropriate scales",
+        "Devise appropriate soil management interventions for sustainable agriculture",
+        "Demonstrate a knowledge of soil spatial variability and assessment",
+        "Be able to demonstrate advanced knowledge of the soil system",
+        "Build knowledge appropriate to Certified Professional Soil Scientist performance objectives"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20038",
+                        "Name": "Principles of Soil Science",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Practical report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Clayton Butterly",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "20 hours of lectures, 20 hours tutorials/practicals, 12 hours field trips",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "clayton.butterly@unimelb.edu.au"
+        }
+    ]
+}

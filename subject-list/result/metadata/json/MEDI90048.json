@@ -1,0 +1,137 @@
+{
+    "overview": [
+        "<p>Students are required to submit 50 clinical ultrasound patient scans done in the workplace using the online logbook provided. In addition, 50 advanced and rare clinical ultrasound case studies will be provided for interpretation and reporting.</p>"
+    ],
+    "ilo": [
+        "Perform 50 clinical ultrasound cases in the workplace and report findings in a logbook",
+        "Interpret a wide range of clinical ultrasound and echocardiography cases",
+        "Practice reporting on rare and unusual cases",
+        "Interpret and report 50 and case studies using recorded images."
+    ],
+    "generic_skills": [
+        "Improve critical evaluation skills",
+        "Evaluate the safety and practice of ultrasound in clinical practice.",
+        "Improve problem solving skills",
+        "Improve understanding of diagnostic algorithms",
+        "Enhance information literacy"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CU Master of Clinical Ultrasound"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMEDI90056Advanced Anatomy and Doppler AnalysisSemester 2 (Online)Semester 1 (Online)12.5MEDI90057Advanced Valve and Aortic PathologySemester 2 (Online)Semester 1 (Online)12.5MEDI90058Applications of EchocardiographySemester 1 (Online)Semester 2 (Online)12.5MEDI90059Advanced Echocardiography InterpretationSemester 2 (Online)Semester 1 (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90056",
+                        "Name": "Advanced Anatomy and Doppler Analysis",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDI90057",
+                        "Name": "Advanced Valve and Aortic Pathology",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDI90058",
+                        "Name": "Applications of Echocardiography",
+                        "Teaching period": "Semester 1 (Online)Semester 2 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDI90059",
+                        "Name": "Advanced Echocardiography Interpretation",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject is not available for students admitted in any other courses."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "MEDI90049- Principles of Ultrasound Heart Scan"
+            },
+            {
+                "type": "paragraph",
+                "content": "MEDI90050- Doppler Echocardiography"
+            },
+            {
+                "type": "paragraph",
+                "content": "MEDI90051- Ventricular Function"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Interpretation of case studies assessed by structured questions pertaining to each case (5 MCQ per case) - Total time is 500 minutes",
+            "bullets": [
+                "5000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Prior to semester completion",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Submission of logbook of 50 clinical ultrasound cases performed in the students' workplace. ",
+            "timing": "Prior to semester completion.",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "An estimated 30 hours of contact time for online study is required",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-ultrasound/"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "An estimated 30 hours of contact time for online study is required",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-ultrasound/"
+        }
+    ]
+}

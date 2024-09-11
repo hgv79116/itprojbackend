@@ -1,0 +1,168 @@
+{
+    "overview": [
+        "<p>This is a capstone subject for the program consisting of selected case studies from topics including: financial management, investment management, portfolio analysis, derivatives and risk management, mergers and acquisitions, raising capital and other topical issues. The case studies describe actual business situations faced by financial managers, which requires analysis and decision-making.</p>"
+    ],
+    "ilo": [
+        "Interpret basic financial statements and explain how they link together;",
+        "Explain and apply ratio analysis in valuation;",
+        "Explain how fundamental values (or &#39;intrinsic values&#39;) are estimated;",
+        "Apply, evaluate and compare current technologies to value firms using financial information;",
+        "Explain business activities that determine value, and identify &#39;value created for shareholders&#39;;",
+        "Explain the funding alternatives available to firms;",
+        "Evaluate the consequences of mergers and acquisitions;",
+        "Describe the nature and role of derivatives in risk management."
+    ],
+    "generic_skills": [
+        "Oral communication",
+        "Written communication",
+        "Collaborative learning",
+        "Problem solving",
+        "Team work",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Critical thinking",
+        "Synthesis of data and other information",
+        "Evaluation of data and other information",
+        "Accessing data and other information from a range of sources"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 100 credit points of study, inclusive of"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsECON90033Quantitative Analysis of Finance ISemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ECON90034Economics of FinanceSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5FNCE90047Financial Markets and InstrumentsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90033",
+                        "Name": "Quantitative Analysis of Finance I",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90034",
+                        "Name": "Economics of Finance",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE90047",
+                        "Name": "Financial Markets and Instruments",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsACCT90002Financial Statement AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ACCT90004Accounting for Decision MakingSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90002",
+                        "Name": "Financial Statement Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACCT90004",
+                        "Name": "Accounting for Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class presentation of group project (2000 words per student equivalent). One presentation during weeks 2-12.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Class participation. Due throughout the semester",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Garry Twite",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Stephen Easton",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

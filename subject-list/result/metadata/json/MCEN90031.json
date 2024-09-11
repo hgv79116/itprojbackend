@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>The use of physics-based computer simulation is a powerful tool in the scientific and engineering fields that allows for the investigation of phenomena that are often inaccessible by other means. As modern compute architectures continue to increase in terms of parallelism and power, so too can these simulations increase in scale and fidelity, but only when equipped with an understanding of the mathematics and underlying hardware, necessary to leverage this power. This subject will aim to develop such an understanding by tying together key tools and techniques used in the design of scientific software targeted at High Performance Computing (HPC) resources.</p>",
+        "<p>This subject will introduce several numerical methods that are ubiquitous in the solution of ordinary differential equations (e.g. Euler and Runge-Kutta methods), partial differential equations (e.g. finite difference and finite element methods), linear systems (e.g. conjugate gradient method), and apply these tools to solve governing equations commonly found in areas such as fluid dynamics and thermodynamics. This subject will investigate the development of software targeting shared memory multicore architectures with OpenMP, distributed memory architectures with MPI, and GPU accelerators with CUDA.</p>"
+    ],
+    "ilo": [
+        "1. Have an understanding of when and how parallelism can be exploited in an algorithm and determine the appropriate approach for implementation",
+        "2. Be able to apply an appropriate numerical method to solve a partial differential equation and write a program implementing this method",
+        "3. Have a basic foundational knowledge of the Application Programming Interfaces (APIs) provided by OpenMP, MPI, and CUDA",
+        "4. Be capable of connecting, compiling, and executing jobs on the University of Melbourne's HPC resource Spartan."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-MECHENG Master of Mechanical Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two assignments due in weeks 7 and 12, requiring 35 - 40 hours of work each (30% each).",
+            "bullets": [
+                "70-80 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 12",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Exam, assesses ILOs 1 to 5.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

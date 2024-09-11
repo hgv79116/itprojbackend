@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>This subject provides a multi-disciplinary overview of the design of sustainable buildings and considers the design from an architectural, services engineering, facade engineering, environmental engineering and structural engineering, tenants and owners perspective. A number of industry based case study examples will be introduced to complement the lectures. <br/><br/>This subject uses a project based learning project where students work in teams to design a new or refurbished commercial building to improve the environmental and social performance of the building. Students learn to apply sustainability-rating tools used in industry to their solutions.<br/><br/>Students in the subject come from different disciplinary backgrounds, principally engineering and architecture, and are expected to share their knowledge and learn from each other to successfully complete the project work. This stands them in good stead for entering professional practice in the area of sustainability.<br/><br/><strong>INDICATIVE CONTENT</strong><br/><br/>Topics include: ecological sustainable design, life cycle analysis, planning for sustainable buildings and cities, regulatory environment, barriers to green buildings, green building rating tools, material selection, embodied energy, operating energy, indoor environmental quality (noise, light and air), facade systems, ventilation systems, transportation, water treatment systems, water efficiency, building economics, and staff productivity. These will be covered in the following thematic areas:</p>",
+        "<ul><li>Sustainable Cities</li><li>Sustainable Precincts</li><li>Building Envelope</li><li>Building services - Heating, Ventilation and Air Conditioning</li><li>Building services - Energy</li><li>Building Services - water</li><li>Existing Buildings</li><li>Green Building Rating Tools</li><li>ESD Drivers and Barriers</li><li>ESD Economics</li><li>the process of a green building - 60L CH2</li><li>Business Perspective</li><li>Case Studies.</li></ul>"
+    ],
+    "ilo": [
+        "Identify the critical sustainability issues that should be addressed in planning a building or new development",
+        "Estimate the green star rating of a new building",
+        "Identify the issues effecting indoor environmental quality",
+        "Select different heating and cooling ventilation systems and justify the selection",
+        "Calculate the embodied energy of different structural systems including recycled material",
+        "Calculate the utilisation energy and greenhouse gas production of different building conceptual designs",
+        "Carry out conceptual designs for the design of a water supply system for a building with a focus on water conservation and recycling measures and estimate the expected water consumption requirements",
+        "Undertake cost studies of different green star rated buildings using life cycle cost analysis techniques."
+    ],
+    "generic_skills": [
+        "Understanding of social, cultural, global and environmental responsibilities and the need to employ principles of sustainable development",
+        "Ability to utilise a systems approach to complex problems and to design for operational performance",
+        "Capacity for lifelong learning and professional development",
+        "Understanding of professional and ethical responsibilities, and commitment to them."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90120",
+                        "Name": "Building Sustainability",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written exam. Intended Learning Outcomes (ILOs) 1 to 8 are addressed in this examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Conducted during the second semester examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Test",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written group assignments of approximately 3000 words per person in total, or equivalent. Peer assessment is used. ILOs 1 to 8 are addressed in this assignment",
+            "bullets": [
+                "75 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "September",
+            "principal_coordinator": "Lu Aye",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "35 hours: This is a week long intensive subject held in the mid-semester break of Semester 2. During the mid-semester break there will be 30 hours of lectures and 5 hours of tutorials.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "23 September 2024 to 27 September 2024",
+            "last_self_enrol_date": "29 July 2024",
+            "census_date": "23 September 2024",
+            "last_date_to_withdraw_without_fail": "4 October 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Associate Professor Lu Aye",
+            "contact_email": "l.aye@unimelb.edu.au"
+        }
+    ]
+}

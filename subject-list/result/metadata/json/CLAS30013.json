@@ -1,0 +1,145 @@
+{
+    "overview": [
+        "<p>This subject is designed for students who commenced the Latin stream with no prior knowledge of the language and have completed Latin 1, Latin 2, Latin 3, and Latin 4. Students examine Roman prose fiction through study of the Cena Trimalchionis from the Satyricon of Petronius. In addition, work is undertaken on grammar and syntax to revise, consolidate and extend students' knowledge of the language. Students who successfully complete this subject should be familiar with the structures and stylistic techniques of Roman prose fiction, be able to identify the central themes of the narrative, and understand the genre's parody of Roman social structures and mores. Students who complete this subject may progress to Latin 6.</p>"
+    ],
+    "ilo": [
+        "Be familiar with the style of Roman prose fiction",
+        "Understand the cultural and production contexts of the text",
+        "Have consolidated their knowledge of grammar and syntax and extended their vocabulary",
+        "Be able to critically analyse the styles and themes of Latin prose fiction and to communicate that analysis clearly and concisely."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10012",
+                        "Name": "Latin 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLAS20029",
+                        "Name": "Latin 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCLAS10014Latin 4Semester 2 (On Campus - Parkville)12.5CLAS20031Latin 4Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10014",
+                        "Name": "Latin 4",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLAS20031",
+                        "Name": "Latin 4",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS20030",
+                        "Name": "Latin 5",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Linguistic analysis,  in a week selected by the student in consultation with the lecturer",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A textual analysis presentation",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "An assessment test",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "An essay",
+            "bullets": [
+                "1750 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tim Parkin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours - 1 x 1 hour lecture and 1 x 2 hour seminar per week for 12 weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "tim.parkin@unimelb.edu.au"
+        }
+    ]
+}

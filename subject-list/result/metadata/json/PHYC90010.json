@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This subject provides an advanced introduction to non-equilibrium statistical mechanics. The subject focuses on collective phenomena in complex many-body systems with an emphasis on diffusive processes, stability and the emergence of long-range order, with examples drawn from physics, chemistry, biology and economics. Specific topics include diffusive stochastic processes (Fokker-Planck equations), birth-death processes (master equations), kinetic transport, and spatio-temporal pattern formation in unstable nonlinear systems (bifurcations, chaos, reaction-diffusion equations). </p>"
+    ],
+    "ilo": [
+        "to challenge the students to expand their knowledge of fundamental physical principles;",
+        "to broaden their appreciation of how statistical mechanics integrates into the discipline of physics overall;",
+        "to develop their capacity to explain the emergence of long-range order in complex, many-bodysystems;",
+        "to appreciate the distinction between equilibrium and far-from-equilibrium dynamics in these systems;",
+        "to solve quantitative problems using the canonical mathematical techniques of statistical mechanics;",
+        "to provide the foundation for more advanced studies in statistical mechanics."
+    ],
+    "generic_skills": [
+        "analysing how to solve a problem by applying simple fundamental laws to more complicated situations;",
+        "applying abstract concepts to real-world situations;",
+        "solving relatively complicated problems using approximations;",
+        "participating as an effective member of a group in discussions and collaborative assignments;",
+        "managing time effectively in order to be prepared for group discussions and undertake the assignments and exam."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC30017",
+                        "Name": "Statistical Physics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four assignments totalling up to 48 pages of written work, spaced equally",
+            "bullets": [
+                "48 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "4 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jeffrey McCallum",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "TBA",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "msc@physics.unimelb.edu.au"
+        }
+    ]
+}

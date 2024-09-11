@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>This subject builds on the knowledge and skills acquired in the pre-requisite subject, aiming at further developing the student\u2019s critical and technical skills in the representation of design through drawing and model making.</p>",
+        "<p>Students are introduced via lectures to a range of visualization precedents and in workshops to analogue model making, painting and drawing techniques.</p>",
+        "<p>Scale models, perspective drawings and renderings are generated which can then be imported into the digital realm to be further developed. The outcome will be the beginning of a portfolio of images demonstrating the student\u2019s capacity to express design ideas fluently and articulately.</p>"
+    ],
+    "ilo": [
+        "demonstrate an understanding of the professional, historical and theoretical contexts of the design visualisation within their chosen discipline;",
+        "utilise a variety of design documentation techniques;",
+        "critically evaluate their own design visualisation outcomes."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH10001",
+                        "Name": "Foundations of Design: Representation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short 5-minute group presentation \u2013 analysing an example of design visualisation and/or practitioner",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Design visualisation portfolio \u2013 drawing, painting and rendering",
+            "bullets": [
+                "1600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Design visualisation portfolio - scale models, renderings and written evaluation",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "June",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "36 hours, comprising twelve 3-hour workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "24 June 2024 to 12 July 2024",
+            "last_self_enrol_date": "18 June 2024",
+            "census_date": "28 June 2024",
+            "last_date_to_withdraw_without_fail": "19 July 2024",
+            "assessment_period_ends": "26 July 2024",
+            "contact_name": null,
+            "contact_email": "dale.ferguson@unimelb.edu.au"
+        }
+    ]
+}

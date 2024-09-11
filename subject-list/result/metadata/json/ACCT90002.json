@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>Financial Statement Analysis seeks to introduce students to the analysis and use of financial information for decision-making purposes. The subject considers how the information disclosed can be best utilised by creditors and investors in making their lending and investing decisions. Students consider the environment in which financial reporting exists, including the incentives faced by preparers of financial reports. From their assessment, students learn to adjust reported data as is typically done by analysts.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Describe the impact of the institutional framework and regulatory forces that shape financial statements",
+        "Describe the impact that choices among permissible accounting methods may have on the figures reported in financial statements",
+        "Identify and discuss the incentives facing those who prepare financial statements within companies and explain how these incentives may influence financial disclosures",
+        "Amend reported accounting data according to the purpose of the analysis",
+        "Analyse financial statement information to assess the performance of management and profitability",
+        "Analyse financial statement information to assess the financial position (solvency and liquidity) and to make predictions about corporate survival",
+        "Use financial statements and other data to conduct in-depth analyses of public companies for valuation and risk assessments by creditors and investors",
+        "Describe the impact of financial statements as shown by capital market research"
+    ],
+    "generic_skills": [
+        "Critical evaluation of financial reporting and disclosure problems",
+        "Evaluation, adjustment, analysis and interpretation of relevant accounting information",
+        "The ability to access data and research information form a variety of sources",
+        "Problem solving",
+        "Oral and written communication",
+        "Collaborative learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-FINANCE Master of Finance",
+                    "MC-FINENH Master of Finance (Enhanced)",
+                    "MC-MGMTAFN Master of Management (Accounting and Finance)",
+                    "150pt Program course entry point in the MC-MGMTACT Master of Management (Accounting)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsACCT90004Accounting for Decision MakingSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90004",
+                        "Name": "Accounting for Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Group assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "3-hour end-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "55%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jane Hronsky",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprised of one 1-hour lecture and one 2-hour seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "janejfh@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Qingbo Yuan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprised of one 1.5-hour lecture and one 1.5-hour seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "yuanq@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>This subject will support Teacher Candidates to develop pedagogical content knowledge for the effective teaching and learning of the following mathematics strands from Prep to Year 6:</p>",
+        "<p>Content Strand: Statistics and Probability</p>",
+        "<p>Proficiencies: Understanding, Fluency, Problem Solving, Reasoning.</p>",
+        "<p>Within this content strand, Candidates will analyse the development of key concepts in primary mathematics and identify critical progression points for children\u2019s learning. They will consider typical conceptions and misconceptions held by children, their likely causes, diagnostic tools to diagnose them and teaching strategies for changing them.</p>",
+        "<p>They will review and critique resources for primary mathematics and examine tasks designed to achieve specific learning outcomes in these strands.</p>",
+        "<p>Candidates will consider research evidence related to selected key issues of teaching Statistics and Probability. They will examine cognitive and affective characteristics of mathematics classrooms that encourage deep learning in these content areas and in the proficiency strands.</p>"
+    ],
+    "ilo": [
+        "Demonstrate mastery of the topics and their everyday applications which are relevant to primary teaching or are necessary to be personally numerate (Graduate Standards 2.1, 2.2, 2.3, 2.5)",
+        "Demonstrate an understanding of how children construct mathematical knowledge (Graduate Standards 1.2, 1.5, 2.2, 2.5, 6.3)",
+        "Demonstrate knowledge of a range of classroom teaching techniques (Graduate Standard 3.3)",
+        "Demonstrate knowledge of how children think and learn; (Graduate Standards 1.2, 1.5, 2.2, 3.2, 3.3, 3.4, 3.5, 4.1)",
+        "Demonstrate knowledge of a range of resources, including ICT, that engage students in their learning (Graduate Standard 3.4)",
+        "Demonstrate an ability to develop teaching activities and relate them to learning outcomes (Graduate Standards 1.2, 2.1, 2.2, 2.3, 2.5)"
+    ],
+    "generic_skills": [
+        "Clinical reasoning and thinking",
+        "Problem solving",
+        "Evidence based decision making",
+        "Creativity and innovation",
+        "Teamwork and professional collaboration",
+        "Learning to learn and metacognition",
+        "Responsiveness to a changing knowledge base",
+        "Reflection for continuous improvement",
+        "Linking theory and practice",
+        "Inquiry and research",
+        "Active and participatory citizenship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90773",
+                        "Name": "Primary Mathematics Education 2",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90835",
+                        "Name": "Primary Mathematics Education3 Extension",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90777",
+                        "Name": "Literacy Assessment and Learning",
+                        "Teaching period": "July (Online)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "EDUC90886",
+                        "Name": "Leading Literacy in Primary Schools",
+                        "Teaching period": "July (Online)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "A group presentation and report",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Minimum of 80% attendance at all scheduled lectures, tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

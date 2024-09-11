@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>Data analysis methods are an integral part of modern clinical research. They are powerful techniques that enable researchers to draw meaningful conclusions from data collected through observation, survey, or experimentation.</p>",
+        "<p>However, data analysis is a huge discipline with different paradigms, schools of thought and alternative methodologies. Therefore consideration of the appropriate methods used must be undertaken when designing a study and selecting variables and groups.</p>",
+        "<p>This subject introduces students to the basic principles of qualitative and quantitative data analysis techniques. It will provide a functional grounding in the theoretical concepts behind each type of analysis, as well as exploration of the interpretation of data and the difference, where applicable, between clinical vs statistical significance.</p>"
+    ],
+    "ilo": [
+        "describe the theoretical concepts behind a range of qualitative and quantitative data analysis techniques",
+        "compare and contrast the strengths and weaknesses of different qualitative and quantitative data analysis techniques",
+        "describe a strategy for selecting an appropriate data analysis technique based on the study design selected and/or research data collected",
+        "competently perform a range of basic data analysis techniques using appropriate analysis software and interpret analysis output/s",
+        "provide a rationale for the importance of statistical power and perform power calculations",
+        "identify and discuss the key elements associated with ensuring data integrity including storage, management, collation and coding",
+        "critically compare and contrast statistical vs clinical significance and its relevance to clinical practice",
+        "demonstrate confidence in discussing the validity of data analysis outcomes reported in the scientific literature."
+    ],
+    "generic_skills": [
+        "to engage with unfamiliar problems and identify relevant data analysis strategies",
+        "to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of data analysis",
+        "communicate advanced data analysis concepts in written and oral form;",
+        "the ability to comprehend complex data analysis information",
+        "exercise responsibility for their own learning;",
+        "manage their time effectively."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLRS90011",
+                        "Name": "Study Design in Clinical Research",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLRS90027",
+                        "Name": "Principles of Clinical Research",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Formative Examination: To confirm a baseline understanding of statistics, all participants will be required to complete an online module followed by a formative examination. This will consist of a mixture of MCQ and extended match questions. The pass mark will be set at 80 but participants may complete the assessment repeatedly to achieve this hurdle. The examination is not timed but it must be completed prior to the commencement of the intensive teaching period. Participants will be unable to join the intensive teaching period until this task is successfully completed.",
+            "timing": "Prior to the commencement of the intensive teaching period.",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "In-class report describing the rationale/justification/results of the analysis of a variety of different types of research data.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due at the completion of the intensive teaching period.",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Examination (equivalent to 1500 words) on the last day of the intensive teaching period.",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Critical discussion of the data analysis techniques reported in a clinical research study selected by negotiation with the Subject Co-ordinators.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "August",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "5 August 2024 to 14 August 2024",
+            "last_self_enrol_date": "12 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "16 August 2024",
+            "assessment_period_ends": "14 September 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

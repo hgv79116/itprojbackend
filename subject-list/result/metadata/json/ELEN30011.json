@@ -1,0 +1,182 @@
+{
+    "overview": [
+        "<p><strong>AIM</strong></p>",
+        "<p>This subject develops the theoretical and practical tools required to understand, construct, validate and apply models of standard electrical and electronic devices. In particular, students will study the theoretical and practical development of models for devices such as resistors, capacitors, inductors, transformers, motors, batteries, diodes, transistors, and transmission lines. In doing so, students will gain exposure to a variety of fundamental fields in physics, including electromagnetism, semiconductor materials and quantum electronics. This material will be complemented by exposure to experiment design and measurement techniques in the laboratory, the application of models from device manufacturers, and the use of electronic circuit simulation software.<strong><br/><br/>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics include:</p>",
+        "<p>Vector calculus for device modelling, Maxwell\u2019s equations, physics of conductors and insulators, passive device models (including for resistors, capacitors and inductors), lumped and distributed circuit models for wired interconnections (including treatment of signal integrity and termination strategies), semiconductors and quantum electronics, static and dynamic models for p-n junctions diodes and bipolar junction transistors.</p>"
+    ],
+    "ilo": [
+        "Develop/interpret useful models for electrical and electronic devices from the underlying physics and/or empirical data",
+        "Use modelling principles in engineering design with an appreciation for the impact of modelling uncertainty and model complexity",
+        "Implement and analyse the results of laboratory experiments for gathering empirical data from electrical and electronic devices",
+        "Use software tools to simulate the behaviour of electrical and electronic devices."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Ability to communicate effectively, with the engineering team and with the community at large;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Graduate Students:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ELECENG Master of Electrical Engineering",
+                    "MC-MTRNENG Master of Mechatronics Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN20005Foundations of Electrical NetworksSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20005",
+                        "Name": "Foundations of Electrical Networks",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Undergraduate students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN20005Foundations of Electrical NetworksSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20005",
+                        "Name": "Foundations of Electrical Networks",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsPHYC10002Physics 2: AdvancedSemester 2 (On Campus - Parkville)12.5PHYC10004Physics 2: Physical Science & TechnologySummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10002",
+                        "Name": "Physics 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10004",
+                        "Name": "Physics 2: Physical Science & Technology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN30009Electrical Network Analysis and DesignSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30009",
+                        "Name": "Electrical Network Analysis and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination, not exceeding three hours at the end of semester, worth 50%. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the sum of the written exam and the mid-semester test to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Continuous assessment via workshop-based project work (group of 2-3 students), not exceeding 30 pages in total over the semester.  Intended Learning Outcomes (ILOs) 3 and 4 are addressed in this assessment.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A mid-semester test.",
+            "bullets": [
+                "75 minutes"
+            ],
+            "hurdle": "Students must pass the sum of the written exam and the mid-semester test to pass the subject.",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Peter Dower",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x 1 hour lectures per week and up to 36 hours of workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "pdower@unimelb.edu.au"
+        }
+    ]
+}

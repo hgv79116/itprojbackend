@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>This subject considers business fraud and forensic processes from an accounting perspective. The subject introduces students to various types of fraud, considering recent trends in fraudulent business activities both within Australia and globally. Regulatory requirements and best practice procedures for the design of fraud management (prevention) programs are considered and the latest in fraud detection methods (with an emphasis on information technology tools) are evaluated. The subject also considers the role of accounting in fraud and other business forensic investigations in the context of the Australian legal framework including: methods for obtaining and controlling evidence; conducting investigations; quantifying loss and damage; and the presentation of evidence in court as an expert witness.</p>"
+    ],
+    "ilo": [
+        "Define fraud;",
+        "Explain and describe different types of fraud and fraud schemes;",
+        "Describe recent fraud trends in the Australian and broader international context;",
+        "Recommend corporate governance measures and accountability frameworks that can be used in the prevention of fraud;",
+        "Explain and apply fraud detection processes;",
+        "Explain the law of evidence as it applies within the Australian corporate regulatory framework;",
+        "Explain forensic processes for fraud investigation including the identification of relevant information and facts to be used to quantify loss and damage in cases involving a civil wrong or breach of contract; and",
+        "Describe the key elements of an expert witness report."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; oral communication; collaborative learning; team work; problem solving; application of theory to practice; critical thinking; interpretation and analysis.",
+        "Moderate level of development: accessing data and other information from a range of sources; synthesis of data and other information; evaluation of data and other information.",
+        "Some level of development: use of computer software; statistical reasoning; receptiveness to alternative ideas."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT10002",
+                        "Name": "Introductory Financial Accounting",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assignment (normally in groups of 3-4 students)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Seminar preparation and participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester exam",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Winter Term",
+            "principal_coordinator": "Dean Newlan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three 1.5-hour seminars and three 1.5-hour workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "24 June 2024 to 19 July 2024",
+            "last_self_enrol_date": "28 June 2024",
+            "census_date": "5 July 2024",
+            "last_date_to_withdraw_without_fail": "26 July 2024",
+            "assessment_period_ends": "2 August 2024",
+            "contact_name": null,
+            "contact_email": "accounting-teaching@unimelb.edu.au"
+        }
+    ]
+}

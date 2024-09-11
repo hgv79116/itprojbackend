@@ -1,0 +1,153 @@
+{
+    "overview": [
+        "<p>This Professional Learning Capstone experience is a half-year subject for Teacher Candidates undertaking the Secondary Accelerated mode that serves as a culminating synthesis of the learning, teaching and research occurring across the Master of Teaching (Secondary). In the Capstone, Teacher Candidates work in a process of critical inquiry to define and resolve complex problems in depth, making all critical decisions about the nature of the work that is undertaken and outcomes that might unfold as a self-study of teaching practice. The Capstone provides Teacher Candidates with the opportunity to take charge of their learning, as they develop resilience and agency through critical reflection and the curation of a digital portfolio. The subject provides enhanced opportunities for critical reflection and growth through identification, exploration and presentation of a self-study learning pathway as they conduct research on the subject, maintain a portfolio of findings or results, and present their learning acquisition or conclusions. Teacher Candidates explore issues and strategies around ethical and safe ICT use.</p>",
+        "<p>Teacher Candidates explore their projects through experiential work-integrated-learning that supports the authentic integration of theory and practice as teacher researcher in a site that offers an extended exploration of inquiry. Teacher Candidates engage with colleagues as critical friends for professional learning to improve teaching practice. As a high impact capstone, the assessment of the project is a conference presentation and paper designed to disseminate and celebrate the significance of the teaching practice research. The conference is designed as a celebration of achievement and allows for an opportunity to share the quality of the capstone projects and demonstrate an understanding of the rationale for continued professional learning and the implications for improved teaching practice and student learning.</p>"
+    ],
+    "ilo": [
+        "Informed by a work-integrated-learning experience, identify and research a complex or challenging problem and propose solutions for improving teaching practice.",
+        "Design and develop an ethical evidence-based inquiry that informs professional learning to improve teaching practices.",
+        "Reflect critically on theory, scholarship and professional practice and feedback to identify, evaluate and act on opportunities for learning about educational issues and associated theories in existing research.",
+        "Communicate and curate effectively and clearly the role of the teacher as a researcher for a range of audiences.",
+        "Apply professional knowledge and practice through collaborative, respectful, informed and ethical self-study teacher research and engagement with external professionals and community representatives to effect positive outcomes in teaching practice.",
+        "Demonstrate an understanding of the role of the Australian Professional Standards for Teachers in identifying professional learning needs and continuous professional development.",
+        "Demonstrate an understanding of issues and strategies to support the safe and ethical use of ICT."
+    ],
+    "generic_skills": [
+        "Clinical reasoning and evidence-based practice.",
+        "Critical and creative thinking.",
+        "Creativity and innovation.",
+        "Teamwork and professional collaboration.",
+        "Learning to learn and metacognition.",
+        "Responsiveness to a changing knowledge base.",
+        "Reflection for continuous improvement.",
+        "Linking theory and practice.",
+        "Inquiry and research.",
+        "Active and participatory citizenship.",
+        "Ethical and intercultural understanding."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsEDUC91092Engaging and Assessing Learners (Sec) 1Semester 1 (On Campus - Parkville)12.5EDUC91121Engaging and Assessing Learners (Sec) 2Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91092",
+                        "Name": "Engaging and Assessing Learners (Sec) 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC91121",
+                        "Name": "Engaging and Assessing Learners (Sec) 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91015",
+                        "Name": "Professional Learning Capstone (Sec)",
+                        "Teaching period": "January (Online)January (Online)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "EDUC91152",
+                        "Name": "Professional Learning Capstone (MTeach)",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Conference proposal: Written proposal drawing together WIL and self-study",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of summer period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Capstone conference presentation: Individual oral video presentation (20 minutes) and peer review (10 minutes)",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": "Teacher Candidates must deliver a presentation and participate in the conference.\n\n",
+            "timing": "Early semester 1",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Conference Paper: Self-study conference paper exploring teaching practice",
+            "bullets": [
+                "6000  words"
+            ],
+            "hurdle": "The conference paper must be passed.",
+            "timing": "During the semester 1 examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Online modules",
+            "bullets": [
+                "12 hours"
+            ],
+            "hurdle": "Teacher Candidates must complete a series of online methodology modules.",
+            "timing": "Early semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Work Integrated Learning Experience",
+            "bullets": [
+                "60 hours"
+            ],
+            "hurdle": "Teacher Candidates must complete this practical component of the subject.",
+            "timing": "Summer",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at, or engagement with, all sessions identified as coursework contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours Work Integrated Learning Experience, and 48 hours of coursework (36 hours of synchronous online classes, and 12 hours of asynchronous online activities).",
+            "total_time_commitment": "360 hours",
+            "teaching_period": "29 January 2024 to 26 April 2024",
+            "last_self_enrol_date": "15 February 2024",
+            "census_date": "1 March 2024",
+            "last_date_to_withdraw_without_fail": "26 April 2024",
+            "assessment_period_ends": "10 June 2024",
+            "contact_name": null,
+            "contact_email": "pmro@unimelb.edu.au"
+        }
+    ]
+}

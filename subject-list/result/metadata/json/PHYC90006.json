@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">Optics and photonics are vibrant international research areas, advancing many aspects of modern life. From the determination of the structure and function of biomolecules to the study of stars and galaxies; from high-efficiency lighting to innovative display technologies, our understanding of optics relies on fundamental underpinnings in advanced quantum mechanics and wave theory.</p>",
+        "<p class=\"MsoNormal\">The course includes the foundations of modern optical theory, including Fourier transforms in optics and diffraction-based imaging; non-linear optical processes such as generation of white light from femtosecond laser pulses, gigahertz optical modulators, and liquid crystal displays; light-atom interactions, the Einstein description of lasers, and optical Bloch equations; holography; quantum optics including zero-point energy and vacuum fluctuations; quantum states of light and quantum squeezing; laser cooling of atoms, atom interferometry, and Bose-Einstein condensation.</p>",
+        "<p class=\"MsoNormal\">Students will develop both analytic and computational problem-solving methods, the latter using standard tools such as MATLAB.</p>"
+    ],
+    "ilo": [
+        "Understanding of classical optical diffraction theory and development of the ability to solve quantitative problems using the canonical mathematical techniques of that theory, in particular Fourier methods;",
+        "Knowledge of important optical and photonic applications of classical wave theory, in imaging and non-linear optical processes;",
+        "Understanding the semi-classical model of light-atom interactions, and its applications to laser theory and laser cooling of atoms;",
+        "A rigorous understanding of the quantum nature of light, including both photon statistics and non-classical fields; and",
+        "An appreciation of the technological relevance of modern physical and quantum optics."
+    ],
+    "generic_skills": [
+        "Analysing how to solve a problem by applying simple fundamental laws to more complicated situations;",
+        "Applying abstract concepts to real-world situations;",
+        "Solving relatively complicated problems using approximations;",
+        "Participating as an effective member of a group in discussions and collaborative assignments; and",
+        "Managing time effectively in order to be prepared for group discussions and undertake the assignments and exam."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC30018",
+                        "Name": "Quantum Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsPHYC20011Electromagnetism and OpticsNo longer availablePHYC20015Special Relativity and ElectromagnetismSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC20011",
+                        "Name": "Electromagnetism and Optics",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "PHYC20015",
+                        "Name": "Special Relativity and Electromagnetism",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four assignments totalling up to 36 pages of written work, spaced equally",
+            "bullets": [
+                "36 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "4 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This subject provides the foundation for understanding and using regression methods in biostatistics. Students will learn what a regression model is and how regression methods are used for the major purposes of research investigations: description, prediction and causal inference. The emphasis will be on learning how to build, fit and interpret regression models for these different purposes, focusing on linear regression for continuous outcomes and logistic regression for binary outcomes, and including treatment of key issues such as model fit, parametrisation and interaction. Important underlying mathematical concepts will be covered, such as the method of least squares, maximum likelihood estimation and matrix algebra representation of multiple regression.</p>"
+    ],
+    "ilo": [
+        "Explain the concepts of regression models for continuous and binary outcomes as tools for description, prediction, and causal inference in health research, including the required assumptions.",
+        "Interpret the parameters of regression models for describing variation in continuous outcomes (linear regression) and binary outcomes (logistic regression).",
+        "Explain the key principles involved in building and validating regression models for prediction purposes.",
+        "Use multivariable regression models to estimate causal effects such as mean difference, risk difference, risk ratio, odds ratio, including the required causal and parametric assumptions.",
+        "Use statistical software to fit regression models for each of the specified purposes to datasets with continuous and binary outcomes."
+    ],
+    "generic_skills": [
+        "Independent problem solving",
+        "Facility with abstract reasoning",
+        "Clarity of written expression",
+        "Sound communication of technical concepts"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90100",
+                        "Name": "Probability & Inference in Biostatistics",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical Exercise 1",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Major Assignment 1",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Major Assignment 2",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 30 August 2024",
+            "last_self_enrol_date": "30 July 2024",
+            "census_date": "2 August 2024",
+            "last_date_to_withdraw_without_fail": "23 August 2024",
+            "assessment_period_ends": "13 September 2024",
+            "contact_name": "",
+            "contact_email": "emily.karahalios@unimelb.edu.au"
+        }
+    ]
+}

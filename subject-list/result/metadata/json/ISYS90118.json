@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>Aims:<br/>Information Systems as a discipline and practice usually informs a range of research skills. This subject will cover some of these essential skills such as carrying out critical literature review, designing research questions and methodologies, and comparing different approaches that are appropriate for primary research or development. Research skills are also essential for IS development projects, particularly in the requirements analysis and planning stages of development.</p>",
+        "<p>Research is a systematic process of answering questions to acquire new knowledge. Research in information systems questions how professional practice is conducted and contributes to the development of better practices. The subject provides students with coverage of how research is conducted within information systems, and how to critically assess published research and current practitioner knowledge. Topics covered include the nature of research, research design, approaches to development, theory and research, research paradigms: positivist, interpretivist and critical research approaches, quantitative and qualitative methodologies, and experimental research. </p>",
+        "<p>Indicative Content<br/>Topics covered will include qualitative and quantitative research methods commonly used in social science research such as those often used in the Information Systems discipline. Also, covered will be epistemology and theory, methodology and methods; how to conduct a literature review and identify research questions; how to design research that is both rigorous and relevant; designing good processes for requirements analysis, research ethics; and understanding the limitations of different research models and development approaches.</p>"
+    ],
+    "ilo": [
+        "ILO1 - Locate and identify peer reviewed publications, and gray literature, and analyse their relevance to a research topic",
+        "ILO2 - Critically analyse research papers to distil key messages",
+        "ILO3 - Synthesize research publications to create a research question",
+        "ILO4 - Research and justify a discipline-appropriate research method to answer a specific research question",
+        "ILO5 - Critically analyse a given research approach against discipline norms in research ethics",
+        "ILO6 - Reflect on the strengths and weaknesses of their chosen research method, in relation to a research or development context."
+    ],
+    "generic_skills": [
+        "Use libraries and research databases effectively",
+        "Communicate complex ideas in writing",
+        "Provide constructive feedback through peer review",
+        "Act on constructive feedback",
+        "Reflect on their own skills and preferences and the role these play in research",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "Ability to plan a complex IS research and development project."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90044Research MethodsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90044",
+                        "Name": "Research Methods",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The interactive lectures and tutorials are essential parts of the course requirement. Students are expected to attend at least 80% of tutorials and as many lectures as possible, where there will be interactive and peer learning exercises and activities."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Tutorial Preparation and Participation (equivalent to 1000 words in total). 2 hours preparation and 2 hours attendance (5 two-hour tutorials). Due weeks 2, 4, 6, 8 and 10. Intended Learning Outcomes (ILOs) 1-4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": "80% attendance at tutorials in order to pass this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Self-reflection research journal: Four journals of 150 words each over the semester. Estimated hours: 2 hours for each journal entry (8 hours in total). 5% each, 20% in total. Due weeks 3, 6, 9 and 12. ILOs 1 and 4-6 are addressed in this assessment.",
+            "bullets": [
+                "8 hours (of work required)"
+            ],
+            "hurdle": "Submission of all 4 journals are required in order to pass this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Proposal Part 1: 1200 word proposal including reference. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "12 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final Proposal (building on feedback and initial work from part 1):  5200 words incorporating parts of proposal part 1 and references. ILOs 1-6 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": "Students must pass the final proposal to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rachelle Bosua",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours in total (2 hours Each week) comprising of 14 hours lectures and 10 hours tutorial.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rachelle.bosua@unimelb.edu.au"
+        }
+    ]
+}

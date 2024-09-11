@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an introduction to the analysis and design of telecommunication signals and systems, in the presence of uncertainty. The emphasis is on understanding the basic concepts that underpin the physical layer of modern communication systems.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics to be covered include:</p>",
+        "<ul><li>Introduction to communication systems including historical developments and comparisons between analogue and digital communications.</li><li>Review of assumed knowledge from linear algebra, signals and systems and probability and random processes.</li><li>The sampling theorem, analog-to-digital conversion, complex baseband representation of passband signals, filtering of random processes, power spectral density, bandwidth of random signals, additive white Gaussian noise (AWGN), signal-to-noise ratio.</li><li>Communication over baseband AWGN channels including modulation techniques (pulse amplitude modulation, orthogonal modulation), signal space representation, optimal detectors, matched filters, error probability calculations and bandwidth / power trade-off.</li><li>Communication over passband AWGN channels including modulation techniques (phase shift keying, quadrature amplitude modulation and frequency shift keying), optimal coherent detectors, noncoherent detectors and error probability calculations.</li><li>Communication over linear time-invariant channels including concepts of distortion, inter-symbol interference, pulse shaping, Nyquist\u2019s criterion, equalization, sequence detection and the Viterbi algorithm.</li><li>Synchronization including carrier, symbol and frame synchronization.</li></ul>"
+    ],
+    "ilo": [
+        "1. Describe the basic functional blocks of a digital communication system",
+        "2. Analyse the performance of digital communication schemes, in terms of signal-to-noise ratio, symbol-error-rate and bandwidth",
+        "3. Assess the relative merits of different modulation and detection techniques, and make design choices on this basis",
+        "4. Use software tools to analyse, design and evaluate digital communication systems",
+        "5. Demonstrate awareness of the broader context, implications and applications of digital communication systems in society."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsELEN90054Probability and Random ModelsSemester 1 (On Campus - Parkville)12.5MAST30001Stochastic ModellingSemester 2 (On Campus - Parkville)12.5MAST30020Probability for InferenceSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90054",
+                        "Name": "Probability and Random Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30001",
+                        "Name": "Stochastic Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30020",
+                        "Name": "Probability for Inference",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Final Exam Assignment. This will be an individual assignment released at beginning of examination period and due two weeks later.\n\nIntended Learning Outcomes (ILOs) 1 - 4 are addressed in the examination.",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": "Students must score at least 50% on the total of the written exam and two progress tests.",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Progress test 1. ILOs 1 - 4 are addressed in this test.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must score at least 50% on the total of the written exam and two progress tests.",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Progress test 2. ILOs 1 - 4 are addressed in this test.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": " Students must score at least 50% on the total of the written exam and two progress tests.",
+            "timing": "From Week 8 to Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Participation in workshops. ILOs 1 - 5 are addressed in this assessment.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignments. \n\nThree equally-weighted assignments not exceeding 30 pages in total and completed in groups of up to three students. ILOs 1 - 5 are addressed in these assignments.",
+            "bullets": [
+                "30 pages"
+            ],
+            "hurdle": null,
+            "timing": "Due in Weeks 4, 8 and 12 (approximately)",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jamie Evans",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Four hours of workshops per week for 12 weeks, ideally grouped into two 2-hour sessions per week. These workshops integrate what would traditionally be called lectures, tutorials and laboratories.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jse@unimelb.edu.au"
+        }
+    ]
+}

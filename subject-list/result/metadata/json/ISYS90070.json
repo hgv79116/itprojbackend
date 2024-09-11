@@ -1,0 +1,126 @@
+{
+    "overview": [
+        "<p><strong>AIMS<br/></strong></p>",
+        "<p>This subject introduces a range of information security consulting services typically provided by leading management consultants in industry. The subject will cover the fundamental principles and practice of security risk assessment, incident response and disaster recovery, knowledge leakage, systems and network security, and policy and culture. Students will develop an appreciation for the kinds of consulting services that can be developed and marketed to industry in each of these areas. Consulting techniques in proposal writing, pricing, and marketing to prospective clients will also be discussed.</p>",
+        "<p>This subject supports course-level objectives by allowing students to have in-depth knowledge of the specialist area of information security management. The subject\u2019s assessment tasks include the writing of a comprehensive consulting proposal and research into critical security issues faced by organisations. These tasks will encourage students to work in a team to develop a high-level of achievement in writing, research activities, and presentation skills.</p>",
+        "<p>Students who have a weighted average mark of at least 75% in the Master of Information Systems have the option to complete the on-line Advanced Elective ISYS90090 Cyber Security Management instead of ISYS90070 Information Security Consulting.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Security principles and techniques discussed are: Models for understanding knowledge leakage, Security Risk Assessment Methods including OCTAVE, Firewall and VPN security scenarios, SANS Incident Response Methodology. Real world cases will be drawn from a range of organisation types including critical infrastructure installations in Australia.</p>"
+    ],
+    "ilo": [
+        "Identify a range of opportunities for information security consulting in organisations",
+        "Develop and document a competitive business proposal to undertake information security consulting services inside an organisation",
+        "Describe a high-level strategy for managing an organisations information security issues",
+        "Appreciate the critical role of information security in organisations and the controls available for enforcement"
+    ],
+    "generic_skills": [
+        "Have in-depth knowledge of a specialist area through exposure and study of information security areas of knowledge",
+        "Reach a high level of achievement in writing, research or project activities problem-solving and communication through the writing of a comprehensive consulting proposal",
+        "Team-work, through working on a group project",
+        "Report-writing skills",
+        "Presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90045",
+                        "Name": "Professional IS Consulting",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Special permission from the subject oorcdinator to enrol in the subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90090",
+                        "Name": "Cyber Security Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group based seminar presentation (10%) with 5-6 group members of approximately 20 minutes duration, requiring 13-15 hours of work per student. Due throughout the second weekend of teaching (days 3 & 4). Intended Learning Outcomes (ILO's) 3 and 4 are addressed in the presentation.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One group based seminar paper (20%) with 5-6 group members of approximately 3000 words, requiring 25-30 hours of work per student. Due halfway through the winter semester. ILO's 3 and 4 are addressed in the seminar paper.",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid term",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One group based presentation of the seminar paper (10%) with 5-6 group members of approximately 10 minutes duration, requiring 13-15 hours of work per student. Due throughout the third weekend of teaching (days 5 & 6). ILO's 3 and 4 are addressed in the seminar paper presentation.",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Demonstration of individual expertise in class discussions (10%), requiring 13-15 hours of work throughout winter term. ILO 4 is addressed in class discussions.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One individual consulting proposal (50%) of approximately 4000 words, requiring 50-60 hours of work. Due four weeks after the third weekend session. ILO's 1 and 2 are addressed in the consulting proposal.",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

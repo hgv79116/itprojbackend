@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>This subject introduces graduate research students to the practical issues and expectations of designing and executing a research project in management and marketing. Topics include:</p>",
+        "<ul><li>The nature of the research process and key decisions made in designing and executing a project</li><li>The \u2018practicalities\u2019 of conducting research, including how to identify, analyse and synthesise published research findings, developing research questions and designing studies</li><li>Managing potential ethical issues in conducting organisation-based and marketing research and writing up a transparent and effective methods section</li></ul>"
+    ],
+    "ilo": [
+        "Understand fundamental decisions in research design",
+        "Align methodological choices with research questions to be investigated",
+        "Identify the potential strengths and limitations associated with alternative research strategies and methods used in marketing and management research",
+        "Appreciate the ethical and political context of different types of research questions and methodological choices, especially in relation to sensitive topics or topics that may impact human subjects"
+    ],
+    "generic_skills": [
+        "Problem solving skills, which should be enhanced through the study of research design and research methods",
+        "Writing skills appropriate for the preparation of academic articles and research reports in Management and Marketing, including the doctoral thesis",
+        "Analytical skills, which should be developed through the evaluation of quantitative and qualitative empirical research literature"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT90249",
+                        "Name": "Research Foundations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-COMMGMT Master of Commerce (Management)",
+                    "MC-COMMKTG Master of Commerce (Marketing)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class participation",
+            "bullets": [
+                "36 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual class presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual research report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual assignment",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Andrew Yu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "andrew.yu@unimelb.edu.au"
+        }
+    ]
+}

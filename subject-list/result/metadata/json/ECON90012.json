@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>The subject is an advanced treatment of selected topics in Microeconomics. Topics will be drawn from the following: an introduction to dynamic games of complete and incomplete information, bargaining, general equilibrium theory, welfare analysis, aggregation and the analysis of incomplete markets.</p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Formulate and analyse dynamic games of incomplete information;",
+        "Explain solution concepts by constructing simple examples;",
+        "Explain the main results derived from general equilibrium theory;",
+        "Explain the implications of the first and second fundamental theorems of welfare economics;",
+        "Apply the analysis of bargaining to explain behaviour observed in strategic bargaining situations;",
+        "Explain the role that aggregation plays in modern microeconomics;",
+        "Apply the tools of microeconomics to situations of incomplete markets."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Strategic thinking",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision making",
+        "Accessing economic and other information",
+        "Summary and interpretation of information",
+        "Statistical reasoning",
+        "Problem solving skills",
+        "Negotiation and bargaining",
+        "Written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON90002MicroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignments",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Roberto Raimondo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Seminars or lectures and tutorials totalling three hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rraim@unimelb.edu.au"
+        }
+    ]
+}

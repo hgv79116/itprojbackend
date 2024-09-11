@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>This subject continues from Dynamics to deepen the students\u2019 understanding of Engineering Mechanics, specifically focusing on <em>Analytical Mechanics</em>:</p>",
+        "<ul><li>Kinematics and Generalised Coordinates.</li><li>Virtual Work and Virtual Displacement, Generalised Force.</li><li>Energies: Kinetic, Potential.</li><li>Lagrange approach: dealing with constraints.</li><li>Lagrange\u2019s Approach to obtaining equation of motion.</li><li>Comparison to Newton-Euler Approach.</li><li>Hamiltonian Mechanics.</li><li>Linearisation of system dynamics about equilibrium points (system stability about equilibrium points.</li></ul>"
+    ],
+    "ilo": [
+        "1. Independently formulate physical and mathematical models for three-dimensional dynamic analysis of mechanical systems;",
+        "2. Solve the mathematical models by means of specialised analytical and numerical methods."
+    ],
+    "generic_skills": [
+        "3 hours"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90038",
+                        "Name": "Dynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MCEN90009 Dynamics of Machines"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written closed book examination. ILOs 1-2 are addressed in the exam.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "One mid-semester test, ILOs 1-2 are addressed in the test.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Three written assignments not exceeding 30 pages in total, due in weeks 4, 6, and 11. ILOs 1-2 are addressed in these assignments.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 11",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Raquel de Souza Fauro",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 x 1 hour lectures and 12 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

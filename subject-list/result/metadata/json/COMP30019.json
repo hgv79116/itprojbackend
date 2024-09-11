@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject introduces the technologies of computer graphics and human-computer interaction along with the biological, psychological and social aspects of human perception and action that inform the application of those technologies. The emphasis is on 2D and 3D computer graphics and the geometric modelling techniques used for representing and interacting with objects in dynamic scenes. Techniques considered include transformation geometry, illumination models and the real-time rendering (shading) models. The subject is centred on developing Apps for tablet computers based on natural user interfaces (NUIs), a term used by developers of human-machine interfaces that effectively become invisible to their users through successive learned interactions. Technologies likely to be considered are: virtual reality, computer games, augmented reality, tele-presence, or other modalities such as interaction through the sense of touch, audio or image processing and analysis. This subject supports course-level objectives by allowing students to develop analytical skills to understand the complexity of developing real-world computer graphics and interaction applications.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics are drawn from computational geometry and human-computer interaction including:</p>",
+        "<ul><li>2D and 3D computer graphics</li><li>Colour and illumination models</li><li>Raster and vector graphics</li><li>Geometric modelling</li><li>Rendering (shading) and visualisation</li><li>Geometric transformations (including projection)</li><li>Computational matrix geometry and/or animation (kinematics)</li><li>Interaction categories and styles (particularly graphical user interfaces)</li><li>Usability and accessibility (including interaction for people with disabilities).</li></ul>"
+    ],
+    "ilo": [
+        "Understand the theoretical concepts of computational geometry and human-computer interaction",
+        "Be able to evaluate, design, and implement software for computer graphics and human-computer interaction",
+        "Understand the strengths and weaknesses of different technological approaches to computer graphics and interaction",
+        "Be able to use of computer graphics and other appropriate technologies for developing applications",
+        "Apply principles of computer graphics to specific problems in a variety of domains."
+    ],
+    "generic_skills": [
+        "Analytical and interpretative skills, through the conceptualization of classes of technology and through the analysis and development of real world cases",
+        "Design skills, through proposing new uses of technology to support engineering tasks",
+        "Team-work, through working on a group project",
+        "Presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-IT150 Master of Information Technology",
+                    "GC-CS Graduate Certificate in Computer Science"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "433-371 Interactive System Design"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project 1 (30%) - Due week 7. ILOs 1 and 3 are addressed.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Project 2 (60%) - Due first week of examination.  ILOs 1, 2, 4 and 5 are addressed.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due first week of examination",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Weekly quizes (10%).  ILOs 1, 2, 3, 4 and 5 are addressed.",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jorge Goncalves",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising of one 2-hour lecture and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jorge.goncalves@unimelb.edu.au"
+        }
+    ]
+}

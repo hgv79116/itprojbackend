@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>This subject covers the application of computer based techniques to solve the problems encountered in economics and business. The techniques covered include the construction and use of hierarchical data sets, the use of multivariate graphics and statistics in the context of data mining applications, the elements of computer simulations, and the application of linear programming for the analysis of productivity in the context of data envelopment analysis. One aspect of this subject is the introduction of students to different software options. Possible software to be considered will be SAS, Stata, GAUSS, SPSS, TSP, EMS, Scientific Word, and Eviews.</p>"
+    ],
+    "ilo": [
+        "Construct data summaries and visualizations from hierarchical data series as found when working with surveys and scanner data.",
+        "Generate interactive graphic representations of data.",
+        "Use Input-Output tables to predict economic impacts",
+        "Predict population age distribution changes.",
+        "Use linear programming to solve economic optimization problems",
+        "Measure the productive efficiency of firms using Data Envelopment Analysis",
+        "Use simulation of random processes to evaluate an economic model",
+        "Employ software to solve complex algebraic problems"
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; statistical reasoning; interpretation and analysis; use of computer software; accessing data and other information from a range of sources.",
+        "Moderate level of development: written communication; application of theory to practice; critical thinking; synthesis of data and other information; evaluation of data and other information; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; collaborative learning; team work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM90001",
+                        "Name": "Basic Econometrics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON30025",
+                        "Name": "Computational Economics and Business",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 (computer exercises, problem sets, individual projects). Due end of week 6",
+            "bullets": [
+                "1,500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assignment 2 (computer exercises, problem sets, individual projects). Due end of week 11",
+            "bullets": [
+                "1,500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester exam.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Joe Hirschberg",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours recorded lectures, 1 hour live online tutorial.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "j.hirschberg@unimelb.edu.au"
+        }
+    ]
+}

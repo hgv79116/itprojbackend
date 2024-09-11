@@ -1,0 +1,166 @@
+{
+    "overview": [
+        "<p>This subject builds on your knowledge of how biological modelling provides insight into complex biological phenomena. With a focus on mechanistic modelling and viewing biological systems as dynamic in nature, you will learn how to develop and implement \u201creal-world\u201d models, applicable to current open problems in computational biology. Advanced approaches to model-based analysis of data will be introduced, including Bayesian hierarchical modelling. Software languages and packages for modelling and statistical analysis (e.g. SBML and STAN) will be introduced. Motivating problems will be drawn from across the spectrum of biology from genetics to ecology.</p>"
+    ],
+    "ilo": [
+        "Have knowledge of and an ability to correctly apply relevant physical and biological concepts to the development of biological models",
+        "Have developed high level modelling (mathematical and computational) skills that can be used to study a range of problems in computational biology",
+        "Be able to use and develop software to run and explore the behaviour of a range of biological models",
+        "Understand and be able to apply relevant statistical techniques for the exploration of model behaviour and the estimation of model parameters",
+        "Be able to interpret and evaluate models of biological processes in a variety of contexts",
+        "Have developed sufficient competency to be apply these skills and techniques to open problems in biology"
+    ],
+    "generic_skills": [
+        "In addition to learning specific skills that will assist students in their future careers in science, they will have the opportunity to develop generic skills that will assist them in any future career path. In particular:\n\n- modelling skills: the ability to abstract and generalise from observations of a complex system, providing an alternative perspective on the problem\n\n- numerical and computer simulation skills: the ability to design computer programs to solve models and test hypotheses\n\n- time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30032Biological Modelling and SimulationSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30032",
+                        "Name": "Biological Modelling and Simulation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST30028Numerical Methods & Scientific ComputingSemester 2 (On Campus - Parkville)12.5COMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30028",
+                        "Name": "Numerical Methods & Scientific Computing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5MAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5PHYC20014Theoretical Physics 2Semester 2 (On Campus - Parkville)12.5MAST30030Applied Mathematical ModellingSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20014",
+                        "Name": "Theoretical Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30030",
+                        "Name": "Applied Mathematical Modelling",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 computer-laboratory practical exercises due in the first and second half of the semester",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

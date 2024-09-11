@@ -1,0 +1,123 @@
+{
+    "overview": [
+        "<p>This capstone project will provide the culmination of the Master of Data Science degree. It will apply the skills developed during the degree to a practical problem of relevance to science, industry, commerce or society in general. Students will work in teams under only general guidance from staff members. Students will complete diaries to log their work on the project so that the extent of their contribution to group projects can be determined. In the first part of the project students will complete a literature review and a plan for their project.</p>"
+    ],
+    "ilo": [
+        "apply contemporary data science techniques to a practical problem.",
+        "project manage as part of a team in order to design the program of work, complete the analysis of project results and compile the project report",
+        "present results at a career-ready level"
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time management skills: the ability to meet regular deadlines while balancing competing commitments.",
+        "the ability to work in a team environment."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20008",
+                        "Name": "Elements of Data Processing",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90049",
+                        "Name": "Introduction to Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90104",
+                        "Name": "A First Course In Statistical Learning",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "INFO90002",
+                        "Name": "Database Systems & Information Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into:"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022 Master of Data Science (MC-DATASC) - Data Science Background Stream"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A literature review and project plan completed by the research group",
+            "bullets": [
+                "5 pages"
+            ],
+            "hurdle": "",
+            "timing": "End of first semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "A written report totaling 6,000 words, or equivalent completed by the research group",
+            "bullets": [
+                "6000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of second semester",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Group oral presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of second semester",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Up to 10 hours comprising one initial 2 hour workshop to form groups and discuss the form of the project, one 1 hour workshop on research ethics, one 2 hour workshop towards the end of the first semester to discuss the project\u2019s progress and up to 5 hours informal contact with the subject coordinator.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "mkirley@unimelb.edu.au"
+        }
+    ]
+}

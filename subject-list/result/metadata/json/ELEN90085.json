@@ -1,0 +1,64 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides the fundamental knowledge and skills for conducting research in optical communications. The subject provides in-depth examination of the key advances in high-speed optical communications. It includes regular lecturing classes as well as a presentation by each student on a relevant topic of their choice. <br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Coverage of selected topics from the following:</p>",
+        "<ul><li>Linear polarization systems;</li><li>Jones and Stokes space representations;</li><li>Jones matrices for various optical components;</li><li>Modulation formats in optical communications;</li><li>Nonlinearity in optical fibres;</li><li>Channel capacity of optical fibres;</li><li>Space-division multiplexing in optical fibres.</li></ul>"
+    ],
+    "ilo": [
+        "Analyse and evaluate high-speed optical communications systems",
+        "Describe the trends in the fast-evolving field of optical communications",
+        "Design high-speed optical communication channels",
+        "Perform simulations of fiber optic channels for nonlinear single- and dual-polarization systems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN90059Lightwave SystemsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90059",
+                        "Name": "Lightwave Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment involving homework and a presentation completed during semester (addressing ILOs 1, 2, 3 and 4)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final exam (addressing ILOs 1, 2 and 3)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p>This subject will be conducted predominantly in the clinical setting and will provide students with an opportunity to develop their clinical skills and to integrate their theoretical knowledge in neurological physiotherapy clinical practice. The emphasis in this subject is the application of clinical reasoning and evidence-based practice in the safe and effective assessment and management of individuals with neurological conditions in the clinical setting. This will apply in, communication, therapeutic interventions, advocacy and education working as a health professional within a team, with individuals and their carers, respecting their rights and choices within the healthcare setting. <br/><br/></p>"
+    ],
+    "ilo": [
+        "To integrate prior knowledge of neuroscience, common neurological conditions and the framework for clinical reasoning to the assessment and management of individuals with neurological conditions",
+        "To implement the theoretical framework for clinical reasoning in neurological rehabilitation in selecting `appropriate assessments, problems, goals and approaches to treatment in the clinical setting",
+        "To select, justify and demonstrate safe and effective manual handling and physiotherapeutic interventions to address impairments and activity limitations in individuals with neurological conditions",
+        "To safely and effectively apply and interpret neurologic assessment techniques, including observational movement analysis, objective measures of impairments, activity limitations and participation restrictions",
+        "Justify neurological physiotherapy assessment treatment choices based upon the findings of relevant published literature",
+        "Develop neurological physiotherapy practice knowledge that will contribute to personal capacity to practice evidence-based physiotherapy for patients with neurological conditions",
+        "To integrate prior knowledge of the neurological conditions, evidence-based physiotherapy practice, and information specific to the individual, to effectively engage in patient education and advocacy",
+        "To articulate the role of the physiotherapist within the multidisciplinary team and to demonstrate the capacity to work effectively within the team in a clinical setting"
+    ],
+    "generic_skills": [
+        "Responding constructively to appraisal, performance review of assessment feedback",
+        "Recognising personal, spiritual, cultural or religious beliefs and an awareness that these beliefs must not prevent the provision of adequate and appropriate care to the patient",
+        "Accessing new knowledge from all sources, to analyse and interpret it in a critical manner, and to apply it appropriately in the provision of healthcare",
+        "Understanding and respecting the rights of patients including patient choice, dignity and privacy"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsPHTY90096Foundation Physiotherapy SciencesNot available in 202425PHTY90095Physiotherapy Theory and Practice 1Not available in 202418.75PHTY90094Research and Evidence 1Semester 1 (Early-Start) (On Campus - Parkville)6.25PHTY90092Physiotherapy Theory and Practice 2Not available in 202412.5PHTY90091Cardiorespiratory PhysiotherapyJuly (On Campus - Parkville)12.5PHTY90090Musculoskeletal PhysiotherapyJuly (On Campus - Parkville)12.5PHTY90089Neurological PhysiotherapySemester 2 (Early-Start) (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90096",
+                        "Name": "Foundation Physiotherapy Sciences",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "PHTY90095",
+                        "Name": "Physiotherapy Theory and Practice 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "PHTY90094",
+                        "Name": "Research and Evidence 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PHTY90092",
+                        "Name": "Physiotherapy Theory and Practice 2",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90091",
+                        "Name": "Cardiorespiratory Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90090",
+                        "Name": "Musculoskeletal Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90089",
+                        "Name": "Neurological Physiotherapy",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous clinical assessment during 5 week clinical placement",
+            "bullets": [
+                "152 hours"
+            ],
+            "hurdle": "Students must receive a pass mark (\u226550%) in order to pass the subject.",
+            "timing": "End of the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Individual clinical case presentation; Due end of clinical placement",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written theory examination",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": "Students must receive a pass mark  (\u226550%)  in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Five weeks (approx. 30 hours pw) clinical placement and 10 hours of tutorials",
+            "total_time_commitment": "192 hours",
+            "teaching_period": "15 January 2024 to  7 June 2024",
+            "last_self_enrol_date": "26 January 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "natalie.fini@unimelb.edu.au"
+        }
+    ]
+}

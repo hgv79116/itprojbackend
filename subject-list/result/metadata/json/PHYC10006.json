@@ -1,0 +1,192 @@
+{
+    "overview": [
+        "<p>This subject aims to develop students\u2019 understanding of the physics principles underpinning biological and environmental systems. It is designed for students with a sound background in physics, whose interests lie mainly in the biological sciences. Topics include: <br/>Fluids: blood pressure and the circulatory system, breathing and respiration (pressure in fluids, fluid flow, viscosity). <br/>Thermal physics: heating and cooling, energy balance of living organisms, ion movement across membranes (temperature and thermal energy, phase changes, heat transfer mechanisms, first law of thermodynamics, diffusion). <br/>Electricity and magnetism: bioelectricity, nerve conduction, electrical safety, power transmission, synchrotron, biological effects of electromagnetic fields (electric charge and field, electric potential, capacitance, electric circuits, resistance, magnetic fields and forces, Faraday\u2019s law of induction). <br/>Atomic physics and lasers: fluorescence imaging and spectroscopy, laser surgery (structure of the atom, photons, spectroscopy, interaction of light with matter); <br/>Radiation: radiation safety, therapeutic uses of radiation (the atomic nucleus, isotopes, nuclear decay and radiation, physical and biological half-life, ionising radiation); and <br/>Imaging: modern biomedical imaging (X-rays, CT-scans and angiography, ultrasound imaging, positron emission tomography).</p>"
+    ],
+    "ilo": [
+        "understand and explain the physics principles of fluids, thermal physics, electricity and magnetism, atomic, radiation and imaging physics;",
+        "apply these principles using logical reasoning, together with appropriate mathematical reasoning, to a variety of familiar and novel situations and problems in the biological and environmental sciences;",
+        "make considered and logical predictions of the outcomes of different physical situations in the context of the relevant physics principles; and",
+        "acquire experimental data using a range of measurement instruments and interpret these data."
+    ],
+    "generic_skills": [
+        "explain their understanding of physics principles and applications lucidly, both in writing and orally;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Physics:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Study score of 25 or more in VCE Physics 3 and 4 or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsPHYC10001Physics 1: AdvancedSemester 1 (On Campus - Parkville)12.5PHYC10003Physics 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10001",
+                        "Name": "Physics 1: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10003",
+                        "Name": "Physics 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHYC10009Foundations of PhysicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10009",
+                        "Name": "Foundations of Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "With a result of at least H2A"
+            },
+            {
+                "type": "paragraph",
+                "content": "Mathematics:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMAST10014Foundation Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10015Foundation Mathematics 2Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10014",
+                        "Name": "Foundation Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10015",
+                        "Name": "Foundation Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Study score of 25 of more in VCE Mathematical Methods 3 and 4 or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the B-SCI Bachelor of Science"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10002",
+                        "Name": "Physics 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10004",
+                        "Name": "Physics 2: Physical Science & Technology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10007",
+                        "Name": "Physics for Biomedicine",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Ongoing assessment of practical work",
+            "bullets": null,
+            "hurdle": "Satisfactory completion of practical work is necessary to pass the subject (i.e. attendance and submission of work for at least 80% of workshop sessions together with a result for assessed work of at least 50%).",
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Ten weekly assignments (10 x 1.5%)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week; 1 x one hour tutorial per week; 15 hours of practical work consisting of 6 x 2.5 hour laboratory sessions  during the semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Director of First Year Studies",
+            "contact_email": "dfys@physics.unimelb.edu.au"
+        }
+    ]
+}

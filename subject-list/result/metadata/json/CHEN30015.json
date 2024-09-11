@@ -1,0 +1,166 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to process work in process engineering, focusing specifically on process safety and sustainability. Material taught in other chemical engineering subjects will be reinforced via a series of assignments in which ill-defined and open-ended process engineering problems will be tackled. Both hypothetical and real case studies from the process engineering field are used throughout the subject.</p>",
+        "<p>Several assessment tasks combine to form a capstone project. Within this project students, in teams of three or four, perform design tasks related to the development of a Chemical Process Engineering facility. This capstone project culminates in an Environmental Effects Statement assignment. Several industry speakers, from the process engineering and environmental areas, talk and provide content to aid with this assignment.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Approach and solve open-ended design problems in the field of process engineering",
+        "Place problems being solved within the context in which engineering processes take place",
+        "Be able to evaluate data from a range of sources to allow a coherent professional engineering technical report to be prepared",
+        "Use high-level team management techniques",
+        "Gain advanced skills in the use of process engineering software",
+        "Be able to lay out a Chemical Process Engineering facility",
+        "Design and modify Piping and Instrumentation Diagrams",
+        "Access and use Australian Standards for equipment design",
+        "Use pinch and energy analysis techniques to minimise plantwide energy consumption",
+        "Perform HAZOP and QRA safety analyses",
+        "Construct an Environmental Impact Assessment",
+        "Use sustainable engineering techniques, such as Life Cycle Analysis"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to communicate effectively, not only with engineers but also with the community at large",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams",
+        "Understanding of the social, cultural, global and environmental responsibilities of the professional engineer, and the need for sustainable development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20011",
+                        "Name": "Digitisation in the Process Industries",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR30002",
+                        "Name": "Fluid Mechanics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsCHEN30016Momentum, Mass and Heat TransferSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN30016",
+                        "Name": "Momentum, Mass and Heat Transfer",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "",
+                        "Name": "No longer available",
+                        "Teaching period": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Seven in-class Assignments, worth 50% (in total), conducted in groups of 3-4 students, each to be completed within a 3-hour workshop session. Preparation time of approximately 4-5 hours for each workshop (including pre-reading and additional research tasks). All Intended Learning Outcomes (ILOs) are addressed in these assignments. Delivered throughout the semester starting from Week 1. Workshops use both allocated and self-selected team assignments, with peer assessment employed to moderate individual grades",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "One take home written report, conducted individually, worth 15%, and due in Weeks 4-5 of the semester, consisting of a maximum of 10 A4 pages (min 11pt font, single spaced, including any appendices, figures and tables). Overall time commitment of 15-20 hours. ILOs addressed in this assignment: 1, 2, 3, 6, 8",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One take home written report conducted individually, worth 10%, and due in Weeks 7-8 of the semester, consisting of a maximum of 6 A4 pages (min 11pt font, single spaced, including any appendices, figures and tables.) Overall time commitment of approximately 10-13 hours. ILOs addressed in this assignment: 1, 2, 3, 10",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One take home written report conducted individually, worth 15%, and due in Week 10 of the semester, consisting of a maximum of 10 A4 pages (min 11pt font, single spaced, including any appendices, figures and tables.) Overall time commitment of 15-20 hours. ILOs addressed in this assignment: 1, 2, 3, 5, 7, 9",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One take home written report, conducted in groups of 3-4 students, worth 10%, and due in Week 12 of the semester, consisting of a maximum of 34 A4 pages for the group (page limit based on a group of 4, min 11pt font, single spaced, including any appendices, figures and tables.) Overall time commitment of 10-13 hours. ILOs addressed in this assignment: 1, 2, 3, 4, 5, 6, 7, 11, 12",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Dalton Harvie",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x two hour lecture + 1 x three hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Associate Professor Stefano Freguia",
+            "contact_email": "stefano.freguia@unimelb.edu.au"
+        }
+    ]
+}

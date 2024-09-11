@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>Through an introduction to details of construction scheduling techniques and use of professional scheduling tools, this subject articulates the clear processes of logical development of time program for construction activities in projects. Real-life case projects are used for students to explore the concepts of activity definition, activity sequencing, resource allocation and resource leveling in the time schedule development process. Organised as a working seminar, the subject exposes students to clear visualisation of the construction processes and logical placement of construction activities whilst enabling them to understand underlying constraints in the schedule development context.</p>",
+        "<p><strong>Prescribed software programs with no cost</strong><br/>Primavera<br/><br/>Details of software availability and pricing are captured at: <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support\">https://msd.unimelb.edu.au/current-students/student-experience/it-support</a><br/><br/><br/></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "To teach students how to optimise construction time in a range of residential and commercial projects;",
+        "To provide a framework for evaluating alternative construction methods and implications in schedule;",
+        "To optimise the use of resources such as people, materials, equipment, and capital;",
+        "To provide the early warning of potential problems and set priorities; and",
+        "To develop skills and training on professional scheduling tools such as MS Project and Primavera."
+    ],
+    "generic_skills": [
+        "Ability to visualise constructability issues;",
+        "Ability to map or imagine construction processes in the context of timely project completion;",
+        "Ability to examine alternative construction methods and the results of ripple effects;",
+        "Ability to appreciate the effectiveness of construction schedule in overall time control in projects."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90334",
+                        "Name": "Means and Methods in Construction",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 ( group work):Demonstration of high level of technical understanding of sequencing construction processes, resource allocation and resource levelling in construction activities and development of a feasible construction schedule for effective delivery of projects)",
+            "bullets": [
+                "1500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assignment 2 (group work) :\n\nDemonstration of advanced knowledge in schedule compression, schedule  update, monitoring and control, progress reporting and statusing of projects, variation analysis and control for effective delivery of projects",
+            "bullets": [
+                "1500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Reflective Exam (in-class)\n\n(Clear demonstration of knowledge and competencies achieved in construction scheduling)",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Class Participation\n\n(Continuous participation in class activities, lab-based tutorials and formal submission of workings throughout the teaching period",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours  including 24 hours lecture  and 20 hours  tutorial",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

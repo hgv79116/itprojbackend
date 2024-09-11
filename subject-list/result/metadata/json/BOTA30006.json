@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>This subject is structured around the fieldwork in early February and covers the basic skills that are required to undertake a field-based botanical activity such as a flora survey or an environmental impact assessment, or to proceed to research in a field-based botanical discipline. Topics to be covered include:</p>",
+        "<ul><li>taxonomy of the Australian flora;</li><li>field identification of major families and genera of plants;</li><li>collection and preservation of plant specimens; mounting and cataloguing specimens; curatorial skills; nomenclature;</li><li>techniques for description and classification of vegetation; structural types, floristic associations, measures of abundance (cover, density, basal area, biomass), sampling techniques (quadrats, line transects, plotless methods), sampling scale and species-area relationships, profile diagrams, life-form spectra;</li><li>soils; and</li><li>vegetation mapping.</li></ul>"
+    ],
+    "ilo": [
+        "identification, description and quantification of plants and plant communities in the field;",
+        "collection, cataloguing and preserving plant specimens; and",
+        "constructing a vegetation map."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BOTA20002",
+                        "Name": "Plant Biodiversity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BOTA20004",
+                        "Name": "Flora of Victoria",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three field project reports",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Assessment of field activities",
+            "bullets": [
+                "200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A examination",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "After completion of the field trip",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Andrew Drinnan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is offered full-time over two weeks. Total contact is 62 hours, comprising 36 hours fieldwork, 8 hours lectures, 18 hours practical work",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 January 2024 to  5 February 2024",
+            "last_self_enrol_date": "11 December 2023",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "9 February 2024",
+            "assessment_period_ends": "26 February 2024",
+            "contact_name": "",
+            "contact_email": "a.drinnan@unimelb.edu.au"
+        }
+    ]
+}

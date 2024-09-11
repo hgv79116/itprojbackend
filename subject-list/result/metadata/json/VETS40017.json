@@ -1,0 +1,77 @@
+{
+    "overview": [
+        "<p><strong>This subject is only available to incoming exchange students.</strong></p>",
+        "<p><strong>It is not available for students enrolled in an award program at the University of Melbourne.</strong></p>",
+        "<p>The subject consists of blocks of practical work in clinical disciplines selected by the student and approved by the subject coordinator. This may be undertaken in the Veterinary Hospital, specialised academic units, research laboratories or approved practices.</p>"
+    ],
+    "ilo": [
+        "N/A"
+    ],
+    "generic_skills": [
+        "Cognitive, analytic and problem solving skills, involving independent thought, rational enquiry and self-directed learning",
+        "Respect for intellectual integrity and professional ethics",
+        "Professional and technical skills",
+        "Writing skills and the use of advanced communication technologies",
+        "Time management and planning skills",
+        "Community and leadership skills including facility in public speaking and presentation",
+        "People management, the ability to participate effectively in collaborative learning, interpersonal relationships and grief counselling",
+        "Finance and business management skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Enrolment into this subject requires approval of the subject coordinator."
+            },
+            {
+                "type": "paragraph",
+                "content": "The language of instruction is English. Students must be fluent in spoken and written English."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students approved for enrolment into this subject participate in the clinical elective rotations alongside students formally enrolled in the veterinary science course of the Faculty of Veterinary and Agricultural Sciences. Opportunities to enrol into this subject each semester are limited by the capacity of the Veterinary Hospital to accommodate additional students."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of performance in each of the four elective rotations (blocks) 4 x 25%",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "To successfully pass this subject a student must pass each elective rotation.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": "Abdul Jabbar",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Clinical Rotations within the Greencross Vet Hospital at the University of Melbourne encompassing all but not excluding tutorials, clinical rounds, and in some rotation's clinical presentations",
+            "total_time_commitment": "480 hours",
+            "teaching_period": "12 February 2024 to  3 May 2024",
+            "last_self_enrol_date": "28 February 2024",
+            "census_date": "1 March 2024",
+            "last_date_to_withdraw_without_fail": "5 April 2024",
+            "assessment_period_ends": "10 May 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

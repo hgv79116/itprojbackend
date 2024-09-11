@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>Students will continue to develop knowledge, skills and attitudes of physiotherapy professional practice. Clinical reasoning and decision making will be learnt in the context of assessment and management of a variety of clinical conditions. Topics including exercise prescription, manual therapy, electrotherapy, soft tissue mobilising and patient education will be introduced using physiotherapy cases. Students will use evidence based outcome measures to identify short and long term treatment goals. They will review current evidence around physiotherapy interventions and build their understanding of current directions in physiotherapy research. Attention will be given to understanding core physiotherapy principles including health ethics, professional practice, physiotherapy culture, critical reflection and lifelong learning. Students will have an opportunity to apply knowledge and skills gained in this subject in a clinical setting.</p>"
+    ],
+    "ilo": [
+        "the ability to learn from patients, health professionals and the community in a broad range of settings",
+        "an understanding of and respect for the rights of patients including patient choice, dignity and privacy",
+        "the ability to integrate and interpret clinical findings and apply rigorous reasoning to arrive at an appropriate plan of management",
+        "the ability to perform relevant physiotherapy procedures effectively and safely, with due regards for the patient's comfort"
+    ],
+    "generic_skills": [
+        "the ability to learn from patients, health professionals and the community in a broad range of settings",
+        "an understanding of and respect for the rights of patients including patient choice, dignity and privacy",
+        "the ability to integrate and interpret clinical findings and apply rigorous reasoning to arrive at an appropriate plan of management",
+        "the ability to perform relevant physiotherapy procedures effectively and safely, with due regards for the patient's comfort"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90094",
+                        "Name": "Research and Evidence 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PHTY90095",
+                        "Name": "Physiotherapy Theory and Practice 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "PHTY90096",
+                        "Name": "Foundation Physiotherapy Sciences",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online electrotherapy examination",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "OSCE Practical Skills assessment, 2 x 10 minutes stations",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Electrotherapy Skills Mastery Assessment: students must demonstrate safe and effective delivery of therapeutic ultrasound to an examiner. Multiple attempts allowed. Students must pass the Electrotherapy Skills Mastery Assessment in order to pass the subject overall.",
+            "timing": "Week 7",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written theory examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at >95% of practical classes during the theory block.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

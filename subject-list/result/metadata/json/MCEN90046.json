@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>This subject is concerned with the modelling and analysis of vibrating systems. It provides tools to analyse a range of systems in which vibration occurs, including the vibration of systems in which aerodynamic forces are also important (aeroelasticity).</p>",
+        "<p>The topics covered in this subject are:</p>",
+        "<p>The vibration of a single mass-spring-damper system. This will include the calculation of its natural frequency, its free vibration, and its response to forcing.</p>",
+        "<p>The vibration of mass-spring-damper systems with multiple degrees of freedom. This will include calculation of the system\u2019s natural frequencies and mode shapes, its free vibration, and its response to forcing.</p>",
+        "<p>The vibration of continuous systems in engineering applications. This will include the vibration of strings and beams (for which there is one spatial dimension); and the vibration of membranes and plates (for which there are two spatial dimensions).</p>",
+        "<p>Aeroelasticity and its relevance in aerospace applications. We will consider the simultaneous influences of mass, stiffness and aerodynamic forces and how they can combine to give rise to aeroelastic phenomena. We will look in particular at the conditions under which i) divergence and ii) flutter can occur.</p>"
+    ],
+    "ilo": [
+        "Formulate mathematical models for vibration analysis for single-degree-of-freedom systems; multiple-degree-of-freedom systems; and continuous systems.",
+        "Formulate mathematical models for some simple problems in aeroelasticity.",
+        "Analyse these systems using suitable tools both in the time domain and in the frequency domain.",
+        "Simulate the behaviour of vibrating systems using suitable software."
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals.",
+        "The ability to undertake problem identification, formulation, and solution",
+        "The ability to apply a systems approach to complex problems for analysis and design",
+        "The capacity for independent critical thought, rational inquiry and self-directed learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN30020",
+                        "Name": "Systems Modelling and Analysis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN90038",
+                        "Name": "Dynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written examination, 3 hours in length \u2013 hurdle requirement, open book.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the end-of-semester exam in order to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Simon Illingworth",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and 12 hours of tutorials",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

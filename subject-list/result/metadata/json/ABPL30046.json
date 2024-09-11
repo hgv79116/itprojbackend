@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p><strong>This subject was formerly known as Structures and Construction Systems.</strong></p>",
+        "<p>Commercial construction can take many forms and often includes a multitude of complex systems with specific plant and equipment requirements. These commercial buildings can include high, medium or low rise office or apartment buildings, hospitals and institutional buildings, shopping centres, sporting facilities and warehouse industrial sheds. Each project has characteristic structural forms and resultant methods of construction. This subject investigates the various structural design concepts and their influence on construction. The topics covered include the interpretation of steelwork drawings and specifications, steel frame buildings and wide span industrial sheds, warehouse concrete pavements, basement construction and site retention methods, piling systems and construction methods to suit various geotechnical conditions, tilt slab construction methods and precast concrete building systems. Construction detailing and constructability are the key issues covered within each topic, together with organisation of the construction process and hybrid construction systems.</p>",
+        "<p><strong>Incidental costs</strong></p>",
+        "<p>Students will be required to purchase personal protective equipment (steel-toed boots, hard-hat, hi-vis vest and safety goggles); cost approx. $80 to $120 per person. Students may use equipment from a previous subject if these are in good working condition</p>"
+    ],
+    "ilo": [
+        "Understand and interpret structural drawings involving concrete and steel components;",
+        "Identify factors affecting the choice of materials, structures or construction systems for complex buildings;",
+        "Understand the principles of maintaining performance of concrete structures;",
+        "Synthesize executive design plans provided by the principal design team to develop a construction process plan and methodology;",
+        "Analyse structural design and examine the buildability and efficiency of that design;",
+        "Research and propose alternative structural systems or creative construction methods to reduce time and cost of the project while achieving the required quality;",
+        "Understand the environmental implications of concrete use;",
+        "Communicate with the design team to justify the solution by means of reports, sketches and drawings."
+    ],
+    "generic_skills": [
+        "Analytical and evaluation skills;",
+        "Communication skills;",
+        "Problem solving skills;",
+        "Team working skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students admitted to the Bachelor of Design:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsABPL10005Understanding the Built EnvironmentSemester 1 (On Campus - Parkville)12.5ABPL20053Construction of Concrete BuildingsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL10005",
+                        "Name": "Understanding the Built Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL20053",
+                        "Name": "Construction of Concrete Buildings",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Students admitted to all other degrees:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsABPL20053Construction of Concrete BuildingsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL20053",
+                        "Name": "Construction of Concrete Buildings",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Design a construction system for either a steel frame, steel portal frame, or industrial ground slab",
+            "bullets": [
+                "700 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 2: Design a construction method for a precast, post-tensioned or composite concrete structures system",
+            "bullets": [
+                "700 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "A minimum mark of 40% must be achieved in the examination in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Vidal Paton-Cole",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours of lectures( 1X2 hour and 1X 1hour)  and 1 x 1 hour of tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "vidal.paton@unimelb.edu.au"
+        }
+    ]
+}

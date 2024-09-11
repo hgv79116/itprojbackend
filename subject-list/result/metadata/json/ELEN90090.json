@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p>AIMS:<br/>Students work collaboratively in small groups to engineer an autonomous system that performs a specified task. This includes carrying out steps such as: task analysis; proposing multiple solutions; feasibility analysis through prototyping and computer-aided design; detailed design, construction, and testing of the chosen solution; and demonstrating the solution in a proving ground. The lectures will cast content from the pre-requisite subjects into the context of the task at hand, as well as covering additional topics relevant to the task. Each student group is expected to demonstrate initiative and independence while pursuing the goal of designing and building their autonomous system, with a focus of the subject being that students learn through hands-on experience, implementation, and verification.</p>",
+        "<p>INDICATIVE CONTENT:<br/>Successful completion of the project requires the student to draw upon knowledge, understanding, and skills learned in the prerequisite subjects, namely:</p>",
+        "<p>\u2022 Embedded System Design - including topics such as: finite, extended, and hierarchical state machines; modelling cyber-physical systems; scheduling, multi-tasking, and real-time issues; interfacing to the analogue world.<br/>\u2022 Control Systems - including topics such as: modelling; linearisation; feedback interconnections; proportional, integral, derivative (PID) control; actuator constraint considerations.<br/>\u2022 Signal Processing - including topics such as: design and implementation of digital filters (low-, high-, band-, all- pass filters); ARMA systems; up-sampling and down-sampling.</p>",
+        "<p>Additional topics, specific to the task as hand, will be covered, such as: ideation, prototyping, and design practices; image processing and computer vision tools; software introductions; safety and failure analysis.</p>",
+        "<p>A range of materials, components, and fabrication facilities are provided, from which the students are expected to utilise a subset for designing and building their autonomous system, such as: electric motors, range sensors, camera, voltage converters, compute power, sheet wood, soldering stations, laser wood cutting, 3D printing. The task to be performed is motivated by a real-world application of autonomous systems, such as: operating in hazardous environments or performing repetitive tasks.</p>",
+        "<p>Please view this video for further information: <a href=\"https://www.youtube.com/watch?v=M_4Cw0eIxLU\">Autonomous Systems Clinic</a></p>"
+    ],
+    "ilo": [
+        "1. Devise, produce, and verify solutions to complex autonomous systems design problems, drawing upon the principles underpinning autonomous systems from areas such as embedded systems, control systems and signal processing",
+        "2. Apply established engineering design methods and systems-level thinking to the execution of an autonomous systems project",
+        "3. Contrast and integrate modern software frameworks for enabling autonomy of modern autonomous systems hardware",
+        "4. Apply systematic approaches to the management and execution of a complex engineering design project in a small team",
+        "5. Articulate and convey project framing and details through technical reports, presentations, and informational videos"
+    ],
+    "generic_skills": [
+        "Ability to apply in-depth technical competence in at least one engineering discipline to solve real-world problem.",
+        "Ability to identify, formulate, analyse and solve complex problems.",
+        "Ability to communicate effectively through verbal and written means with a variety of target audiences, including with one's direct team, other engineers and professions, and with the community at large.",
+        "Ability to function effectively multi-disciplinary and multi-cultural teams of various sizes, with the capacity to be an effective leader, manager, and team member as appropriate to the context.",
+        "Ability to scope and plan project work and manage competing demands on time to deliver a substantial outcome, including any self-directed learning necessary.",
+        "Capacity for independent critical thought, rational inquiry, creativity, and innovation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90055",
+                        "Name": "Control Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90066",
+                        "Name": "Embedded System Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsELEN90058Signal ProcessingSemester 2 (On Campus - Parkville)12.5MCEN90032Sensor SystemsSemester 1 (On Campus - Parkville)Semester 1 (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90058",
+                        "Name": "Signal Processing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN90032",
+                        "Name": "Sensor Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test.  Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": " \"Students must score above a hurdle requirement on the total of the mid-semester test and continuous individual project work assessment.  This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.\" ",
+            "timing": "From Week 6 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Continuous individual assessment of project work, including peer assessment, not exceeding 40 pages per student over the semester. ILOs 1 - 5 are addressed in this assessment.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": " \"Students must score above a hurdle requirement on the total of the mid-semester test and continuous individual project work assessment.  This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.\" ",
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Submission of a final team report not exceeding 30 pages, including an individual contribution statement. Approximately 40 hours of work per team (3 - 4 students). ILOs 1, 2 and 5 are addressed in this assessment.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Team video presentation. 3 minutes per student. ILO 5  is addressed in this assessment.",
+            "bullets": [
+                "3 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "16 hours of lectures, 36 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "matt.xavier@unimelb.edu.au"
+        }
+    ]
+}

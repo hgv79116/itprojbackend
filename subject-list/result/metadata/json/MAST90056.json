@@ -1,0 +1,67 @@
+{
+    "overview": [
+        "<p>Riemann surfaces arise from complex analysis. They are central in mathematics, appearing in seemingly diverse areas such as differential and algebraic geometry, number theory, integrable systems, statistical mechanics and string theory.</p>",
+        "<p>The first part of the subject studies complex analysis. It assumes students have completed a first course in complex analysis so begins with a quick review of analytic functions and Cauchy's theorem, emphasising topological aspects such as the argument principle and Rouche's theorem.</p>",
+        "<p>Topics also include: Schwarz's lemma; limits of analytic functions, normal families, Riemann mapping theorem; multiple-valued functions, differential equations and Riemann surfaces. The second part of the subject studies Riemann surfaces and natural objects on them such as holomorphic differentials and quadratic differentials.</p>",
+        "<p>Topics may also include: divisors, Riemann-Roch theorem; the moduli space of Riemann surfaces, Teichmueller space; integrable systems.</p>"
+    ],
+    "ilo": [
+        "topological aspects of complex analytic functions;",
+        "Riemann mapping theorem and its proof;",
+        "Riemann surfaces;",
+        "holomorphic differentials and line integrals on Riemann surfaces;",
+        "the relevance of this course to further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignments",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "An end-of-semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

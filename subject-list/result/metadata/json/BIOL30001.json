@@ -1,0 +1,156 @@
+{
+    "overview": [
+        "<p><br/></p>"
+    ],
+    "ilo": [
+        "Compare the structure and function of male and female reproductive systems;",
+        "Explain neuroendocrine and endocrine control systems and their role in the regulation of reproductive processes;",
+        "Review common reproductive disorders and diseases and assisted reproductive techniques;",
+        "Discuss the implications of reproduction in a community and global context; and",
+        "Synthesise and critique relevant literature to communicate applications of reproductive biology."
+    ],
+    "generic_skills": [
+        "Identifying, compiling and synthesising new knowledge from the literature;",
+        "Applying knowledge to evaluate and critique published papers;",
+        "Working in teams to review and discuss scientific findings; and",
+        "Communicating and conveying succinctly their understanding of reproductive biology."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "CEDB20003",
+                        "Name": "Fundamentals of Cell Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE20001",
+                        "Name": "Foundations of Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYS20008",
+                        "Name": "Human Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYS20009",
+                        "Name": "Research-Based Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20005",
+                        "Name": "Animal Structure and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20006",
+                        "Name": "Comparative Animal Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students with equivalent alternative backgrounds should discuss their options with the coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANSC30004",
+                        "Name": "Applied Animal Reproduction & Genetics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "6 online multi-choice quizzes (50 words equivalent and 5% each)",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Review of scientific literature and individual timed written assessment, including 2 hours of group work including annotation of a scientific paper and a related individual 50-minute in-class assessment",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Mark Green",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 lectures and 6 tutorials",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "biol30001@lists.unimelb.edu.au"
+        }
+    ]
+}

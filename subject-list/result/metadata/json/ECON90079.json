@@ -1,0 +1,83 @@
+{
+    "overview": [
+        "<p>The subject aims to provide a foundation for original research in the fields of behavioural and experimental economics. First, it explores how behavioural economics extends traditional economics by incorporating insights into human behaviour derived from other fields such as psychology and sociology. Students will be exposed to both empirical research that investigates pattern of behaviour which deviates from standard economic assumptions, and theoretical research that aims to incorporate these behaviour in tractable models. Second, the subject familiarises students with experimental methodology, analysis of experimental data, and the range of application of experimental methods in economics, such as the evaluation of economic theories and behavioural assumptions, as well as their applications to policy research. At the conclusion of the subject, it is hoped that the subject will help students begin a proposal for a paper in behavioural and/or experimental economics, with the aim that with further development such projects will ultimately become a part of their thesis.</p>"
+    ],
+    "ilo": [
+        "Learn to conduct laboratory and field experiments as a method for empirical investigation.",
+        "Learn to evaluate the predictive power of different economic theories by designing appropriate experiments.",
+        "Master econometric methods specifically used in the analysis of experimental data.",
+        "Evaluate the contribution of behavioural economics to economic knowledge."
+    ],
+    "generic_skills": [
+        "High level of development: oral communication; written communication; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information; use of computer software; receptiveness to alternative ideas.",
+        "Moderate level of development: collaborative learning; problem solving; team work; statistical reasoning; accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment on Data Analysis/Programming",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Research Report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Research Report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Class and Seminar Participation",
+            "bullets": null,
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Class Presentation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": []
+}

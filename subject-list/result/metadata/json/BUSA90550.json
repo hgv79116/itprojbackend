@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject is designed to help students develop the skills and knowledge required to effectively manage the early stages of their career.  This subject runs across the roughly the first half of the full-time course and identifies specific needs of each individual student and then provides ongoing support, training, and opportunities to practice and perfect these skills.</p>",
+        "<p>Assessment of the subject includes a quiz on revisionary material, the writing of CVs, group work and group presentations as well as an essay involving ethical concerns within analytics.</p>",
+        "<p>The program focuses on four areas:</p>",
+        "<ul><li>Revisionary material: Rudimentary technical knowledge for the course.</li><li>Communication skills: These skills include effective presentations, verbal communication, written communication, public speaking, and communicating technical material to non-technical audiences.</li><li>Career development skills: These skills include case practice, interview skills, CV writing, networking, and business etiquette.</li><li>Team skills: These skills include managing conflict, cultural awareness, giving and receiving feedback, and resilience.</li></ul>",
+        "<p>These areas are the preparation for industry placement occurring in Professional Development II</p>"
+    ],
+    "ilo": [
+        "Assess their grasp of the fundamental technical knowledge at the beginning of the course.",
+        "Appreciate the importance of communication and team skills in career success",
+        "Have identified communication, career development, and team skills that need improvement.",
+        "Work effectively in teams",
+        "Create an effective CV & Address case-based interviews",
+        "Identify ethical issues & concerns in the acquisition, retrieval, storage, and analysis of data & appreciate the importance of ethical practice and apply it in a workplace context."
+    ],
+    "generic_skills": [
+        "Critical thinking, analytical and problem-solving skills",
+        "Communication skills",
+        "Interpersonal and networking skills",
+        "Team working skills",
+        "Effective evidence-based decision-making skills",
+        "Organisational skills",
+        "Commercial awareness and business acumen"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Cover letter and CV",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": "Students are required to complete and pass this assessment to pass the subject",
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group presentation - business case",
+            "bullets": [
+                "200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Quiz",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the assessment to pass the subject",
+            "timing": "First half of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Individual report",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the assessment to pass the subject",
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "100 hours",
+            "teaching_period": "22 January 2024 to 19 July 2024",
+            "last_self_enrol_date": "27 February 2024",
+            "census_date": "1 March 2024",
+            "last_date_to_withdraw_without_fail": "24 May 2024",
+            "assessment_period_ends": "19 July 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "overview": [
+        "<p>The ability to model natural and human phenomena is key to understanding physical, biological and human environments. Models can be conceptual, logical, mathematical and software based; this subject explores how models of varying complexity can be used for modelling systems in the real world depending on resolution needed and information available.</p>",
+        "<p>Population growth, disease propagation, traffic flows, pollution dispersion, earthquake impacts, climate and energy prediction models are widely used to plan for the sustainable use of resources and management of the natural and built environment. Using real-world examples drawn from physics, chemistry, biology and earth sciences, this subject introduces students to framing these, sometimes complex, systems firstly as conceptual models, then as logical and mathematical models. These logical and mathematical models are then brought to life using tools such as software representations and simulations for the system of interest.</p>",
+        "<p>These real world models are used to test hypotheses and observables. Visualisation tools along with the ability to formulate and simulate natural and human systems are skills readily transferrable to many science, engineering, business and medical professions.</p>"
+    ],
+    "ilo": [
+        "Formulate natural and human phenomena in a conceptual framework.",
+        "Translate a conceptual model of an observed system into a mathematical and logical model representation.",
+        "Design a software model based upon a mathematical and logical representation of a system.",
+        "Visualise and predict the temporal and spatial evolution of a system using software tools.",
+        "Evaluate hypotheses and the various models with observational data."
+    ],
+    "generic_skills": [
+        "Think critically: organise observations of complex systems into alternative frameworks",
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies",
+        "Modelling skills: to design simple computer programs to solve models and test hypotheses",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10005Calculus 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Four laboratory exercises completed during practice classes, held at regular intervals due in weeks 4, 8, 10, 12 (10% for each exercise)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 4 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 x one-hour lectures (2 per week), 12 x two-hour practice classes (1 per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

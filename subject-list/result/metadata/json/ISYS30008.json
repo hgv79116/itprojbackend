@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p><strong>Aims<br/></strong></p>",
+        "<p>Business analytics involves the use of data to support business decision-making. Topics covered include business decision-making, evidence-based management, data warehouse design and implementation, data sourcing and quality, on-line analytical processing (OLAP), dashboards and data mining, case studies of business analytics practice. This subject is a 3rd year breadth subject in information systems, and forms one of the elective subjects for the Diploma of Informatics.</p>",
+        "<p class=\"MsoNormal\"><strong>Indicative Content<br/> </strong></p>",
+        "<p class=\"MsoNormal\">This subject introduces the concepts of business analytics, decision making, data warehouse design, data warehouse modelling, data quality, data warehouse implementation - including the ETL process, and data warehouse use in supporting business analytics \u2013 including decision making tools and OLAP. Readings are provided for all topics that introduce real world cases on business analytics and related areas and include the use of business analytics in organisations.</p>"
+    ],
+    "ilo": [
+        "Be familiar with business analytics and its relationship to decision-making",
+        "Understand the main concepts underlying data warehouse design and implementation, data quality and retrieval and analysis of data",
+        "Be familiar with the use of business analytics in practice"
+    ],
+    "generic_skills": [
+        "High level of development: collaborative learning; problem solving; team work; interpretation and analysis; critical thinking",
+        "Moderate level of development: oral communication; written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsACCT10003Accounting Processes and AnalysisNo longer availableCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5INFO20003Database SystemsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ISYS10001Foundations of Information SystemsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT10003",
+                        "Name": "Accounting Processes and Analysis",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "INFO20003",
+                        "Name": "Database Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ISYS10001",
+                        "Name": "Foundations of Information Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group based case study in data warehouse design with two group members of approximately 2000 words. Intended Learning Outcome (ILO) 2 is addressed in the case study.",
+            "bullets": [
+                "26-28 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One team based analytical report based on a case study with 2 team members of approximately 2000 words. ILOs 1 and 3 are addressed in the analytical report.",
+            "bullets": [
+                "26-28 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One written. ILOs 1 to 3 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

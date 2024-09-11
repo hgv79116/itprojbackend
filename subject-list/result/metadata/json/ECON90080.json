@@ -1,0 +1,135 @@
+{
+    "overview": [
+        "<p>This subject is an introduction to advanced study of macroeconomics. An integrated theoretical framework \u2013 a simple life cycle model \u2013 is used to explore the central issues of macroeconomics. Major topics to be covered include income determination and economic growth, economic fluctuations and business cycle, fiscal and monetary policy, open economy, and international trade. The overall objective of this subject is to provide students with an integrated neoclassical approach to address substantive macroeconomic questions to improve their critical thinking and analytical skills and enhance their understanding of aggregate economic behaviour.</p>"
+    ],
+    "ilo": [
+        "Understand the development of macroeconomic thought and major macroeconomic theories",
+        "Use the life cycle model to explain economic growth and identify important factors that lead to income differences across countries",
+        "Analyse and simulate the dynamic responses of economic aggregates following changes in productivity, population, economic policies, and so on",
+        "Extend the life cycle model to include fiscal policy and money to analyse the short-run and long-run economic effects of certain fiscal and monetary policy",
+        "Use a two-country life cycle model to analyse important questions related to international trade and open economy"
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: use of computer software; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; synthesis of data and other information; evaluation of data and other information."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-AEMTRCS Master of Applied Econometrics",
+                    "MC-AECOENH Master of Applied Econometrics (Enhanced)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsECON20001Intermediate MacroeconomicsSemester 2 (On Campus - Parkville)12.5ECON20002Intermediate MicroeconomicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20001",
+                        "Name": "Intermediate Macroeconomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON30009",
+                        "Name": "Macroeconomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group Assignment. Normally 2-3 students per group",
+            "bullets": [
+                "700 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "8%"
+        },
+        {
+            "brief": "Mid-Semester Test",
+            "bullets": [
+                "90 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group Assignment. Normally 2-3 students per group",
+            "bullets": [
+                "700 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "7%"
+        },
+        {
+            "brief": "Final Exam",
+            "bullets": [
+                "180 minutes"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "James Hansen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two hours of lectures and a one hour tutorial each week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

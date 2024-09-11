@@ -1,0 +1,230 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject aims to develop critical thinking skills essential for work in the chemical process and other industries. Students will learn by tackling ill-defined engineering tasks, learn to organise and prioritise tasks to meet deadlines and improve their analytical and written communication skills. They will gain an appreciation of the tools and resources used in the design of process plants. Their understanding of issues relating to project management and plant safety will also be deepened.<br/><br/>This subject provides grounding in chemical engineering process design and feasibility studies prior to the final design subject CHEN90022.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Students will conduct chemical plant feasibility and design studies through a series of assignments that analyse process plant feasibility, the sensitivity of process economics to external influences and consider the technological, market, environmental and other effects on project viability. Students will learn how to design chemical plants, including the necessary documentation, and consider control strategies for safe operation. Student teams will discuss tools and resources available for the design of chemical processes and the critical analysis of information sources. Issues relating to project and safety management will be discussed and professional-quality technical reports and oral presentations delivered throughout the semester.<br/><br/></p>"
+    ],
+    "ilo": [
+        "Define the steps involved in designing a chemical processing facility",
+        "Competently undertake many aspects of the design process",
+        "Have developed an appreciation for the technical and non-technical aspects of design, in particular the need for such a facility to operate safely, sustainably and economically",
+        "Demonstrated an ability to communicate technical information orally or in written reports."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to analyse and utilise a variety of information sources",
+        "Ability to communicate effectively, not only with engineers but also with the community at large",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Understanding of the social, cultural, global and environmental responsibilities of the professional engineer, and the need for sustainable development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN30001",
+                        "Name": "Reactors and Catalysis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEN30015",
+                        "Name": "Safety and Sustainability Case Studies",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEN90012",
+                        "Name": "Design and Construction of Equipment",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsCHEN90032Process Simulation and ControlSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90032",
+                        "Name": "Process Simulation and Control",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEN30005Heat and Mass Transport ProcessesNo longer availableCHEN90042Thermal and Separation DesignSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN30005",
+                        "Name": "Heat and Mass Transport Processes",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "CHEN90042",
+                        "Name": "Thermal and Separation Design",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time):"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEN90020Chemical Engineering ManagementSemester 2 (On Campus - Parkville)12.5ENGM90011Economic Analysis for EngineersSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90020",
+                        "Name": "Chemical Engineering Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGM90011",
+                        "Name": "Economic Analysis for Engineers",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90020",
+                        "Name": "Chemical Engineering Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGM90011",
+                        "Name": "Economic Analysis for Engineers",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group prepared oral presentation as a briefing on a chemical process of 5- minute per student within the team. 15-20 hours over two weeks to complete. Intended Learning Outcomes (ILOs) 1 and 4 are addressed in this assessment.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One group prepared written assignment on commercial feasibility of a proposed process. 30-35 hours to complete outside of class and two weeks to complete. Intended Learning Outcomes (ILOs) 1, 2 and 4 are addressed in this assessment.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written group assignment on front end engineering design. 30-35 hours to complete within four weeks. Intended Learning Outcomes (ILOs) 1 to 4 are addressed in this assessment.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One written schematic developing a Piping  and Instrumentation Diagram and an oral defence of the schematic. 30-35 hours to complete within three weeks.  Intended Learning Outcomes (ILOs) 1 to 4 are addressed in this assessment.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One written HAZOP .  3-hour workshop class plus 10 hours outside reading.  Intended Learning Outcome (ILO) 1 is addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Continuous peer assessment of team-working conduct and contribution to five group assignments.  Five online surveys each requiring 1-hour to complete.  Intended Learning Outcome (ILO) 4 is addressed in this assessment.",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 1 hour lecture per week + 1 x 3 hour workshop per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Stefano Freguia",
+            "contact_email": "stefano.freguia@unimelb.edu.au"
+        }
+    ]
+}

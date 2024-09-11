@@ -1,0 +1,78 @@
+{
+    "overview": [
+        "<p class=\"SSPBodyText\">An introduction to the study of natural hazards on the Earth, at various different spatial and temporal scales, their impact on human populations and principles of planning, response and mitigation. The course will cover hazards of geological and meteorological origin, as well as major global catastrophes such as those that may be produced by climate change. Topics to be covered include: Earthquakes and their consequences; Tsunamis and other coastal hazards; Volcanoes and volcanic eruptions; Land instability and mass movements; Flooding and flood hazards, Drought and bushfire hazards; Tropical cyclones, thunderstorms and tornadoes; Climate change and its implications for human populations; Managing and reducing the risks from natural hazards. At the end of this subject, students will have acquired: an understanding of the nature and causes of natural hazards, their distribution and predictability; a knowledge of how natural disasters impact on human populations and activities, and the kinds of responses that are possible; an appreciation of what can be done to manage and minimise the dangers posed by natural disasters.</p>"
+    ],
+    "ilo": [
+        "Differentiate a natural hazard from a disaster",
+        "Distinguish between geophysical, hydrological, meteorological, and climatological hazards",
+        "Summarise the driving forces behind natural hazards",
+        "Relate present-day hazards to historical contexts",
+        "Compare mainstream and indigenous approaches to natural hazards",
+        "Perform a hazard characterisation",
+        "Summarise and explain the components (probability of hazard, exposure, and vulnerability) of the risk equation",
+        "Perform a real-world quantitative risk assessment incorporating the risk equation with modelling on MS Excel spreadsheets",
+        "Collaborate, coordinate, research, present, and defend a real-world project on natural hazard characterisation and risk assessment in a team environment"
+    ],
+    "generic_skills": [
+        "Teamwork skills: Collaboration and teamwork as applicable in a research environment",
+        "Analysis skills: Quantitative risk assessment of natural hazards, and qualitative and quantitative analysis of globally relevant environmental issues",
+        "Modelling skills: Ability to use software like MS Excel spreadsheet to model aspects of natural hazards (e.g. occurrence, human and financial losses)",
+        "Critical Thinking skills: Critical thinking as applicable to natural hazard assessment and risk projection.",
+        "Public speaking or presenting skills: communication of natural hazards and associated science behind them"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Laboratory participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual Assessment",
+            "bullets": [
+                "1100 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "33%"
+        },
+        {
+            "brief": "Final Examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "37%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures per week; 1 x two hour practical workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "davidmk@unimelb.edu.au"
+        }
+    ]
+}

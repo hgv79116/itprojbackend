@@ -1,0 +1,92 @@
+{
+    "overview": [],
+    "ilo": [
+        "Describe and discuss key questions in contemporary high energy astrophysics research;",
+        "Understand the radiative and acceleration processes that occur in astrophysical sources;",
+        "Understand the physics associated with stellar evolution and death;",
+        "Describe and discuss the formation and structure of neutron stars and black holes;",
+        "Understand the physics of accretion onto compact objects;",
+        "Apply the knowledge gained on radiative processes, accretion and stellar objects to address contemporary questions in astrophysics;",
+        "Use estimation (order of magnitude) as a preliminary tool to investigate problems in contemporary astrophysics;",
+        "Develop the skills required to interpret astrophysical data, and understand the physical principles underlying detection techniques for radio waves, X-rays and Gamma rays, neutrinos, cosmic rays and gravitational waves;"
+    ],
+    "generic_skills": [
+        "Advanced problem-solving and critical thinking skills;",
+        "An ability to applyabstract concepts to real-world situations;",
+        "An ability tosolvingsolverelatively complicated problems using approximations;",
+        "An ability toparticipateas an effective member of a group in discussions and collaborative assignments;",
+        "Effective time-management skills;",
+        "The capacity to apply concepts developed in one area to a different context."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHYC30016ElectrodynamicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC30016",
+                        "Name": "Electrodynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHYC30018Quantum PhysicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC30018",
+                        "Name": "Quantum Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three written assignments , totalling up to 50 pages of written work (due weeks 3, 7 and 11)",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Exam",
+            "bullets": [
+                "3.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

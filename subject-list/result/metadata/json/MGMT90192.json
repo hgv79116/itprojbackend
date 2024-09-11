@@ -1,0 +1,76 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the world of consulting through the eyes of practicing consultants. Guest consultants, drawn from leading international and local firms and academia, will introduce students to the ideas, theories and frameworks that are most influential and used in the industry. They will do this by introducing students to a major text that has inspired their thinking and consulting practice. Students will engage with the text critically to recognise its strengths and limitations. Students will also be exposed to how the consultants practically apply the concepts through demonstration case studies. Consultants will be drawn from representative functional areas, such as strategy, operations, human resources, marketing and sustainability.</p>"
+    ],
+    "ilo": [
+        "describe and explain influential ideas applied by management and marketing consultants to guide decision making in organisations;",
+        "describe and explain how management and marketing consultants apply these ideas to organisation and market based problems for clients; and",
+        "critically analyse a range of organisation and market based problems and apply relevant models and theories to generate effective solutions."
+    ],
+    "generic_skills": [
+        "problem solving in business through the application of appropriate consulting theories and principles;",
+        "ability to synthesise ideas and theories in developing solutions to business problems;",
+        "demonstrate a capacity to successfully engage in collaborative activities such as group based work and activities; and",
+        "interpret and communicate research results to specialist and non-specialist audiences."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT90148",
+                        "Name": "Consulting Fundamentals",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Seminar Contribution.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual theory application assignment 1.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual theory application assignment 2.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Take home individual exam",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

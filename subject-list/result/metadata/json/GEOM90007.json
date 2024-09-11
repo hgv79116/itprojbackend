@@ -1,0 +1,90 @@
+{
+    "overview": [],
+    "ilo": [
+        "ILO 1. Apply the cognitive and technical principles of information visualisation across various domains",
+        "ILO 2. Critically evaluate the designs of data graphics, maps, and user interfaces for spatial and non-spatial information visualisation;",
+        "ILO 3.  Develop various types of visualisation platforms in order to analyse big data sets"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Capacity for creativity and innovation",
+        "Understanding of professional and ethical responsibilities, and commitment to them."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment-\n\nOne individual assignment on using data for static information visualisation. (27 hours of work required; equivalent of 1500 words) Addresses the Intended Learning Outcomes (ILOs) 1 and 3.",
+            "bullets": [
+                "27 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment: One individual assignment on using data for dynamic information visualisation. (27 - Hours (of work required), workload equivalent to 1500 words) Addresses Intended Learning Outcomes (ILOs) 1 and 3.",
+            "bullets": [
+                "27 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Mid-semester exam of 60 minutes. Addresses ILOs 1-3. (33 hours of work required)",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Group-based deliverable; a video presentation of the group project (10  minutes). Addresses ILOs 1-3.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group-based deliverable of an implementation and a description of the implementation in a report. (33 - Hours (of work required); contribution to the report equivalent to 1000 words per student) Addresses ILOs 1-3.",
+            "bullets": [
+                "33 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "Total of 48 hours made up of :\n\n\n\nFlipped classroom:\n\n1 hour on video-recorded material per week,\n\n1 hour on interactive practice session per week\n\nLabs:\n\n2 hours with a demonstrator per week,\n\nSelf-guided research/lab hours for the projects",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Davood Shojaei",
+            "contact_email": "shojaeid@unimelb.edu.au"
+        }
+    ]
+}

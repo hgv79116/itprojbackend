@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>This subject builds on EDUC90580 <em>Evidence Based Learning &amp; Teaching 1</em>, providing participants with opportunities to develop knowledge and understanding related to student learning and achievement. Participants further explore the contribution of learning theories and review them using an evidence-based approach.</p>",
+        "<p>This subject provides opportunities for participants to develop an in-depth understanding of student assessment, in particular the significance of making accurate judgments of students\u2019 readiness to learn. It focuses on key teacher skills and capacities: designing evidence based developmental learning progressions that are linked to curriculum outcomes; designing assessment tasks to locate students on a developmental learning progression; interpreting and analysing formal and informal evidence of student learning to determine readiness to learn; planning for learning, based on an understanding of student\u2019s readiness to learn; exploring implications for pedagogical practices and classroom organization; and evaluating the effectiveness of assessment tasks and teaching strategies.</p>",
+        "<p>This subject, along with the EDUC90594 <em>Developing Clinical Practice 2</em> and EDUC90844 <em>Learning Area B2</em>, requires participants to implement the <em>Clinical Praxis Project</em>. <em>The </em>Clinical Praxis Project will extend on learning from the Clinical Praxis Exam in year 1, by enabling participants to focus on the class as a whole and provide differentiated or structured teaching and learning opportunities for all students in the class.</p>"
+    ],
+    "ilo": [
+        "Write judgement-based assessments that apply assessment theory and can be used formatively or summatively (Graduate Standards 5.1, 5.3)",
+        "Analyse student assessment data to determine students\u2019 readiness to learn and use this to determine goals for student learning (Graduate Standards 5.4)",
+        "Demonstrate knowledge and understanding of research into how students learn and the implications for teaching (Graduate Standards 1.2)",
+        "Analyse student assessment data to review the suitability of assessment tasks for informing teaching decisions. (Graduate Standards 5.3, 5.4)",
+        "Derive evidence \u2013 based developmental progressions (Graduate Standards 5.1)",
+        "Evaluate curriculum and pedagogy in light of evidence, and draw implications for evidence-based teaching accordingly (Graduate Standards 5.4)"
+    ],
+    "generic_skills": [
+        "Analyse and problem solve",
+        "Collect evidence and make inferences",
+        "Communicate, articulate and justify teaching practices",
+        "Work in teams with skills in cooperation, communication and negotiation",
+        "Adapt and respond flexibly to change",
+        "Be independent of mind, responsible, resilient and self-regulating",
+        "Present material in a well-organised, well-structured and persuasive manner."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90580",
+                        "Name": "Evidence Based Learning and Teaching 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90594",
+                        "Name": "Developing Clinical Practice 2",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Construction of judgement-based assessment rubrics",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "March",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Analysis of Assessment data (component of the Clinical Praxis Project)",
+            "bullets": [
+                "1600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "June",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Evaluation of the effectiveness of teaching (component of the Clinical Praxis Project)",
+            "bullets": [
+                "1800 words"
+            ],
+            "hurdle": null,
+            "timing": "October",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Assessment for Graduate Teachers (AfGT) Task, Element 4",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": "The AfGT Task Element 4 must be passed",
+            "timing": "October",
+            "percentage": "15%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance at all scheduled lectures, tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": "Pam Robertson",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "8 January 2024 to 20 October 2024",
+            "last_self_enrol_date": "5 March 2024",
+            "census_date": "8 March 2024",
+            "last_date_to_withdraw_without_fail": "12 July 2024",
+            "assessment_period_ends": "27 October 2024",
+            "contact_name": null,
+            "contact_email": "p.robertson@unimelb.edu.au"
+        }
+    ]
+}

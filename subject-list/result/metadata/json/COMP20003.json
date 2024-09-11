@@ -1,0 +1,205 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Programmers can choose between several representations of data. These will have different strengths and weaknesses, and each will require its own set of algorithms. Students will be introduced to the most frequently used data structures and their associated algorithms. The emphasis will be on justification of algorithm correctness, on analysis of algorithm performance, and on choosing the right data structure for the problem at hand. Leading up to an exam with a programming component, quality implementation of algorithms and data structures is emphasized.</p>",
+        "<p>This subject, or its cognate COMP20007 Design of Algorithms, is a prerequisite for many 300-level subjects in the Computing and Software Systems major.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics include: justification of algorithm correctness; asymptotic and empirical analysis of algorithm performance; algorithms for sorting and searching, including fundamental data structures such as trees and hash tables; and graph algorithms.</p>",
+        "<p>Please view this video for further information: <a href=\"https://www.youtube.com/watch?v=wV1R2CvrdOI\">Algorithms and Data Structures</a></p>"
+    ],
+    "ilo": [
+        "Present arguments for the correctness or incorrectness of a given algorithm",
+        "Reason about and evaluate the efficiency behaviour of a given algorithm",
+        "Choose appropriate data structures and algorithms for a given problem",
+        "Implement the chosen data structures and algorithms."
+    ],
+    "generic_skills": [
+        "Application of knowledge of basic science and engineering fundamentals",
+        "Effective communication about computational efficiency",
+        "Capacity to reason and solve problems",
+        "Ability to undertake problem identification, formulation and solution",
+        "Programming competency",
+        "Capacity for creativity and innovation",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students must meet one of the following prerequisite options:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-SOFTENG Master of Software Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "A minimum of 25 credit points ofuniversity-level mathematics"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Please note, this rule is exclusive of MAST10012"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students enrolling through VCE Algorithmics can take mathematics requirements concurrently. Please complete an Enrolment Assistance form, Coordinator approval is not required."
+            },
+            {
+                "type": "paragraph",
+                "content": "Enrolment Assistance form"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Programming assignment  1 - Group/Team of 2",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Programming assignment 2 - Individual",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Programming assignment 3 - Individual",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Weekly Tutorial Activities",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One mid-semester test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Closed Book Exam",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Nir Lipovetzky",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising of two 1-hour lectures and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "nir.lipovetzky@unimelb.edu.au"
+        }
+    ]
+}

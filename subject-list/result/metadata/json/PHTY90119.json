@@ -1,0 +1,150 @@
+{
+    "overview": [],
+    "ilo": [
+        "Integrate prior knowledge of common musculoskeletal, neurological and/or cardiorespiratory conditions and the framework for clinical reasoning to the assessment and management of clients",
+        "Implement a theoretical framework for clinical reasoning in selecting appropriate assessments, problems, goals and approaches to treatment of individuals with musculoskeletal, neurological and/or cardiorespiratory conditions across their lifespan and different settings",
+        "Safely and effectively execute and interpret assessment techniques, including history taking, observational movement analysis, objective measurement of impairment, activity limitations and participation restriction",
+        "Select, justify and demonstrate safe and effective physiotherapy interventions to address impairments, activity limitations and participation restrictions in collaboration with individuals with musculoskeletal, neurological and/or cardiorespiratory conditions",
+        "Use findings of high-quality clinical research to inform clinical decision making in assessment and treatment of clients across their lifespan with musculoskeletal, neurological and/or cardiorespiratory conditions",
+        "Demonstrate accurate and effective verbal, non-verbal and written communication skills when working with clients across the lifespan in different clinical settings. This includes the ability to develop rapport and accommodate the cognitive, linguistic, and cultural needs of the individual and their family / carer",
+        "Critically reflect on the patient's rights, medicolegal requirements, and sociocultural preferences, and effectively engage in patient education and advocacy",
+        "Identify the factors critical to effective time and resource management in the clinical setting and implement strategies addressing these factors within individual treatment sessions and case load management",
+        "Develop short and long-term treatment goals with the patient (or carers as appropriate) with discharge planning designed to meet these goals.",
+        "Articulate the role of the physiotherapist within the multidisciplinary team and demonstrate the capacity to work effectively within the team in the clinical setting"
+    ],
+    "generic_skills": [
+        "Responding constructively to feedback",
+        "Recognising personal, spiritual, cultural or religious beliefs in others",
+        "Accessing new knowledge from all sources, to analyse and interpret it in a critical manner, and to apply it appropriately",
+        "Understanding and respecting the rights of others including choice, dignity and privacy",
+        "Identifying and addressing personal learning needs",
+        "Recognising the role of the team work and demonstrating the capacity to work effectively within the team",
+        "Communicating empathy, compassion, honesty, integrity and altruism",
+        "Self-awareness, recognising when problems exceed personal knowledge and skills, and a willingness to seek help",
+        "Applying the principles of reflective practice",
+        "Communicating with people from diverse backgrounds including the ability to listen to, respond to, inform and understand others' perspective"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90089",
+                        "Name": "Neurological Physiotherapy",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90090",
+                        "Name": "Musculoskeletal Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90091",
+                        "Name": "Cardiorespiratory Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90117",
+                        "Name": "Integrated Professional Practice A",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "31.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHTY90118Physiotherapy Clinical Practice AYear Long (Extended) (On Campus - Parkville)12.5PHTY90120Physiotherapy Clinical Practice CYear Long (Extended) (On Campus - Parkville)12.5PHTY90121Lifespan PracticeYear Long (Extended) (On Campus - Parkville)18.75"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90118",
+                        "Name": "Physiotherapy Clinical Practice A",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90120",
+                        "Name": "Physiotherapy Clinical Practice C",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90121",
+                        "Name": "Lifespan Practice",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous clinical assessment using Assessment of Physiotherapy (APP) tool",
+            "bullets": [
+                "152 hours"
+            ],
+            "hurdle": "Students must pass Continuous clinical assessment using Assessment of Physiotherapy (APP) to pass the subject",
+            "timing": "End of clinical placement",
+            "percentage": "70%"
+        },
+        {
+            "brief": "ePortfolio",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Submitted 2 on completion of clinical placement",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Declaration of learning needs discussion with clinical supervisor",
+            "bullets": [
+                "1 pages"
+            ],
+            "hurdle": "Students must submit Declaration of learning needs discussion with clinical supervisor  to pass the subject",
+            "timing": "To be submitted in first week of clinical placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Student log of clinical context of practice",
+            "bullets": [
+                "1 pages"
+            ],
+            "hurdle": "Students must submit Student log of clinical context of practice to pass subject",
+            "timing": "To be submitted at end of clinical placement",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "201 hours",
+            "teaching_period": "15 January 2024 to 15 November 2024",
+            "last_self_enrol_date": "26 January 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

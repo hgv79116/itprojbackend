@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>This subject will focus on processes that are unique to plants as well as current techniques for their investigation and manipulation in biotechnology, including genetic engineering and plant transformation. The subject includes study of the responses of plants to biotic and abiotic stress; cell wall biosynthesis, carbon dioxide fixation and concentrating mechanisms; cell-cell recognition; nutrient uptake and processing; and the organisation of the genome in plants and its modification by biotechnology.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "demonstrate an understanding of the functional biology specific to plants;",
+        "apply concepts of biotechnology to agriculture, horticulture, forestry and the food industries;",
+        "evaluate current benefits or limitations for converting plant molecular biology to applied biotechnological outcomes; and",
+        "demonstrate practical skills to perform plant molecular biology experiments, including the analysis and evaluation of the data generated."
+    ],
+    "generic_skills": [
+        "Critical-thinking skills: Demonstrate an appreciation of how modern fundamental science can be applied;",
+        "Research skills: Capacity to undertake the generation and assessment of original research data;",
+        "Communication skills: Display the ability to communicate information in writing;",
+        "Collaborative skills: Display skills in cooperative teamwork in small group based practical work;",
+        "Safe practice skills: Exercise the safe use of appropriate laboratory equipment and techniques for experiments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "BOTA20001",
+                        "Name": "Green Planet: Plants and the Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CEDB20003",
+                        "Name": "Fundamentals of Cell Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in practical class activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A laboratory test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two practical reports totalling no more than 1,000 words each, one before and one after the midsemester break",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 24 lectures (2 x 1hr per week) and 24 hours of practical work (1 x 3hr per week for 8 weeks) during the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "watt.m@unimelb.edu.au"
+        }
+    ]
+}

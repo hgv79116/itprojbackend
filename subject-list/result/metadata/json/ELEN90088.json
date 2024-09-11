@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>This subject introduces the basic principles, analysis methods, and applications of optimisation and machine learning to engineering systems; encompassing fundamental concepts and practical algorithms. It covers the fundamentals of continuous optimisation followed by machine learning basics for engineering applications.</p>",
+        "<p>The concepts and methods discussed are illustrated in multiple application areas including Internet of Things (IoT), smart grid and power systems, cyber-security, and communication networks.The concepts taught in this subject will allow a better understanding of continuous optimisation and machine learning for systems engineering.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered may include:</p>",
+        "<ul><li>Fundamentals of continuous optimisation: convex sets and functions; local vs global solutions, constrained optimisation and Lagrange multipliers; linear, quadratic, and nonlinear programming</li><li>Basics of machine learning encompassing supervised and unsupervised learning: binary classification, linear and nonlinear regression, kernel methods, and clustering.</li><li>Specific machine learning methods such as Support Vector Machines (SVMs), Neural Networks (NNs), k-means clustering, and reinforcement learning.</li><li>Applications to Internet of Things (IoT), smart grid and power systems, cyber-security, and communication networks.</li></ul>"
+    ],
+    "ilo": [
+        "Develop cognitive, technical, and creative skills and an extended understanding to quantitatively analyse and design optimisation and machine learning solutions for systems engineering.",
+        "Apply fundamental engineering modelling methods to analyse and synthesise optimal and learning systems.",
+        "Develop cognitive skills to demonstrate mastery of theoretical knowledge on basic concepts related to system optimisation and machine learning, and their relationship and to reflect critically on their theory and professional practice.",
+        "Apply fundamental techniques from optimisation and machine learning to address problems associated with engineering systems and use numerical and data analysis tools when appropriate while working in a small team.",
+        "Develop communication and technical research skills on optimisation and machine learning to justify and interpret related engineering solutions, methodologies, conclusions, and professional decisions to specialist audiences.",
+        "Communicate effectively with professionals across different engineering disciplines, through media such as concise technical reports and informational videos or live presentations."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "In-depth technical competence in at least one engineering discipline",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Ability to communicate effectively, with the engineering team and with the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "Students should have good multi-variable calculus, analytical geometry and linear algebra skills."
+            },
+            {
+                "type": "paragraph",
+                "content": "Knowledge of the following subject is recommended:CodeNameTeaching periodCredit PointsELEN90054Probability and Random ModelsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90054",
+                        "Name": "Probability and Random Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A one-hour progress test. ILOs 1, 2 & 3 are assessed in this test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Total of all individual hurdle assessments must be passed.",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A one-hour progress test. ILOs 1, 2 & 3 are assessed in this test",
+            "bullets": [
+                "1 hours (of work required)"
+            ],
+            "hurdle": "Total of all individual hurdle assessments must be passed.",
+            "timing": "From Week 10 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Continuous individual assessment of project work, including peer assessment, not exceeding 50 pages per student over the semester. Approximately 50 hours of work per student. ILOs 1-6 are addressed in this assessment.",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": "Total of all individual hurdle assessments must be passed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Submission of a final team report not exceeding 30 pages, including an individual contribution statement. Approximately 30 hours of work per team (3-4 students). ILOs 4-6 are addressed in this assessment.",
+            "bullets": [
+                "30 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tansu Alpcan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures, 24 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "tansu.alpcan@unimelb.edu.au"
+        }
+    ]
+}

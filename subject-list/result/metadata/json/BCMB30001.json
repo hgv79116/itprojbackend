@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>This subject will describe the wide range of structures, functions and interactions of proteins and their importance in biological processes, biomedicine and biotechnology. Emphasis will be on the three-dimensional structure of proteins and their interactions with biological molecules. We will describe experimental and computational techniques and how they help in determining and predicting protein structure and function and aid in the development of new drugs. The subject matter addresses the general properties of protein structure; the major classes and topologies of proteins; evolution of sequence, structure and function; protein synthesis, folding, misfolding, targeting and trafficking; bioinformatics analysis of protein sequence and structure; binding of small molecules to proteins and drug design; protein-protein interactions; effects of mutations on tertiary structure, protein stability and biological functions; enzyme reaction kinetics and mechanisms; motor proteins; transporters.</p>"
+    ],
+    "ilo": [
+        "Describe the molecular basis of the evolution of protein sequence and structure.",
+        "Explain the theory behind and practical considerations of experimental techniques used to study protein structure and function.",
+        "Devise experiments to analyse protein structure and function using the techniques studied.",
+        "Perform computational analysis of protein sequence and structure using bioinformatics and molecular graphics tools.",
+        "Critically analyse of the current scientific literature on protein structure and function."
+    ],
+    "generic_skills": [
+        "the ability to interpret scientific literature and interpret data from electronic databases.",
+        "the capacity to integrate knowledge across disciplines.",
+        "the ability to comprehend a question, evaluate the relevant information and communicate an answer."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Other combinations that provide similar background will be considered by the coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5-10 written assessments (approx. 1,600 words and prepared figures)",
+            "bullets": [
+                "1600 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Mid Semester Test 1",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Around week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid Semester Test 2",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Around week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Attendance at 70% of workshops",
+            "bullets": null,
+            "hurdle": "Attendance at 70% of workshops i.e. 10-11 x 2 hour workshops.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

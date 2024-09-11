@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject will explore the design of various electrical and electronic systems and provide students with a range of common and practical design techniques and circuits in the context of a guided laboratory based project.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Subject may cover specific concepts surrounding the design and implementation of:</p>",
+        "<ul><li>Design process;</li><li>Design for manufacture and assembly;</li><li>Advanced PCB design;</li><li>Oscillators;</li><li>Phase-locked loops and frequency synthesis;</li><li>Base-band signalling schemes and clock recovery;</li><li>Mixers and logarithmic amplification;</li><li>Automatic gain control;</li><li>Filters;</li><li>Synchronous detection;</li><li>High-speed analog-digital conversion;</li><li>High-frequency amplification;</li><li>Low noise amplifiers;</li><li>Power supply design;</li><li>Batteries, battery charging systems, and management;</li><li>Test and measurement;</li><li>Sensors.</li></ul>"
+    ],
+    "ilo": [
+        "Apply practical knowledge of a range of standard electrical and electronic subsystems",
+        "Quantitatively analyse and design the behaviour of standard electrical and electronic subsystems",
+        "Integrate standard electrical and electronic subsystems",
+        "Select, design, implement and test a range of standard electrical and electronic subsystems"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Openness to new ideas and unconventional critiques of received wisdom;",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90056",
+                        "Name": "Electronic Circuit Design",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "(prior to 2011, ELEN30007 (431-331) Electronic Circuit Design 2)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination. Intended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of oral assessment, individual project assignment and final exam. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Continuous assessment of submitted individual project report including initial circuit design and simulation. ILO 2 is addressed in this assessment.",
+            "bullets": [
+                "8-10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "8%"
+        },
+        {
+            "brief": "Continuous assessment of submitted individual assignment. ILOs 1, 2, 4 are addressed in this assessment.",
+            "bullets": [
+                "18-20 hours (of work required)"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of oral assessment, individual project assignment and final exam. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Continuous assessment of submitted group project work (2-3 students) including innovation in hardware or software implementation. Approximately 5 hours of work per student. ILOs 1, 4 are addressed in this assessment.",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Oral assessment of hardware implementation and demonstration of project. Approximately 20-25 hours of work per student. ILOs 2, 3, 4 are addressed in this assessment.",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of oral assessment, individual project assignment and final exam. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "22%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Ranjith Rajasekharan Unnithan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures and 1 x three hour workshop per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ranjith.rajasekharan@unimelb.edu.au"
+        }
+    ]
+}

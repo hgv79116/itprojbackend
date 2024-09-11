@@ -1,0 +1,72 @@
+{
+    "overview": [
+        "<p>The course covers the fundamentals of spatial analysis for ecosystem management and conservation problems. Students will develop skills in the application of remote sensing and Geographic Information Systems (GIS) for landscape analysis of data. Methodologies for collecting, analysing and interpreting spatial data will be considered through theoretical and practical approaches. These will include data collected by drones through to satellite derived measures at a continental to global scale. Students will learn the spatial skills essential to environmental management by applying industry standard tools and methods. Finally, students will develop an understanding of the emerging technologies in data collection and analysis.</p>"
+    ],
+    "ilo": [
+        "Experience and proficiency in the use of Geographic Information Systems (GIS) on multiple software platforms;",
+        "An ability to collect, analyse and interpret spatial data to address ecosystem management and conservation questions;",
+        "Experience in methodologies to collect spatial data about natural resources and people at multiple scales and critically assess their limitations;",
+        "Knowledge of the current remote sensing technologies and their application; and",
+        "Understand emerging technologies in spatial data collection and analysis."
+    ],
+    "generic_skills": [
+        "Use of various GIS platforms for analysing spatial data",
+        "Collection and analysis of remotely sensed data"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four short reports (500 words, and worth 10% each)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One short presentation around week 6, 500 word equivalent 10% total assessment",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A major research assignment (2500 words)",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total 48 hours: 12 x 1 hour lectures (1 hour per week); 12 x 3  hours practicals; (3 hours per week);",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "marie.dade@unimelb.edu.au"
+        }
+    ]
+}

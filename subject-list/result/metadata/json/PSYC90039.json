@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p>This field placement and clinical skills subject, extending over forty-three days, introduces students to clinical neuropsychology services in a variety of settings, which might include adult and paediatric care in neurological, neurosurgical, psychiatric, and rehabilitation settings. All principal field supervisors are registered supervisors with AHPRA, and Members (or eligible for Membership) of the College of Clinical Neuropsychologists of the Australian Psychological Society.</p>",
+        "<p>It is a requirement of the Australian Accreditation Council and the Australian Psychological Society College of Clinical Neuropsychologists that students complete a minimum of 1000 hours of placement training during the two-year Master of Psychology (Clinical Neuropsychology) course. This first year placement subject requires a minimum of 150 hours of patient contact, 48 hours of case conference attendance, 40 hours of assessment workshops, and 7 hours of other clinical skills workshops, totalling at least 285 hours of placement. </p>",
+        "<p>Clinical Neuropsychology Placement 1 consists of the following components:</p>",
+        "<ul><li>Direct observation of, and some active work with, patients referred to neuropsychology services at teaching hospitals and the University of Melbourne Psychology Clinic.</li><li>Attendance at hospital-based group supervision sessions and clinical meetings, involving intensive discussion of cases directly observed during component 1.</li><li>Student case conference. These two-hour conferences are held weekly during semester 1 and 2 on the Parkville campus.</li><li>Assessment seminars: The equivalent of four and one-half days (34 hours) of seminars on neuropsychological assessment techniques. These seminars are designed to enhance the development of practical professional-level skills.</li></ul>"
+    ],
+    "ilo": [
+        "Demonstrate familiarity with the clinical features of neuropsychological disorders, formal neuropsychological examination, diagnostic formulation, and case presentation in a culturally sensitive manner."
+    ],
+    "generic_skills": [
+        "Admission into or selection of one of the following:527CN Master of Psychology (Clinical Neuropsychology)080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+        "527CN Master of Psychology (Clinical Neuropsychology)",
+        "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into or selection of one of the following:527CN Master of Psychology (Clinical Neuropsychology)080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+                    "527CN Master of Psychology (Clinical Neuropsychology)",
+                    "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "527CN Master of Psychology (Clinical Neuropsychology)",
+                    "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPSYC90031Adult PsychopathologySummer Term (On Campus - Parkville)6.25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90031",
+                        "Name": "Adult Psychopathology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90006",
+                        "Name": "Basic Interventions",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90008",
+                        "Name": "Ethics and Professional Issues",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90032",
+                        "Name": "Adult Neuropsychological Disorders",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Attendance at, and satisfactory completion of, all allocated direct patient observation, hospital\u2010based group supervision, and clinical meetings.",
+            "bullets": [
+                "43 days (placement)"
+            ],
+            "hurdle": "Satisfactory completion of placement activities is demonstrated through active participation in group discussions of case presentations and  active discussion of individually observed\n\ncases with supervisors",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Satisfactory attendance at student case conference (2 hours per week per semester)",
+            "bullets": null,
+            "hurdle": "students must attend a minimum of 80% of scheduled sessions",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "RiskAware online training as hurdle component to be completed prior to students commencing placement activities.  ",
+            "timing": "To be completed prior to students commencing placement activities.",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must provide evidence that log books are checked and endorsed every 30 hours of placement or fortnightly, whichever occurs first.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Young-Eun (Claire) Lee",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "280 hours",
+            "total_time_commitment": "300 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "lee.y@unimelb.edu.au"
+        }
+    ]
+}

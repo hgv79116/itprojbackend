@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p><span><span>After completion of this subject, students will have comprehensive knowledge of the sono-anatomy and skill in when and how to safely perform ultrasound-guided regional anaesthesia blocks and insertion of catheters including the upper and lower limbs, thorax, abdomen, pelvis, head, and eye. Students will perform, interpret, write a report and submit a log-book of at least 15 ultrasound-guided regional studies and procedures on simulators and/or patients and interpret and report an additional 10 online studies. </span></span></p>"
+    ],
+    "ilo": [
+        "Describe in detail the anatomy relevant to ultrasound-guided regional anaesthesia",
+        "Describe how to minimise infectious and mechanical complications from ultrasound-guided regional anaesthesia blocks and insertion of catheters",
+        "Perform ultrasound-guided regional blocks and insertion of catheters on patients and/or simulators and write a structured ultrasound report of ultrasound-guided percutaneous procedures",
+        "Evaluate the requirements for training, competence, and certification in ultrasound-guided procedures"
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Improved procedural skills for students who select a practical subject",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90129",
+                        "Name": "Clinical Ultrasound - Core Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90054",
+                        "Name": "Ultrasound Guided Procedures",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to perform and interpret clinical ultrasound. A  student is expected to demonstrate: Sufficient visual acuity to perform the required range of skills, including reading ultrasound monitors across a bed and interpreting ultrasound images on standard commercially available ultrasound machines."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills"
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills are required in performing clinical ultrasound. A student is expected to demonstrate adequate gross and fine motor skills to perform focused ultrasound whilst avoiding injury to patients, colleagues and self."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple choice questions following each tutorial (25 MCQ).",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Interpretation of 10 online case studies assessed by structured questions pertaining to each case (30 MCQ)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Two ultrasound examinations",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Complete a log-book of 15 focused ultrasound studies relating to performing regional anaesthesia on simulators and/or patients.",
+            "bullets": null,
+            "hurdle": "Student must submit a logbook of 15 focused ultrasound studies relating to performing regional anaesthesia on simulators and/or patients to pass this subject.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Open-book summative examination of 25 MCQ",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,90 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject focuses on how Knowledge Management (KM) and a range of Information Technologies and analysis techniques are used to support KM initiatives in organisations. Technologies likely to be considered are: collaborative and social media tools; corporate knowledge directories; data warehouses and other repositories of organizational memory; business intelligence including data-mining; process automation; workflow and document management. The emphasis is on high-level decision-making and the rationale of technology-based initiatives and their impact on organizational knowledge and its use. This subject supports course-level objectives by allowing students to develop analytical skills to understand the complexity of real-world KM work in organisations. It promotes innovative thinking around the deployment of existing and emerging information technologies for KM. The subject contributes to the development of independent critical inquiry, analysis and reflection.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Techniques of analysis and design likely to be learned are: critical thinking, discourse analysis and design thinking. Real-world case studies in the form of fieldwork are conducted likely from the following domains: software industry; retail; creative/fashion industry; manufacturing; emergency management. Real case-study work will shape thinking about IT support for KM in these industries.</p>"
+    ],
+    "ilo": [
+        "Apply the theoretical concepts of knowledge management to real-world situations",
+        "Use qualitative techniques of analysis to identify requirements for knowledge-initiatives in response to a real-world work situation",
+        "Demonstrate the strengths and weaknesses of different technological approaches to knowledge management",
+        "Specify new high-level designs for knowledge management initiatives using discourse analysis, qualitative techniques and design thinking",
+        "Analyse documented cases of knowledge management initiatives and identify their strengths and weaknesses"
+    ],
+    "generic_skills": [
+        "Analytical and interpretative skills, through the conceptualization of classes of technology through the analysis of a real world case",
+        "High-level design skills, through proposing new uses of technology to support knowledge work",
+        "Team-work, through working on a group project",
+        "Report-writing skills",
+        "Presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90026",
+                        "Name": "Concepts in Information Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An individual report of approximately 2000 words, due the 1st week of the examination period, requiring approximately 40-45 hours of work per student. Intended Learning Outcomes (ILO's) 1, 3 and 5 are addressed in the report.",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "One team-based leadership, presentation and participation: student teams to lead weekly discussions on the week's theme from selected readings, requiring approximately 20-25 hours of work per student. ILO's 1 to 3 are addressed in the discussion.",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One group based design report (30%) with 3-4 group members of approximately 3500 words supported by a 15 minute presentation with Q&A  (5 mins for group presentation and 10 mins for Q&A) to assess individual student's understanding (15%) . \n\n\n\nReport due end of week 10;\n\nPresentation due end of week 12. \n\n\n\nRequires approximately 55-60 hours of work per student. \n\n\n\nILO's 1, 3, 4 and 5 are addressed in the group design report and presentation.",
+            "bullets": [
+                "55-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 2-hour lecture per week and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "libo.liu@unimelb.edu.au"
+        }
+    ]
+}

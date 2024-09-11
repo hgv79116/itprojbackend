@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>This subject develops participants\u2019 knowledge and understanding about how learning can be conceptualised, evidenced, assessed and progressed.</p>",
+        "<p>To this end, participants will:</p>",
+        "<p>\u2022 Explore learning identities and the factors that shaped them. <br/>\u2022 Use and apply the clinical practice model to learning and teaching. <br/>\u2022 Develop an understanding of foundational assessment practices; particularly, the use of a taxonomical construct to inform judgments about student achievement and readiness to learn. <br/>\u2022 Explore theoretical perspectives on furthering student learning, the curricular implications of these perspectives, and the historical development of pedagogical thought. <br/>\u2022 Use and apply feedback strategies to report both to and upon student learning.</p>",
+        "<p>This subject prepares participants for EBLT2, which requires an evaluation of theory and practice in light of an evidence-based analysis of student learning.</p>",
+        "<p>This subject along with Learning &amp; Teaching Contexts 1 and Language, Literacy and Numeracy, requires participants to implement the Clinical Praxis Exam. It also provides them with the opportunity to apply their learning in preparing to teach secondary school students attending the Faculty of Education Summer School Program, as well as through their everyday teaching in schools.</p>"
+    ],
+    "ilo": [
+        "apply knowledge of the clinical teaching model and interventionist practice to learning and teaching (Graduate Standards 1.2, 5.1)",
+        "articulate development of learning on a construct, and adapt constructs using developmental taxonomies (Graduate Standards 5.1, 5.3)",
+        "use evidence of student learning to inform teaching practice (Graduate Standards 5.4)",
+        "use and apply knowledge of pedagogical theories to understand student learning (Graduate Standards 1.2)",
+        "implement evidence-based interventions (Graduate Standards 5.4)",
+        "apply understanding of feedback strategies to report on student learning (5.2, 5.5)",
+        "justify selection of learning goals based upon evidence of student learning (Graduate Standards 3.1)",
+        "reflect upon the effectiveness of teaching interventions (Graduate Standards 1.5, 3.2)",
+        "reflect upon learning theories in light of evidence of student learning (Graduate Standards 1.2, 6.4)"
+    ],
+    "generic_skills": [
+        "Analyse and problem solve",
+        "Collect evidence and make inferences",
+        "Communicate, articulate and justify teaching practices",
+        "Work in teams with skills in cooperation, communication and negotiation",
+        "Adapt and respond flexibly to change",
+        "Present material in a well-organised, well-structured and persuasive manner."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90583",
+                        "Name": "Learning and Teaching Contexts 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90823",
+                        "Name": "Language, Literacy and Numeracy",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Analysis of Learning & Teaching Scenario",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Clinical Praxis Exam (oral presentation; equivalent to 1500 words, for this subject. (This is a combined assessment task with EDUC90583 and EDUC90823)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "The Clinical Praxis Exam must be passed.",
+            "timing": "July",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Analysis of Feedback and Reporting for Differentiated Curriculum",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "September",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance at all scheduled lectures, tutorials, seminars and workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

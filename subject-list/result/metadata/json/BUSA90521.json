@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>Rapid advancements in technology (particularly the internet), combined with fast and cheap computing power, have enabled firms to radically transform their industries by developing business models and reengineering their supply chains. This subject provides students with the ability to use appropriate tools and techniques to analyse strategic, tactical and operational decisions pertaining to inventory management, facility location, logistics and other supply chain management related decisions. In addition, students will be exposed to how real-world logistics and supply chain decisions have been made through relevant case studies.</p>"
+    ],
+    "ilo": [
+        "Understand supply chain management metrics\u00a0commonly used.",
+        "Model the impact of quantity discounts and\u00a0other trade promotions on order quantities.",
+        "Balance the appropriate costs to choose the\u00a0optimal ordering policies in a supply chain.",
+        "Determine the level of safety inventory to\u00a0achieve desired levels of product availability.",
+        "Use managerial levers that improve supply\u00a0chain profitability through the achievement of\u00a0optimal service levels.",
+        "Develop appropriate supply chain contracts\u00a0that will increase the overall supply chain profitability\u00a0through improved coordination.",
+        "Evaluate various transportation network design\u00a0options on their relative strengths and weaknesses\u00a0and make the right choice.",
+        "Use optimisation for facility location and\u00a0capacity allocation decisions.",
+        "Explore how demand can be adjusted to match\u00a0supply using revenue management techniques.",
+        "Devise strategies based on the concept of risk\u00a0pooling to mitigate the consequences of uncertainty."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; synthesis of data and other information; evaluation of data and other information; use of computer software; accessing data and other information from a range of sources.",
+        "Moderate level of development: written communication; critical thinking; receptiveness to alternative ideas.",
+        "Some level of development: collaborative learning; team work"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsBUSA90060Data AnalysisJanuary (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)12.5BUSA90227OperationsApril (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90060",
+                        "Name": "Data Analysis",
+                        "Teaching period": "January (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90227",
+                        "Name": "Operations",
+                        "Teaching period": "April (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "\u2022The ability to explain and evaluate concepts, theories, and business operations of organisations"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022Ability to use analytic techniques to solve business problems"
+            },
+            {
+                "type": "paragraph",
+                "content": "Melbourne Business School welcomes applications from students with disabilities and takes reasonable steps to implement adjustments to provide equal participation opportunities for students with disability."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-term test",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Syndicate assignment (equivalent to\n\nindividual 500 words assessment)\n\nEach syndicate includes 5 \u2013 6\n\nsyndicate members and students are\n\nassessed as a group.",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "students are required to pass this final exam to  pass the subject",
+            "timing": "End of term",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

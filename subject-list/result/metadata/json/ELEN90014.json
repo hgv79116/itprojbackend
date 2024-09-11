@@ -1,0 +1,77 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>A study of underpinning requirements, technologies, standards, industry developments, trends and network architectures in the delivery of multimedia (including audio and video) telecommunications services.</p>",
+        "<p>This is structured in three phases:</p>",
+        "<ol><li>Human perception of multimedia (vision and hearing), which establishes a set of fundamental requirements for signal structure, sampling and fidelity</li><li>Technologies common to the representation and delivery of multimedia are introduced, including media formats, data compression, data description, copyright protection, streaming, content delivery networks and error recovery</li><li>The major categories of multimedia service (Internet streaming, broadcast television, videoconferencing, Video-on-demand, etc.) are analysed, recognising the role of the above technologies in these systems and introducing additional components necessary to satisfy customers or users of the services</li></ol>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Introduction to multimedia services and their requirements;</li><li>Audio, video and image compression technologies for transmission and storage;</li><li>Multiplexing and packaging techniques;</li><li>Error detection, protection, recovery and concealment;</li><li>Media streaming solutions;</li><li>Media servers and storage techniques;</li><li>Content delivery networks;</li><li>Technical methods for protection of copyright and content distribution rights;</li><li>Workflow in multimedia production and publishing systems;</li><li>Key multimedia services and their delivery solutions (Internet streaming, IPTV, video-on-demand, digital TV and video calling);</li><li>Emerging technologies in multimedia distribution and content delivery.</li></ul>"
+    ],
+    "ilo": [
+        "Understand the principles of human audio and visual perception and how it impacts on electronic reproduction",
+        "Understand the working principles of relevant data compression methods, multimedia containers and multiplexing, content delivery systems, intellectual property rights protection, multimedia servers and storage, metadata and back-end systems necessary to deliver multimedia",
+        "Understand the requirements and technical solutions which satisfy them, for the delivery of major classes of multimedia services (Video-on-demand, IPTV, Video calling, Internet streaming, etc.)",
+        "Understand the technical literature associated with this subject, carry out their own literature-based research project, synthesise their own view, report on the topic and communicate it effectively"
+    ],
+    "generic_skills": [
+        "An advanced understanding of how a knowledge base evolves;",
+        "An ability to identify weaknesses and risks in technical solutions;",
+        "Analytical, critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "A sense of intellectual curiosity;",
+        "An ability to interpret data and research results;",
+        "An ability to learn in a range of ways, including through information and communication technologies;",
+        "An ability to evaluate and synthesise the research and professional literature;",
+        "A capacity to manage competing demands on time, including self-directed project work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two 30-minute progress tests, in approximately weeks 5 and 9, each worth 10%",
+            "bullets": [
+                "60 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A project report of approximately 1500 words, on an (approved) topic of the student's choice in the general area of multimedia services",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the end of semester examination to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

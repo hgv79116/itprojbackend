@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>This subject aims to provide students with grounding in advanced financial mathematics, covering option pricing under the binomial model; risk\u2010neutral pricing of derivative securities; Brownian motion; introduction to It\u00f4\u0384 formula and SDEs; stochas\udbc0\udd9f asset models; Black\u2010Scholes model; arbitrage and hedging; interest\u2010rate models; actuarial applications and simple models for credit risk.</p>"
+    ],
+    "ilo": [
+        "Demonstrate a knowledge of the properties of option prices, valuation methods and hedging techniques, and be able to apply these;",
+        "Show how to use binomial trees and lattices in valuing options;",
+        "Apply the Ito calculus;",
+        "Derive option prices under the Black-Scholes model;",
+        "Describe and apply in simple models, including the binomial model and the Black-Scholes model, the approach to pricing using deflators and demonstrate its equivalence to the risk-neutral pricing approach;",
+        "Demonstrate a knowledge of models of the term structure of interest rates;",
+        "Describe, as a computational tool, the risk-neutral approach to the pricing of zero coupon bonds and interest-rate derivatives for a general one-factor diffusion model for the risk-free rate of interest;",
+        "Demonstrate a knowledge of simple models for credit risk."
+    ],
+    "generic_skills": [
+        "Written communication;",
+        "Problem solving;",
+        "Mathematical reasoning;",
+        "Simple models of credit risk;",
+        "Application of theory to practice;",
+        "Interpretation and analysis."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsACTL90002Mathematics of Finance IISemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL90002",
+                        "Name": "Mathematics of Finance II",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL40004",
+                        "Name": "Advanced Financial Mathematics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the final exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Yuyu Chen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three 1-hour recorded lectures.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "yuyu.chen@unimelb.edu.au"
+        }
+    ]
+}

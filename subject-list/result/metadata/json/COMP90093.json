@@ -1,0 +1,71 @@
+{
+    "overview": [
+        "<p>Please refer to COMP90092 Digital Innovation Project - Part 1</p>"
+    ],
+    "ilo": [
+        "Please refer to COMP90092 Digital Innovation Project - Part 1"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90092",
+                        "Name": "Digital Innovation Project - Part 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90055",
+                        "Name": "Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "COMP90082",
+                        "Name": "Software Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "INFO90008",
+                        "Name": "HCI Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "INFO90010",
+                        "Name": "Technology Innovation Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional detailsPlease refer to COMP90092 Digital Innovation Project - Part 1 for details.\nThe assessment statement applies to the entire enrolment across Parts 1 and 2 of the subject."
+        }
+    ],
+    "date_times": []
+}

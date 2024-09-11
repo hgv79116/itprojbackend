@@ -1,0 +1,168 @@
+{
+    "overview": [
+        "<p>The main area of study in this subject is the examination of the key processes that maintain our present climate and how these may change into the future with climate change. We examine this by studying the controlling mechanisms for key conserved quantities in the Earth System such as energy, moisture, angular momentum and key trace gases.</p>",
+        "<p>The subject also introduces the various techniques used for climate predictions globally and locally. These include the modelling of climate change and the use of emission scenarios. Interpretation and statistical analysis of future-climate scenarios and the use of ensemble simulations.</p>"
+    ],
+    "ilo": [
+        "Describe the dynamic balances of key climate variables on climate time scales",
+        "Derive and apply simple quantitative models of the impact of atmospheric radiative processes on climate",
+        "Quantitatively analyse the sensitivity of key climate variables to altered forcing",
+        "Describe at a qualitative level the key tools used for climate prediction",
+        "Interpret the role of model uncertainty in attribution and prediction of climate change",
+        "Implement simple numerical models encapsulating the dynamics of key climate variables",
+        "Explain the underlying concepts of climate change coherently and comprehensibly"
+    ],
+    "generic_skills": [
+        "demonstrate a high level of achievement in writing and problem-solving",
+        "apply analytical, quantitative and technical skills to problem solving",
+        "critically analyse information as life-long learners",
+        "demonstrate excellent organisational, planning and time management skills",
+        "apply scientific knowledge to understand technological and social changes"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsATOC20003Atmospheric ModellingSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ATOC20003",
+                        "Name": "Atmospheric Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "A minimum of 12.5 credit points ofLevel 2 Physics or Mathematics subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One of either:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10005Calculus 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Study score of 30 or more in VCE Specialist Mathematics 3/4 or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Problem sheet - 5 questions",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assessed Practical - written work and presentation",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Problem sheet - 5 questions",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assessed Practical - written work and presentation",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Student will need to achieve a pass grade (50%) for this examination. ",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 4 hours per week - 1 x two hour lecture per week; 1 x two hour practical class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "navid.constantinou@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an in-depth introduction to statistical signal processing.<strong><br/><br/>INDICATIVE CONTENT </strong></p>",
+        "<p>Students will study a selection of the following topics:</p>",
+        "<ul><li>Applications of statistical signal processing;</li><li>A review of stochastic signals and systems fundamentals \u2013 random processes, white noise, stationarity, auto- and cross-correlation functions, spectral- and cross-spectral densities, properties of linear time-invariant systems excited by white noise;</li><li>Parameter estimation - least squares and its properties, recursive least squares and least mean squares, optimisation-based methods, maximum likelihood methods;</li><li>Kalman, Wiener and Markov filtering;</li><li>Power spectrum estimation.</li></ul>",
+        "<p>This material will be complemented with the use of software tools (e.g. MATLAB) for computation and a DSP (Digital Signal Processor) based development platform for the implementation of signal processing algorithms in the laboratory.</p>"
+    ],
+    "ilo": [
+        "Apply fundamental mathematical tools, in particular stochastic techniques, in the analysis and design of signal processing systems",
+        "Recognise estimation problems and design, implement and analyse algorithms for solving them",
+        "Use software packages such as MATLAB for the analysis and design of signal processing systems",
+        "Implement signal processing systems with DSP based development platforms"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90058",
+                        "Name": "Signal Processing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90054",
+                        "Name": "Probability and Random Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "(prior to 2011, ELEN30008 Signal Processing 1 and ELEN30002 Stochastic Signals and Systems)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "A mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two laboratory projects, each worth 15%.",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jingge Zhu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 x one hour lectures per week) and up to 24 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Contact 2: Professor Erik Weyer",
+            "contact_email": "ewey@unimelb.edu.au"
+        }
+    ]
+}

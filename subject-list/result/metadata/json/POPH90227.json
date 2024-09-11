@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>This subject is a capstone subject within the Master of Public Health. In this unit, students will have the opportunity to apply the knowledge and skills acquired in the pre-requisite subjects to real-world scenarios through a Problem Based Learning (PBL) approach. Students will be presented with a range of contemporary public health issues that will require them to consider an appropriate population health response. These scenarios will expose students to a range of public health roles, perspectives and problems that they, as future public health practitioners, may be presented with in the real-world setting.</p>"
+    ],
+    "ilo": [
+        "Communicate findings from an analysis of public health evidence appropriate to specialist and non-specialist audiences",
+        "Identify and access public health evidence, and appraise and synthesise this evidence in public health decision making",
+        "Apply a comprehensive knowledge of a number of public health specialisations to develop solutions to complex public health problems",
+        "Design and manage a detailed investigation of a public health issue in a substantial project, with a high level personal autonomy and accountability",
+        "Reflect on individual performance or processes undertaken in the management of a substantial public health project"
+    ],
+    "generic_skills": [
+        "Problem-solving",
+        "Finding, evaluating and using relevant information",
+        "Initiative, autonomy and organization",
+        "Writing communication",
+        "Critical thinking and analysis"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90013",
+                        "Name": "Biostatistics",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90217",
+                        "Name": "Foundations of Public Health",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90231",
+                        "Name": "Qualitative Research in Public Health",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90274",
+                        "Name": "Prioritising & Planning in Public Health",
+                        "Teaching period": "July (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "PBL online participation (marked by tutor)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Individual written assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual work plan",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "PBL group participation and attendance at a minimum of 80% (marked by tutor)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "vromero@unimelb.edu.au"
+        }
+    ]
+}

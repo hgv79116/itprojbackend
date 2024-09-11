@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>The research project option within the Master of Computational Biology will be available for students who have demonstrated a strong aptitude for research to perform a short research project under the direction of a supervisor. The research project will build on the skills obtained in the course. Students will determine the structure they follow in consultation with the project coordinator.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "The ability to apply existing or new techniques to perform research under general direction",
+        "The ability to produce a research report containing results that could lead to publication",
+        "The ability to present results in oral form at a career-ready level.",
+        "A sound preparation for future research in Computational Biology"
+    ],
+    "generic_skills": [
+        "problem-solving skills including the ability to engage with unfamiliar problems, identify relevant solution strategies and conduct research;",
+        "analytical skills through the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "presentation skills, both written and oral; and",
+        "time management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-COMPBIO Master of Computational Biology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "An average of at least 80% in associated coursework in the Master of Computational Biology; and agreement of a supervisor."
+            },
+            {
+                "type": "paragraph",
+                "content": "Enrolment in second semester of this subject is dependent on successful completion of first semester."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A literature survey and research plan",
+            "bullets": [
+                "2 pages"
+            ],
+            "hurdle": "Pass/Fail",
+            "timing": "Week 8 of Research Project part 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "An intermediate report on the progress in the research project",
+            "bullets": null,
+            "hurdle": "Pass/Fail",
+            "timing": "Week 8 of Research Project part 2",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "An oral presentation on the content of the research project",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "In the final weeks of the teaching period in which the research report is due",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A research report. The research report is expected to be 40 \u2013 60 pages in length, excluding references, appendices, figures and tables",
+            "bullets": [
+                "40-60 pages"
+            ],
+            "hurdle": null,
+            "timing": "Two weeks prior to the end of the final semester of enrolment in the full 50 point research",
+            "percentage": "90%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular meetings with supervisor, one hour weekly or fortnightly. Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 10 hours per week is expected (per 12.5 loading).",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "1 January 2024 to 28 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "28 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular meetings with supervisor, one hour weekly or fortnightly. Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 10 hours per week is expected (per 12.5 loading).",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "29 June 2024 to 22 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "22 December 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

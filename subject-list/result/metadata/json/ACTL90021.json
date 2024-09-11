@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>Topics include distributions of accumulations and present values; stochastic interest rate models; time series models; an introduction to ruin theory; claim run-off triangles; stochastic simulation.</p>"
+    ],
+    "ilo": [
+        "Critically review simple stochastic models for investment returns.",
+        "Compose and assess techniques for analysing a delay (or run-off) triangle and projecting the ultimate position.",
+        "Elucidate the concept of ruin and commentate on the significance of the adjustment coefficient in ruin theory.",
+        "Contextualise the main aspects of risk and insurance using utility theory.",
+        "Compose and transform financial models in spreadsheet software.",
+        "Compose pre-requisite mathematical and statistical concepts to solve problems related to the above topics."
+    ],
+    "generic_skills": [
+        "High level of development",
+        "Written communication",
+        "Problem solving",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Use of computer software"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ACTSC Master of Actuarial Science",
+                    "MC-ACTSCEN Master of Actuarial Science (Enhanced)",
+                    "MC-ACTSCEX Master of Actuarial Science (Extended)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsACTL90001Mathematics of Finance ISemester 1 (On Campus - Parkville)12.5MAST20004ProbabilitySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL90001",
+                        "Name": "Mathematics of Finance I",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Mid-Semester Exam",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-Semester Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Final exam must be passed",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

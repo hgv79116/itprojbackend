@@ -1,0 +1,132 @@
+{
+    "overview": [],
+    "ilo": [
+        "ILO 1: Describe and interpret the phenomena of strength, deformation, ductility, failure mechanisms, fast fracture and fatigue as applied generically to all materials and be able to identify the key engineering implications with these phenomena;",
+        "ILO 2: Describe the key features in the manufacturing/production, quality control, engineering applications, performance and safety issues associated with the commonly used engineering materials including steel, concrete, masonry, timber, polymers and composites, and be able to identify their engineering implications;",
+        "ILO 3: Apply the concepts of stress-strain compatibility and complementary shear stresses in achieving composite actions, and identify realistic failure mechanisms in structures and make effective use of strength and ductility in engineering applications;",
+        "ILO 4: Identify key considerations including those of costs, practicality, sustainability and the environment, health and safety in making engineering decisions on the choice and application of materials;",
+        "ILO 5: Describe atomic and crystalline structures, molecular composition, and its influence on the physical properties of materials;",
+        "ILO 6: Formulate problems in statics by choosing suitable system boundaries and identifying relevant forces and coordinate systems;",
+        "ILO 7: Apply the equilibrium of systems of forces in two dimensions to solve simple structural elements such as beams and trusses."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Understanding of social, cultural, global, and environmental responsibilities and the need to employ principles of sustainable development."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR20004",
+                        "Name": "Engineering Mechanics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENGR10005StaticsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR10005",
+                        "Name": "Statics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ENGR10003 - Engineering Systems Design 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "ENVS10009 - Structural Environments"
+            },
+            {
+                "type": "paragraph",
+                "content": "ENVS10003 - Constructing Environments"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One individual assignment on Engineering Materials. 15 hours, total of 750 words. Due approx. week 4. Intended Learning Outcome (ILO) 5 is addressed in this assessment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One individual assignment on Engineering Mechanics. 10 hours, total of 500 words. Due approx. week 8. ILOs 1-4, 6 and 7 are addressed in this assessment.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One group assignment (report of lab work), on one of the projects offered. 10 hours, total of 500 words per student. Due approx. week 12. ILO 1 is addressed in this assessment.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Ten weekly quizzes (1% per quiz) to highlight key points of the lectures; 10 min per quiz.  1.5 hrs quiz time in total; 15 hours preparation time in total. Held every week throughout the semester. ILOs 1-7 are addressed in this assessment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One examination.  2 hours. ILOs 1-7 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "50 hours (Lectures: 3 hours per week; Tutorials: 12 hours per semester; Laboratory Session: 2 hours per semester)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Rackel San Nicolas",
+            "contact_email": "rackel.san@unimelb.edu.au"
+        }
+    ]
+}

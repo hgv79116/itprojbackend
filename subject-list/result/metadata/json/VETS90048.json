@@ -1,0 +1,147 @@
+{
+    "overview": [
+        "<p>This subject is designed for veterinary graduates with postgraduate clinical experience who wish to acquire advanced clinical training. Practical work is an integral part of the programs offered.</p>",
+        "<p>Students undertake discipline-based clinical placements, which may include participating in ward rounds, unit meetings and outpatient clinics. This is a flexible subject designed to meet the individual discipline requirements of different clinical specialties.</p>"
+    ],
+    "ilo": [
+        "Students will acquire problem solving skills through both mentored and self-directed clinical learning during clinical placements."
+    ],
+    "generic_skills": [
+        "60 minutes (each)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsVETS90046Advanced Clinical Skills 1 Part ASemester 1 (Extended) (On Campus - Werribee)Semester 2 (Extended) (On Campus - Werribee)18.75VETS90047Advanced Clinical Skills 1 Part BSemester 1 (Extended) (On Campus - Werribee)Semester 2 (Extended) (On Campus - Werribee)18.75"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90046",
+                        "Name": "Advanced Clinical Skills 1 Part A",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Werribee)Semester 2 (Extended) (On Campus - Werribee)",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "VETS90047",
+                        "Name": "Advanced Clinical Skills 1 Part B",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Werribee)Semester 2 (Extended) (On Campus - Werribee)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90054",
+                        "Name": "Principles of Medicine & Surgery 2 PtA",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Werribee)Semester 2 (Extended) (On Campus - Werribee)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "For students undertaking a residency within the Veterinary Hospital or Zoo: Satisfactory completion of clinical work - Continual assessment by supervisors on a case-by-case basis, providing written feedback twice in each semester.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "For students undertaking a residency within the Veterinary Hospital or Zoo: Written Assignment - A major written assignment per year prepared as a paper ready for submission to a peer reviewed journal, e.g. as a clinical research report, case report, case series (prospective or retrospective), topic update, etc, or agreed alternative. The report should be prepared according to the guidelines of the Journal of Veterinary Internal Medicine or agreed alternative. The length of the written assignment is likely to vary according to journal guidelines. There is an expectation that the article will be published as part of preparations for the student's specialty board qualification.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "For students undertaking a residency within the Veterinary Hospital or Zoo: Oral Presentation - Hospital residents must complete an oral presentation within the Veterinary Teaching Hospital with clinical faculty present that can be assessed as part of the Advanced Clinical Skills subject.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For students undertaking a residency within the Veterinary Hospital or Zoo",
+            "bullets": null,
+            "hurdle": "Minimum of 80% attendance at clinical training sessions (e.g. clinical placements, ward rounds, unit meetings and outpatient clinics, clinical consultancies).",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "For students undertaking a Dairy or Mackinnon Residency program: Satisfactory completion of clinical work - Continual assessment by supervisors on a case-by-case basis, providing written feedback twice in each semester.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "For students undertaking a Dairy or Mackinnon Residency program: Written Assignment - Three written reports (maximum 500 words each) per semester (6 reports per year worth 25%); Plus one of (one per year worth 35%): An examinable online module in Veterinary Public Health, OR; An examinable module in veterinary leadership/management, OR; A written assignment, maximum 3000 words",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "For students undertaking a Dairy or Mackinnon Residency program: Oral Presentation - Three oral presentations (up to 60 minutes each) per year.",
+            "bullets": [
+                "60 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "For students undertaking a Dairy or Mackinnon Residency program",
+            "bullets": null,
+            "hurdle": "Minimum of 80% attendance.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": "Sebastien Bauquier",
+            "mode_of_delivery": "On Campus (Werribee)",
+            "contact_hours": "Approximately 10 hours per week",
+            "total_time_commitment": "240 hours",
+            "teaching_period": "31 January 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "bauquier@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": "Sebastien Bauquier",
+            "mode_of_delivery": "On Campus (Werribee)",
+            "contact_hours": "Approximately 10 hours per week",
+            "total_time_commitment": "240 hours",
+            "teaching_period": "15 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "bauquier@unimelb.edu.au"
+        }
+    ]
+}

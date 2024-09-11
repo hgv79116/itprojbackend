@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject provides the theoretical foundation for entry into specialty critical care nursing including emergency and intensive care.</p>",
+        "<p>Students will gain essential knowledge to plan, monitor and evaluate nursing interventions, including how to recognise and respond to clinical deterioration and medical emergencies.</p>",
+        "<p>Students will integrate essential knowledge explored in this subject and its pre-requisite, Applied Pathophysiology, with principles of patient assessment, scientific advances in treatment and management strategies including pharmacotherapeutics.</p>",
+        "<p>Patient and family perspectives of acute illness and disease will be considered in the development and implementation of nursing interventions and inter-disciplinary care planning.</p>"
+    ],
+    "ilo": [
+        "Recognise clinical deterioration and medical emergencies in diverse patient populations.",
+        "Develop the ability to identify risk factors for clinical deterioration in diverse patient populations.",
+        "Recommend and justify evidence-based interventions for diverse patient populations experiencing clinical deterioration and medical emergencies through clinical scenario analysis.",
+        "Evaluate the impact of evidence-based interventions on the disease trajectory and acute illness in patients with a range of health conditions."
+    ],
+    "generic_skills": [
+        "Apply a high level of problem solving skills",
+        "A high level of critical thinking and analytical skills",
+        "Feel confident when tackling unfamiliar problems",
+        "A high level of written communication skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90076",
+                        "Name": "Applied Pathophysiology",
+                        "Teaching period": "July (Online)January (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Case study analysis",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Case study analysis",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written assessment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "April - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "8 x 1-hour weekly webinars \n\n8 x 8 hours module completion, readings & self-directed learning\n\nTopic test X 2 approx. 60 hrs\n\nWritten assessment (case study analysis) approx. 40 hrs.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "8 April 2024 to  2 June 2024",
+            "last_self_enrol_date": "2 April 2024",
+            "census_date": "19 April 2024",
+            "last_date_to_withdraw_without_fail": "17 May 2024",
+            "assessment_period_ends": "9 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "September - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "8 x 1-hour weekly webinars \n\n8 x 8 hours module completion, readings & self-directed learning\n\nTopic test X 2 approx. 60 hrs\n\nWritten assessment (case study analysis) approx. 40 hrs.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "23 September 2024 to 17 November 2024",
+            "last_self_enrol_date": "17 September 2024",
+            "census_date": "4 October 2024",
+            "last_date_to_withdraw_without_fail": "1 November 2024",
+            "assessment_period_ends": "24 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

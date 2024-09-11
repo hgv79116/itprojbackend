@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject provides students with the experience of carrying out research independently on specific topics. The student is required to conduct and present the results of an independent piece of applied econometrics research both orally and as an extended essay.</p>"
+    ],
+    "ilo": [
+        "Work independently on prescribed topics in applied econometrics;",
+        "Identify the bibliographic and data sources relevant to the topics;",
+        "Analyse the literature relevant to the topics;",
+        "Apply appropriate economic and econometric methods of analysis",
+        "Present the results of an independent piece of research orally; and",
+        "Complete a written research report."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: use of computer software; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; synthesis of data and other information; evaluation of data and other information."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM90022",
+                        "Name": "Research Methods",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Initial report (A report to be submitted for feedback).",
+            "timing": "Week 3",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Draft essay (to be submitted for feedback).",
+            "timing": "Week 9",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Final presentation (oral presentation).",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Essay. The word count includes bibliography, footnotes, appendices and tables.",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Andrew Clarke",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 1-hour lecture",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "andrew.clarke@unimelb.edu.au"
+        }
+    ]
+}

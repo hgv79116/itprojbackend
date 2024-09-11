@@ -1,0 +1,137 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Technological advances in obtaining high throughput data have stimulated the development of new computational approaches to bioinformatics. This subject will cover core computational challenges in analysing bioinformatics data. We cover important algorithmic approaches and data structures used in solving these problems, and the challenges that arise as these problems increase in scale.</p>",
+        "<p>The subject is a core subject in the MSc (Bioinformatics) and is an elective in the Master of Information Technology and the Master of Engineering. It can also be taken by PhD students and by undergraduate students, subject to the approval of the lecturer.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>The subject covers key algorithms used in bioinformatics, with a focus on genomics. Indicative topics are: sequence alignment (dynamic algorithms and seed-and-extend), genome assembly, variant detection, phylogenetic reconstruction, genomic intervals, complexity and correctness of algorithms, clustering and classification of genomics data, data reduction and visualisation.<br/>The subject assumes you have experience in programming and familiarity with the foundations of genomics.</p>"
+    ],
+    "ilo": [
+        "Understand bioinformatics data representations",
+        "Describe the computational challenges posed by common bioinformatics analyses",
+        "Apply important algorithms used in solving bioinformatics problems",
+        "Design and implement algorithms and data structures to address key questions in bioinformatics",
+        "Design and implement a toolkit of algorithmic problem-solving techniques that can be applied to a diverse range of bioinformatics tasks",
+        "Understand the feasibility constraints imposed by computational complexity of algorithms",
+        "Learn techniques for extracting information from data and visualising the results of analyses"
+    ],
+    "generic_skills": [
+        "Understand algorithms sufficiently to implement simplified but functional tools.",
+        "Understand algorithms sufficiently to understand their use in common software.",
+        "Understand the principles and limitations of published software algorithms and how to apply them appropriately."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90016Computational GenomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90016",
+                        "Name": "Computational Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-SCIBIF Master of Science (Bioinformatics)"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of 50 points of core subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CS Master of Computer Science"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three assignments due in approximately weeks 4, 8 and 11.",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": "students must achieve at least 50% (20/40 on assignments)",
+            "timing": "From Week 4 to Week 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One take home exam assignment due in the first week of the exam period.",
+            "bullets": [
+                "2 hours (of work required)"
+            ],
+            "hurdle": "Students must achieve at least 50% on the combined exam components (30 / 60 overall)",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Exam (late in the exam period)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve at least 50% on the combined exam components (30 / 60 overall)",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "166 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

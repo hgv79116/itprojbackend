@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p>This subject studies the relationship between brain mechanisms and behaviour. Its major aim is to develop an appreciation of the neurobiological basis of psychological function and dysfunction via two approaches. The first emphasises a top-down method that links psychological functions to their biological substrates. Neuroscientific research techniques and what they can reveal about psychological function are emphasised. These techniques are presented within an historical context, beginning with transcranial magnetic stimulation (TMS), continuing with electroencephalography (EEG) and functional magnetic resonance imaging (fMRI), and finishing with modern molecular genetic techniques. The second approach emphasises a bottom-up approach including the topics of brain genetics and development, neurons and neural circuits, neurotransmission and neurotransmitter substances, and the structurofunctional properties of selected brain regions. Neurobiological principles are illustrated using conditions with abnormal neuronal function. The third approach combines the top-down and bottom-up approaches to demonstrate how combining knowledge of cognitive theory and structurofunctional properties of the brain enables diagnosis and interpretation of pathological conditions. Case studies are used to illustrate this approach.</p>",
+        "<p> </p>",
+        "<p>A quantitative methods component will be integrated into the lecture, tutorial and assessment structure of this subject. The aim is to provide an understanding of, and practical experience with, the appropriate experimental design and statistical analysis techniques used to evaluate hypotheses in Biological Psychology.</p>"
+    ],
+    "ilo": [
+        "The way in which the brain regulates complex forms of human behaviour.",
+        "Some of the methodologies for investigating brain and behaviour relationships.",
+        "Some methods of analysing data that are appropriate for research in biological psychology"
+    ],
+    "generic_skills": [
+        "develop skills related to the ability to research an area",
+        "analyze the information critically",
+        "arrange it in a report that is clearly expressed and lucid"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "512225 Biological Psychology"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 x Revision Quizzes. Each quiz contains 10 multiple-choice questions focusing on content delivered in recent lectures.",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "At equal intervals throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "An assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An online module",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 7",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Attendance of at least 80% of laboratory classes.",
+            "bullets": null,
+            "hurdle": "In case of failure to meet the attendance requirement, additional work related to the missed class activities (e.g., an essay whose length is 500 words for each tutorial missed) will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Xue Jun Cheng",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 contact hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "xue.cheng@unimelb.edu.au"
+        }
+    ]
+}

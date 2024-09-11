@@ -1,0 +1,176 @@
+{
+    "overview": [
+        "<p>Most mathematical problems arising from the physical sciences, engineering, life sciences and finance are sufficiently complicated to require computational methods for their solution. This subject introduces students to the process of numerical approximation and computer simulation, applied to simple and commonly encountered stochastic or deterministic models. An emphasis is on the development and implementation of algorithms for the solution of continuous problems including aspects of their efficiency, accuracy and stability. Topics covered will include simple stochastic simulation, direct methods for linear systems, data fitting of linear and nonlinear models, and time-stepping methods for initial value problems.</p>"
+    ],
+    "ilo": [
+        "Understand the significance and role of both roundoff error and truncation error in some standard problems in scientific computing;",
+        "Be able to write simple numerical programs that utilize a numerical Problem-Solving Environment such as Matlab or NumPy;",
+        "Appreciate the role of computer simulation, as a third method in science, distinct from theory and experiment",
+        "Understand the distinction between the simulation of stochastic and deterministic models",
+        "Be able to use appropriate numerical techniques when undertaking a mathematical or modelling investigation"
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments;",
+        "computer skills: the ability to use mathematical computing packages."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20033",
+                        "Name": "Real Analysis: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Either:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5PHYC20013Laboratory and Computational Physics 2Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20013",
+                        "Name": "Laboratory and Computational Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Other evidence of competence in computer programming."
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Other evidence could include passing a relevant Year 12 school subject, or a statement of achievement from a relevant MOOC, or passing a programming competency test administered by another University of Melbourne School."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two computational assignments, one due mid-semester and one late in semester, requiring approximately 44 hours of work.(*)",
+            "bullets": [
+                "44 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One computer laboratory examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Hailong Guo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures and 1 x two hour computer laboratory class per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "hailong.guo@unimelb.edu.au"
+        }
+    ]
+}

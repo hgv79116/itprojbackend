@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>This subject provides opportunities for students to engage with more advanced levels of musculoskeletal physiotherapy practice with an emphasis on manual therapy and sports physiotherapy. On completion of this subject, students will have further developed a range of assessment and therapeutic skills including manual handling, differential diagnosis, critical evaluation, clinical decision making, selection and justification of assessment and treatment. Advanced practice will also incorporate the identification, appraisal, synthesis and application of research evidence underpinning specific areas of musculoskeletal physiotherapy practice. Furthermore, students will understand the role of a musculoskeletal physiotherapist and a sports physiotherapist as part of a multi-disciplinary team. Advanced clinical reasoning and practical skills will be refined through facilitated practice with peers, masterclasses, clinical cases, practical demonstrations, and group tasks. </p>"
+    ],
+    "ilo": [
+        "Build on prior knowledge of musculoskeletal physiotherapy to plan and justify the assessment and treatment of musculoskeletal and sports related conditions.",
+        "Apply theoretical principles in the differential assessment and implementation of safe and effective physiotherapy treatment in complex scenarios.",
+        "Execute risk assessment procedures and safely and effectively apply advanced assessment and treatment techniques, to address impairments and activity limitations in individuals with specified musculoskeletal and sports related conditions.",
+        "Integrate evidence from high-quality clinical studies to ensure the efficacy of assessment and treatment strategies applied with clients.",
+        "Safely apply emerging technologies for the diagnosis and treatment of musculoskeletal and sports-related injuries.",
+        "Analyse how legal, ethical, and cultural issues impact on musculoskeletal and sports physiotherapy practice.",
+        "Identify how the rights of individuals with musculoskeletal and/or sport conditions are incorporated in physiotherapy practice.",
+        "Influence and engage with compensable bodies and other healthcare stakeholders."
+    ],
+    "generic_skills": [
+        "Analytical and cognitive skills to address complex problems with sensitivity to individual, organisational and community social and cultural diversity",
+        "Accessing new knowledge from all sources, to analyse and interpret it in a critical manner, and to apply it appropriately",
+        "Understanding and respecting the rights of individuals including choice, dignity and privacy",
+        "Clinical reasoning and decision making as applied to practice",
+        "Application of new research information to the solution of unfamiliar problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90090",
+                        "Name": "Musculoskeletal Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90125",
+                        "Name": "Strength and Conditioning for Life",
+                        "Teaching period": "September (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Digital presentation  (Group of 4-5 students) and 800-word summary",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "4 station OSCE (7.5 minutes /station) (Individual)",
+            "bullets": [
+                "30 minutes (total)"
+            ],
+            "hurdle": "Students must achieve a result for this examination of at least 50%.",
+            "timing": "End of semester",
+            "percentage": "45%"
+        },
+        {
+            "brief": "e-Portfolio (Individual)",
+            "bullets": [
+                "2250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jessica Stander",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "20 hours Lectures: 2 hours / week over 10 weeks \n\n60 hours Pracs - 5hours/ week over 12 weeks\n\n20 hrs Seminars/ workshops 2 hours / week over 10 weeks \n\n12 hrs Masterclasses: 2 hours each scattered throughout semester",
+            "total_time_commitment": "225 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "7 June 2024",
+            "contact_name": null,
+            "contact_email": "jessica.stander@unimelb.edu.au"
+        }
+    ]
+}

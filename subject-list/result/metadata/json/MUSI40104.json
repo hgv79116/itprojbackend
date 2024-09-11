@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>Students will conceive, plan and execute a substantial research project, and present a paper at a conference organised by the Conservatorium of Music mid-way through the 2 semesters of enrolment.</p>",
+        "<p><em>This subject is the first part of a two-subject sequence, taught over two consecutive study periods. Students are required to enrol in MUSI40104 Dissertation Part 1 (18.75 points) and MUSI40105 Dissertation Part 2 (18.75 points), consecutively, for a total enrolment of 37.5 points.</em></p>",
+        "<p><em>Students will receive a 'CNT' grade for Part 1. An overall result for the subject is given following completion of the two-subject sequence.</em></p>",
+        "<p><em>Assessment, Subject Intended Learning Outcomes, and Total Time Commitment applies to the entire enrolments across Parts 1 and 2 of the subject.</em></p>",
+        "<p><em>The Total Time Commitment for the subject is approximately 510 hours, inclusive of the two study periods [MUSI40104 Dissertation Part 1 (18.75 points) and MUSI40105 Dissertation Part 2 (18.75 points)]</em>.</p>"
+    ],
+    "ilo": [
+        "demonstrate a command of both standard literature and writings at the current scholarly forefront of the chosen field;",
+        "develop the capacity for independent and original research and the ability to, plan and execute a substantial research project."
+    ],
+    "generic_skills": [
+        "a capacity for independent critical thought;",
+        "an openness to new ideas;",
+        "knowledge, skills and practices that provide a basis for independent critical inquiry and research-based writing."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI40078",
+                        "Name": "Music Research (Honours)",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUSI40079",
+                        "Name": "The Ethnography of Music (Honours)",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Attendance at twelve seminars during the 2 semesters of enrolment",
+            "bullets": [
+                "17 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A dissertation",
+            "bullets": [
+                "12,000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "95%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Presentation of two work-in-progress reports",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "12 hours across Part 1 and Part 2, comprising one fortnightly 1-hour seminar plus regular consultation with the appointed supervisor.",
+            "total_time_commitment": "255 hours",
+            "teaching_period": "26 February 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "nicholas.tochka@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "12 hours across Part 1 and Part 2, comprising one fortnightly 1-hour seminar plus regular consultation with the appointed supervisor.",
+            "total_time_commitment": "255 hours",
+            "teaching_period": "22 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "nicholas.tochka@unimelb.edu.au"
+        }
+    ]
+}

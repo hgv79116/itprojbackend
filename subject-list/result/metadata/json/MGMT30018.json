@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>The ability to communicate effectively in the workplace is crucial to graduates and managers alike. This subject covers the fundamentals of good business communication and uses management theories to explore the latest trends in workplace communication. Some of the topics covered may include corporate communication with stakeholders, social media and employee communication, impact of new information and communication technologies, and informal communication systems in organizations. It will involve the critical analysis and contemporary trends in business communication and will focus on integrating knowledge to help students make the transition to employment.</p>"
+    ],
+    "ilo": [
+        "Identify the communication theories that have influenced workplace behaviour;",
+        "Explain the significance of communication theories for management practice;",
+        "Apply relevant theories to real problems in an organisation;",
+        "Analyse and critique contemporary business communication practices."
+    ],
+    "generic_skills": [
+        "Problem solving skills and critical thinking skills will be fostered in the workshops and more directly with the assessment where students have to apply theoretical material to case studies and practical situations.",
+        "Collaborative learning and reflective skills will be developed by working individually and in groups throughout the semester.",
+        "Collaborative skills will also be fostered through exercises, role plays and simulations that are incorporated into the seminars.",
+        "Reflective skills will also be developed through the assessment.",
+        "Verbal and written communication skills will be developed via the assessment and through the experience of working in groups throughout the semester.",
+        "The interactive nature of the workshops will also, indirectly, help to improve communication skills.",
+        "Computer skills will be strengthened through the use of the web site."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT20001",
+                        "Name": "Organisational Behaviour",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "MGMT20010 Business Communication (last offered in 2012)"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An individual assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A written group assignment (4 students per group) 3000 words total",
+            "bullets": [
+                "750 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 9",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Reflective group presentation (4 students per group) 1000 words, equivalent to 250 words per student",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

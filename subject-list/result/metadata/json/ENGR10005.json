@@ -1,0 +1,131 @@
+{
+    "overview": [
+        "<p>Statics introduces the principles of how objects behave when subject to forces with a mix of design projects, interactive workshops and lectures. It assumes a preference of mathematical, graphical and analytical ways of knowing, quantitative analysis and physical principles. Through analysis, model simulations, laboratory work, testing and evaluation, students will explore the fundamentals of structural analysis and commonly used materials, construction/manufacturing methods and systems. Considering the design, fabrication, buildability and sustainability issues will provide the contextual links between statics theory and the finished product.</p>",
+        "<p>This subject will provide a lens on the University\u2019s Joining Melbourne Modules. These will be completed in parallel to the subject - unless already successfully completed. It will also support the Discovery goals for commencing students by introducing emerging concepts and research in the discipline area; ways to connect with the larger University community including peers, teachers and student groups; and awareness of the academic expectations, and of wellbeing support offered at the University of Melbourne.</p>"
+    ],
+    "ilo": [
+        "Apply the concepts of equilibrium of particles and bodies to evaluate support reactions on structures, forces in trusses and internal forces in beams",
+        "Describe how engineering principles and material properties are fundamental to engineered products and structures",
+        "Identify basic properties structural materials, manufacturing processes and the environmental implications of their selection and use in engineering",
+        "Use quantitative models to evaluate trade offs between alternative designs",
+        "Analyse the inter-relationships in modeling a truss from the statics, materials and geometric perspectives",
+        "Write basic MATLAB programs to perform a variety of simple tasks to assist in the design and analysis of structural and dynamic systems",
+        "Evaluate the sustainability implications of alternative materials",
+        "Evaluate the relationship between engineering solutions, construction/manufacture and buildability",
+        "Demonstrate an understanding of the Joining Melbourne Modules, and the learning outcomes of these, in relation to Mapping Environments subject matter and learning activities."
+    ],
+    "generic_skills": [
+        "Critical thinking",
+        "Teamwork",
+        "Communication skills for written and oral presentation",
+        "Problem solving and analytical skills",
+        "Capacity to tackle unfamiliar problems",
+        "Perceptions of own learning and development",
+        "Understanding the need to externally review and critically reflect on own capabilities"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Design and build group project - preliminary, 10 to 15 hours work per student plus workshop contact time. Intended Learning Outcomes (ILOs) 1 to 3 are addressed in this project",
+            "bullets": [
+                "10-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Design and build group challenge \u2013 final (weekly) 30 - 40 hours per student plus workshop contact time. ILOs 1 to 9 are addressed in this assessment",
+            "bullets": [
+                "30-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Tutorial participation and problem sheets (weekly). ILOs 1 to 8 are addressed in this assessment",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written exam. ILOs 1 to 5,7 to 9 are addressed in the exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours (Lectures: 24 hours per semester; Tutorials: 12 hours per semester; Workshops: 24 hours per semester)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Massoud Sofi",
+            "contact_email": "massoud@unimelb.edu.au"
+        }
+    ]
+}

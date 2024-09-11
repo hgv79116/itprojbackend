@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p>To become effective research scientists, students need to develop skills such as critical review and analysis of data, appropriate design and execution of experiments, appropriate documentation of experimental plans and results, interpretation of data and presentation and communication of data. Drawing on recent advances in microbiology and immunology, this subject will involve critical review of scientific literature and presentation of such analyses in both an oral and written form. This subject is designed to give level 4 honours\u2019 year experience in skills required for critical analysis and communication of scientific concepts. This subject is designed to provide students with experience to help enable the transition from undergraduate to postgraduate study.</p>",
+        "<p>This subject is taken together with BIOM40001 Introduction to Biomedical Research.</p>"
+    ],
+    "ilo": [
+        "Demonstrate advanced knowledge of experimental design, experimental implementation, data evaluation and communication as it relates to modern biomedical research, in a broad ethical context",
+        "Analyse data, presenting the results coherently in a formal scientific report",
+        "Communicate research findings in oral presentations",
+        "Critically evaluate scientific data and manuscripts",
+        "Discuss major advances in research in Microbiology, Immunology and related areas"
+    ],
+    "generic_skills": [
+        "To develop skills in critical analysis",
+        "To develop skills in oral and written presentation"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                    "BH-SCI Bachelor of Science (Degree with Honours)",
+                    "MC-BMEDSC Master of Biomedical Science"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students should have completed a Major in an area of Microbiology and Immunology or suitable other discipline"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment in the form of a mock grant application",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 6",
+            "percentage": "33%"
+        },
+        {
+            "brief": "Critical assessment of assigned paper and writing a news and views article",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "33%"
+        },
+        {
+            "brief": "Research poster",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral presentation of research poster",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "14%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Amy Chung",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24",
+            "total_time_commitment": "150 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

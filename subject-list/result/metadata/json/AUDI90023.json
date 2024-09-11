@@ -1,0 +1,143 @@
+{
+    "overview": [
+        "<p>This subject builds on the subject Principles of Hearing Rehabilitation.  Students will continue to learn about the psychological and social challenges posed by hearing loss and other auditory-related conditions on a person and their communication partners and explore the options for rehabilitation of these conditions.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Explain how hearing devices function and how they can be fitted, adjusted and monitored to provide individualised assistance to impacted individuals;",
+        "Demonstrate awareness of client and clinician characteristics that influence aural rehabilitation processes and outcomes;",
+        "Employ patient-centred approaches to the process of developing a strategy for designing and implementing aural rehabilitation; and",
+        "Using theoretical frameworks, integrate the elements of communication, hearing disability and rehabilitation options to provide tailored advice for impacted individuals."
+    ],
+    "generic_skills": [
+        "2 hours"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT90004",
+                        "Name": "Anatomy and Physiology for Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90016",
+                        "Name": "Pathologies of the Auditory System",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90048",
+                        "Name": "Principles of Clinical Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90049",
+                        "Name": "Principles of Hearing Rehabilitation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90050",
+                        "Name": "Acoustics and Perception of Speech",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90051",
+                        "Name": "Principles of Paediatric Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90012",
+                        "Name": "Electrophysiological Assessment A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90021",
+                        "Name": "Clinical Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90022",
+                        "Name": "Paediatric Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90047",
+                        "Name": "Audiology in Professional Contexts",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A case study",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A clinical skills assessment by OSCE",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "Students must pass the OSCE to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "20 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

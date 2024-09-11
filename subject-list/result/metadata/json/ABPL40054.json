@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>Students undertaking this subject will complete a thesis on a topic approved by the program coordinator. The thesis subject is taken across two semesters, and will consist of independent research undertaken under the supervision of a thesis supervisor.</p>",
+        "<p>Note: The Bachelor of Design Thesis requires two consecutive semesters of enrolment. Students commence The Bachelor of Design Thesis-I (Part1) in Semester 1 must continue The Bachelor of Design Thesis-II (part 2) in the following semester. Upon successful completion of the Bachelor of Design Thesis, students will receive 50 points credit.</p>"
+    ],
+    "ilo": [
+        "Research, plan and write a substantial piece of independent research focused on a specialised field of study.",
+        "Understand the contemporary and historical context of their discipline, and how these contexts change over time.",
+        "Demonstrate critical and analytic skills, and problem solving ability, in identifying issues and proposing solutions.",
+        "Communicate and defend their research, in both written and verbal formats."
+    ],
+    "generic_skills": [
+        "Engage in independent research",
+        "Communicate effectively in a variety of formats",
+        "Use appropriate technologies including software and research databases",
+        "Apply appropriate problem solving to issues."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into the BH-DES Bachelor of Design (Degree with Honours)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research proposal",
+            "bullets": [
+                "200 words"
+            ],
+            "hurdle": "Students must submit the research proposal in order to pass the subject",
+            "timing": "Week 2 of first semester of enrolment  ( Week 2 of SEM 1)",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Progress report(pass/ fail)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10 of first semester of enrolment ( Week  10 of SEM 1)",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Revised proposal",
+            "bullets": [
+                "1600 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4 of the following semester (week 4 of second semester enrolment)",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Seminar presentation of research Project in Progress",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the Second semester enrolment (SEM2 teaching period)",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Thesis",
+            "bullets": [
+                "10000 words (equivalent)"
+            ],
+            "hurdle": "Students Must achieve a mark of at least 65% in the thesis in order to pass the subject. ",
+            "timing": "Week 12 of the following semester ( SEM2)",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 hour meeting per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

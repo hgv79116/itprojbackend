@@ -1,0 +1,82 @@
+{
+    "overview": [],
+    "ilo": [
+        "Demonstrate a critical understanding of the guiding principles of effective teaching for learning in blended and online environments, including the pivotal research informing these principles;",
+        "Apply these principles to the design and development of best practice units or programs, within specific disciplinary contexts;",
+        "Critically analyse and appraise key elements of student-centred approaches in blended and online learning environments."
+    ],
+    "generic_skills": [
+        "Critically analyse theories and principles and apply them appropriately to a range of contexts;",
+        "Present material in a clear, organised, stimulating and engaging way;",
+        "Reflect upon and analyse the effectiveness of their activities; and",
+        "Work constructively with peers to evaluate and support one another's work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90002",
+                        "Name": "Effective University Teaching",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four reflective posts to individual ePortfolio (300-400 words each) and four peer feedback comments (50 words each) posted Weeks 3, 5, 8 and 11",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "An online draft proposal for the implementation of a blended or fully online unit, including peer review of this draft via a 10 minute class presentation",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "LMS Unit online prototype, including revised proposal",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "Online equivalent to 20 contact hours (asynchronous discussions and structured online tasks)",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "cochrane.t@unimelb.edu.au"
+        }
+    ]
+}

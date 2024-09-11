@@ -1,0 +1,76 @@
+{
+    "overview": [
+        "<p>Topics include the Australian General Insurance industry and products, actuarial estimation of claims cost, general insurance liabilities, general insurance pricing, capital management, accounting and regulatory reporting.</p>"
+    ],
+    "ilo": [
+        "Describe the main features of the Australian General insurance market, including consumers, providers, intermediaries and other stakeholders;",
+        "Understand and Analyse General Insurance and Injury Scheme products;",
+        "Analyse and estimate claims costs for General insurance products using common actuarial techniques;",
+        "Understand the theory underlying the establishment of liabilities for General Insurance entities, and perform simple calculations of such liabilities;",
+        "Perform a reconciliation between two valuations of liabilities;",
+        "Explain and calculate the components of a General Insurance premiums; both in aggregate and at an individual or cohort level;",
+        "Incorporate other features of the General insurance environment into premium calculation, including the behaviour of competitors and monopoly considerations;",
+        "Understand Capital Management of a General insurer, including calculation of regulatory capital;",
+        "Understand and perform calculations for Accounting, Management, Regulatory and other Financial Reporting for a General Insurer."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL90004",
+                        "Name": "Insurance Risk Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assignment. Draft due in week 7.",
+            "bullets": [
+                "8 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "David Heath",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours of lectures and/or tutorials per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "dnheath@unimelb.edu.au"
+        }
+    ]
+}

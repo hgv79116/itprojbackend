@@ -1,0 +1,134 @@
+{
+    "overview": [
+        "<p>This subject uses a structured approach to introduce students to the processes and skills which are essential to the conduct of human research in the primary care setting. In a series of 10 x 2 hour workshops and weekly 1 hour tutorials, the following topics will be covered:</p>",
+        "<p>\u2022 Why primary care research is needed<br/>\u2022 Framing research questions for human populations<br/>\u2022 Qualitative and quantitative research methods appropriate to primary care<br/>\u2022 Qualitative and quantitative data analysis<br/>\u2022 Primary care ethics<br/>\u2022 Consumer engagement in research<br/>\u2022 Sensitive issues; sensitive populations<br/>\u2022 Rural health issues<br/>\u2022 Writing for a primary care professional audience<br/>\u2022 Community feedback</p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of the foundations of primary health care.",
+        "Develop a mature understanding of research design and analysis in primary care by participating in the research training program.",
+        "Develop a literature search strategy for generating the research question(s).",
+        "Evaluate research ethics processes and the ethical conduct of research.",
+        "Generate a detailed written research proposal, that includes the identified gaps in the field of study and the methodology used to conduct the research."
+    ],
+    "generic_skills": [
+        "Literature searching, development of research proposal",
+        "Skills in research methods and analysis",
+        "Written and oral communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                    "BH-SCI Bachelor of Science (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENP40000",
+                        "Name": "Primary Care Research Project Part 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research based task of two key primary care researchers (Australian and International) in the area of your thesis topic",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "",
+            "timing": "During Semester One",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Report on literature search strategy",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "",
+            "timing": "During Semester One",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Review of an ethics application",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "",
+            "timing": "During Semester One",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Research proposal",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "",
+            "timing": "During Semester One",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Attendance at weekly tutorials and research training sessions",
+            "bullets": null,
+            "hurdle": "Must meet a minimum of 80% attendance at one-hour weekly tutorials and a series of two-hour research training workshops to pass this subject",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Christine Hallinan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Ms Samantha Parkin",
+            "contact_email": "sparkin@unimelb.edu.au"
+        }
+    ]
+}

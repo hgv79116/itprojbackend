@@ -1,0 +1,140 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>In many projects, it is important for programmers to have fine control over low-level details of program execution, and to be able to assess the cost of a design decision on likely overall program performance. This subject introduces students to a system programming language that gives programmers this kind of control, explores a range of standard data structures and algorithmic techniques, and shows how to apply them to frequently encountered problems.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<ul><li>Introduction to computer organization</li><li>Machine level representation of data</li><li>Programming in a system programming language</li><li>Pointers and dynamic memory allocation</li><li>Program semantics and arguments about correctness</li><li>Induction and recursion</li><li>Basic searching algorithms (linear and binary)</li><li>String algorithms (such as KMP, BMH, and index-based techniques)</li><li>Basic sorting algorithms (such as selection sort, insertion sort, quicksort)</li><li>Basic data structures (such as binary search trees and hash tables)</li><li>Asymptotic complexity</li><li>Standard software development tools such as debuggers.</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Read, write and debug typical small-scale programs in a system programming language such as C",
+        "Discuss, analyse, implement, and apply standard data structures such as linked lists, binary search trees, and hash tables",
+        "Discuss, analyse, and apply a range of sorting and searching algorithms",
+        "Present logical arguments for the correctness of a given algorithm",
+        "Choose between different algorithms for simple problems by analysing their complexity",
+        "Use a command line interface and standard development tools for programming"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "An ability to apply knowledge of basic science and engineering fundamentals."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10003",
+                        "Name": "Media Computation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Achieving at least 75% in a programming competency test."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Problem Sets - 1-Hour (each). Week 2 to Week 9. Each student will be required to complete five exercises out of a total of eight made available, one associated with each of these eight weeks' workshop classes.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "From Week 2 to Week 9",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Quiz, held in Week 5 or Week 6.",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": "Please see below",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Two programming Assignments, 20% each, 20-30 hours each.",
+            "bullets": [
+                "20-30 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "Week 8 and 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jianzhong Qi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours, comprising of three 1-hour lectures and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jianzhong.qi@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Alistair Moffat",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours, comprising of three 1-hour lectures and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ammoffat@unimelb.edu.au"
+        }
+    ]
+}

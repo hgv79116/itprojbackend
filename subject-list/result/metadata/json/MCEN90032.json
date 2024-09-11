@@ -1,0 +1,195 @@
+{
+    "overview": [
+        "<p>This subject deals with principles of physical sensing mechanisms, sensor data processing, sensor networking. It provides an appreciation of challenges in designing and implementing sensor-based solutions in a range of applications.</p>",
+        "<p> <strong>INDICATIVE CONTENT</strong></p>",
+        "<p> Topics covered include:</p>",
+        "<ul><li>Sensors (construction and characteristics)</li><li>Filtering of sensor outputs</li><li>Sensor networks (communication between sensors and coordination of a large number of sensors)</li><li>Case studies.</li></ul>"
+    ],
+    "ilo": [
+        "1. Demonstrate proficiency and deep understanding of the principles and operation, networking and data processing of a range of sensor systems used in mechatronic systems",
+        "2. Demonstrate the capability to implement a sensing system in the face of practical signal noise.",
+        "3. Demonstrate mastery over processing techniques that accommodates the stochastic nature of the practical sensor data",
+        "4. Demonstrate professional communication skills to present technical reports of sensor design exercises and to present information obtained from sensing systems."
+    ],
+    "generic_skills": [
+        "Critical thinking and critical judgement of assumptions adopted",
+        "Abstract mathematical reasoning",
+        "Interpretation and analysis of data",
+        "Application of theory to practice",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution, and",
+        "Be able to clearly communicate the process and outcomes of a technical investigation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN30012Signals and SystemsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5GEOM20013Applying Digital InfrastructureSemester 1 (On Campus - Parkville)12.5MCEN30020Systems Modelling and AnalysisSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOM20013",
+                        "Name": "Applying Digital Infrastructure",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN30020",
+                        "Name": "Systems Modelling and Analysis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMCEN30021Mechanical Systems DesignSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ELEN30013Electronic System ImplementationSemester 2 (On Campus - Parkville)12.5GEOM30012Digital Infrastructure Systems CapstoneSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN30021",
+                        "Name": "Mechanical Systems Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30013",
+                        "Name": "Electronic System Implementation",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOM30012",
+                        "Name": "Digital Infrastructure Systems Capstone",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Either MCEN30014 Mechanical Design or MCEN30019 Mechatronic Systems Design"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1, written individual report. Intended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "13-15 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2, written individual report. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "18-20 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 3, written group report. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "18-20 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One 3 hour written examination at the end of semester. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - On Campus",
+            "principal_coordinator": "Ying Tan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours of lectures, tutorials and workshops.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "yingt@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": "Ying Tan",
+            "mode_of_delivery": "Online",
+            "contact_hours": "48 hours of lectures, tutorials and workshops.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "yingt@unimelb.edu.au"
+        }
+    ]
+}

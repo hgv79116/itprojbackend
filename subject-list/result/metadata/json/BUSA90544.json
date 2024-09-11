@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>It has become increasingly important to know how marketing actions translate into revenue and profit growth. The tools that enable this translation are part of a tool-kit called \u201cmarketing analytics.\u201d Marketing analytics is a technology-enabled and model-supported approach to harness customer and market data to enhance marketing decision-making. This component provides students with (i) knowledge of marketing analytics, (ii) the ability to know which analytics tools to use for which marketing problems, (iii) the ability to use those tools to solve marketing problems, and (iv) the ability to influence marketing outcomes such as satisfaction, choice, loyalty, word of mouth, and customer referrals.</p>"
+    ],
+    "ilo": [
+        "Use marketing models and analyses to understand how marketing actions translate into revenue and profit growth.",
+        "Measure customer preferences using conjoint and choice models.",
+        "Map customers' perceptions of brands in a market, and translate the map into different positioning choices,",
+        "Segment markets of customers using a variety of segmentation methods and choose segments to target using a set of criteria.",
+        "Price products using a variety of pricing methods, and optimize pricing of a product portfolio.",
+        "Model the impact of alternative marketing mixes on sales and profit, and optimise the mix, and optimally allocate marketing budgets across brands and segments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBUSA90540Causal Analytics for BusinessMay (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90540",
+                        "Name": "Causal Analytics for Business",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Syndicate Presentation",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written syndicate assignment",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students are required to pass the final examination to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "October",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "7 October 2024 to 29 November 2024",
+            "last_self_enrol_date": "17 October 2024",
+            "census_date": "25 October 2024",
+            "last_date_to_withdraw_without_fail": "15 November 2024",
+            "assessment_period_ends": "6 December 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

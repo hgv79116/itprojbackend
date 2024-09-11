@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>Clinical Genome Variant Analysis 2 is designed to broaden and further develop the basic understanding and principles of variant interpretation taught in Clinical Genome Variant Analysis 1. Application of software and genomic database for collation of evidence for interpretation will be covered in detail.</p>",
+        "<p>The subject will be taught as an intensive, blended (on-line and face-to-face) subject, commencing in the first half of the semester.</p>",
+        "<p>The subject provides a sound foundation for participation in multidisciplinary clinical discussions on genomic testing and analysis, and would be useful preparatory learning for laboratory scientists and clinical staff training in variant interpretation.</p>",
+        "<p>Completion of Clinical Genome Variant Analysis 1 to a grade of 70% or higher is a prerequisite for this subject.</p>"
+    ],
+    "ilo": [
+        "Interpret human genomic information by using evidence to classify variants based on guidelines; and",
+        "Interpret human genomic information in a clinical setting by describing how the process of clinical genome variant analysis is integral to generation of a clinical report."
+    ],
+    "generic_skills": [
+        "Be proficient in academic writing",
+        "Be confident in public speaking and presenting academic content to an audience",
+        "Be meaningful contributors to teams; working in small and larger group settings",
+        "Demonstrate critical thinking skills in approaching issues in the community",
+        "Use proficient reading skills to inform areas of work",
+        "Operate as responsible, professional and ethical members of the community, offering well-rounded knowledge and skills to benefit society."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE90026",
+                        "Name": "Clinical Genome Variant Analysis 1",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "with a minimum grade of 70% or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online quiz",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Short case studies",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual written summary of group assignment",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Due four weeks after the teaching period.",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written case study",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due four weeks after the teaching period.",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "August",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 X 4-hour face-to-face workshops",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "12 August 2024 to  6 September 2024",
+            "last_self_enrol_date": "16 August 2024",
+            "census_date": "30 August 2024",
+            "last_date_to_withdraw_without_fail": "13 September 2024",
+            "assessment_period_ends": "8 October 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

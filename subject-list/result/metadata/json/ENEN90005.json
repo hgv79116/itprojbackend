@@ -1,0 +1,107 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>Environmental Management ISO 14000 aims to provide students with the skills and knowledge to apply and help develop environmental management systems. The subject builds on the student\u2019s knowledge of risk management, such as that gained in CVEN30008 Risk Analysis, and develops their ability to identify, assess and manage environmental risk that arises from the construction and operation of manufacturing or infrastructure facilities. It also builds on knowledge about sustainability such as is learnt in the subject CVEN90043 Sustainable Infrastructure Engineering, and other management systems such as those learnt in CVEN90045 Engineering Project Implementation.<br/><br/>At the conclusion of the subject, it is expected that students should be able to work under supervision in a capacity where they are responsible for the maintenance of an existing environmental management system, or assist in developing a new system. They should also be in a position to conduct simple internal audits and assist in more complex internal audits. The subject does not provide students with sufficient practice and skills to immediately become an accredited auditor in Australia.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong><br/><br/>Environmental Management ISO 14000 will cover the following related areas of study: the history of EMS from Demming Wheel to ISO 14000 series; the elements of an EMS; systems audit and review and gap analysis; legal requirements, due diligence document control, liability and ISO 9000 review; regulation and accreditation; community consultation; emerging issues in environmental management.<br/><br/></p>"
+    ],
+    "ilo": [
+        "Evaluate  the role of the ISO 14000 series of standards in industry",
+        "Apply elements of the ISO 14001 and ISO 14004 standards",
+        "Identify production processes and likely risks to the environment embodied in such processes",
+        "Use risk management standards to evaluate, review and prioritise the environmental risks of a facility",
+        "Conduct an environmental assessment of an industrial activity",
+        "Conduct an EMS systems audit of a commercial operation"
+    ],
+    "generic_skills": [
+        "Ability to select and apply international engineering standards to a process",
+        "Ability to design and implement a systems-based approach to managing risks",
+        "Ability to apply knowledge of basic risk engineering fundamentals",
+        "In-depth technical competence in both environmental and risk engineering disciplines",
+        "Ability to undertake problem identification, formulation and solution in respect to risk control",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Effective risk communication with senior management, risk engineers team and the community."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Ongoing class engagement. \n\nIn the form of short weekly quizzes completed individually (500 words equivalent quiz responses).  Intended Learning Outcomes (ILOs) 1- 6 are addressed.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Completion of online quiz assessments at the required standards of modules for:\n\nHealth, Safety & Wellbeing Induction and\n\nChemical Management.\n\n(ILO) 3 is addressed.",
+            "bullets": [
+                "2 hours (of work required)"
+            ],
+            "hurdle": "  Students must submit certificates of successful completion to gain access to the designated facilities for Field Trip and Practical activities.\n\n",
+            "timing": "Week 4",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Individual written report  (1,750 words) of an environmental assessment based on research and site observations of a complex activity (Field Trip, conducted about week 4),  with significant environmental interactions.  ILOs 1, 3 - 5 are addressed.",
+            "bullets": [
+                "46 hours (of work required)"
+            ],
+            "hurdle": " Correct use of personal protective equipment is a hurdle requirement for access to the designated Field Trip facility.   ",
+            "timing": "Week 6",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Individual written report (500 words, due in about week 8) on management aspects of visits to designated university (Practical) facility.  Practical conducted in about  week 6.\n\nIndividual engagement is assessed.  \n\nILOs 1- 3 are addressed.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": "Correct use of personal protective equipment is required for access to the designated Practical facility.\n\n ",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual written report (1500 words) of the planning and conduct of an audit of part of an environmental management system of a complex activity with significant environmental interactions.\n\nIndividual engagement in audit activity is assessed.\n\nILOs 1, 2, 6 are addressed.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual quiz relating to the management review of an environmental management system (500 words equivalent quiz responses requiring interpretation of data, due at the start of the exam period). ILOs 1-2 are addressed.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures - 24 hours; Tutorials - 18 hours; Practicals/Field Work -  4  hours.     \n\nHurdle tasks required to join Practicals/Field Work: 2 hours\n\nHurdle tasks relate to online content and associated quizzes required to be completed to mandated standards before admission to designated facilities.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dongryeol  Ryu",
+            "contact_email": "dryu@unimelb.edu.au"
+        }
+    ]
+}

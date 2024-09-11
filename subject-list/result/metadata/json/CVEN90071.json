@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>Offshore wind geotechnical engineering aims to provide basic knowledge and current design practice of offshore wind foundations in the Australian and global context. This subject is of particular interest to students intending to establish a career in the fast growing offshore renewable energy industry. The subject will provide an overview of current offshore renewable energy technologies, characteristics of common offshore sediments and geohazards. It will cover foundation design of offshore wind structures, including loadings on foundations and design considerations, offshore site characterization techniques and soil-structure interaction. Students will also develop their technical and professional ability to work and communicate effectively in diverse offshore engineering teams through a group design portfolio of offshore wind foundation design. <br/> <br/>The subject will cover topics such as offshore renewable energy systems, characteristics of seabed sediments and geohazards, loads on offshore wind foundation, offshore site characterization, and offshore wind foundation design.</p>"
+    ],
+    "ilo": [
+        "ILO1 - Define current offshore renewable energy technologies and systems in the Australian and global context;",
+        "ILO2 -  Describe seabed sediments and geohazards typically encountered in offshore renewable energy developments;",
+        "ILO3 -  Analyse loadings acting on an offshore wind turbine;",
+        "ILO4 -  Interpret the data of an offshore site investigation campaign required for geotechnical design of offshore wind foundations;",
+        "ILO5 -  Evaluate offshore wind foundation and anchor design according to current Design Guidelines."
+    ],
+    "generic_skills": [
+        "Problem-solving skills to conceptualize problems and identify relevant solutions;",
+        "Critical thinking skills to evaluate and approach problem systematically;",
+        "Time-management skills to prioritise and balance tasks;",
+        "Communication skills to convey outcomes effectively using written reports and oral presentations; and",
+        "Teamwork skills to collaborate effectively in a diverse team."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online quizzes- 3 x 20 minutes quizzes in total. Equivalent to 3 x 250 words = 750 words.  Held weeks 4, 6 and 11. 5% each, 15% in total. Intended Learning Outcomes (ILOs) 2, 3 and 5 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group practical - group report. Workload equivalent to 500 words per student. ILO 4 is addressed in this assessment.",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": "In order to pass the subject, participation in the practical session is compulsory.",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group design portfolio: Offshore wind farm foundation design \u2013  group report. Workload equivalent to 750 words per student. ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group design portfolio: Offshore wind farm foundation design \u2013 group presentation. ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final Exam. ILOS 1-5 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Shiaohuey Chow",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (46 hours of lectures/ workshops) and 2 hours practical)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "shiaohuey.chow@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "overview": [
+        "<p>This subject equips students with the foundations and tools needed for a career in business analytics. The subject has five distinct components discussed below.</p>",
+        "<p><strong>Computing and Programming for Business Problems</strong></p>",
+        "<p>Solving problems in business often requires computer programming to manipulate, analyse, and visualise data. This component helps students, with little or no background in computer programming, learn how to design and write programs using a high-level procedural programming language, and to solve problems using these skills. Topics such as cyber security, cyber ethics and privacy regarding the collection of individual data will also be discussed.</p>",
+        "<p><strong>Data Warehousing</strong></p>",
+        "<p>Data warehouses are designed to provide organisations with an integrated set of high quality data to support decision-makers. They should support flexible and multi-dimensional retrieval and analysis of data. Topics covered include data warehousing and decision-making, data warehouse design, data warehouse implementation, data sourcing and data quality, on-line analytical processing (OLAP), dashboards, data warehousing for customer relationship management, and case studies of data warehousing practice.</p>",
+        "<p><strong>Decision Making and Optimisation</strong></p>",
+        "<p>There are an assortment of mathematical methods to obtain efficient solutions to a large variety of complex business problems. This component helps student formulate a business problem as a mathematical model and then use computational techniques to estimate and solve the model. Topics covered may include decision making under uncertainty, optimal location allocation of resources in business processes, decision trees, linear programming, integer linear programming, and Monte Carlo simulations.</p>",
+        "<p><strong>Statistical Learning 1</strong></p>",
+        "<p>With the explosion of available data, statistical learning, which refers to the analysis of complex datasets, has become an important field in many business contexts including marketing, finance, and even human resource management. The aim of this component and the follow-on component in Advanced Business Analytics is to help students learn how to extract relevant information from large amounts of complex data to make improved business decisions. Topics covered in this component include data exploration, resampling methods, linear and nonlinear regression, parametric classification techniques and model selection.</p>",
+        "<p><strong>Personal Effectiveness 1</strong></p>",
+        "<p>This component will be partially integrated into the other components of Business Analytics Foundations and is designed to help students develop the skills and knowledge required to effectively manage the early stages of their career. The \u201cPersonal Effectiveness Program\u201d runs across the course and identifies specific needs of each individual student and then provides ongoing support, training, and opportunities to practice and perfect these skills. The program focuses on three core areas:</p>",
+        "<ol><li>Communication skills: These skills include effective presentations, verbal communication, written communication, public speaking, and communicating technical material to non-technical audiences</li><li>Career development skills: These skills include case practice, interview skills, CV writing, networking, and business etiquette</li><li>Team skills: These skills include managing conflict, cultural awareness, giving and receiving feedback, and resilience</li><li>Business knowledge: these skills include understanding the business and industry context in which analytics professionals operate, understanding how different parts of organisations interact and meeting and networking with business leaders</li></ol>"
+    ],
+    "ilo": [
+        "Read, write, and debug programs to solve business problems.",
+        "Use fundamental programming constructs (sequence, alternation, selection), data structures (arrays, records, lists, associative arrays), abstraction constructs such as functions, and basic algorithms to solve business problems.",
+        "Understand ethical issues regarding privacy and cyber security."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90499",
+                        "Name": "Introduction to Business Problems",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Computing and Programming for Business Problems: A syndicate project expected to take 60 hours",
+            "bullets": [
+                "60 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Computing and Programming for Business Problems: Mid-term test (individual)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Computing and Programming for Business Problems: Final examination (individual)",
+            "bullets": null,
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Data Warehousing: Syndicate project 1 (19 hours each person)",
+            "bullets": [
+                "19 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Data Warehousing: Syndicate project 2 (29 hours each person)",
+            "bullets": [
+                "29 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Data Warehousing: Final examination (individual)",
+            "bullets": null,
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Decision Making and Optimisation: Syndicate project",
+            "bullets": [
+                "1700 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Decision Making and Optimisation: Midterm test (1 hour 15 minutes)",
+            "bullets": [
+                "1.25 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Decision Making and Optimisation: Final examination (individual)",
+            "bullets": null,
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Statistical Learning 1: 3 \u00d7 Individual in-class quiz; Week 3, 5, 7",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Statistical Learning 1: Syndicate assignment",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Statistical Learning 1: Final Examination (individual)",
+            "bullets": null,
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Personal Effectiveness 1: Cover letter and CV",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the assignment to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Personal Effectiveness 1: Individual presentation (there will be regular presentations; the timing for any one student will be determined during the module)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Personal Effectiveness 1: Class participation (attendance at skills workshops, peer and instructor evaluation of contribution to class learning); Continuous",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "May",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "13 May 2024 to  5 July 2024",
+            "last_self_enrol_date": "23 May 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "21 June 2024",
+            "assessment_period_ends": "12 July 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

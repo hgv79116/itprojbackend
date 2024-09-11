@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>This subject (Research Project B) provides students with the opportunity to design and conduct, under supervision, independent research in biomedical science, building on the work completed in Research Project A. Students will take responsibility for a research project, including the design of field and/or laboratory experiments; collection, appropriate statistical analysis, and interpretation of data; and oral and written presentations of the results. The report describing the research will more closely resemble a scientific paper than a traditional thesis. Students will assimilate and critically evaluate new knowledge within a scientific paradigm and communicate that knowledge to others. Students will also develop skills in managing a scientific research project, writing scientific reports, providing and responding to peer reviews, and making an oral presentation. Students will identify an appropriate supervisor and project as part of the application process for the Master of Biomedical Science (MC-BMEDSC).</p>",
+        "<p> </p>",
+        "<p>This subject must be taken in conjunction with Research Project B Part 2 in consecutive semesters.</p>"
+    ],
+    "ilo": [
+        "Conduct substantial research in biomedical and health sciences.",
+        "Design experiments to research a current area of Biomedical science.",
+        "Prepare and give an oral and written presentation of the results.",
+        "Express intellectual, scientific arguments; and",
+        "Assimilate and critically evaluating existing knowledge within a scientific paradigm."
+    ],
+    "generic_skills": [
+        "Articulating the breadth of knowledge gained in a particular discipline;",
+        "Critical appraisal of draft documents; developing the ability to exercise critical judgement;",
+        "Expressing persuasive intellectual arguments;",
+        "High level written report presentations;",
+        "Managing a research project;",
+        "Oral communication and presentation;",
+        "Rigorous and independent thinking; and",
+        "Time management and self-management skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMSC90028",
+                        "Name": "Research Project A (MMS) Part 2",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An oral presentation",
+            "bullets": [
+                "15-20 minutes"
+            ],
+            "hurdle": "Must be completed to a satisfactory standard.",
+            "timing": "Due towards the end of the final semester of the project",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A research report",
+            "bullets": [
+                "20000 words"
+            ],
+            "hurdle": "Must be completed to a satisfactory standard.",
+            "timing": "Due towards the end of the final semester of the project",
+            "percentage": "90%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Lab attendance, behaviour and performance assessed by supervisor near end of each semester of enrolment",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "26 February 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past students, future students, general enquiries"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "22 July 2024 to 20 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "20 December 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

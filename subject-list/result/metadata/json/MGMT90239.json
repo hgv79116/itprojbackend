@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>This subject will focus on quantitative approaches to analyse business problems and based on these analyses, make effective decisions. The subject will explore descriptive analytic, predictive analytic, and prescriptive analytic techniques. Using these techniques, students will develop understanding of a wide variety of strategic and operational business decision problems being faced by managers and decision makers in the fields of financial management, human resource management, marketing management, operations management, and international business management. Students will be expected to be able to calculate and manipulate data as well as interpret the results in order to derive and evaluate alternative solutions to typical business decision problems.</p>"
+    ],
+    "ilo": [
+        "Familiarize themselves with the descriptive analytic, predictive analytic, and prescriptive analytic approaches;",
+        "Acquire an understanding of the application of quantitative approaches to management;",
+        "Formulate various business optimization problems as mathematical models, such as linear programming and integer programming;",
+        "Apply the Excel Solver to solve the mathematical models and analyze the solutions;",
+        "Adopt the decision analysis approach with perfect and sample information to develop an optimal strategy;",
+        "Understand the fundamentals of decision making under uncertainty;",
+        "Recognize the role of probability and probability distributions in evaluating alternative courses of action;",
+        "Analyze past trend in an effort to predict the future by using the regression analysis approaches."
+    ],
+    "generic_skills": [
+        "1 hours"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT90141",
+                        "Name": "Business Analysis and Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly quizzes\n\n10 multiple-choice questions each week",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Reflection on online discussion board participation (requires participation in discussion activities in all 8 weeks)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End of term examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of term",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 January 2024 to 24 March 2024",
+            "last_self_enrol_date": "23 January 2024",
+            "census_date": "16 February 2024",
+            "last_date_to_withdraw_without_fail": "8 March 2024",
+            "assessment_period_ends": "31 March 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "jctyuen@unimelb.edu.au"
+        },
+        {
+            "semester": "Term 3 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 15 September 2024",
+            "last_self_enrol_date": "16 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "22 September 2024",
+            "contact_name": "",
+            "contact_email": "jctyuen@unimelb.edu.au"
+        }
+    ]
+}

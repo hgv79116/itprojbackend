@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>This subject explores the control of diseases on a large scale and the role of animal health surveillance in maintaining the health of human populations. Students will learn about integrated approaches to infectious disease control in animal populations, as well as the epidemiological and biological basis of the methods that are used.</p>"
+    ],
+    "ilo": [
+        "Analyse and implement different techniques used to detect and prevent disease outbreaks",
+        "Compare strategies to monitor and control infectious diseases in animal populations",
+        "Evaluate how the biology of an infectious disease and the host animal impact how we can detect, prevent and control infectious diseases",
+        "Communicate effectively  the principles of animal health as they relate to diagnostic testing and disease control",
+        "Examine how animals are used in research and industry to further understand infectious and non-infectious diseases"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20043",
+                        "Name": "Biochemistry in Agricultural Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "BIOL30005 Animal Disease Biotechnology 2"
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANSC30001",
+                        "Name": "Animal Disease Biotechnology 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Mid semester test",
+            "bullets": [
+                "55 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "In class participation including group work and mini-quizzes",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Alistair Legione",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures (2 hours per week) 36 hours of case studies and practical classes (3 hours per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "legionea@unimelb.edu.au"
+        }
+    ]
+}

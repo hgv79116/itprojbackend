@@ -1,0 +1,81 @@
+{
+    "overview": [
+        "<p>The subject includes lecture and practical components. This lecture component is based on the Inorganic Chemistry lectures from the CHEM30016 course (12 lectures) and those from an approved module relating to Inorganic Chemistry chosen from the topics offered in CHEM30017 (12 lectures). A limited selection of the following topics will be offered, from which students choose one module:<br/>\u2022 Organometallic Chemistry and Catalysis,<br/>\u2022 Metal chemistry: Principles and applications<br/>\u2022 Complex Materials and Biophysical Chemistry,<br/>\u2022 Supramolecular and Structural Inorganic Chemistry,<br/>\u2022 Metal Ions in Biology and Medicine</p>"
+    ],
+    "ilo": [
+        "TextsPrescribed textsC E Housecroft and A G Sharpe,Inorganic Chemistry, 3rd Ed. Pearson Prentice-Hall, 2008.",
+        "Available to Study Abroad and/or Study Exchange StudentsThis subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+    ],
+    "generic_skills": [
+        "TextsPrescribed textsC E Housecroft and A G Sharpe,Inorganic Chemistry, 3rd Ed. Pearson Prentice-Hall, 2008.",
+        "Available to Study Abroad and/or Study Exchange StudentsThis subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30015",
+                        "Name": "Advanced Practical Chemistry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "A non-allowed subject combination normally exists between this subject and CHEM30017 Specialised Topics in Chemistry B. However enrolment in CHEM30017 Specialised Topics in Chemistry B (with a restricted choice of topics) and this subject, may be approved by the subject coordinator."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical component: Ongoing assessment in the form of up to 5 reports due during semester 1",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Lecture Component Option 1: One one-hour end of semester exam (80%) and one to two assignments conducted during the module (20%).",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "brief": "Lecture Component Option 2: Several assignments (written and/or oral) conducted during the module (100%).",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Satisfactory completion of both theory and practical work is necessary to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

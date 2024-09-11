@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>This is the second of a sequence of two subjects (Foundation Mathematics 1 and Foundation Mathematics 2) providing BSc (Ext) students with a foundation in mathematics that prepares students for the Bachelor of Science or a pathway into the Bachelor of Commerce. The content consists of traditional VCE mathematical topics, with a particular emphasis on those topics needed for subsequent studies in the Bachelor of Science and Bachelor of Commerce degree. Applications, examples and problems will be taken from these disciplines.</p>"
+    ],
+    "ilo": [
+        "an understanding of the derivative of a function in terms of limits, the differentiation of polynomial, exponential and logarithmic functions, and maximal and minimal problem solving using stationary points;",
+        "the ability to use differential calculus; by expanding on the concept of a derivative; by exploring continuity, differentiability, the product, quotient and chain rules for differentiation, and the use of differentiation to solve rates of change problems and linear approximations;",
+        "the ability to use basic integral calculus including antidifferentiation; and be able to find the area beneath a curve and between two curves, solve infinite limits, and perform integration to infinity;",
+        "the ability to use basic statistics for different types of variables, including measures of location (median and mode) and spread (range, variance and standard deviation), and be able to present statistical data using charts and tables (using Excel);",
+        "an understanding of the basic concepts in probability, including the addition and multiplication rules, and be able to use various methods for representing probabilities, conditional probability, and an introduction to counting methods (permutations and combinations);",
+        "an understanding of the concept and uses of probability distributions, including discrete probability distributions (eg. the binomial), and continuous probability distributions (the normal). It also introduces of expected value and standard deviation as ways of interpreting real world situations and solving real world problems;",
+        "well-developed communication and group work skills."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team; and",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10014",
+                        "Name": "Foundation Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Six individual assignments (5% each), due fortnightly",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One in class test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "This subject has a minimum hurdle requirement of 75% attendance and regular participation.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sally Kuhlmann",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two x 1-hour lecture (24 lectures) and 2 x 1-hour tutorial per week (24 tutorials).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "s.kuhlmann@unimelb.edu.au"
+        }
+    ]
+}

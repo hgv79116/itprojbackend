@@ -1,0 +1,63 @@
+{
+    "overview": [
+        "<p>The Thesis Workshop builds on knowledge and skills developed in the advanced theory units. It includes a series of seminars in which students further develop their selected research topic and present chapters of their thesis. The objectives of the subject are:</p>",
+        "<ul><li>To provide students with exposure to the work of other PhD candidates at various stages of their research;</li><li>To provide students with guidance on the technology available for the presentation of research results;</li><li>To give students a goal for completion of a stage or chapter of their thesis by requiring them to present their own research results to a seminar group made up of their peers and academic staff;</li><li>To provide students with feedback on their work by their peers.</li></ul>"
+    ],
+    "ilo": [
+        "Identify and demonstrate the skills necessary to successfully complete a PhD thesis;",
+        "Critically analyse and review the research of other academics and peers;",
+        "Provide critical feedback to their peers;",
+        "Apply relevant knowledge and skills in order to motivate research, build a literature review, develop a hypothesis and develop a PhD proposal."
+    ],
+    "generic_skills": [
+        "Problem solving;",
+        "Collaborative learning and team work;",
+        "Critical thinking, both in regard to existing research and the students own work;",
+        "Synthesis of data and research information;",
+        "Evaluation of existing literature relevant to a topic/issue;",
+        "Oral and written communication;",
+        "Accessing data from a range of sources;",
+        "Listen to others with tolerance."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90022",
+                        "Name": "Research Methods",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Seminar presentations and participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

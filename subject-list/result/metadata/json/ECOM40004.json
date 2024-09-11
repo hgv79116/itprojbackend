@@ -1,0 +1,151 @@
+{
+    "overview": [
+        "<p>Features of financial data require specific methods of analysis. Basic econometric tools are presented for the analysis of data such as stock exchange returns, exchange rates, bonds prices, etc. Applications of econometric models in finance include option pricing, extreme values and value at risk as well as financial assets portfolio selection. A special focus is put on modelling and forecasting of returns and volatility of financial assets. An up to date selection time series econometric models and methods is presented. The computer software used is R.</p>"
+    ],
+    "ilo": [
+        "Describe the properties of econometric techniques (such as unit roots, cointegration, ARCH/GARCH and Kalman filters) used in financial analysis",
+        "Apply econometric techniques to test hypothesis in financial economics (such as the efficient markets hypothesis, the theory of speculative efficiency, the capital asset pricing model)",
+        "Evaluate the robustness of results obtained from using econometric techniques on real world financial data",
+        "Analyse results obtained from financial data and explain their implications for economic and financial theory"
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information; use of computer software; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Moderate level of development: collaborative learning; team work.",
+        "Some level of development: oral communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Either:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECOM30002Econometrics 2Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM30002",
+                        "Name": "Econometrics 2",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "A mark of 65% or above in:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECOM30001Basic EconometricsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM30001",
+                        "Name": "Basic Econometrics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM90011",
+                        "Name": "Financial Econometrics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) mark in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Guay Lim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 X 1.5-hour lectures",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "g.lim@unimelb.edu.au"
+        }
+    ]
+}

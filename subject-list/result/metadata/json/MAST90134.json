@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject equips students with the practical skills to apply regression methods to health data using the statistical packages R and Stata, as well as a major emphasis on the interpretation and communication of results. Topics covered include: analysis of continuous outcomes with linear regression; analysis of binary outcomes with logistic and tree-based regression methods; analysis of time-to-event outcomes with Cox and Poisson regression; fitting the aforementioned regression models in the statistical packages R and Stata; interpretation of the different measures of association estimated in each of the regression models; how to adjust for confounding and identify variables that modify measures of association using these regression methods; and purpose of regression modelling (causal vs. predictive).</p>"
+    ],
+    "ilo": [
+        "Demonstrate practical skills when fitting regression models to data using statistical computing software (R and/or Stata)",
+        "Assess the suitability of a regression model with attention to checking the underlying assumptions",
+        "Describe and demonstrate how to adjust for confounding and identify variables that modify measures of association using these regression methods",
+        "Demonstrate the ability to interpret and effectively communicate (including visually) results of regression modelling"
+    ],
+    "generic_skills": [
+        "Independent problem solving",
+        "Facility with abstract reasoning",
+        "Clarity of written expression",
+        "Sound communication of technical concepts"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90130",
+                        "Name": "Critical Thinking with Analytics",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90135",
+                        "Name": "Foundations of Analytics",
+                        "Teaching period": "Term 4 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90295",
+                        "Name": "Designing Analytics Investigations",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to online discussions",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Practical Exercise 1",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "Early term",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Practical exercise 2",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid term",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Major case study assignment",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of term",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

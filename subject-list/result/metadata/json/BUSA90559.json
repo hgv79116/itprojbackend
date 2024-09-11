@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>Sustainability and analytics are dramatically affecting how organisations operate and interact with their stakeholders. This subject provides students with a foundation in sustainability, addressing what it is, its different components and why an organisation\u2019s long-term viability requires incorporating sustainability into its strategy. This subject also addresses the many ways that organisations can benefit from analytics. It also provides a foundation for helping non-technical individuals develop the skills and confidence to interact with and manage analytics staff.</p>"
+    ],
+    "ilo": [
+        "Articulate and critically analyse the effect of sustainability on an organisation's competitive environment, business model, operations and competitive advantage",
+        "Identify key internal and external factors that organisations need to manage to successfully address sustainability in the current environment",
+        "Critically assess the potential benefits of analytics on an organisation's operations and competitive advantage"
+    ],
+    "generic_skills": [
+        "Critical thinking, analytical and problem-solving skills",
+        "Communication skills",
+        "Effective evidence-based decision-making skills",
+        "Organisational skills",
+        "Team working skills",
+        "Commercial awareness and business acumen"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90556",
+                        "Name": "Business Foundations for Managers",
+                        "Teaching period": "September (Online)March (Online)October (Online)May (Online)July (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90557",
+                        "Name": "Leadership in a Changing World",
+                        "Teaching period": "July (Online)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to class learning",
+            "bullets": [
+                "400 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Quizzes",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "2 x Individual Assessments",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual assessment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "students are required to pass this assignment to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

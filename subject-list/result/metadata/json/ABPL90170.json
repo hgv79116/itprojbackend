@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>A studio-based subject that engages with large scale landscapes. GIS applications are introduced as a tool for exploring ecological and cultural systems across multiple scales to inform better planning, design and development strategies for sustainability.</p>",
+        "<p><strong>Incidental costs:</strong></p>",
+        "<p>Students will be required to design and print A1 or A0 size drawings for pin-up presentations and crits; cost approx. $240 to $300 per person.<br/><br/><strong>Prescribed software programs with no cost</strong><br/>ESRI ArcGIS Pro<br/><br/>Details of software availability and pricing are captured at: <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support\">https://msd.unimelb.edu.au/current-students/student-experience/it-support</a></p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "The processes of conducting landscape assessment and landscape planning;",
+        "Technical skills (GIS) as required for broad scale landscape analysis and assessment;",
+        "Exploring ecological and cultural systems across multiple scales to inform better planning and design strategies;",
+        "Strategic planning that engages with sustainable urban growth at regional or metropolitan scales;",
+        "Comprehensive planning at suburban level that integrates broader urban and landscape issues, especially issues of ecological and economic concern."
+    ],
+    "generic_skills": [
+        "Exploration of comprehensive mapping techniques.",
+        "Creative application of specialist software (GIS).",
+        "Development of strategic design decisions.",
+        "Ability to respond to cultural, ecological and spatial contexts.",
+        "Ability to apply skills in design research.",
+        "Creative response to complex problem."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "200pt Program course entry point in the MC-LARCH Master of Landscape Architecture",
+                    "300pt Program course entry point in the MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                    "300pt Program course entry point in the MC-LARCHUD Master of Landscape Architecture/Master of Urban Design",
+                    "300pt Program course entry point in the MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsABPL90172Landscape Studio 3 SpeculationsSemester 1 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90172",
+                        "Name": "Landscape Studio 3 Speculations",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: This assessment demonstrates students' understanding of the social, cultural and economic aspects of landscape values and the assessment of these values using GIS-based overlay analysis and spatial modelling techniques.",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2: This assessment demonstrates students' understanding of evidence-based design, planning and management of regional landscape.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment  3: This assessment demonstrates students' understanding of site analysis and appraisal, and strategic planning and design for sustainability at suburb scale.",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Siqing Chen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1x1 hour lecture  and 2 x 3 hour studios per week",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "chens@unimelb.edu.au"
+        }
+    ]
+}

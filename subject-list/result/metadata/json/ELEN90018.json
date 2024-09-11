@@ -1,0 +1,56 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject is intended to give students a rigorous introduction to a selection of foundational mathematical tools and techniques commonly employed in electrical, electronic and systems engineering.<strong><br/><br/>INDICATIVE CONTENT</strong></p>",
+        "<p>The course content will include a selection of topics from:</p>",
+        "<ul><li>Optimisation;</li><li>Graph theory and combinatorics;</li><li>Probability theory;</li><li>Measure theory;</li><li>Functional analysis;</li><li>Basic topology and geometry.</li></ul>"
+    ],
+    "ilo": [
+        "The ability to formulate a range of practical engineering problems in an appropriate mathematical framework",
+        "The ability to apply standard results from optimisation theory, probability theory and/or functional analysis to solve a range of relevant problems",
+        "An understanding of the usefulness of mathematics, and the importance of rigour"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity;",
+        "Openness to new ideas and unconventional critiques of received wisdom;",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment, consisting of written homework assignments and/or project work or presentations, not exceeding 30 pages in total (addressing ILOs 1-3)",
+            "bullets": [
+                "55-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination (addressing ILOs 1-3)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

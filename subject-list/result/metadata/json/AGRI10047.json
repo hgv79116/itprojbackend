@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>In this subject, students will explore world food supply and demand, the development of agriculture globally and in Australia, the natural and market conditions that determine the nature of agricultural activity in Australia, along with the key elements of farming and farm businesses that determine how they perform.</p>"
+    ],
+    "ilo": [
+        "Understand the structure and operation of agricultural production in Australia",
+        "Have an understanding of the principal factors that determine location, environmental impact, sustainability, profitability and international competitiveness of agricultural activities and farm businesses",
+        "Understand the whole farm, approach to analysing the performance of farm systems",
+        "Understand how agricultural value chains change farm product to meet consumer needs and wants in terms of form, time and place"
+    ],
+    "generic_skills": [
+        "Explain their understanding of agricultural production systems lucidly, both in writing and orally",
+        "Review and evaluate readings relating to global food issues and agricultural production",
+        "Participate as an effective member of a group in tutorial discussions, and study groups",
+        "Work as part of a team to complete a group assignment",
+        "Think independently and analytically, and direct his or her own learning",
+        "Manage time effectively in order to be prepared for regular tutorial classes, tests and the examination"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10053",
+                        "Name": "Agriculture Discovery",
+                        "Teaching period": "February (On Campus - Dookie)",
+                        "Credit Points": "0"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment based on farm visit due in approximately week 4",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Mid-semester test due in approximately week 8",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Bill Malcolm",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 Hours. 12 x 2hr lectures and 12 x 1 hr Tutorial.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "b.malcolm@unimelb.edu.au"
+        }
+    ]
+}

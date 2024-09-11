@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>Completion of the research project is intended to give students an appreciation of the processes involved in research, practical skills development, and the capacity to evaluate published research in the field of interest. As advised by the supervisor, the student studies appropriate research methodology and carries out a review of relevant literature and research for an investigative study resulting in the preparation of a report. The project offers students the opportunity to study in more depth themes discussed in previous subjects, and to apply these to an area of particular interest. The work should be a new study or development of an already existing study, which may involve collecting primary data from the field, evaluating or formulating a construct, or making a theoretical contribution. The result should give clear evidence of research skills and critical judgment.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of contemporary issues in educational psychology, particularly differential development, learning processes and social processes in development;",
+        "Use assessment and observation procedures and interpret findings to gain accurate information on the cognitive, social, emotional and personality development of children and adolescents;",
+        "Compose reports to other professionals;",
+        "Evaluate critically and interpret research and theory in this field, and carry out research and program evaluation of their own;",
+        "Understand and apply ethical principles and procedures."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsEDUC90220Research MethodsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90220",
+                        "Name": "Research Methods",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research Proposal",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": "A minimum of a pass grade is required in this assessment task.",
+            "timing": "Early Semester 1",
+            "percentage": "15%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Submission of a successful ethics application (with external review) or statement (with internal review)",
+            "timing": "Early Semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Literature Review",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": "A minimum of a pass grade is required in this assessment task.",
+            "timing": "End of Semester 1",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Oral presentation of abstract (1000 words equivalent)",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": "A minimum of a pass grade is required in this assessment task.",
+            "timing": "End of Semester 2",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Report presented as a publishable article",
+            "bullets": [
+                "8000 words"
+            ],
+            "hurdle": "A minimum of a pass grade is required in this assessment task.",
+            "timing": "End of Semester 2",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at all tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours including individual supervision",
+            "total_time_commitment": "680 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "b.deery@unimelb.edu.au"
+        }
+    ]
+}

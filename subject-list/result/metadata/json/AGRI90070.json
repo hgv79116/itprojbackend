@@ -1,0 +1,150 @@
+{
+    "overview": [
+        "<p>This subject enables students to conduct an original research topic under supervision, as approved by an academic project supervisor. The work commitment over one semester will be equivalent to lecture and practical based subjects worth 25 points. The content and extent of the project will be determined by a project supervisor in consultation with the student and subject coordinator. Students are strongly encouraged to initiate project ideas within existing networks or to identify a project topic of keen interest, through discussion with Faculty staff, prior to subject commencement. The project represents a capstone subject and comprises a review of a body of relevant literature, together with a critical evaluation of research or experimental protocols, a modest original experiment, or limited exploration of a scientific problem, or an investigation into a problem using an approved methodology. Following an initial workshop to establish subject expectations, deliverables and skill base requirements, projects will generally involve regular meetings with their supervisor where students report on progress, difficulties and research plans. Other workshops will deliver skill development in oral and written report presentation.</p>",
+        "<p> </p>",
+        "<p>If you wish to complete the Minor Project over 1 year please enrol in AGRI90079 Minor Research Project Part 1 AND AGRI90081 Minor Research Project Part 2.</p>"
+    ],
+    "ilo": [
+        "Undertake a minor original research project as a capstone learning activity on a topic in a Faculty-supported disciplinary area",
+        "Integration and application of disciplinary knowledge and skills to an independently generated research question and investigation",
+        "Analyse and synthesise salient features and important theoretical, methodological and empirical trends in published literature and data",
+        "Present research findings in clear, concise and persuasive written and verbal forms"
+    ],
+    "generic_skills": [
+        "Capacity to articulate knowledge and understanding in oral and written presentations and to allow informed dialogue with individuals and groups from industry, government and the community",
+        "Ability to evaluate and synthesise the research and professional literature in the discipline",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning and research"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI90075",
+                        "Name": "Research Methods For Life Sciences",
+                        "Teaching period": "Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NRMT90003",
+                        "Name": "Social Research Methods",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Undertaking a research project is conditional upon obtaining approval from a supervisor. Details regarding to the research area of academic supervisors and enrolment method, please visithttps://science.unimelb.edu.au/students/plan-your-study/agriculture-food-science-research-projects"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI90072",
+                        "Name": "Major Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    },
+                    {
+                        "Code": "AGRI90079",
+                        "Name": "Minor Research Project Part 1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI90080",
+                        "Name": "Major Research Project Part 1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AGRI90081",
+                        "Name": "Minor Research Project Part 2",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI90082",
+                        "Name": "Major Research Project Part 2",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This course requires all students to actively and safely participate in field excursions and laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project Proposal due Monday 9.00am of week 5",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "Students must pass the project proposal",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final Report due immediately after the SWOTVAC period",
+            "bullets": [
+                "7500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Oral Presentation due in Week 12",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Pangzhen Zhang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One hour per week class time, scheduled supervisor meetings plus individual project work. Meeting frequency / duration to be agreed with the project supervisor.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "pangzhen.zhang@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Pangzhen Zhang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One hour per week class time, scheduled supervisor meetings plus individual project work. Meeting frequency / duration to be agreed with the project supervisor.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "pangzhen.zhang@unimelb.edu.au"
+        }
+    ]
+}

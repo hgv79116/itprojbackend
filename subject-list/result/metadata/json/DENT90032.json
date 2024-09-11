@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>Building on skills developed in DENT90031 Research Design 1, this subject will provide students with the opportunity to formulate a research question and develop a research proposal. This subject will provide students with the practical knowledge required to design and plan a research project with consideration given to the process and requirements of ethics approval and selection of appropriate research methods. Students will also enhance their oral and written communication skills as they present components of their proposal across the semester for supervisor and peer feedback.</p>",
+        "<p>In the second year of the Graduate Diploma in Clinical Dentistry (Implants), the students will implement the project they designed in this subject.</p>"
+    ],
+    "ilo": [
+        "Describe the theoretical concepts behind a range of qualitative and quantitative data analysis techniques"
+    ],
+    "generic_skills": [
+        "Communicate advanced concepts in written and oral form;",
+        "Exercise responsibility for their own learning;",
+        "Manage their time effectively."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DENT90031",
+                        "Name": "Research Design 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation: Research question",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Research question",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Essay: Research methodology",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral presentation: Research proposal",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Summary of project plan included data analysis",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1-hour lecture each week plus three hours of non-contact private study each week.",
+            "total_time_commitment": "197 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Currently enrolled students:",
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Paolo Cattaneo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1-hour lecture each week plus three hours of non-contact private study each week.",
+            "total_time_commitment": "197 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Currently enrolled students:",
+            "contact_email": null
+        }
+    ]
+}

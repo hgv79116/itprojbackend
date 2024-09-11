@@ -1,0 +1,135 @@
+{
+    "overview": [
+        "<p><strong>This subject is for Exchange students needing to do a one semester project.</strong></p>",
+        "<p>The subject involves undertaking a substantial project requiring an independent investigation on an approved topic in advanced engineering design or research.</p>",
+        "<p>The emphasis of the project can be associated with either -</p>",
+        "<ul><li>A well-defined project description, often based on a task required by an external, industrial client. Students will be tutored in the synthesis of practical solutions to complex technical problems within a structured working environment, as if they were professional engineering practitioners; or</li><li>A project description that will require an explorative approach, where students will pursue outcomes associated with new knowledge or understanding, within the mechanical science disciplines, often as an adjunct to existing academic research initiatives.</li></ul>",
+        "<p>It is expected that the project will incorporate findings associated with both well-defined professional practice and research principles.</p>"
+    ],
+    "ilo": [
+        "Successfully complete an engineering project;",
+        "Effectively communicate the outcomes of various stages of an engineering project;"
+    ],
+    "generic_skills": [
+        "Critical thinking and critical judgement of assumptions adopted",
+        "Interpretation and analysis of data",
+        "Application of theory to practice",
+        "Ability to communicate effectively, not only with engineers but also with the community at large",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Understanding of the social, cultural, global and environmental responsibilities of the professional engineer, and the need for sustainable development",
+        "Understanding of the principles of sustainable design and development",
+        "Understanding of professional and ethical responsibilities and commitment to them",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Openness to new ideas and unconventional critiques of received wisdom",
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90012",
+                        "Name": "Design for Manufacture",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "MCEN90013",
+                        "Name": "Design for Integration",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "All of"
+            },
+            {
+                "type": "paragraph",
+                "content": "MCEN90024 Mechatronics Design"
+            },
+            {
+                "type": "paragraph",
+                "content": "MCEN90011 Manufacturing Systems"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent subjects as approved by the subject coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One final report, as agreed at the outset of the project between the student and the academic supervisor, in a Scope of Works document.",
+            "bullets": [
+                "170-200 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Submitted at the end of the project",
+            "percentage": "80%"
+        },
+        {
+            "brief": "One verbal defence of the results and contributions of the project. Formal presentation of 20 minutes, questions 20 minutes.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Bagus Nugroho",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "8 hours",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "bagus.nugroho@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Bagus Nugroho",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "8 hours",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "bagus.nugroho@unimelb.edu.au"
+        }
+    ]
+}

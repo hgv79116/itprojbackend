@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to the theory, experimental design and practice of techniques used in molecular biology and genetic analysis. Students work collaboratively to perform a series of laboratory-based practicals to explore fundamental principles in genetics and molecular genetic analysis of microorganisms and higher organisms.  A key component of this subject is the development of analytical skills associated with the interpretation of genetic data and the communication of results.</p>"
+    ],
+    "ilo": [
+        "describe the theoretical basis of techniques used in molecular biology and genetic analysis;",
+        "perform experiments to investigate gene function, test gene interactions and characterise gene expression;",
+        "analyse and interpret experimental data and apply appropriate statistical analyses to complex datasets",
+        "collate and present data in a scientific format; and",
+        "evaluate and solve molecular and genetics-based problems"
+    ],
+    "generic_skills": [
+        "Problem-solving skills: ability to work in small groups or individually to solve problems",
+        "Analytical skills: capacity to follow detailed experimental protocols to generate, collect and analyze experimental data",
+        "Communication skills: ability to ccommunicate experimental outcomes in a clear, concise and accurate manner",
+        "Collaborative skills: capacity to work in small groups to perform experiments, solve problems and communicate research findings",
+        "Time management skills: ability to plan effective work schedules to accomplish laboratory tasks and to meet deadlines."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE20001",
+                        "Name": "Foundations of Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Participation in pre-workshop preparation by submitting multiple choice/short answer quiz responses (x10), 10 minutes per quiz, weekly throughout semester",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": "Participation in 80% of preparation activities ",
+            "timing": "Throughout the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Three individual written tasks related to practical material due in week 4, 8 and 12 (10% each)",
+            "bullets": [
+                "600 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 4,8,12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group Assignment involving the preparation of a poster",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A 2-hour written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An individual in-class or online multiple-choice/short-answer test",
+            "bullets": [
+                "50 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "John Golz",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of workshops (1 x two hour workshop per week); 36 hours of practical classes (1 x three hour practical class per week); 24 hours of online work (two hours per week) including preparation for workshops, practical classes, independent learning tasks and non-assessed quizzes.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jgolz@unimelb.edu.au"
+        }
+    ]
+}

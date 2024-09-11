@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p><strong>This subject was formerly known as Construction Design. </strong></p>",
+        "<p>This subject articulates and tests the idea of construction as a process requiring cultural and technical choices. While Construction Analysis focuses on the internal mechanics of building systems, Architectural Tectonics moves from the analysis of specific architectural ideas to arrive at the evaluation and selection of implementation alternatives. Mixing built examples and project proposals, students will be shown how to identify, evaluate and engage with the technological underpinnings of architecture.</p>"
+    ],
+    "ilo": [
+        "Demonstrate the ability to interpret construction documentation as it applies to non-domestic buildings.",
+        "Define core architectural technology terms and concepts and relate these to varying contexts.",
+        "Use and demonstrate independent and industry-focussed research techniques.",
+        "Evaluate the factors, challenges and preferences that influence a construction design response.",
+        "Analyse, evaluate and communicate information via a critically constructed method."
+    ],
+    "generic_skills": [
+        "Ability to seek knowledge through a range of sources;",
+        "Ability to synthesise knowledge from a range of fields;",
+        "Ability to communicate knowledge in a critically informed manner;",
+        "Ability to understand performance, social, cultural, economic and environmental contexts and relevant communication methods;",
+        "Ability to undertake problem identification, formulation and solution."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL20033",
+                        "Name": "Architectural Technology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL20042",
+                        "Name": "Construction of Residential Buildings",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Technical Representation Drawing & Modelling \u2013 Stage 1 (Graphic, models, written submission)",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Technical Representation Drawing & Modelling \u2013 Stage 2 (Graphic, models, written submission and presentation)",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Technical Representation Drawing & Modelling \u2013 Stage 3 (Graphic, models, written submission and presentation)",
+            "bullets": [
+                "1400 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to end of semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Quizzes",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Blair Gardiner",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1X2  hour lecture and  1x2 hour tutorial per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "b.gardiner@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1X2 hour lectures and 1x2 hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Katie Skillington",
+            "contact_email": "katie.skillington@unimelb.edu.au"
+        }
+    ]
+}

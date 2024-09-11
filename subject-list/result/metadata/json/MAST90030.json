@@ -1,0 +1,82 @@
+{
+    "overview": [
+        "<p>The subject consists of three main topics. The bijective principle with applications to maps, permutations, lattice paths, trees and partitions. Algebraic combinatorics with applications rings, symmetric functions and tableaux. Ordered sets with applications to generating functions and the structure of combinatorial objects.</p>"
+    ],
+    "ilo": [
+        "an advanced knowledge of advanced discrete mathematics topics drawn from: Ramsey theory, graph theory, posets and lattices, enumeration, integer partitions, combinatorial designs, and finite geometries;",
+        "the ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30011Graph TheorySemester 1 (On Campus - Parkville)12.5MAST30012Discrete MathematicsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30011",
+                        "Name": "Graph Theory",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30012",
+                        "Name": "Discrete Mathematics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 36 pages of written assignments (four assignments worth 9% each)",
+            "bullets": [
+                "36 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "36%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "64%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,144 @@
+{
+    "overview": [
+        "<p>Students should:</p>",
+        "<ul><li>understand the issues involved in developing product strategies, including related services marketing issues</li><li>develop the analytical skills necessary when using market research and developing sound product related decisions</li><li>gain a conceptual framework for organising thinking about product related problems</li><li>understand the marketing or product manager's role in developing product strategies</li></ul>"
+    ],
+    "ilo": [
+        "alternative strategies for conceptualising products and identifying product-markets",
+        "how product decisions may contribute to creating competitive advantage",
+        "how to analyse industries, make changes in product strategies over time, and respond to competitive moves",
+        "the issues involved in the development and management of new products, including proactive versus reactive approaches to product development, market entry considerations, product positioning, value-based pricing methods, and the design and market testing of new products",
+        "how to manage product lines, with particular attention paid to evaluating potential synergies among products",
+        "the relationship of product decisions to other marketing decisions involving price, promotion and distribution channels",
+        "special topics in product management, including legal constraints and organisational issues"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90001",
+                        "Name": "Financial Accounting",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90026",
+                        "Name": "Business Strategy",
+                        "Teaching period": "July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)April (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90060",
+                        "Name": "Data Analysis",
+                        "Teaching period": "January (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90074",
+                        "Name": "Global Business Economics",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90093",
+                        "Name": "Finance",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90193",
+                        "Name": "Managerial Economics",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90224",
+                        "Name": "Managing People",
+                        "Teaching period": "April (On Campus - Parkville)January (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90227",
+                        "Name": "Operations",
+                        "Teaching period": "April (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90243",
+                        "Name": "Marketing",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90481",
+                        "Name": "Managerial Ethics & Business Environment",
+                        "Teaching period": "April (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class participation and assessment",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One page individual case write-ups",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Syndicate oral analysis",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Midterm test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": []
+}

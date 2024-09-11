@@ -1,0 +1,82 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the fundamental philosophical and theoretical issues underlying different research paradigms in Management and Marketing.  Topics include: ontology, epistemology, axiology and methodology; the philosophy of science; the philosophy of social science; the nature of social inquiry; different paradigmatic approaches to understanding reality, including positivism, critical realism, social constructionism, and radical alternatives; and the nature of theory and the theory building process. The focus will be on understanding research as a social process where philosophical and theoretical issues have important implications for how we undertake research and for the legitimacy of our knowledge claims. The subject will also teach students academic writing skills to effectively make a case for their research.</p>"
+    ],
+    "ilo": [
+        "Understand the ontological and epistemological foundations of knowledge",
+        "Understand the diversity of ways of knowing reality and what they mean for research practice",
+        "Appreciate the importance of the philosophy of social science for the practice of research",
+        "Understand nature of theory and the theory building process",
+        "Understand the research process as a contested social process",
+        "Learn effective academic writing skills"
+    ],
+    "generic_skills": [
+        "Problem solving skills, which should be enhanced through the study of research design and research methods",
+        "Writing skills appropriate for the preparation of academic articles and research reports in Management and Marketing, including the doctoral thesis",
+        "Analytical skills, which should be developed through the evaluation of quantitative and qualitative empirical research literature"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-COMMGMT Master of Commerce (Management)",
+                    "MC-COMMKTG Master of Commerce (Marketing)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class participation",
+            "bullets": [
+                "36 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual assignment",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "End of semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Bill Harley",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (one 3 hour seminar per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "bharley@unimelb.edu.au"
+        }
+    ]
+}

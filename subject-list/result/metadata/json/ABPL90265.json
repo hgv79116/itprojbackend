@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p><strong>This subject was formerly called History of Designed Landscape (PG).</strong></p>",
+        "<p>A critical examination of landscape architecture as a discipline that has shaped public and private landscapes through time. Philosophies and theories relating to design and associated professions are discussed in relation to the evolution of landscape architecture on the international scene. The history of landscape architecture in Australia is contextualised and the Australian contemporary landscape is considered as a product of its colonial and twentieth century cultural contexts.</p>"
+    ],
+    "ilo": [
+        "Demonstrate knowledge of the discipline of landscape architecture and the critical historical moments that defined it as a profession;",
+        "Understand the formative cultural, natural and physical influences which have affected the landscape design outcomes in the past;",
+        "Understand how to apply historical development of landscape architecture on the international scene within the context of the Australian condition;",
+        "Develop an understanding of research methods and skills for the critical appraisal of designed landscapes."
+    ],
+    "generic_skills": [
+        "MC-LARCH3Y Master of Landscape Architecture",
+        "300 point Master of Landscape Architecture major in the MC-LARCH Master of Landscape Architecture"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-LARCH3Y Master of Landscape Architecture",
+                    "300 point Master of Landscape Architecture major in the MC-LARCH Master of Landscape Architecture"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the MC-LARCH Course coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LARC30002",
+                        "Name": "Interpreting Australian Landscape Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ABPL10006\t History of Landscape Design"
+            },
+            {
+                "type": "paragraph",
+                "content": "ABPL20039\t History of Designed Landscapes"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An assignment exploring the formative biographical influences in the context of a chosen historical character and their contribution to the designed landscape of international or national significance.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An assignment exploring an historic landscape in the field and its physical expression of cultural and natural contexts.",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A report applying methods of historical research and analysis to the examination of designed or planned landscapes that have shaped the profession.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final exam of not more than 90 minutes",
+            "bullets": [
+                "90 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Andrew Saniga",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours: 1 x 2 hour lecture and  1 x 1 hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "ajsaniga@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>The subject considers the nature and operation of investment markets with a focus on three major asset classes; shares, bonds and property. It looks at the characteristics of these different investment options, especially in terms of the risks and returns associated with each. The module also introduces basic financial mathematics involving the time value of money, calculation of present and future values, and the computing of rates of return for investments or projects with property as a context. An introduction to the interpretation, analysis and use of financial statements (profit and loss statements, cash-flow statements and balance sheets) is provided. Finally, it considers the application of appropriate accounting and regulatory standards in interpretation of financial statements.</p>",
+        "<p><strong>Incidental costs</strong></p>",
+        "<p>A financial calculator is required, specifically the HP10bii+. The cost is approximately $65.</p>"
+    ],
+    "ilo": [
+        "Comprehend what makes a developed financial system",
+        "Distinguish between the basic types of financial instruments and their sources and users;",
+        "Apply financial mathematical techniques to analyse financial instruments and built investments;",
+        "Understand the role of risk and uncertainty in financial decision-making;",
+        "Analyse and design lending and borrowing solutions;",
+        "Apply and evaluate finance and investment techniques as strategic decision-making tools for the design and built environment."
+    ],
+    "generic_skills": [
+        "Define a problem",
+        "Identify the correct method of interpreting data and solving problem",
+        "Synthesise knowledge and interpret the appropriateness of the solution",
+        "Identify an issue and learn to discuss in a reflective manner"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL20052",
+                        "Name": "Investment and Finance for Property",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short answer quiz",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Report on asset classes",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Investment scenario \u2013 Peer reviewed group work",
+            "bullets": [
+                "1600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1X2 hour  lecture  and 1x1 hour  tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

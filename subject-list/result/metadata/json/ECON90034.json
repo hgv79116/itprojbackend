@@ -1,0 +1,123 @@
+{
+    "overview": [
+        "<p>This subject examines important features of financial markets, illustrating how economic analysis can aid understanding of those features. Topics considered may include: payments systems (drawing on network economics); security issuance techniques (drawing on auction theory); credit rationing (drawing on asymmetric economics); financial market regulation (drawing on the theory of regulation); macroeconomic determinants of financial prices; flow of funds analysis and long term influences on saving, investment and financial markets (such as retirement incomes policy); international debt defaults and enforcement and international agencies.</p>"
+    ],
+    "ilo": [
+        "Apply economic theories to sharemarket and financial market situations;",
+        "Evaluate macroeconomic policy in relation to current issues;",
+        "Explain the importance of competition to the sharemarket performance of firms;",
+        "Interpret the meaning and measurement of economic variables, such as the Gross Domestic Product;",
+        "Explain the economic forces that determine sharemarket performance;",
+        "Describe the roles of money and the financial system in the macroeconomy;",
+        "Critically analyse macroeconomic policies appropriate to the achievement of macroeconomic objectives and to evaluate those policies;",
+        "Analyse the factors influencing economic growth, exchange rates, and interest rates."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision making",
+        "Accessing economic and other information",
+        "Summarise and interpretation of information",
+        "Application of windows software",
+        "Statistical reasoning",
+        "Problem solving skills",
+        "Collaborative learning and teamwork",
+        "Negotiation and bargaining",
+        "Written communication",
+        "Oral communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-FINANCE Master of Finance",
+                    "MC-FINENH Master of Finance (Enhanced)",
+                    "MC-AEMTRCS Master of Applied Econometrics",
+                    "MC-AECOENH Master of Applied Econometrics (Enhanced)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "7.5%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 3",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "7.5%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Svetlana Danilkina",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours per week of lectures and tutorials",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "sdanilki@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Svetlana Danilkina",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours per week of lectures and tutorials",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "sdanilki@unimelb.edu.au"
+        }
+    ]
+}

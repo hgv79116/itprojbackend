@@ -1,0 +1,90 @@
+{
+    "overview": [
+        "<p><strong>This subject has been designed and developed for online delivery and assessment only.</strong></p>",
+        "<p>This <em>online</em> subject will provide students with an overview of research methods used in the creative arts therapies context. This will include understanding different worldviews and the beliefs and values that are congruent with diverse approaches to research. Students will be challenged to consider the relevance of different approaches for discovering new knowledge relevant to the creative arts therapies.</p>",
+        "<p>Students will delineate quality criteria relevant for different research approaches across paradigms; identify and explain ethical issues related to research in creative arts therapies; discuss and debate current issues in creative arts research for health and wellbeing.</p>",
+        "<p>Assessment will include: a written report, evaluating the quality of two research articles using appropriate assessment criteria, a written research proposal for a specified creative arts program as well as completing a modified research ethics application for the proposed project.</p>",
+        "<p><strong>Delivery</strong></p>",
+        "<p>This subject is co-delivered with MUSI90037 Research in Music Therapy.</p>"
+    ],
+    "ilo": [
+        "delineate quality criteria relevant for different research approaches across paradigms;",
+        "identify and explain ethical issues related to research in creative arts therapies;",
+        "discuss and debate current issues in creative arts research for health and wellbeing."
+    ],
+    "generic_skills": [
+        "model respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "engage in rigorous and respectful debate;",
+        "interpret and present data logically and effectively;",
+        "manage competing demands on time, including self-directed project work;",
+        "demonstrate a commitment to intellectual curiosity and to staying well-informed."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CREA90003",
+                        "Name": "Evaluation of Wellbeing in Creative Arts",
+                        "Teaching period": "Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written report on two research articles using appropriate assessment criteria .",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written research proposal for a specified creative arts therapy program.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Completed research ethics form for the proposed project.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours, comprising regular tutorials and asynchronous online lecture materials and content",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "k.mcferran@unimelb.edu.au"
+        }
+    ]
+}

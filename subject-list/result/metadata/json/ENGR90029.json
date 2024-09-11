@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject forms one of the core units in the Masters of Energy Systems and the overall aims are to introduce the students to the tools and skills needed to analyse energy systems. To accomplish this overall aim, the subject introduces material and energy balances used in energy system calculations, and introduces and applies the Laws of Thermodynamics to simple energy systems.<br/><br/>This subject, together with ENGR90028 Introduction to Energy Systems, ENGR90030 Non-Renewable Energy, SCIE90014 Renewable Energy and ENGR90032 Energy Supply and Value Chains provide the core technical content for the Masters of Energy Systems.</p>",
+        "<p>The ability to analyse existing or new proposed energy systems is essential in assessing the merits and economics of our energy supply. This subject gives the students the opportunity to learn and apply these fundamental tools and skills with relevant and realistic energy systems.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Thermodynamic properties</li><li>Equations of state</li><li>The conservation of energy in and around energy processing systems</li><li>Evaluation of enthalpy changes with and without phase change</li><li>Simplified energy balances for batch, steady-state and adiabatic systems</li><li>Estimation of heats of combustion</li><li>Simultaneous material and energy balances</li><li>Entropy, the Second Law of Thermodynamics and Carnot\u2019s principle</li><li>Simple thermodynamic cycles</li><li>Exercises in process optimisation and the solution of ill-defined process problems.</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Draw flowsheets for appropriate energy systems",
+        "Calculate energy and mass flows within such systems",
+        "Appreciate the theoretical limits on device performance and determine thermodynamic efficiencies if proposed systems",
+        "Perform process optimisation and solve ill-defined process problems related to energy systems."
+    ],
+    "generic_skills": [
+        "Ability to apply scientific fundamentals",
+        "Ability to communicate effectively with the community at large",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to use a systems approach to the analysis of operational performance",
+        "Understanding of the social, cultural, global and environmental responsibilities of a professional, and the need for sustainable development",
+        "Understanding of the principles of sustainable design and development."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEN20010Material and Energy BalancesSemester 1 (On Campus - Parkville)12.5CHEN20011Digitisation in the Process IndustriesSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20010",
+                        "Name": "Material and Energy Balances",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEN20011",
+                        "Name": "Digitisation in the Process Industries",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four assignments (10% per assignment); each of no more than 10 pages. (13-15 hours per assignment). Intended Learning Outcomes (ILOs) 1 to 4 are addressed in the assignments",
+            "bullets": [
+                "45-55 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One written exam. ILOs 2 and 3 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "A mark of 40% or more in the end of semester examination is required to pass the subject",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

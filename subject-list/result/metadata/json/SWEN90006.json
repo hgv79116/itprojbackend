@@ -1,0 +1,155 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Software is present in almost every part of our lives, and continues to change the world. Of importance to users is that software is correct, secure, reliable and efficient. The scale and complexity of most software ensures that achieving these qualities is non-trivial. This subject introduces students to the software engineering principles, processes, tools and techniques for analysing, measuring and developing correct, secure, and reliable software.</p>",
+        "<p>The subject is one of the foundation subjects for the MC-ENG Master of Engineering (Software) and (Software with Business).</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics covered may include: methods for static and dynamic software testing; software security, quality and dependability; reliability measurement and engineering; performance measurement and engineering;software problem analysis and fault isolation; and software engineering tools.</p>"
+    ],
+    "ilo": [
+        "Select appropriate methods to build in quality and dependability into software systems",
+        "Select and apply effective testing techniques for verifying medium and large scale software systems",
+        "Select and apply measures and models to evaluate the quality and dependability of a software system",
+        "Work in a team to evaluate and apply different methods for quality and reliability of a software system"
+    ],
+    "generic_skills": [
+        "An in-depth technical competence in the selection and application of methods to develop, measure and test quality of software systems",
+        "The ability to undertake problem identification, formulation and solution, both individually and as part of a team"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP90041Programming and Software DevelopmentSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5SWEN20003Object Oriented Software DevelopmentSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SWEN20003",
+                        "Name": "Object Oriented Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CS Master of Computer Science"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One individual assignment consisting of approximately 1000 words. Intended Learning Outcomes (ILO's) 1, 2 and 3 are addressed by this assignment.",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (25/50) for assignment work (the total of assignments 1-3).",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One small assignment consisting of approximately 250 words. Due in week 7 (part A) and 10 (part B). ILO's 1 and 3 are addressed by this assignment.",
+            "bullets": [
+                "5-7 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (25/50) for assignment work (the total of assignments 1-3).",
+            "timing": "From Week 7 to Week 10",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One group assignment executed in teams of 3-4, consisting of a report of no more than 3500 words. ILO's 1, 3, and 4 are addressed by this assignment.",
+            "bullets": [
+                "32-37 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (25/50) in for assignment work (the total of assignments 1-3).",
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One written examination. ILO's 1 to 3 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (25/50) in the written examination and quizzes.",
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Quizzes (individual): Four quizzes (20 minutes duration each) held at the end of lecture time in weeks 3, 6, 9 and 12. ILO's 1 to 3 are addressed in the individual quizzes.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Thuan Pham",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1 hour lectures and one 1 hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Thuan Pham",
+            "contact_email": "thuan.pham@unimelb.edu.au"
+        }
+    ]
+}

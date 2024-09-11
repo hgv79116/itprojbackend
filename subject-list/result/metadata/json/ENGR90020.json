@@ -1,0 +1,46 @@
+{
+    "overview": [
+        "<p>Students will be introduced to selected topics from biomechanics, biomaterials, system biology and biorobotics. Students will also appreciate the use of Dynamic Programming, Markov Models and Optimal Control in the above areas. Students will be encouraged to develop critical and constructive thinking via reviewing the latest scientific publications as a part of an assignment to be selected from the above mentioned areas. Biomechanics will focus on the musculoskeletal system for both normal and pathological states. It will introduce quantitative methods to investigate musculoskeletal injuries and diseases (e.g. osteoporosis and osteoarthritis) and discuss the mechanical properties of bone and tissue, gait analysis and orthopaedic implant design. Biomaterials will address different materials (polymers, metals, ceramics and composites) used in contact with living tissue. A main focus in this part is to examine the application of materials in the physiological environment. Topics will include host reaction, testing and degradation of biomaterials in biological environment. System Biology will focus on the big picture discussing regulatory networks and pathways that lead to the changes in cellular and lower levels. Some aspects of Bioinformatics will also be appreciated. Biorobotics will focus of the use of robotics technology in various medical procedures, such as observation, surgical intervention, and rehabilitation / assistance. Current technological challenges will be discussed in view of the state-of-the-arts in the field today.<br/><br/></p>"
+    ],
+    "ilo": [
+        "Formulate problems in statics and dynamics by choosing suitable system boundaries and identifying relevant forces and coordinate systems",
+        "Analyse the equilibrium of systems of forces in two and three dimensions",
+        "Determine the loads and stresses experienced by components of common engineering structures such as trusses, frames and beams",
+        "Describe and analyse the motion of particles and rigid bodies using three-dimensional vectors",
+        "Apply the principles of impulse-momentum and work-energy to solve problems in the dynamics of simple machines and vibrating structures"
+    ],
+    "generic_skills": [
+        "TextsPrescribed textsNoneRecommended texts and other resourcesNone",
+        "Related Handbook entriesThis subject contributes to the following:TypeNameCourseDoctor of Philosophy - EngineeringCoursePh.D.- EngineeringCourseMaster of Philosophy - Engineering",
+        "Available through the Community Access ProgramAbout the Community Access Program (CAP)This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information.Additional information for this subjectSubject coordinator approval required",
+        "Available to Study Abroad and/or Study Exchange StudentsThis subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two mid-semester assignments worth 20% each",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One exam",
+            "bullets": null,
+            "hurdle": "Students are required to pass the final exam in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

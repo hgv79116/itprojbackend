@@ -1,0 +1,113 @@
+{
+    "overview": [],
+    "ilo": [
+        "Judge the impact of effect measure modification on external validity and the implementation of population and clinical interventions",
+        "Assess confounding and collider bias by creating causal diagrams",
+        "Apply standardisation, inverse probability weighting and g-computation to control for confounding",
+        "Apply quantitative bias techniques to quantify the direction and magnitude of bias",
+        "Design experimental and observational epidemiological studies",
+        "Critique experimental and observational epidemiological studies"
+    ],
+    "generic_skills": [
+        "Utilisation of relevant software (Excel and Stata)",
+        "Written communication skills",
+        "Problem solving",
+        "Working with uncertainty",
+        "Analytic skills",
+        "Applying concepts to practical scenarios"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST90100Probability & Inference in BiostatisticsSemester 1 (Dual-Delivery - Parkville)12.5POPH90013BiostatisticsSemester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90100",
+                        "Name": "Probability & Inference in Biostatistics",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90013",
+                        "Name": "Biostatistics",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quiz",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "melissar@unimelb.edu.au"
+        }
+    ]
+}

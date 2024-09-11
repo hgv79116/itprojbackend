@@ -1,0 +1,163 @@
+{
+    "overview": [
+        "<p>This subject introduces the field of mathematical analysis both with a careful theoretical framework as well as selected applications. Many of the important results are proved rigorously and students are introduced to methods of proof such as mathematical induction and proof by contradiction.</p>",
+        "<p>The important distinction between the real numbers and the rational numbers is emphasised and used to motivate rigorous notions of convergence and divergence of sequences, including the Cauchy criterion. Various constructions of the real numbers, for example using Dedekind cuts or by completion, are discussed and shown to be equivalent. These ideas are extended to cover the theory of infinite series, including common tests for convergence and divergence. Compactness of the unit interval is established and various consequences of compactness, such as the Extreme Value Theorem, are discussed. A similar treatment of continuity and differentiability of functions of a single variable leads to applications such as the Mean Value Theorem and Taylor\u2019s theorem.  <span>We define the Riemann integral and explore its properties, and we prove the Fundamental Theorem of Calculus.  </span>The convergence properties of sequences and series are explored, with applications to power series representations of elementary functions and their generation by Taylor series. Fourier series are introduced as a way to represent periodic functions. Further topics may include: uniform continuity, equicontinuity, the Arzela-Ascoli theorem, and the Stone-Weierstrass theorem.</p>"
+    ],
+    "ilo": [
+        "Apply rigour in mathematics, be able to use proof by induction, proof by contradiction, and to use epsilon-delta proofs both as a theoretical tool and a tool of approximation;",
+        "Describe the theory and applications of both the Riemann and Lebesgue integrals;",
+        "Identify real numbers and explain their importance of completeness;",
+        "Define convergence and the Cauchy property, and be able to deploy either when analysing the convergence or divergence of sequences;",
+        "Apply knowledge of the theory and practice of power series expansions and Taylor polynomial approximations;",
+        "Describe the role of Fourier series in representing periodic functions."
+    ],
+    "generic_skills": [
+        "30 hours (of work required)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10019 Calculus Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "Important: to qualify as prerequisites for this subject, MAST10006 and MAST10019 must be completed with a result of at least 75."
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10018 Linear Algebra Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "Important: to qualify as prerequisites for this subject, MAST10007 and MAST10018 must be completed with a result of at least 75."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Five equally weighted written assignments due at regular intervals",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jesse Gell-Redman",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week; 2 x one hour practice classes per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "j.gell@unimelb.edu.au"
+        }
+    ]
+}

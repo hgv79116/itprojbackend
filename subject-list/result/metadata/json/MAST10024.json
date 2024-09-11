@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>This subject will introduce mathematical and statistical techniques to illustrate the importance of quantitative modelling and data analysis in biomedicine.</p>",
+        "<p>Quantitative models will be explored in a variety of biomedical contexts. Emphasis will be placed on understanding how biological principles can give rise to quantitative models. Topics to be explored include processes at the cellular level and the modelling of the spread of infectious diseases among populations. The fundamental concepts of probability and statistics required for experimental design and data analysis in the biomedical sciences will also be covered.  Emphasis will be placed on the presentation and interpretation of the results from statistical analyses of biomedical data. The mathematical and statistical methods covered will be implemented using a standard computing package and illustrated via specific applications from the biomedical sciences.</p>"
+    ],
+    "ilo": [
+        "Explain the importance of the mathematical principles underlying some topics in biomedical science;",
+        "Explain and apply these principles, using logical and mathematical reasoning, to a variety of situations, both familiar and novel, in biomedicine and public health.",
+        "Explain and apply a range of standard statistical methods to problems in the biomedical sciences.",
+        "Choose and apply a form of experimental design suitable for a range of standard biomedical experiments."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team",
+        "time management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment -\n\nSix written mathematical and statistical assignments (Using the tools associated with subject: R)   due at fortnightly intervals amounting to a total of up to 50 pages of written work",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One computer-based in-class test (40 minutes)",
+            "bullets": [
+                "40 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Best 10 (of 11) online quizzes. Weekly, in students own time.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A written examination (2 hours)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "stuart.johnston@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "azarebski@unimelb.edu.au"
+        }
+    ]
+}

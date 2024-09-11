@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>Using an integrated and inter-disciplinary approach, this subject examines the structure, function and potential for dysfunction of the respiratory system of the major domestic animal species. As students develop an understanding of the mechanisms of disease of this system, they will develop skills in the clinical evaluation of it and in the interpretation of relevant diagnostic procedures. Students will integrate aspects of anatomy, clinical skills and imaging to enable understanding and implementation of the diagnostic process and treatment procedures.</p>"
+    ],
+    "ilo": [
+        "Compare and contrast the structure and function of the respiratory systems of different species",
+        "Identify normal and abnormal respiratory structures in animals on gross observation, in diagnostic images, and in histological and cytological preparations",
+        "Conduct a clinical examination of the respiratory system in order to assess structure and function",
+        "Explain how components of the respiratory system interact to allow survival under various physiological and pathological conditions, and how they can be modified with pharmacological agents",
+        "Combine regional and systemic anatomical knowledge with clinical skills in order to apply these to diagnostic, surgical and therapeutic procedures in animals",
+        "Communicate orally and effectively complex scientific information to a diverse audience",
+        "Work collaboratively, communicate effectively, and apply an understanding of respiratory structure and function in order to analyse and interpret clinical problems related to this system in animals"
+    ],
+    "generic_skills": [
+        "Have the capacity to examine critically, synthesise and evaluate knowledge across a range of disciplines",
+        "Have enhanced analytical and cognitive skills",
+        "Be able to communicate complex scientific information effectively to a diverse audience",
+        "Have the capacity to participate fully in collaborative learning and to find solutions to unfamiliar problems",
+        "Be able to seek solutions to problems through the application of knowledge, the ability to initiate and integrate new ideas, an appreciation of the broad picture of science, and an understanding of the importance and application of scientific method"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90121",
+                        "Name": "Vet Bioscience: Cells to Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsVETS90124Vet Bioscience: Cardiovascular SystemSemester 2 (On Campus - Parkville)12.5VETS90125Vet Bioscience: MetabolismSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90124",
+                        "Name": "Vet Bioscience: Cardiovascular System",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "VETS90125",
+                        "Name": "Vet Bioscience: Metabolism",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four online quizzes of case study exercises, each taking approximately 30 minutes to complete and each equally weighted",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Late in the semester 2",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Oral presentation of a research activity that demonstrates the ability to integrate concepts across different discipline areas and organ systems, and to communicate these concepts to a lay audience. Presented online in video format.",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Late in Semester 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Aggregate mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Reza Sanaei",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours of lectures, practical classes and case studies",
+            "total_time_commitment": "180 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "reza.sanaei@unimelb.edu.au"
+        }
+    ]
+}

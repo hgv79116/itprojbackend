@@ -1,0 +1,182 @@
+{
+    "overview": [
+        "<p>This course is designed to prepare managers for the newly developing financial services industry, in particular the banking industry. The subject addresses three main issues related to the financial services industry. First, the conceptual issues underlying the financial services industry in order to help students develop a broad view of the management function in financial services. Second, a generic set of tools for managing return and the various kinds of risk facing managers in the financial services industry. Third, regulatory changes that have occurred due to the recent financial crisis. A key component of the subject is an online bank simulation game that will enhance insights in these three issues.</p>"
+    ],
+    "ilo": [
+        "Discuss the different financial products that financial intermediaries offer",
+        "Manage the investment in\u2014and holding of\u2014financial products",
+        "Discuss the various types of financial risk relevant to financial institutions",
+        "Use a variety of tools to measure and hedge the various financial risks that financial institutions\u2014and in particular banks\u2014face in their day-to-day operations."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90481",
+                        "Name": "Managerial Ethics & Business Environment",
+                        "Teaching period": "April (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90060",
+                        "Name": "Data Analysis",
+                        "Teaching period": "January (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90224",
+                        "Name": "Managing People",
+                        "Teaching period": "April (On Campus - Parkville)January (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90243",
+                        "Name": "Marketing",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90001",
+                        "Name": "Financial Accounting",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90093",
+                        "Name": "Finance",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90193",
+                        "Name": "Managerial Economics",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90482",
+                        "Name": "General Management 1",
+                        "Teaching period": "September (On Campus - Parkville)",
+                        "Credit Points": "62.5"
+                    },
+                    {
+                        "Code": "BUSA90483",
+                        "Name": "General Management 2",
+                        "Teaching period": "January (On Campus - Parkville)",
+                        "Credit Points": "43.75"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBUSA90026Business StrategyJuly (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)April (On Campus - Parkville)January (On Campus - Parkville)12.5BUSA90227OperationsApril (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90026",
+                        "Name": "Business Strategy",
+                        "Teaching period": "July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)April (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90227",
+                        "Name": "Operations",
+                        "Teaching period": "April (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: BUSA90026 and BUSA90227 are concurrent pre-requisite and may be done concurrently with the subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to class learning",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Midterm test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Middle of subject",
+            "percentage": "15%"
+        },
+        {
+            "brief": "4 Syndicate project reports (staggered throughout subject)",
+            "bullets": [
+                "250 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Syndicate project presentation",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "September",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "23 September 2024 to 29 November 2024",
+            "last_self_enrol_date": "17 September 2024",
+            "census_date": "4 October 2024",
+            "last_date_to_withdraw_without_fail": "8 November 2024",
+            "assessment_period_ends": "6 December 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

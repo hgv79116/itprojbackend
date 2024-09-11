@@ -1,0 +1,62 @@
+{
+    "overview": [
+        "<p>Please refer to DENT90109 Research Project A for details. </p>"
+    ],
+    "ilo": [
+        "Conduct research in biomedical, dental and health sciences.",
+        "Design experiments.",
+        "Prepare and give oral and written presentation of the results.",
+        "Express intellectual, scientific arguments; and",
+        "Assimilate and critically evaluate existing knowledge within a scientific paradigm."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DENT90108",
+                        "Name": "Research Proposal",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "DENT90109",
+                        "Name": "Research Project A",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional detailsThis assessment statement applies across DENT90109 Research Project A and DENT90110 Research Project B. Please refer to DENT90109 for details. "
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long (Extended)",
+            "principal_coordinator": "Paolo Cattaneo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "408 hours",
+            "teaching_period": "20 November 2023 to 20 October 2024",
+            "last_self_enrol_date": "1 December 2023",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

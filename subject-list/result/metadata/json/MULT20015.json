@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to quantum computing for students from a range of backgrounds that will position students for further studies in quantum computing and programming. The syllabus will cover basic principles of quantum bits (qubits) and quantum logic operations, through to applications in communication, security, optimisation, finance and machine learning. In computer-based tutorials, students will learn quantum computer programming using a state-of-the-art simulation environment, and access online quantum computer systems where available. This subject will be taught by a multi-disciplinary teaching team from physics, mathematics, computer science and finance.</p>"
+    ],
+    "ilo": [
+        "Demonstrate  basic knowledge of quantum bits, quantum logic, and quantum algorithms underpinning further study in quantum computing and quantum programming.",
+        "Demonstrate an ability to program quantum computers to perform simple logic tasks.",
+        "Explain how quantum computers can be applied to problems in the context of mathematics, computing and finance.",
+        "Describe at a high level the status of current quantum computer technology."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies.",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general.",
+        "Collaborative skills: the ability to work in a team in a computer-tutorial based environment.",
+        "Time-management skills: the ability to meet regular deadlines."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment 1 (approx. 20 hours of work)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written assignment 2 (approx. 30 hours of work)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Lloyd Hollenberg",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total of 36 hours: 24 x 1-hour lectures, 12 x 1-hour computer-based tutorial sessions.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

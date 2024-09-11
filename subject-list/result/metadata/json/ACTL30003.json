@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This subject introduces various insurance and annuity products, teaches fundamental knowledge of actuarial pricing and reserving, and discusses techniques used for projecting and valuing insurance and annuity cashflows which are contingent on the status of single or multiple lives. Actuarial modelling of insurance products is taught and explored using spreadsheets in realistic contexts.</p>"
+    ],
+    "ilo": [
+        "Demonstrate understanding of various insurance and annuity contracts and develop formulae for the means and variances of the present values of the payments under these contracts, assuming deterministic interest rate;",
+        "Formulate insurance and annuity functions involving two lives;",
+        "Employ methods of projecting and valuing cash-flows that are contingent on multiple transition events and multiple decrements events;",
+        "Examine the gross random future loss and evaluate gross premiums and reserves of insurance and annuity contracts;",
+        "Evaluate death strain at risk, expected death strain, actual death strain, and mortality profit for single or portfolios of insurance and annuity policies;",
+        "Project expected future cash-flows and perform profit testing for various insurance policies;",
+        "Establish non-unit reserves to eliminate (\"zeroise\") future negative cash-flows for unit-linked contracts; and",
+        "Apply Actuarial modelling to insurance-related problems."
+    ],
+    "generic_skills": [
+        "High level of development:\u00a0written communication,problem solving, statistical reasoning,application of theory to practice, and interpretation and analysis,synthesis of data and other information,evaluation of data and other information, anduse of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL30001",
+                        "Name": "Actuarial Modelling I",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "300-342 Actuarial Mathematics II"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end-of-semester exam",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rui Zhou",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "rui.zhou@unimelb.edu.au"
+        }
+    ]
+}

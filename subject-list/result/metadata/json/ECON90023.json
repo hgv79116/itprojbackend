@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>The subject will cover development economics. The topics covered may include: economic growth theory, including models in which growth is endogenous; measurement of poverty and inequality; tests of the efficiency of labour and credit markets; consumption smoothing; micro-credit schemes; and demographic issues.</p>",
+        "<p class=\"MsoNormal\">This subject studies microeconomic conditions in developing countries. It aims to go beyond a mere description of economic conditions in these parts of the world. The emphasis is on rigorous theoretical economic modelling of phenomena observed in developing countries. Substantial attention will also be paid to the testing of the theories using real world data. Students are thus expected to have some econometric knowledge.</p>"
+    ],
+    "ilo": [
+        "Evaluate the ways in which developing countries differ from developed countries;",
+        "Identify how these differences affect the economic environment in which people live and the economic decisions made by households;",
+        "Analyse the relevance of particular theories to different environments;",
+        "Evaluate the results of empirical tests of the economic theories;",
+        "Synthesise the theoretical and empirical literature and describe the current state of knowledge in the field of development economics; and",
+        "Critically evaluate policy prescriptions in developmental economics."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence;",
+        "Synthesis of ideas, views and evidence;",
+        "Strategic thinking;",
+        "Critical thinking;",
+        "Application of theory to economic policy and business decision making;",
+        "Summary and interpretation of information;",
+        "Statistical reasoning;",
+        "Problem solving skills;",
+        "Written communication; and",
+        "Oral communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM40006Econometrics 3Semester 1 (On Campus - Parkville)12.5ECOM90013Econometrics 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM40006",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM90013",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40012",
+                        "Name": "Development Economics",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class assignments",
+            "bullets": [
+                "6000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

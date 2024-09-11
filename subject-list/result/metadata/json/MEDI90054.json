@@ -1,0 +1,131 @@
+{
+    "overview": [
+        "<p>This subject will outline the technique of using ultrasound to guide percutaneous procedures. Procedures will include vessel access, nerve blocks, and trauma related procedures. There will be an elective of either \"Nerve Blocks\" or \"Critical Care Procedures\".</p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Ultrasound Guided Vascular Access</li><li>Nerve Blocks-Upper Limb</li><li>Nerve Locks-Lower Limb</li><li>Nerve Blocks-Peripheral Nerves</li><li>Nerve Blocks-Abdominal and Thoracic</li><li>Focused Abdominal Scan in Trauma</li><li>Additional Ultrasound in Trauma</li><li>Assessment of Flow and Stenosis in Vessels</li><li>Critical Care Procedures</li></ul>"
+    ],
+    "ilo": [
+        "Understand the approaches and techniques of ultrasound guided percutaneous procedures.",
+        "Understand ultrasound guided Vascular access",
+        "Understand ultrasound guided procedures used in trauma"
+    ],
+    "generic_skills": [
+        "Enhance time utilisation",
+        "Improve written skills and problem solving skill"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into or selection of one of the following:GC-CLINUS Graduate Certificate in Clinical UltrasoundGD-CLINUS Graduate Diploma in Clinical UltrasoundMC-CU Master of Clinical UltrasoundGD-PERIMED Graduate Diploma in Perioperative Medicine",
+                    "GC-CLINUS Graduate Certificate in Clinical Ultrasound",
+                    "GD-CLINUS Graduate Diploma in Clinical Ultrasound",
+                    "MC-CU Master of Clinical Ultrasound",
+                    "GD-PERIMED Graduate Diploma in Perioperative Medicine"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "GC-CLINUS Graduate Certificate in Clinical Ultrasound",
+                    "GD-CLINUS Graduate Diploma in Clinical Ultrasound",
+                    "MC-CU Master of Clinical Ultrasound",
+                    "GD-PERIMED Graduate Diploma in Perioperative Medicine"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject is not available for students admitted in any other courses."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90126",
+                        "Name": "Ultrasound Critical Care Procedures",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "MEDI90122",
+                        "Name": "Regional Anaesthesia",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "MEDI90143",
+                        "Name": "Ultrasound Critical Care Procedures\u2013Prac",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "MEDI90139",
+                        "Name": "Regional Anaesthesia - Practical",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One open - book multiple choice examination consisting of 50 questions, students will have 1 week to complete the examination",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "80%"
+        },
+        {
+            "brief": "Completion of self assessment modules at the end of each tutorial",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "Off-campus (online) delivery",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-clinical-ultrasound/"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "Off-campus (online) delivery",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-clinical-ultrasound/"
+        }
+    ]
+}

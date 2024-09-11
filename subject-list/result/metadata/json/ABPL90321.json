@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>This subject provides insight into the design briefing process for a range of facilities, with a specific focus on learning and health environments. Key issues addressed include how to effectively engage with users/occupants of buildings, collect data about their organisational objectives, activities and spatial requirements, and strategically link such information to the work of architects and other design consultants.</p>",
+        "<p>The subject examines evidence-based design, effective planning processes that include stakeholder engagement and consultation, change management, spatial literacy, and workplace cultures and pedagogies. Participants will develop skills associated with developing strategic briefs that translate organisational objectives and patterns of activity into spatial requirements, including affinity and relationship diagrams.</p>"
+    ],
+    "ilo": [
+        "community and user consultation skills,",
+        "research into evidence-based design,",
+        "the strategic and architectural briefing process,",
+        "an understanding of facility planning and programming scope of responsibilities and tools used."
+    ],
+    "generic_skills": [
+        "MC-ARCH Master of Architecture",
+        "MC-LARCH Master of Landscape Architecture",
+        "MC-CM Master of Construction Management",
+        "MC-PROP Master of Property",
+        "MC-URPL Master of Urban Planning",
+        "MC-URBDES Master of Urban Design",
+        "MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+        "MC-ARCPROP Master of Architecture/Master of Property",
+        "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+        "MC-ARCHUD Master of Architecture/Master of Urban Design",
+        "MC-UPUD Master of Urban Planning/Master of Urban Design",
+        "MC-ARCHCM Master of Architecture/Master of Construction Management"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-ARCH Master of Architecture",
+                    "MC-LARCH Master of Landscape Architecture",
+                    "MC-CM Master of Construction Management",
+                    "MC-PROP Master of Property",
+                    "MC-URPL Master of Urban Planning",
+                    "MC-URBDES Master of Urban Design",
+                    "MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                    "MC-ARCPROP Master of Architecture/Master of Property",
+                    "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                    "MC-ARCHUD Master of Architecture/Master of Urban Design",
+                    "MC-UPUD Master of Urban Planning/Master of Urban Design",
+                    "MC-ARCHCM Master of Architecture/Master of Construction Management"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project Plan Oral \u2013 individual oral presentation, equivalent to 1000 words",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Project Plan Written",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "3 Weeks after the end of teaching",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Major Assignment  (10  weeks after the last class  or end  of Sempteber)",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "10 Weeks after the end of teaching",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>This subject builds students' knowledge of the fundamental principles of pharmacology, which should be adopted and utilised to support medication management in the scope of physiotherapy practice. Students will use the foundational knowledge of pharmacokinetics, pharmacodynamics, and therapeutics, in order to critically analyse how drugs affect physiological, biochemical and pathophysiological processes.</p>",
+        "<p>With a greater appreciation of the action of drugs on body processes, students will be able to determine which medications should be administered to patients in order to ensure therapeutic effects are optimized and adverse effects are minimized. Students will articulate the key pharmacological characteristics of drug classes, as well as be able to derive and understand the specific nuances of individual drugs. They will understand the use of medications in persons with common cardiovascular, immune and inflammatory, musculoskeletal and respiratory conditions in preparation for clinical practice. This focus will ensure that students will be able to use critical thinking and problem-solving abilities in the use of medicines as a foundation for monitoring and evaluation of selected medications in a rational and effective manner. Students will analyse their personal and professional role in the use of drugs and will engage with current social debates on the use of medicines and drugs and their impact at a personal and population level.</p>",
+        "<p>Please note that this subject is run and coordinated by the Department of Pharmacology &amp; Therapeutics.</p>"
+    ],
+    "ilo": [
+        "Explain the core concepts of pharmacology (including pharmacokinetics and pharmacodynamics) and the effects of drugs on body processes",
+        "Use appropriate problem-solving abilities in understanding the therapeutic and adverse effects, contraindications and precautions for drugs",
+        "Critically evaluate the pharmacological characteristics of an individual drug based on information about the drug class",
+        "Use evidence-based knowledge such as pharmacogenomic consideration to appreciate the clinical implications and necessity for client-centred personalised treatment within the scope of physiotherapy practice",
+        "Demonstrate pharmacological knowledge of drugs used to treat pain, immune and inflammatory diseases and infections and for cardiovascular and respiratory conditions to ensure optimal health and wellbeing",
+        "Demonstrate well developed problem-solving and critical thinking skills to determine the most appropriate medication to prescribe a patient within scope of practice"
+    ],
+    "generic_skills": [
+        "be adept at learning in a range of ways;",
+        "be able to examine, critically synthesise and evaluate scientific and clinical information;",
+        "refine their written communication skills;",
+        "participate in collaborative learning;",
+        "be familiar with selected online learning tools; and",
+        "recognise the value of research evidence to clinical practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90115",
+                        "Name": "Foundation Physiotherapy Sciences A",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90117",
+                        "Name": "Integrated Professional Practice A",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "31.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 online quizzes",
+            "bullets": [
+                "30 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "ePortfolio",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written Exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "23 hours of lectures/workshops/seminars/Q&A",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

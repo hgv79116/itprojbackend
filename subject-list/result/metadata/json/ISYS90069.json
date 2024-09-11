@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>Healthcare is information intensive. Health data are generated, shared, consumed, and stored in a variety of partially overlapping complex networks. Healthcare lags behind many other sectors, despite efforts to use digital technologies to shape and improve health data and information processes since the middle of the 20th Century. The need for digital transformation of health is driven by socio-economic concerns (making healthcare more accessible and affordable) and patient safety (reducing medical errors, and redundant and ineffective interventions).</p>",
+        "<p>This subject introduces the background, current state, and future opportunities of digital health. It provides a basic understanding of health and disease and how individuals experience both. It explores the nature of biomedical data, information, and knowledge - and how digital technologies are shaping the way these are used. Digital health technologies are examined from ethical, historical, technological, and psycho-social perspectives, considering positive and negative impacts.</p>"
+    ],
+    "ilo": [
+        "Explain complex aspects of the structure of healthcare, including the roles of patients, various professionals, insurance companies and governments",
+        "Describe implications of the generation and use of biomedical data, information, and knowledge within a variety of relevant systems and settings",
+        "Demonstrate understanding of how core digital health technologies work, through practical activities with simulations of tools such as electronic health records, clinical decision support systems, patient portals, and mobile apps and wearable sensors",
+        "Critically analyse how various digital technologies can optimise information use within healthcare and summarise the potential risks associated with these solutions",
+        "Apply ethical frameworks and conceptual models to critique contemporary digital health practices and trends"
+    ],
+    "generic_skills": [
+        "Clear thinking",
+        "Improved reading",
+        "Enhanced ability to work in a team of people, and",
+        "Presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three written reports of individual work on assigned practical activities. 300-400 words per report, 1000 words in total. 40-45 hours of work required.  Due in weeks 2, 3 and 4 (10% each, 30% in total). Intended Learning Outcomes (ILO's) 1 to 3 are addressed in this assessment.",
+            "bullets": [
+                "40-45 hours"
+            ],
+            "hurdle": "Students must pass this assessment to pass the subject.",
+            "timing": "From Week 2 to Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One major project report. Work may be done by an Individual, or a team of up to four people is optional.  Class presentation of 10 minutes for individual project PLUS written project report of 1500 words for an individual. Additional 5 minutes of presentation PLUS 1000 words each for second and subsequent team members. Presentation due in week 6. Written report due in week 8. Presentation 10%; written report 30% (40% in total). ILO's 4 and 5 are addressed in this assessment.",
+            "bullets": [
+                "60 hours"
+            ],
+            "hurdle": "Students must pass this assessment to pass the subject.",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Twelve short learning challenges embedded in lectures and tutorials, such as quizzes, discussion forum topics, small group tasks. Equivalent to 100 words per activity; 1200 words in total. Two assessable activity are offered each week from week 1 to week 6.  5% each; the student's 6 best results from these 12 activities will count for this assessment (30% in total). ILO's 1 to 5 will be addressed in this assessment.",
+            "bullets": [
+                "12 hours"
+            ],
+            "hurdle": "Students must pass this assessment to pass the subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, 1 x 2-hour lecture + 1 x 1-hour tutorial",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "brian.chapman@unimelb.edu.au"
+        },
+        {
+            "semester": "July - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours - 2 x 2-hour lectures per week and 2 x 1-hour tutorials per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "1 July 2024 to  9 August 2024",
+            "last_self_enrol_date": "9 July 2024",
+            "census_date": "12 July 2024",
+            "last_date_to_withdraw_without_fail": "2 August 2024",
+            "assessment_period_ends": "9 August 2024",
+            "contact_name": null,
+            "contact_email": "brian.chapman@unimelb.edu.au"
+        }
+    ]
+}

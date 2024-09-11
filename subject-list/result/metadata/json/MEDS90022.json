@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>The Student Conference is a one-week intensive subject that brings together students across all Doctor of Medicine (MD) years and sites for a student led and driven conference. The aim of the Student Conference is to allow students to learn from each other, experts in various fields and other health professionals in topic areas suited to a conference format. In third year students will attend, actively participate in the conference program and provide peer review, as well as having the opportunity to teach, present and be actively involved in conference organisation. </p>"
+    ],
+    "ilo": [
+        "Critique how conference learning informs the integration of the roles of scientist and scholar to improve the delivery of care to specific patient population."
+    ],
+    "generic_skills": [
+        "The ability to extract information from expert presentations and to take notes to enable them to write a report on those presentations.",
+        "The ability to participate in groups discussions and workshops.",
+        "An understanding of academic conferences and their role in the dissemination of knowledge.",
+        "The ability to communicate their learnings from conference to their peer in a group format."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS90004",
+                        "Name": "Principles of Clinical Practice 2",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "81.25"
+                    },
+                    {
+                        "Code": "MEDS90005",
+                        "Name": "Student Conference 2",
+                        "Teaching period": "June (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance for four days of conference period.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Must maintain a satisfactory standard in professional behaviour, as demonstrated by observed Professional Behaviour Assessment.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Student Conference ePortfolio: A student curated compilation that responds to prescribed tasks aligned with conference themes and subject intended learning outcomes.",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "In order to pass this hurdle, students are required to achieve a satisfactory standard.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Oral Group Presentation (Groups of 4 students with a total presentation time of 15 minutes)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": "In order to pass this hurdle, students are required to achieve a satisfactory standard.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "June",
+            "principal_coordinator": "Justin Bilszta",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "8 hours per day for four days (32)",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "24 June 2024 to 28 June 2024",
+            "last_self_enrol_date": "23 June 2024",
+            "census_date": "19 July 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "27 September 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

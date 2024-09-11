@@ -1,0 +1,147 @@
+{
+    "overview": [
+        "<p>This subject allows students to consolidate the knowledge developed in Professionalism and Clinical Processes A in the context of their developing clinical audiology skills. Reflective practice underpins all elements of this subject. On completion of the subject, students will have further developed and be able to demonstrate their reflective practice skills in clinical environments and on clinically-relevant topics. They will be aware of and be able to describe the overlap between hearing and balance health outcomes in the context of the individual and their community. They will also be able to critically reflect on and describe their own future growth requirements for clinical practice.</p>"
+    ],
+    "ilo": [
+        "Accurately and professionally perform routine audiological clinical duties in a timely manner using a client-centred approach.",
+        "Modify and reflect on their own performance in developing accurate audiological practice skills.",
+        "Implement communication strategies to appropriately respond to client behaviours and attributes, and to optimise client engagement.",
+        "Illustrate awareness of culturally safe approaches, to build trust and relationships with clients from diverse backgrounds, including Aboriginal and Torres Strait Islander peoples and those from other culturally and linguistically diverse backgrounds."
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90053",
+                        "Name": "Audiology Practice A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90055",
+                        "Name": "Professionalism and Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90054",
+                        "Name": "Audiology Practice B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90058",
+                        "Name": "Sound and Innovative Solutions B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90060",
+                        "Name": "Evidence-Based Practice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two written assignments",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Assignment 1: Week 1-6   \n\nAssignment 2: Week 7-12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Group presentation",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Between Weeks 3-9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Portfolio",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "Portfolio must be passed",
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Roleplay OSCE",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Clinic placements",
+            "bullets": null,
+            "hurdle": "Attendance at 85% of placements ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Michelle Todorov",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures (2 hours), workshops (2 hours), and clinical placements (5 hours) per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "michelle.todorov@unimelb.edu.au"
+        }
+    ]
+}

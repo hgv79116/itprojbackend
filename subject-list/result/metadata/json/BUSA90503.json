@@ -1,0 +1,222 @@
+{
+    "overview": [
+        "<p>The primary focus of this subject is the application of data analytics in business contexts. Three of the components in this subject address common applications of business analytics: Finance Analytics, Marketing Analytics, and Supply Chain Analytics. The business case study introduced in the \u201cIntroduction to Business Analytics\u201d subject is revisited in this subject so that students can view and find solutions to the same comprehensive business case with the benefit of the knowledge obtained over the course of study. Students will also be introduced to other contemporary applications of business analytics.</p>",
+        "<p><strong>Finance Analytics</strong></p>",
+        "<p>Quantitative analytics have become an invaluable part of managing financial institutions, not only for profitability but also for safeguarding the organization against risk. In this component students will be applying data analytic skills to finance applications. Topics include financial performance benchmarking; modelling and computation of financial risks; dynamic portfolio management; computational derivative pricing; and modelling fixed income securities. The focus of the component will be on both the theoretical development, and the practical implementation using contemporary data from the financial market.</p>",
+        "<p><strong>Marketing Analytics</strong></p>",
+        "<p>It has become increasingly important to know how marketing actions translate into revenue and profit growth. The tools that enable this translation are part of a tool-kit called \u201cmarketing analytics.\u201d Marketing analytics is a technology-enabled and model-supported approach to harness customer and market data to enhance marketing decision-making. This component provides students with (i) knowledge of marketing analytics, (ii) the ability to know which analytics tools to use for which marketing problems, (iii) the ability to use those tools to solve marketing problems, and (iv) the ability to influence marketing outcomes such as satisfaction, choice, loyalty, word of mouth, and customer referrals.</p>",
+        "<p><strong>Supply Chain Analytics</strong></p>",
+        "<p>Rapid advancements in technology (particularly the internet) combined with fast and cheap computing power has enable firms to radically transform their industries by developing business models and reengineering their supply chains. This component provides students with (i) knowledge of mathematical modelling and analytic tools relating to logistics and supply chain optimization problems, (ii) the ability to use these tools and techniques to analyse strategic, tactical and operational decisions pertaining to inventory management, facility location, logistics and other supply chain management related decisions and (iii) exposure to real world logistics and supply chain decisions through case studies.</p>",
+        "<p><strong>Business Case Study</strong></p>",
+        "<p>This component revisits the case study examined in the subject Introduction to Business Problems earlier in the course. The primary goal of this component is to use the analytics knowledge and skills obtained throughout the course to recalibrate solutions to the business problem in the case study. The secondary goal is to introduce students to some emerging applications in the form of a special topics component. These topics will vary depending on emerging trends.</p>",
+        "<p><strong>Personal Effectiveness 3</strong></p>",
+        "<p>This component builds upon Personal Effectiveness 1 and Personal Effectiveness 2 and will be partially integrated into the other components of Analytics Applications. This component is designed to help students develop the skills and knowledge required to effectively manage the early stages of their career. The \u201cPersonal Effectiveness Program\u201d runs across the course and identifies specific needs of each individual student and then provides ongoing support, training, and opportunities to practice and perfect these skills. The program focuses on three core areas:</p>",
+        "<ul><li>Communication skills: These skills include effective presentations, verbal communication, written communication, public speaking, and communicating technical material to non-technical audiences.</li><li>Career development skills: These skills include case practice, interview skills, CV writing, networking, and business etiquette.</li><li>Team skills: These skills include managing conflict, cultural awareness, giving and receiving feedback, and resilience.</li></ul>"
+    ],
+    "ilo": [
+        "Apply data analytics skills to the context of finance.",
+        "Understand the key challenges and appreciate the ambiguities that may be present in solving finance problems.",
+        "Possess literacy in the technical aspects of finance."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90501",
+                        "Name": "Advanced Business Analytics",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "37.5"
+                    },
+                    {
+                        "Code": "BUSA90502",
+                        "Name": "Analytics Lab",
+                        "Teaching period": "October (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Finance Analytics: Syndicate Assignment",
+            "bullets": [
+                "1100 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Finance Analytics: 4 x Individual in-class quizzes",
+            "bullets": [
+                "150 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Finance Analytics: Final exam (individual)",
+            "bullets": [
+                "1700 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Marketing Analytics: Syndicate presentation 1",
+            "bullets": [
+                "350 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Marketing Analytics: Syndicate presentation 2",
+            "bullets": [
+                "350 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Marketing Analytics: Class participation (attendance at lectures and workshops, peer and instructor evaluation of contribution to class learning); continuous",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Marketing Analytics: Written syndicate assignment",
+            "bullets": [
+                "1100 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Marketing Analytics: Final exam (Individual)",
+            "bullets": [
+                "1400 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Supply Chain Analytics: Syndicate assignment",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Supply Chain Analytics: Midterm; Week 4 or 5",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Supply Chain Analytics: Final exam (Individual)",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Business Case Study: Syndicate presentation",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Business Case Study: Syndicate project written report",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Business Case Study: Contribution to syndicate work (hurdle requirement; peer and instructor evaluation of contribution to syndicate work); continuous",
+            "bullets": null,
+            "hurdle": "Students are required to pass the assessnebt to pass the subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Business Case Study: Class participation (attendance at lectures and workshops, peer and instructor evaluation of contribution to class learning); continuous",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Personal Effectiveness 3: Individual reflective journal",
+            "bullets": [
+                "300 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the assessment to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Personal Effectiveness 3: Individual presentation (as part of group presentations); Weekly",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Personal Effectiveness 3: Class participation (attendance at skills workshops, peer and instructor evaluation of contribution to class learning);b continuous",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "440 hours",
+            "teaching_period": "15 January 2024 to  8 March 2024",
+            "last_self_enrol_date": "25 January 2024",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "23 February 2024",
+            "assessment_period_ends": "15 March 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

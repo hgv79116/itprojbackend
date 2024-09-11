@@ -1,0 +1,123 @@
+{
+    "overview": [
+        "<p><strong>This subject was formerly known as Residential Construction and Structures.</strong></p>",
+        "<p>A major portion of the general public has aspirations for home ownership and this continues to drive the residential market in Australia. This subject provides an introduction to residential and multi-unit residential low rise construction systems with an emphasis on materials selection, usage and construction methods. The various structural systems and design concepts currently in use are incorporated and interlinked into all the topics, which include an introduction to footing, floor, wall and roof framing systems and their compliance with Australian Standard Codes. The structural considerations include the analysis of loads, load paths, lateral stability, timber column and beam design for strength and stiffness, and general beam behaviour and statics analysis. The issue of materials technology, its application and performance are incorporated throughout the lecture series leading to an awareness of building pathology and maintenance. The subject also provides an introduction to residential services.</p>"
+    ],
+    "ilo": [
+        "Understand the design principles underpinning housing shelter \u2013 structure, enclosure, services;",
+        "Understand and interpret residential documentation including architectural, construction and shop drawings;",
+        "Understand and use the Building Code of Australia and key Australian Standards to design housing elements such as concrete slabs, floors, walls and roof systems;",
+        "Understand the roles of the various actors in housing production, clients, builders, sub-contractors, building inspectors, product manufactures;",
+        "Link basic structural design concepts with current residential construction practices;",
+        "Identify design and construction solutions on building sites through critical observation;",
+        "Communicate those design and construction solutions by means of sketches and drawings;",
+        "Identify and evaluate alternative design and construction systems."
+    ],
+    "generic_skills": [
+        "Analytical skills.",
+        "Problem solving skills.",
+        "Drawing reading skills.",
+        "Research skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENGR10004Engineering Technology and SocietySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR10004",
+                        "Name": "Engineering Technology and Society",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCONS10001Principles of BuildingSemester 2 (On Campus - Parkville)12.5ENGR10005StaticsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CONS10001",
+                        "Name": "Principles of Building",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR10005",
+                        "Name": "Statics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four minor assignments due in week 3, 6, 9, and 12",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Major assignment",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Andrew Martel",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2X1 hour lectures  and 1 hour torial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "aamartel@unimelb.edu.au"
+        }
+    ]
+}

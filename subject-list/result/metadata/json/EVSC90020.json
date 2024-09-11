@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>Modelling is a fundamental component of Environmental Science, being used for prediction, monitoring, auditing, evaluation, and assessment. This subject introduces students to a wide range of models used by environmental scientists including models of climate change, population dynamics, pollution, hydrology, habitat and species distributions. Both deterministic and stochastic models are used as examples. The subject explains how to develop conceptual models that can then be quantified and analysed using mathematical and statistical methods. Topics covered include development of the basic model structure, estimation of parameters and calibration, methods of analysis, sensitivity analysis, model evaluation and model refinement. The subject teaches students how to simplify apparently complex problems.</p>"
+    ],
+    "ilo": [
+        "Articulate the role of modelling in environmental science;",
+        "Describe and evaluate a range of environmental models in use and choose an appropriate modelling framework for a particular environmental problem; and",
+        "Analyse models of environmental systems and processes."
+    ],
+    "generic_skills": [
+        "Synthesis of information from a range of sources;",
+        "Appropriate simplification of complex problems to make them amenable to analysis;",
+        "High level written communication and presentation skills;",
+        "High level oral communication and presentation skills;",
+        "The ability to exercise critical judgement, think rigorously and independently, account for decisions, and solve problems; and",
+        "Application of advanced analytical methods."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90044",
+                        "Name": "Thinking and Reasoning with Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "600-615 Thinking and Reasoning with Data or equivalent statistical subject"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Report on a practical exercise",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3-5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Report on a case study model",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Oral presentation on case study model",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Take home written exam",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x 1-hour lectures each week and 6 x 3-hour practical (computer laboratory) classes (42 hours in total)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mamcca@unimelb.edu.au"
+        }
+    ]
+}

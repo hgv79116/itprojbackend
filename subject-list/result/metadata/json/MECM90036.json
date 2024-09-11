@@ -1,0 +1,149 @@
+{
+    "overview": [
+        "<p>This subject will provide a pathway for students to gain familiarity with key issues and debates in the field of marketing communications. Students will develop a critical understanding of concepts and approaches relating to media institutions, texts and audiences. Emphasis will be placed on understanding the complex transformation from the paradigm of broadcast media to contemporary networked digital communications. This new environment of active audience participation and distributed communication has challenged the conceptual underpinnings of a range of practices including advertising, public relations, stakeholder management and marketing campaigns. Students will be introduced to the tasks of identifying and evaluating a variety of marketing strategies, and will have the opportunity to learn, examine and apply strategic marketing decision-making processes in the marketing and communications business environment.</p>"
+    ],
+    "ilo": [
+        "Demonstrate a critical understanding of the key media and communications and marketing conceptual frameworks and approaches relevant to marketing communications",
+        "Critically engage with the processes of transformation in media and communications, and marketing impacting the field",
+        "Identify the operation of different media and communication platforms and marketing strategies in different cultural contexts",
+        "Critically evaluate the appropriateness of different communications and marketing strategies and tactics relevant to the marketing and communications industry",
+        "Describe the concepts and models used to guide the development of marketing communications strategies and plans."
+    ],
+    "generic_skills": [
+        "Demonstrate competence in advanced library searches and information retrieval",
+        "Demonstrate proficiency in the application of selected methods of analysis",
+        "Demonstrate conformity to academic protocols of presentation and research procedures",
+        "Engage in problem solving and critical thinking",
+        "Demonstrate skills in oral and written communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MECM40006",
+                        "Name": "Public Relations and Communications",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MKTG90004",
+                        "Name": "Marketing Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Communications Quiz: \n\nShort answer test of  Communications stream comprehension.",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Before end of week 6",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Marketing Quiz: \n\nShort answer test of Marketing stream comprehension.",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Before end of week 6",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Communications Analysis: Essay-based analysis of examples using subject concepts and theories.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Marketing Analysis (group project):\n\nAnalysis of a specific issue facing specialists in the field of marketing communication, engaging with strategic practices and alternatives in addressing the issue under consideration.",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Marketing Oral Presentation (group project):\n\n10 minutes",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Marketing and Communications Research Portfolio: \n\nCombined folio of responses to both Marketing and Communications streams, plus an example-based Research Report.",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.  There is an expectation that students attend lectures where offered.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.\n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "72 hours: 2 x 1hr lectures + 2 x 2hr tutorials per week",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "Thomas.whitford@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "72 hours: 2 x 1 hr lectures + 2 x 2 hr tutorials per week",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "erin.carter@unimelb.edu.au"
+        }
+    ]
+}

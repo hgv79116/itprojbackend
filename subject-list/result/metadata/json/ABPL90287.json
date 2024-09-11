@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>This subject articulates and tests the idea of architectural design as a process where cultural and technological decision-making are intertwined. Teaching and learning activities focus on analysing technological means associated with design concepts and evaluating the implementation of alternatives in performance-based design scenarios.</p>",
+        "<p>Using examples of past to present architectures, this subject shows and tries to assess design propositions through their technological implementation and vice versa. Topics and practical activities are focused on single-dwelling residential and small to medium scale commercial building typologies.</p>",
+        "<p><strong>Costs to students :</strong></p>",
+        "<p>Students are required to purchase drawing and/or modelling material. Model making costs are approx. $250 per person, including laser cutting and 3D printing fees.</p>",
+        "<p>Prescribed software tools </p>",
+        "<p>Drafting software (e.g. McNeel Rhino, AutoCAD)</p>",
+        "<p>Image editing software (e.g. <a href=\"https://affinity.serif.com/en-gb/photo/\">Affinity Photo</a>)</p>",
+        "<p>Layout software (e.g. <a href=\"https://affinity.serif.com/en-gb/publisher/\">Affinity Publisher</a>).</p>",
+        "<p>Details of software availability and pricing are captured at <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support#software\">https://msd.unimelb.edu.au/current-students/student-experience/it-support#software</a>.</p>",
+        "<p><strong> </strong></p>"
+    ],
+    "ilo": [
+        "Associate technological implementation to architectural design intent by identifying and applying specific building materials, systems, and components, to produce responsible and sustainable architecture;",
+        "Integrate the basic building performance requirements relevant to the National Construction Code and applicable Australian Standards into the design development process;",
+        "Conduct project-based and industry-relevant research on building materials, systems,  components, and implement such research in the development of a coherent design proposition;",
+        "Demonstrate proficiency in interpreting and communicating with methods of technical representation as used by the architecture, engineering, and construction industries."
+    ],
+    "generic_skills": [
+        "Research skills to comply with the project brief and meet building industry standards and codes throughout the implementation of a design project.",
+        "Critical thinking, specifically in the way detailed design is developed consistently with the design concept.",
+        "Critical approach to reading and researching.",
+        "Public speaking or presenting, related to resolving, detailing and communicating an architectural project through diverse project stages.",
+        "Recognising an opportunity to take detailed Global Climate Actions in each design phase, as Global Citizens."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90286",
+                        "Name": "Construction Methods",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written and/or graphic submission. Concept design, including drawings, models, and building product research.",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written and graphic submission. Preliminary architectural documentation, including drawings, models, building product research, and construction details.",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 9",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written and graphic submission. Final architectural documentation, including drawings, models, building product research, and construction details.",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "First  week of examination period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "5  mins individual presentation on the link between conceptual and detailed design.",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Quizzes (10 sessions, each worth 3 points, 30 min each)",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sofia Colabella",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 hours (two hours lecture + two hours tutorials)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "s.colabella@unimelb.edu.au"
+        }
+    ]
+}

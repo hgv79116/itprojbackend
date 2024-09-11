@@ -1,0 +1,82 @@
+{
+    "overview": [],
+    "ilo": [
+        "Have an appreciation of the factors that need to be managed if enterprise-wide software is to be implemented on time, within budget, and produce on-going benefits for its host organisation",
+        "Demonstrate the likely direction and impact of technological innovations such as in-memory databases, mobile computing, business intelligence and artificial intelligence on future enterprise system architectures",
+        "Develop a good understanding of the capabilities of enterprise-wide ICT-based application software, e.g., enterprise resource planning (ERP), customer relationship management (CRM), supply chain management (SCM)",
+        "Gain hands-on experience in using SAP ERP system, the most popular enterprise application software packages to support business processes"
+    ],
+    "generic_skills": [
+        "Argument analysis, i.e. the ability to identify arguments and evaluate the evidence that authors provide to support their arguments. Argument analysis is one of the most important skills a person can develop",
+        "Oral and written communications",
+        "Ability to collaborate with different individuals through group work and discussion"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90026",
+                        "Name": "Concepts in Information Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group assignment (3 members): analysis of Enterprise Systems related case studies. Intended Learning Outcomes (ILO's) 1, 2 and 3 are addressed in the group assignment. \n\n\n\nStudents must obtain a minimum weighted average mark of 50% for the two assignments.",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One individual assignment: understanding SAP ERP software. \n\n\n\nIt involves completing two modules and writing a reflection of approximately 1500 words. The first module is due in week 6, the second module in week 8 and the report with reflection in week 12.\n\n\n\nILO's 1 and 4 are addressed in the individual assignment.\n\n\n\nStudents must obtain a minimum weighted average mark of 50% for the two assignments.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6, Week 8, and Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written 2-hour closed book end of semester examination. ILO's 1 to 3 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Yes, To pass the subject, students must obtain at least 50% of the marks available in the examination. ",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sherah Kurnia",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week, comprising of one 1.5-hour lecture and one 1.5-hour workshop in computer labs.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Sherah Kurnia",
+            "contact_email": "sherahk@unimelb.edu.au"
+        }
+    ]
+}

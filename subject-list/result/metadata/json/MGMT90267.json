@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>The expectations on contemporary managers to make agile decisions in complex digitised environments are increasing. This subject focuses on the development of managerial capabilities to engage appropriate decision-making models and employ new-generation analytic tools that best-fit the scenario as it unfolds. This subject provides both conceptual frameworks and practical illustrations of quantitative decision-making techniques including decision trees and optimisation to tackle business problems. Students will be shown how to use these quantitative approaches to analyse business problems and, based on these analyses, make effective decisions. These frameworks can be applied to various decisions faced by organisations, with applications in different areas such as operations, marketing, financial and nursing management.</p>",
+        "<p>Managers must also decide if and how to employ Artificial Intelligence (AI) within their workplace to create value for the organisation. This subject explores the function, advantages and limitations of AI and machine learning, and how these tools can optimise decision making in complex environments. The subject focuses on: (1) the foundations of AI\u2014inputs, processes, and outputs; (2) AI in action in various contexts to evaluate the opportunities and challenges; and (3) the critical analysis of AI to illustrate contrasting scenarios in which the adoption of AI creates value and destroys value for the organisation. </p>"
+    ],
+    "ilo": [
+        "Analyse and apply the function and processes of Artificial Intelligence (AI) to aid decision making in complex business environments.",
+        "Critically evaluate the opportunities, limitations, and ethicalities of adopting AI to create value for the organisation.",
+        "Analyse and apply the fundamentals of decision making for business problems and application of quantitative approaches to management.",
+        "Research and apply machine learning techniques such as K-Means, Classification Tree, Logistic Regression and Artificial Neural Network to various business problems."
+    ],
+    "generic_skills": [
+        "Become skilled at analysing business decision problems, building analytics models and solving these to gain managerial insights",
+        "Critical thinking in relation to the effectiveness of solutions and managerial decision analysis",
+        "Application of theory to practice in the field of management science"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written activity",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written activity",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Quiz",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 3 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours of online contact; \n\n56 hours of case study analysis; \n\n20 hours of online forum discussion activity; \n\n70 hours of online activities, participation in simulations, and other management related analyses.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 15 September 2024",
+            "last_self_enrol_date": "16 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "22 September 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "zahra.h@unimelb.edu.au"
+        }
+    ]
+}

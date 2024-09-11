@@ -1,0 +1,134 @@
+{
+    "overview": [
+        "<p>This subject provides a range of Discovery choices for students entering their second year of medical studies.<br/><br/>Whereas the previous subject \u201cMD Discovery 1: Foundation\u201d was intended to lay a basic grounding in the area of interest, \u201cMD Discovery 2: Application\u201d gives students the opportunity to discover new areas of learning and apply them to the clinical practice environment in which they are now immersed.<br/><br/>Where available, students may choose to build on a foundation of knowledge established in the subject \u201cMD Discovery 1: Foundation\u201d in the first year of their Doctor of Medicine course, or they can choose to explore completely different topics of interest.<br/><br/>Each of the learning options available within this subject meets the educational standards required of the rest of the medical degree and is designed to enhance the student\u2019s personal and professional growth. Students are encouraged to choose options that broaden and deepen their learning. The Learning Advisors will ensure that any option or combination will meet the subject learning outcomes and the required level of assessment.</p>",
+        "<p>This subject, \u201cMD Discovery 2: Application\u201d is usually taken in the second year of the Melbourne MD and is intended to give students further insights into an area about which they are passionate and that may be built on in subsequent years if desired. Or, it can provide a stand-alone learning experience.</p>"
+    ],
+    "ilo": [
+        "Appraise the key concepts and knowledge bases underpinning their topics."
+    ],
+    "generic_skills": [
+        "Choosing educational pathways that best prepare them for professional practice",
+        "Analysing the content of a wide variety of educational options and integrating it to their professional development",
+        "Managing their time and clinical responsibilities in order to meet the requirements of these subjects",
+        "Understanding health as broader concept beyond the individual clinical interaction, including, community, national and global aspects."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS90039",
+                        "Name": "MD Discovery 1: Foundation",
+                        "Teaching period": "April (On Campus - Parkville)March (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)April (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": []
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation or equivalent (15 minutes by an individual or equivalent for a group)",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "Satisfactory completion.",
+            "timing": "First half of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written assignment/s and / or oral/performance equivalent (max 2500 words equivalent)",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": "Satisfactory completion.",
+            "timing": "Second half of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "ePortfolio reflective piece",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "Completion of the portfolio.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Professional behaviour",
+            "bullets": null,
+            "hurdle": "Students must maintain a satisfactory standard in professional behaviour, as demonstrated by observed Professional Behaviour Assessment. ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "100% attendance at any synchronous or face to face teaching sessions, clinical placements and supervisor meetings or similar.  ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "April",
+            "principal_coordinator": "Cate Scarff",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This availability relates to Discovery Term 1",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "8 April 2024 to  3 May 2024",
+            "last_self_enrol_date": "7 April 2024",
+            "census_date": "19 April 2024",
+            "last_date_to_withdraw_without_fail": "26 April 2024",
+            "assessment_period_ends": "10 May 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "May",
+            "principal_coordinator": "Cate Scarff",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This availabilty relates to Discovery Term 2",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "6 May 2024 to 31 May 2024",
+            "last_self_enrol_date": "5 May 2024",
+            "census_date": "17 May 2024",
+            "last_date_to_withdraw_without_fail": "24 May 2024",
+            "assessment_period_ends": "7 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Winter Term",
+            "principal_coordinator": "Cate Scarff",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This availabilty relates to Discovery Term 3",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to 26 July 2024",
+            "last_self_enrol_date": "30 June 2024",
+            "census_date": "12 July 2024",
+            "last_date_to_withdraw_without_fail": "19 July 2024",
+            "assessment_period_ends": "2 August 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "July",
+            "principal_coordinator": "Cate Scarff",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This available relates to Discovery Term 4",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 July 2024 to 23 August 2024",
+            "last_self_enrol_date": "28 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "16 August 2024",
+            "assessment_period_ends": "30 August 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

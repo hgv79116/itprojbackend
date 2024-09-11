@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to architectural design resolution, that is, methods of integrating design concepts, spatial definition, program, context, and technology. Through precedent research and design projects, students will gain an understanding of established typologies, respond to existing contexts, and integrate their design concepts with complex spatial planning.</p>",
+        "<p><strong>Incidental costs</strong></p>",
+        "<p>Students will be required to purchase modelling and drawing materials to complete this subject, including costs to cover model making; the overall cost is estimated to be approx. $300 to $500 per person.</p>",
+        "<p><br/><strong>Prescribed software programs with a cost</strong><br/>McNeel Rhino<br/><strong>Prescribed software tools</strong><br/>Image editing software (e.g. Affinity Photo)<br/>Vector editing software (e.g. Affinity Designer)<br/>Layout software (e.g. Affinity Publisher)<br/><br/>Details of software availability and pricing are captured at: <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support\">https://msd.unimelb.edu.au/current-students/student-experience/it-support</a></p>",
+        "<p> </p>",
+        "<p class=\"MsoNormal\"> </p>"
+    ],
+    "ilo": [
+        "Develop concepts for, and resolve the design of, medium-sized buildings",
+        "Evaluate their work in relation to other exemplary spatial compositions;",
+        "Communicate their designs and the disciplinary context in a clear and professional manner."
+    ],
+    "generic_skills": [
+        "propose and evaluate the development of tectonic strategies;",
+        "propose alternative solutions to a spatial problem and assess their relative value;",
+        "develop visual and oral presentation techniques appropriate to particular professional situations;",
+        "respond creatively to complex and ill-defined problems;",
+        "apply independent thought and reflection;",
+        "make use of digital design programs."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90284",
+                        "Name": "Master of Architecture Studio A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Precedent and Context Research:\n\nWritten and graphic submission, including digital and/or physical models.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Concept Design: Design submission comprising oral presentation accompanied by representations appropriate for the design, including site investigations, sketches, drawings, maquettes, concept test models and/or digital multi-media experiments, as appropriate to the design in development.",
+            "bullets": [
+                "66 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Resolved Design: Design submission comprising oral presentation accompanied by representations appropriate for the design, and may include drawings, digital multi-media, and physical models as appropriate to the design.",
+            "bullets": [
+                "150 hours"
+            ],
+            "hurdle": "Passing this assessment is a hurdle requirement for the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Donald Bates",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 1 hour  lecture and  2 x 3 hour studios per week",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Subject Coordinators",
+            "contact_email": "alberto.pugnale@unimelb.edu.au"
+        }
+    ]
+}

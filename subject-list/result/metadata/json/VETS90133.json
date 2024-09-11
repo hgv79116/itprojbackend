@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>Upon completion of this subject, students will be able to apply an understanding of host, pathogen and environmental factors, and the way in which livestock are managed to diagnose and manage disease and suboptimal productivity at the herd and flock level. The multifactorial nature of disease is reviewed, and techniques for measurement and prediction of disease prevalence and population health introduced. An understanding and application of study design and critical appraisal of evidence will enable students to link theory to practice in the management of population health problems. </p>"
+    ],
+    "ilo": [
+        "Apply epidemiological principles to calculate and describe the frequency of disease in animal and/or human populations, and to identify characteristics that place some individuals in a population at greater risk of disease, compared with others",
+        "Explain the major features of the common study designs used in observational epidemiological research and describe the strengths and weaknesses of each",
+        "Use epidemiological tools to evaluate screening and diagnostic tests used in animal health management",
+        "Describe the major classes of disease surveillance programs and explain the strengths and weaknesses of each in order to select and use an appropriate tool in the management of animal and public health",
+        "Describe the different phases of an outbreak investigation and the role and importance of a veterinarian during this process in order to optimise health and minimise productivity losses, comply with legal regulations and accommodate economic realities",
+        "Use scientific databases, select appropriate literature and evaluate research evidence to answer a clinical question and communicate it to a scientific audience in oral and written form",
+        "Apply epidemiological and biostatistical principles to critically appraise the biomedical literature, make arguments relevant to findings to a scientific audience, and make clinical decisions based on the best available evidence",
+        "Interpret data acquired from animal production industry case scenarios, and apply understanding of the determinants of productivity, profitability and sustainability in order to analyse and interpret problems related to these systems"
+    ],
+    "generic_skills": [
+        "Have a broad knowledge of science across a range of fields, with an in-depth understanding in one scientific discipline",
+        "Understand the scientific method, and the history and evolution of scientific concepts",
+        "Be intellectually curious and apply a rigorous, critical and logical approach to enquiry",
+        "Be able to communicate ideas effectively in both written and verbal formats to both specialists and non-specialists",
+        "Reach a high level of achievement in writing, generic research activities, problem-solving and communication",
+        "Be efficient managers of information",
+        "Apply technology to the analysis of biological problems"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90131",
+                        "Name": "Veterinary Parasitology A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "VETS90130",
+                        "Name": "Veterinary Virology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "VETS90128",
+                        "Name": "Vet Bioscience: Integument and Immunity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students are to enrol in these corequisite subjects unless directed by the Faculty of Veterinary and Agricultural Sciences."
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Evidence-based medicine research activity - Students work collaboratively to address a designated research topic that requires them to research and evaluate the evidence.  Students will present their activity orally to their peers in group presentations.",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": "Students must complete the oral task to be eligible to pass the subject.  ",
+            "timing": "Due end of Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Aggregate subject mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Mark Stevenson",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours of lectures, workshops, practical classes and case studies",
+            "total_time_commitment": "180 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "simon.firestone@unimelb.edu.au"
+        }
+    ]
+}

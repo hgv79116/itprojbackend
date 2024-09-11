@@ -1,0 +1,143 @@
+{
+    "overview": [
+        "<p>This subject introduces students to aspects of professional practice for veterinarians, such as the role of the veterinarian in the community, characteristics of veterinary leadership and the skills required to work effectively as a team member and attend to the well-being of self and others. This subject also examines the major non-production animal industries in Australia and internationally, with a focus on the impact of management practices on the health and welfare of animal populations.</p>",
+        "<p>Students will develop an appreciation of the major determinants of profitability, productivity and sustainability of these industries, be able to describe the basic principles of breeding, management, nutrition, animal welfare and disease control as they relate to non-production animal industries, and specify where veterinary input may be important. Students will gain an understanding of the ethical and legal frameworks that govern animal industries in Australia, assuring the safe, ethical and legal management of animals. Students will be given the opportunity to develop skills in risk assessment and handling of cattle, horses, sheep, dogs and cats before demonstrating their proficiency in the structured assessments.</p>"
+    ],
+    "ilo": [
+        "Describe the major non-production animal industries and the common management systems within them, and the role of the veterinarian in these industries",
+        "Describe the basic principles of breeding, management, nutrition, animal welfare and disease control as they relate to non-production animal systems and specify where veterinary input may be important",
+        "Apply principles of animal behaviour and risk assessment in order to safely handle and restrain the common domesticated animal species",
+        "Describe the ethical and legal frameworks that govern the major non-production animal industries in Australia in order to understand the role of the various players, including veterinarians, in assuring the safe, ethical and legal management of animals",
+        "Describe the varied roles of the veterinarian in the community and in industry, and develop and demonstrate the professional skills required to work effectively as a leader, a team member and independently",
+        "Attend to the well-being of self and others, including applying principles of personal financial risk management",
+        "Describe principles of scientific method and how research results are communicated and accessed"
+    ],
+    "generic_skills": [
+        "Be able to seek solutions to problems through the application of knowledge, be able to initiate and integrate new ideas, appreciate the broad picture of science, and understand the importance and application of scientific method",
+        "Be able to deal with integrity and honesty with professional colleagues and clients",
+        "Have the capacity to demonstrate empathy and concern for animals and people",
+        "Have a deeper understanding of the vocational aspects of veterinary science",
+        "Have a heightened awareness of the veterinarian's role in society, and the capacity to be a leader in the community."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90123",
+                        "Name": "Animal Production Systems: Extensive",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90117",
+                        "Name": "Applications in Animal Health A",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to four online assessments, each equally weighted",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online activity - literature search",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": "Students must satisfactorily complete the online activity.",
+            "timing": "From Week 1 to Week 4",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Attendance and participation in animal handling practicals",
+            "bullets": null,
+            "hurdle": "Students must attend and participate in all timetabled animal handling practicals to be considered as 'safe to attempt' the structured assessments of safe animal handling skills",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Up to five structured assessments of animal handling skills",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": "Students must pass the five structured assessments that evaluate safe handling of different domestic animal species. Students will be given the opportunity to practise their animal handling skills and receive formative feedback before demonstrating their proficiency in the structured assessments.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Personal reflection",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Aggregate mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Rebekah Brown",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "85 hours of seminars, lectures, case studies and animal handling practicals",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "bais@unimelb.edu.au"
+        }
+    ]
+}

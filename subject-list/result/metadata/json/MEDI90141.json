@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p><span>After completion of this subject, students will have the knowledge and skill to insert and clean a transoesophageal echocardiography (TOE) probe and how to perform a focused TOE examination, interpret and write a structured report on the assessment of haemodynamic state and cardiac pathology using two dimensional and colour flow Doppler. Students will perform, interpret, write a report and submit a log-book of at least 15 focused TOE studies on simulators and/or patients with a wide range of pathology and interpret and report an additional 10 online focused TOE studies. </span></p>"
+    ],
+    "ilo": [
+        "Comprehensively understand the indications, uses and limitations of transoesophageal echocardiography (TOE) in assessment of cardiac pathology and haemodynamic state",
+        "Safely insert and clean a transoesophageal echocardiography (TOE) probe",
+        "Perform, interpret and write a structured report of the haemodynamic state and cardiac pathology using focused TOE",
+        "Evaluate the requirements for training, competence, and certification of breast ultrasound"
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Improved procedural skills for students who select a practical subject",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90129",
+                        "Name": "Clinical Ultrasound - Core Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to perform and interpret clinical ultrasound. A  student is expected to demonstrate: Sufficient visual acuity to perform the required range of skills, including reading ultrasound monitors across a bed and interpreting ultrasound images on standard commercially available ultrasound machines."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills"
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills are required in performing clinical ultrasound. A student is expected to demonstrate adequate gross and fine motor skills to perform focused ultrasound whilst avoiding injury to patients, colleagues and self."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "multiple-choice questions following each tutorial (25 MCQ)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Interpretation of 10 online case studies assessed by structured MCQ pertaining to each case (50 MCQ)",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Two ultrasound examinations",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Complete a logbook of 15 focused ultrasound studies on either patients or simulators",
+            "bullets": null,
+            "hurdle": "Student must submit a logbook of 15 focused ultrasound studies on either patients or simulators to pass this subject.",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Open-book summative examination of 25 MCQ",
+            "bullets": [
+                "625 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,141 @@
+{
+    "overview": [
+        "<p>This subject aims to provide students with the skills to undertake and critically evaluate environmental risk assessments. Students will learn a range of qualitative and quantitative tools from a variety of disciplines, and apply them to environmental risk problems. Students completing this subject should be familiar with the concept of exposure pathways; understand the ecological processes associated with contamination in aquatic and terrestrial ecosystems; be able to develop empirical models; estimate exposures and responses in ecological systems; and develop a critical understanding of methodologies used in environmental risk assessment.</p>",
+        "<p>Topics include the concepts of risk assessment, psychology and history of risk perception, Australian standards for risk assessment, risk assessment frameworks, exposure pathways, hazard assessment, casual and empirical modeling, inference from data, endpoints and management goals, interval arithmetic, logic trees, environmental toxicology, decision-making under risk and uncertainty, social context of risk, and risk management.</p>"
+    ],
+    "ilo": [
+        "formulate environmental decision problems using frameworks for risk assessment and decision making;",
+        "describe how environmental data, uncertainty and consequences are employed in risk management frameworks, including current standards i.e. ISO31000;",
+        "apply, examine and compare a range of established and emerging qualitative and quantitative\u202ftechniques and tools to carry out environmental risk assessment;",
+        "identify the environmental, economic and social multi-dimensionality of risk and differentiate how science and values influence decision making processes; and",
+        "evaluate and critique how acceptable risk and trade-offs are dealt with in environmental problems."
+    ],
+    "generic_skills": [
+        "ability to apply their broad knowledge of risk assessment across a range of fields, including environmental science, conservation biology, biosecurity, ecotoxicology, and epidemiology;",
+        "capacity to employ highly developed conceptual, analytical, quantitative and technical skills relevant to environmental risk assessment;",
+        "ability to evaluate risk assessment techniques, different types of information and uncertainty in addressing decisions about risk to the environment and people; and",
+        "capacity to work effectively in groups to undertake a group risk assessment with people whose disciplinary and cultural backgrounds differ from their own."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC20004",
+                        "Name": "Blue Planet - Intro to Marine Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC20007",
+                        "Name": "Modelling the Real World",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20006",
+                        "Name": "Probability for Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Other relevant quantitative, statistics and mathematics subjects may be considered as prerequisites, please contact the subject coordinator."
+            },
+            {
+                "type": "paragraph",
+                "content": "Neither MAST10012 Introduction to Mathematics nor UMEP Mathematics for High Achieving Students is accepted as a prerequisite."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in practical work activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment of up to 1500 words based on the first practical, including an online reading component",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Two collaborative practical tasks (of approx. 300 words each) completed in groups of 2-4 during class time, mid-semester",
+            "bullets": [
+                "600 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Take-home examination of up to 2000 words at the end of the first week of the examination period",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures per week; and 3-hour (equivalent) practicals every 2 weeks excluding Weeks 1 and 12",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "bonnie.wintle@unimelb.edu.au"
+        }
+    ]
+}

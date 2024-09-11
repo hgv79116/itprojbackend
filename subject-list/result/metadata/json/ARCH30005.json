@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p>Design Visualisation: Digital Techniques forms part of the Digital Visualisation specialisation in the Bachelor Design</p>",
+        "<p>This subject brings together practical know-how and critical thinking around the field of digital visualisations of space using industry standard software. Building on the digital representational and design skills acquired in the pre-requisite subject, students will learn the principles of colour, material mapping, lighting, composition, entourage, story boarding, rendering and animation techniques. Students will acquire new skills for building digital models, setting up \u2018cameras\u2019, adding \u2018entourage\u2019 (people, vegetation etc) with post-production across an ecology of software. The subject will be delivered through a series of lectures, specialist software workshop led by industry expert and tutorials. The outcome will be a portfolio of image rendering and animation positioned within a critical theoretical context of image-production in contemporary design practice. Concluding each lecture and workshop, students will be introduced to self-teaching modules that will enable further experimentation with media and techniques. </p>",
+        "<p><strong>Prescribed software programs with no cost</strong><br/>Autodesk 3DS Max<br/><strong>Prescribed software programs with a cost</strong><br/>McNeel Rhino (optional)<br/>Chaos Group Vray<br/>Adobe Creative Suite<br/><br/>Details of software availability and pricing are captured at  <a href=\"https://edsc.unimelb.edu.au/student-experience/it-support\">https://edsc.unimelb.edu.au/student-experience/it-support</a><br/><br/><br/></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Apply professional and theoretical principles of design visualisation within contemporary, industry-standard software workflows.",
+        "Develop and iteratively refine design visualisations through digital modelling, rendering, and visual composition.",
+        "Evaluate the use of colour, texture mapping, lighting, and composition principles in developing and completed design visualisations.",
+        "Discuss and reflect on design visualisation processes and outcomes practiced through considered graphical communication, layout, and composition."
+    ],
+    "generic_skills": [
+        "Upon successful completion of this subject the student will have had the opportunity to develop the following generic skills: \n\n\u2022\tEngage confidently in self-directed study and research;\n\n\u2022\tCommunicate ideas effectively in written, graphic and oral formats\n\n\u2022\tUse appropriate technologies\n\n\u2022\tDeveloped an understanding of how such techniques are related to creative thinking"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH20004",
+                        "Name": "Design Processes and Techniques",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Module 1: contains documentation of techniques and outcome of rendering exercises collated in process journal format,",
+            "bullets": [
+                "20-24 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Module 2 contains composed interior rendering image\u00a0 and process documentation collated in journal format",
+            "bullets": [
+                "25 -30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Module 3 contains composed  rendering image and a choreographed animation (maximum 60 second ) sequence with verbal presentation",
+            "bullets": [
+                "35- 42 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Portfolio submission contains formatted journal containing collated and composed\u00a0renderings and animation (as stills) as a portfolio, equivalent to 24 hours of work",
+            "bullets": [
+                "20 -24 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "54 hours  (8 hours of lectures and 46 hours of studios and workshops)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

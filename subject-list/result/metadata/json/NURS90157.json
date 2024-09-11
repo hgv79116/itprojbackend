@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>This is a capstone subject in which students will further consolidate and apply the knowledge they have acquired throughout the degree through case-based learning scenarios which feature complex patient health problems.</p>",
+        "<p>The capstone experience is in the form of a professional e-portfolio where throughout the academic year and throughout their clinical placement practice students must reflect on their evolving practice within the context of Nursing and Midwifery Registered Nurse Standard of Practice 2018. To support this transition, students also have access to elective subject that would support their interest in particular area of nursing. In the clinical skills laboratory students will refine and consolidate their procedural skills, including basic life support and advanced life support simulations, utilising a self-directed learning approach.</p>",
+        "<p>Under the guidance of clinical educators and preceptors, students focus on the transition from nursing student to registered nurse with the goal of achieving readiness to practice as a registered nurse. Through these clinical placements, students have an opportunity to apply knowledge and skills to solve problems that arise in practical settings and professional contexts and develop an integrated understanding of knowledge and practice.</p>"
+    ],
+    "ilo": [
+        "Consolidate knowledge of the dimensions of the professional nursing role in the context of providing complex nursing care in a variety of settings",
+        "Integrate the core principles covered in the subject and its pre-requisites, to develop practice knowledge and skills to support comprehensive patient assessment, planning and monitoring",
+        "Incorporate the principles of evidence-based practice in interprofessional practice, demonstrating collaboration and advanced communication skills",
+        "Apply knowledge of patient assessment, pharmacotherapy, evidence-based guidelines to select nursing interventions for patients with acute, chronic, and complex conditions",
+        "Develop advanced skills in professional communication, including an understanding of professional boundaries, cultural safety, self-awareness and strategies to facilitate a therapeutic nurse patient relationship",
+        "Apply skills in clinical decision making, problem-solving, critical thinking, reflective practice and self-directed learning to the to care for patients with complex disease processes across the lifespan",
+        "Apply health assessment principles to plan, develop, implement, evaluate and revise comprehensive nursing care plans for patients with acute, chronic and complex across the lifespan",
+        "Accurately and professionally document assessment findings and therapeutic interventions including recording quality data in electronic medical records in person-centred models of care adhering to data protection and governance needed to interpret EMR data for effective interdisciplinary communication",
+        "Demonstrate safe and appropriate use of core digital health technologies, including electronic medical records, telehealth and electronic medical administration in simulated conditions",
+        "Comprehend and apply the legal requirements for nursing interventions",
+        "Demonstrate practical applications of evidence-based pharmacokinetics and pharmacodynamics therapies applicable to clinical practice when caring for chronic and complex patients with aim to optimise therapeutic planning across the lifespan, medication safety and risk and medication error management."
+    ],
+    "generic_skills": [
+        "capacity for information seeking, retrieval and evaluation",
+        "critical thinking and analytical skills in individual and interprofessional team settings",
+        "capacity to rethink own ideas and an openness to new ideas",
+        "appreciate how social-historical structures, including colonisation, contribute to social inequity and exclusion, and develop strategies that help redress this",
+        "development of digital literacy skills required to communicate new knowledge",
+        "demonstrate a profound respect for truth and intellectual integrity, and for the ethics of scholarship and practice"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90154",
+                        "Name": "Foundations of Nursing Practice",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 x Drug calculation Test (on line assessment, open book)",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Prior to each clinical placement throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "2 x Case study analysis (online assessment, open book). One to be completed each semester.",
+            "bullets": [
+                "750 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Professional E-Portfolio based on four domains in the Nursing and Midwifery Board of Australia (NMBA) Registered Nurse Standards for Practice (2016), 4000 words, Week 12, Semester 2, 50% see:\u202fhttps://www.nursingmidwiferyboard.gov.au/codes-guidelines-statements/professional-standards/registered-nurse-standards-for-practice.aspx",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12, Semester 2",
+            "percentage": "50%"
+        },
+        {
+            "brief": "2 x Completion of Clinical Assessment tool ANSAT",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": "Completion of Clinical Assessment tool ANSAT associated with placements. Students must obtain a pass in the first ANSAT assessment (Semester 1) in order to attend Professional Experience Placement in Semester 2. ALL ANSAT tools must be passed to be eligible for a pass in the subject\n\n",
+            "timing": "In final week of each Professional Experience placement during teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "2 x Objective Structured Clinical Examination (OSCE)",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": "OSCE must be passed.",
+            "timing": "Prior to each clinical placement throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Professional Experience placement assigned during Professional placement period",
+            "bullets": [
+                "440 hours"
+            ],
+            "hurdle": "100% attendance ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Attendance at all Simulated Learning Laboratory classes",
+            "bullets": [
+                "48 hours"
+            ],
+            "hurdle": "100% attendance ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours of lectures/seminars/workshops/webinars\n\n48 hours of lab simulation",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "29 January 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "josh.allen@unimelb.edu.au"
+        }
+    ]
+}

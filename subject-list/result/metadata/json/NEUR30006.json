@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>The analysis of real neural networks and the construction of artificial neural networks afford mutually synergistic technologies with broad application within and beyond neuroscience. Artificial neural networks, and other machine learning methods, have found numerous applications in analysis and modelling, and have produced insights into numerous complex phenomena (and generated huge economic value). Such technologies can also be used to gain insights into the biological systems that inspired their creation: we will explore how learning is instantiated in artificial and biological neural networks.</p>",
+        "<p>The subject aims to provide foundation skills for those who may wish to peruse neuroscience - or any research or work environment that involves the creation or capture, and analysis, of complex data. Students will gain experience with digital signals and digital signal processing (whether those signals are related to images, molecular data, connectomes, or electrophysiological recordings), and will learn how to conceptualise and implement approaches to modelling data by constructing an artificial neural network using the Python programming language.</p>"
+    ],
+    "ilo": [
+        "Program in Python using Jupyter notebook.",
+        "Build an artificial neural network to perform a learning task on a large dataset.",
+        "Visualise and evaluate the performance of the artificial neural networks they construct.",
+        "Understand the nature of data, noise, and computational models."
+    ],
+    "generic_skills": [
+        "Independent critical thought.",
+        "Understanding different experimental approaches and modelling approaches to problems.",
+        "Analysing complex scientific problems and interpreting experimental findings.",
+        "Understanding the interrelationship of ideas and technologies in multi-disciplinary science."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NEUR30002",
+                        "Name": "Neurophysiology: Neurons and Circuits",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NEUR30003",
+                        "Name": "Principles of Neuroscience",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four 15-minute quizzes in weeks 2, 4, 6 & 8. (5% each).",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written report",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Peter Kitchener",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

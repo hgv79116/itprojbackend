@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>This subject, which is offered to students who have completed ENGR90034 Creating Innovative Engineering (CIE), will give participants core leadership skills for managing professionals engaged in innovation and other ambiguous project-based work. </p>",
+        "<p>The subject teaches leadership at three levels (12 hours each).  The first level, taught intensively before the start of the semester, will enable you to learn basic management theory that allows you to bridge from the skills and theory taught in CIE to the level needed to start mentoring a team in CIE or another subject.  The second level, taught as four three-hour workshops during the semester, will focus on key thematic issues in the leadership of innovative teams.  The third level, taught in twelve one-hour sessions, will focus on specific leadership skills.  These include facilitation, coaching, mentoring, conflict resolution, etc.  Students will apply the theory and skills to the mentoring of a student project team in CIE or another subject within the University.  </p>",
+        "<p>You will apply what you are learning, and develop skills, by mentoring an industry-sponsored project within CIE or a project within another subject.  CIE mentors will also need to manage their relationship with the external sponsor of the project.</p>"
+    ],
+    "ilo": [
+        "Explain the basic theoretical issues underlying the management of teams (theories of motivation, team formation, group process, etc.)",
+        "L02 Analyse key theoretical issues underlying the leadership of innovative teams (collaboration, adaptive leadership, reflexivity in group dialogue, the need to be present and aware, etc.)",
+        "L03 Develop skills in the leadership of teams",
+        "Develop and demonstrate the capacity to reflect on their leadership behaviour.",
+        "L05  Develop and demonstrate the capacity to give constructive and developmental feedback to peers."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90034",
+                        "Name": "Creating Innovative Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students will be invited to apply in writing to enrol in this subject, and will be selected on the basis of their application letter and their performance in Creating Innovative Engineering."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Development feedback to a peer on their reflection.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Weekly reflection on performance as a team leader",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Essay exploring basic management theories.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Essay reflecting on their overall experience during the semester.",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "16 hours of workshops conducted prior to the beginning of semester, 4.5 hours lectures per week, 2 x 3 hour workshops during semester.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "23 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Peter Cebon",
+            "contact_email": "pcebon@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "16 hours of workshops conducted prior to the beginning of semester, 4.5 hours lectures per week, 2 x 3 hour workshops during semester.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Peter Cebon",
+            "contact_email": "pcebon@unimelb.edu.au"
+        }
+    ]
+}

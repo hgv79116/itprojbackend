@@ -1,0 +1,76 @@
+{
+    "overview": [
+        "<p>Data warehouses are designed to provide organisations with an integrated set of high-quality data to support decision-makers. They should support flexible and multi-dimensional retrieval and analysis of data. Topics covered include data warehousing and decision-making, data warehouse design, data warehouse implementation, data sourcing and data quality, online analytical processing (OLAP), dashboards, data warehousing for customer relationship management, and case studies of data warehousing practice.</p>"
+    ],
+    "ilo": [
+        "Understand the main concepts underlying data warehouse design and implementation, data quality and retrieval and analysis of data.",
+        "Be familiar with data warehousing and its relationship to decision-making.",
+        "Design a Data warehouse",
+        "Be familiar with the role of data warehousing in customer relationship management."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: MC-BUSANA Master of Business Analytics, GD-BUSANA Graduate Diploma in Business Analytics, GC-BUSANA Graduate Certificate in Business Analytics, PR-BUSANA Professional Certificate in Business Analytics"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students admitted to the MBA course may enrol in this subject as an elective subject. Students are required to achieve 70% or above in Data Analysis"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Syndicate Project 1",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Syndicate Project 2",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students are required to pass the final examination to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "11 March 2024 to  3 May 2024",
+            "last_self_enrol_date": "21 March 2024",
+            "census_date": "5 April 2024",
+            "last_date_to_withdraw_without_fail": "19 April 2024",
+            "assessment_period_ends": "10 May 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

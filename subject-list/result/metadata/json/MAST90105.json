@@ -1,0 +1,200 @@
+{
+    "overview": [
+        "<p>This subject introduces probability and the theory underlying modern statistical inference. Properties of probability are reviewed, univariate and multivariate random variables are introduced, and their properties are developed. It demonstrates that many commonly used statistical procedures arise as applications of a common theory. Both classical and Bayesian statistical methods are developed. Basic statistical concepts including maximum likelihood, sufficiency, unbiased estimation, confidence intervals, hypothesis testing and significance levels are discussed. Computer packages are used for numerical and theoretical calculations.</p>"
+    ],
+    "ilo": [
+        "Develop a systematic understanding of probability, random variables, probability distributions and probability models, and their relevance to statistical inference;",
+        "Be able to formulate standard probability models from real world applications and critically assess them;",
+        "Be able to apply the properties of probability distributions, moment generating functions, variable transformations and conditional expectations to analyse common random variables and probability models;",
+        "Be able to use a computer package to perform algebraic and computational tasks in probability analyses.",
+        "Be familiar with the basic ideas of estimation and hypothesis testing",
+        "Be able to carry out many standard statistical procedures using a statistical computing package.",
+        "Develop the ability to fit probability models to data by both estimating and testing hypotheses about model parameters."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time management skills: the ability to meet regular deadlines while balancing competing commitments.",
+        "computer skills: the ability to use statistical computing packages"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5MAST10010Data AnalysisSemester 2 (On Campus - Parkville)12.5MAST10011Experimental Design and Data AnalysisNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10010",
+                        "Name": "Data Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10011",
+                        "Name": "Experimental Design and Data Analysis",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-DATASC Master of Data Science",
+                    "GD-DATASC Graduate Diploma in Data Science"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20006",
+                        "Name": "Probability for Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four written assignments amounting to a total of up to 100 pages, due during regular intervals",
+            "bullets": [
+                "100 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Computer laboratory test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Pavel Krupskiy",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 x one hour lectures per week, 1 x one hour practice class per week, and 1 x one hour computer laboratory class per week",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "pavel.krupskiy@unimelb.edu.au"
+        }
+    ]
+}

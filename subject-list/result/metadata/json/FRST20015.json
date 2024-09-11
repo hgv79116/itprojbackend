@@ -1,0 +1,134 @@
+{
+    "overview": [
+        "<p><span>Australia is the most fire-prone continent on Earth. This subject explores the important role of fire in Australian landscapes. Students will learn how fire has shaped the diversity of life in Australia over millions of years, how people have been using fire to modify Australian landscapes for millennia, and how contemporary fire patterns influence human society and ecosystems. Topics include combustion and fire behaviour, prediction of fire patterns, fire ecology o</span><span>f plants and animals, Indigenous burning, climate change and future fire, and approaches for using fire, </span><span>managing fire and sustaining biodiversity</span><span>.</span></p>"
+    ],
+    "ilo": [
+        "Discuss the role of fire in Australian society.",
+        "Explain the process of combustion and what determines fire behaviour.",
+        "Communicate factors affecting the frequency, intensity, seasonality and size of fires.",
+        "Analyse how fire shapes the ecology and evolution of plants and animals.",
+        "Examine the role of Indigenous burning in past and present Australian landscapes.",
+        "Explore potential changes to fire patterns under future climates.",
+        "Evaluate actions to promote human well-being and sustainability in areas that experience fires."
+    ],
+    "generic_skills": [
+        "Ability to access and critically evaluate information from a range of sources including the sciences and humanities",
+        "Ability to collect, analyse and interpret data.",
+        "Ability to apply scientific principles to practical problems.",
+        "Working effectively in small and large groups.",
+        "Applying written and oral presentation skills for communication with a range of audiences."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10001",
+                        "Name": "Biology of Australian Flora & Fauna",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BOTA20002",
+                        "Name": "Plant Biodiversity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENST20001",
+                        "Name": "Human Behaviour and Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENVS10001",
+                        "Name": "Natural Environments",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FRST20014",
+                        "Name": "Forests in a Global Context",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "GEOG20001",
+                        "Name": "Society and Environments",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LARC10001",
+                        "Name": "Natural History",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FRST30002",
+                        "Name": "Fire in the Australian Landscape",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Five practical reports, due in weeks 1, 3, 6, 10, 12 (10% per practical report)",
+            "bullets": [
+                "400 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due end of Week 1 of examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "52 hours; 11 x 2 hr lectures, 11 x 2 hr Practicals, 1 x 8 hr day field trip (in week 9)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

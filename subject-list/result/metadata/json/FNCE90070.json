@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>This subject involves in-depth analysis of experimental design used for the study of human decision-making. The focus is on the experimental research pipeline. This includes the design of experiments involving human participants and related data analysis in the context of theoretical models of choice under uncertainty, inter-temporal choice, and complex choice situations. The subject also includes topics of good scientific practice and meta-research.</p>"
+    ],
+    "ilo": [
+        "Identify an open research question in the field and generate a corresponding research hypothesis that can be tested experimentally.",
+        "Design an experiment appropriate to testing or exploring theories about human decision-making.",
+        "Design and validate a data analysis pipeline that is appropriate for the scientific question at hand.",
+        "Critically evaluate experimental research studies.",
+        "Identify good research practices and explain their relevance."
+    ],
+    "generic_skills": [
+        "a high-level ability of critical thinking, interpretation and analysis skills.",
+        "a moderate-level ability of collaborative learning, teamwork, application of theory to practice, written communication, and oral communication.",
+        "some ability of statistical reasoning and coding/programming skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Draft research proposal",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Reviews of peers' draft research proposal (2 x 400 words reviews)",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final research proposal (including updated draft)",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": "Students need to achieve a passing grade (of 50%) on the final research proposal to pass the subject. ",
+            "timing": "Week 12",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Peer-feedback on research proposal ( 2 x 200 word feedback survey)",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "First week of the examination period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Participation on asynchronous discussion (one contribution per week)",
+            "bullets": [
+                "100 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Article presentations (in groups, 20 minutes, fortnightly)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Learning matrix assignment (in groups, 10 minutes, fortnightly)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Pablo Franco Ulloa",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (one 3-hour workshop per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>This subject provides students with the opportunity to design and conduct, under supervision, an independent biomedical research project. Specific research projects will depend on the availability of appropriate supervisors and resources. This subject will provide students with skills and experience conducting research in an area of human health and disease across the breadth of paediatric disciplines. Projects may include laboratory, clinical or public health research skills. Students will take responsibility for analysis, data interpretation and dissemination of the research findings via oral and written presentations. The course year starts in February and ends in November and is only available full time. This subject is designed to complement the accompanying coursework subject <a href=\"https://handbook.unimelb.edu.au/view/current/PAED40002\" title=\"PAED40002\">PAED40002</a>.<br/><br/></p>"
+    ],
+    "ilo": [
+        "Select, summarise and critically appraise published research in an area of human health and disease.",
+        "Formulate a research question based upon a synthesis of the published research evidence.",
+        "Design and justify an appropriate research design to answer a research question in human health and disease.",
+        "Conduct supervised research in a specific area of human health and disease.",
+        "Communicate the method and findings of a research project in oral and written form.",
+        "Identify contemporary issues in biomedical and health research."
+    ],
+    "generic_skills": [
+        "An in-depth knowledge of their research subject.",
+        "Competent skills in a particular research area.",
+        "Reached a high level of skill in academic writing and research dissemination.",
+        "Reached a high level of skill in verbal communication.",
+        "The ability to demonstrate independent critical thinking and analysis."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PAED40002",
+                        "Name": "Coursework in Paediatrics & Child Health",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written report (thesis)",
+            "bullets": [
+                "10000-12000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due late October",
+            "percentage": "80%"
+        },
+        {
+            "brief": "An oral presentation on the research project",
+            "bullets": [
+                "10-15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due early November",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Supervisor's report on the student's overall research ability",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Due early November",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Regular attendance at department and institute seminars",
+            "bullets": null,
+            "hurdle": "At least 40 seminars (approx. 1 per week) throughout the year",
+            "timing": "Year long",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Belinda McClaren",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "425 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordinator:",
+            "contact_email": "helen.dcruz@rch.org.au"
+        }
+    ]
+}

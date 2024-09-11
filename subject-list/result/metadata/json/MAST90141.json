@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>Recent years have brought a rapid growth in the amount and complexity of health data captured. Among others, data collected in imaging, genomic, health registries and personal devices call for new statistical techniques in both predictive and descriptive learning. Machine learning algorithms for classification and prediction complement existing statistical tools in the analysis of these data. This unit will cover modern machine learning methods particularly useful for large and complex data. Topics include, classification trees, random forests, model selection, lasso, bootstrapping, cross-validation, generalised additive modelling, and regression splines. The statistical software R package will be used throughout the unit.</p>"
+    ],
+    "ilo": [
+        "Describe situations where machine learning methods can offer advantages over traditional statistical modelling approaches to data analyses in health applications;",
+        "Recognise and explain the differences between the goals of description and prediction;",
+        "Determine and implement appropriate machine learning approaches for description and prediction in real-world health applications;",
+        "Measure and explain the uncertainty of the results of analyses using machine learning approaches;",
+        "Interpret the results of analyses using machine learning in light of the assumptions required, the quality of input data, and the sensitivity to the specific technique implemented;",
+        "Critically appraise current literature concerning machine learning applications for classification or prediction in health; and",
+        "Effectively communicate in language suitable for the scientific community the results of analyses using machine learning methods."
+    ],
+    "generic_skills": [
+        "Independent problem solving",
+        "Facility with abstract reasoning",
+        "Clarity of written expression",
+        "Sound communication of technical concepts"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90099",
+                        "Name": "Advanced Regression",
+                        "Teaching period": "September (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90102",
+                        "Name": "Foundations of Regression",
+                        "Teaching period": "July (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short Essay - short exercises with mathematical derivations, explanation of concepts, data analyses.",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Report \u2013 determination and application of appropriate methods to example health dataset No. 1, interpreting and presenting results in suitably clear scientific language",
+            "bullets": [
+                "2,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Short Essay - critical appraisal of a published paper using machine learning methods",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Report \u2013 determination and application of appropriate methods to example health dataset  No. 2, interpreting and presenting results in suitably clear scientific language",
+            "bullets": [
+                "2,000 words"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "144 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "jbcarlin@unimelb.edu.au"
+        }
+    ]
+}

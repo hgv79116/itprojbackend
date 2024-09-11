@@ -1,0 +1,123 @@
+{
+    "overview": [
+        "<p>Biology is the study of life, ranging from simple cells to complex multicellular organisms, and the processes which allow life to exist. Knowledge of the relevant biological concepts is essential for understanding of agricultural theory and practice. This subject aims to introduce the Bachelor of Agriculture students to the importance of the biological sciences in Agriculture and present the key biological processes in an agricultural context. Students will be introduced to a range of concepts vital to understanding the living world, familiarising students with the foundations of cell biology, microbiology, plant and animal systems, evolution and ecology.</p>",
+        "<p>This subject will begin with a brief history of Agriculture and will lead on to a discussion of the origin of life, basic molecules of life and how these molecules come together to form living cells. The structure and function of Prokaryotic and Eukaryotic cells will be discussed as will the importance of microbes for soil health and agriculture. These key concepts in evolution, cell biology and soil health, are fundamental to understanding both the biological sciences and how biology underpins agriculture. Plant growth and development will then be introduced. Agriculturally significant crops including Wheat and Soybean will be used to discuss topics ranging from physiological processes such as seed germination, plant growth, transpiration and the transport of substances throughout the plant to metabolic processes such as photosynthesis and respiration. The transition from vegetative to reproductive growth and how pests, disease and environmental factors can affect agricultural production will also be discussed. Animal physiology will be introduced using Agriculturally significant animal species such as cows (ruminants) and pigs (monogastrics). The basic structures, functions and importance of animal biological systems such as the endocrine, respiratory, circulatory and digestive systems will be discussed and factors which influence agricultural production will be emphasized.</p>"
+    ],
+    "ilo": [
+        "demonstrate an understanding of the biological basis and diversity of life",
+        "demonstrate an understanding of the biological concepts related to cell biology, plant and animal anatomy and physiology, evolution and ecology and how these concepts are related to agricultural processes and agricultural production",
+        "critically observe, record, evaluate and present relevant scientific data",
+        "demonstrate the principles of experimental design and analysis through simple laboratory practicals and assignments",
+        "define and articulate scientific principles and information underlying biology related topics in written format suitable for scientific audiences ensuring academic and intellectual integrity",
+        "work cooperatively in small groups/teams in practical classes demonstrating competence in the use of relevant laboratory equipment",
+        "demonstrate critical thinking through practical and laboratory assessments and assignments"
+    ],
+    "generic_skills": [
+        "Be able to critically assess and integrate new knowledge to use these skills to solve problems",
+        "Be able to complete basic manipulations with laboratory equipment",
+        "Have developed skills in recording observations, analysis and interpretation of data",
+        "Be able to work in small groups"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10053",
+                        "Name": "Agriculture Discovery",
+                        "Teaching period": "February (On Campus - Dookie)",
+                        "Credit Points": "0"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quiz",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Intra-semester assessment",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Quiz",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group report based on activities from module 2",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Report based on activities in module 3",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "80% attendance at the practical classes and tutorials",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sarah Frankland",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2hrs lectures/ week, 12x 2hr tutorials, 3x 2hr practicals.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "andrew.cutting@unimelb.edu.au"
+        }
+    ]
+}

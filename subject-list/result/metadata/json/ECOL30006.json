@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p>This subject explores the relevance of ecological and evolutionary theory for understanding the distributions of species, their interactions, their life history characteristics and how these traits are impacted by changing environmental conditions. Topics include spatial ecology and metapopulations, climatic impacts on distribution and abundance, life history evolution and ecosystem stability and resilience. The skills developed in this subject provide an essential grounding for careers in ecology.</p>",
+        "<p class=\"MsoNormal\"> </p>",
+        "<p class=\"MsoNormal\"> </p>",
+        "<p class=\"MsoNormal\"> </p>"
+    ],
+    "ilo": [
+        "Conduct ecological research relevant to global and local ecological and environmental change;",
+        "Read, comprehend, represent and critically evaluate relevant contemporary ideas and methodologies in ecology in oral and written form;",
+        "Design an experiment appropriate for a given ecological question and interpret data from ecological studies;",
+        "Use computer-based modelling and simulations to investigate contemporary issues in ecology and changing environments."
+    ],
+    "generic_skills": [
+        "Assimilate and critically evaluate new knowledge within a scientific paradigm, and",
+        "Communicate that knowledge to a broad audience."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOL20003EcologySemester 2 (On Campus - Parkville)12.5BIOL20001Evolution: Making Sense Of LifeSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL20001",
+                        "Name": "Evolution: Making Sense Of Life",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in practical class activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Tutorial discussion assessed by tutors according to simple rubric, in each of 6 tutorials, every second week",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Three written reports, 500 words each, chosen from 4 practicals held approximately fortnightly (3 x 10% each)",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written examination, mid-semester",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures per week; 24 hours of tutorial/practical classes during the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "ECOL30006@zoology.unimelb.edu.au"
+        }
+    ]
+}

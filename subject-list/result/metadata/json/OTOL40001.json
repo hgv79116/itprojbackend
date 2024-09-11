@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>In this subject, students undertake an independent research project in a hearing-related field of science or biomedicine under the close supervision of an academic mentor(s). The project is directed at developing the student's ability to design and undertake a substantial body of work, to critically analyse and interpret research findings, and to report on the outcomes in written and verbal form using the appropriate scientific style.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "The key-research findings within the sub-discipline of otolaryngology relevant to individual research project.",
+        "The relationship between research design and ethical research practices."
+    ],
+    "generic_skills": [
+        "12000 words"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "OTOL40002",
+                        "Name": "Otolaryngology Advanced Coursework",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation of project aims and methods",
+            "bullets": null,
+            "hurdle": "",
+            "timing": "Due in Week 2-4 of Semester One",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Defence of thesis (oral)",
+            "bullets": null,
+            "hurdle": "",
+            "timing": "Due in Week 10-12 of Semester Two",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Research thesis",
+            "bullets": [
+                "12000 words"
+            ],
+            "hurdle": "",
+            "timing": "Due in Week 10-12 of Semester Two",
+            "percentage": "80%"
+        },
+        {
+            "brief": "Attendance at weekly laboratory meetings",
+            "bullets": null,
+            "hurdle": "In case of failure to meet the hurdle requirement of 80% attendance, additional work will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Hayden Eastwood",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordinator:",
+            "contact_email": "shanafi@unimelb.edu.au"
+        }
+    ]
+}

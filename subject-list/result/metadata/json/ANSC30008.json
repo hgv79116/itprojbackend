@@ -1,0 +1,142 @@
+{
+    "overview": [
+        "<p>Efficient production relies on keeping animals in their optimal physiological state. The aim of this subject is to provide in depth knowledge of animal physiology as it pertains to the production of food and fibre. Furthermore this subject will cover industry scenarios that compromise efficient production, the impacts on animal physiology and amelioration strategies.</p>",
+        "<p>The topics to be covered include: Pathways that regulate growth; Physiology of Lactation; Physiology of Reproduction; Environmental physiology; Muscle biology as it pertains to meat quality; and Feed intake regulation.</p>"
+    ],
+    "ilo": [
+        "Understand the principles regulating growth of food and fibre, including relationships with product quality",
+        "Be aware of factors that influence fertility",
+        "Understand the impacts of environmental stress on animal production",
+        "Understand the conversion of muscle to meat, including factors that compromise meat quality",
+        "Be aware of the factors that regulate feed intake, including feed efficiency"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANSC20001",
+                        "Name": "Animal Physiology and Growth",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBCMB20002Biochemistry and Molecular BiologySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5AGRI20043Biochemistry in Agricultural SystemsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20043",
+                        "Name": "Biochemistry in Agricultural Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANSC20002",
+                        "Name": "Comparative Nutrition and Digestion",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment based on activities in practical",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "4 x MCQ quiz based on tutorial content",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 2, 7, 9 & 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": "Jeremy Cottrell",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "24 lectures, 1x 3hr prac, 4x 1 hr tutorial",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jcottrell@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": "Jeremy Cottrell",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 lectures, 1x 3hr prac, 4x 1 hr tutorial",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jcottrell@unimelb.edu.au"
+        }
+    ]
+}

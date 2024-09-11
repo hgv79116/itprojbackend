@@ -1,0 +1,137 @@
+{
+    "overview": [
+        "<p><strong>AIMS </strong><br/> <br/>This subject will focus on how risk analysis and management principles and techniques can be applied to engineering projects. The subject introduces a range of risk analysis techniques, which are put in the context of engineering projects and analysed using the framework of the risk standard (AS ISO 31000:2018). Risk is a fundamental concept that is applied to every engineering project, whether it is ascertaining the risk of health impacts of water treatment processes, prevention of loss of life by flood mitigation projects, or catastrophic losses caused by the failure of structure in earthquakes or storms. <br/>The subject is of particular relevance to students wishing to establish a career in Engineering management, but is also of relevance to a range of engineering design disciplines where design for the total life cycle of the product or infrastructure should be considered. <br/> <br/><strong>INDICATIVE CONTENT </strong><br/> <br/>Topics covered include: an introduction to the history of engineering failures; the forms of risk and risk identification; project risk analysis; the sociological implications of acceptable risk; approaches to risk management, monitoring for compliance, risk perception and design implications. <br/><br/><br/></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "ILO1 - Identify information sources and risks for engineering projects",
+        "ILO2 - Classify risk in terms of their severity and likelihood",
+        "ILO3 - Develop a plan for managing risks and opportunities by implementing AS ISO 31000:2018 risk management standards",
+        "ILO4 - Conduct comprehensive risk analysis using statistical methods, engineering reliability analysis and advanced simulation techniques, such as Monte Carlo simulation and machine learning, to predict the occurrence of failures of engineering projects",
+        "ILO5 - Implement risk management techniques for compliance in sustainable operation",
+        "ILO6 - Apply advanced engineering reliability and digital engineering techniques for maintaining the sustainability of critical infrastructures"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Understanding of social, cultural, global, and environmental responsibilities and the need to employ principles of sustainable development",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Undergraduate students:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10018:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Linear Algebra Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One closed book examination. Intended Learning Outcome (ILO)'s  1-6 are addressed in the exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assignment totalling 1000 words, due mid-semester. ILOs 1 - 3 are addressed in the assignments",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due week 6-7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment totalling 1000 words, due end of semester. ILOs 2 - 6 are addressed in the assignments.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due week 11-12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Attendance and contribution to discussion in tutorials. ILOs 1 - 6 are addressed in the contribution in tutorials.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Lihai Zhang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (Lectures: 2 hours per week;  Computer lab Tutorials: 1 hour per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Professor Lihai Zhang",
+            "contact_email": "lihzhang@unimelb.edu.au"
+        }
+    ]
+}

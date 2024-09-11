@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>Quantum Mechanics introduces a dramatically new and rich understanding of the universe. In addition to providing a much deeper insight into the world of atoms and subatomic particles than afforded by classical Newtonian physics, Quantum Mechanics underpins advances in science across all disciplines, from molecular biology to astrophysics. This subject provides a rigorous mathematical formalism for advanced quantum mechanics, laying the foundation for further fundamental theoretical physics and research-level experimental physics in frontier areas such as quantum communication and quantum computation.</p>",
+        "<p>The subject describes the Hilbert-space formulation of quantum wave mechanics, including density matrix descriptions for single and joint Hilbert space systems; symmetries and conservation laws including rotations and angular momentum; the path integral approach; perturbation theory applications, and scattering theory.</p>"
+    ],
+    "ilo": [
+        "apply advanced quantum mechanics principles in a range of contexts of relevance in modern physics;",
+        "use the Hilbert-space formalism of modern quantum mechanics, with bra-ket and matrix notations, and symmetries and related conservation laws on the solution of graduate-level quantum mechanics problems;",
+        "demonstrate the use of density matrices for single and joint Hilbert spaces;",
+        "demonstrate the difference between pure and mixed states, and entanglement and their relevance in quantum mechanics;",
+        "understand the basic formalism of path integrals;",
+        "apply perturbation methods to physical systems and thus predict measurable outcomes; and",
+        "apply the concepts of scattering theory."
+    ],
+    "generic_skills": [
+        "analyse and solve problems by applying simple fundamental laws to more complex situations;",
+        "apply abstract concepts to real-world problems;",
+        "use approximations to solve relatively complicated problems;",
+        "participate as an effective member of a group in discussions and collaborative assignments;",
+        "manage time effectively in order to be prepared for group discussions and undertake assignments and exams."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC30018",
+                        "Name": "Quantum Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC30016",
+                        "Name": "Electrodynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment totalling up to 18 pages of written work (due at the end of week 5)",
+            "bullets": [
+                "18 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment totalling up to 18 pages of written work (due at the end of week 11)",
+            "bullets": [
+                "18 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "4 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jeffrey McCallum",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours comprising 3 one-hour lectures/week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "msc@physics.unimelb.edu.au"
+        }
+    ]
+}

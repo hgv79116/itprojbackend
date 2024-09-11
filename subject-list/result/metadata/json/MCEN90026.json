@@ -1,0 +1,183 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This course will build on the fundamental theories defined previously in Mechanics &amp; Materials. Two principal theories in the determination of stress within a structure are energy methods and three-dimensional analysis.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered in this course will include engineering plasticity, design of pressure vessels and pipes, thick-walled cylinders, shrink fitting, duplex pressure vessels, inelastic deformation, residual stresses, membrane theory of shells of revolution, yielding, rotating shells, local bending stresses, stress analysis of rotating discs with and without holes, shrink fitting, initial and ultimate yielding, fracture mechanics and fatigue, and introduction to the finite element method.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Determine analytically, the maximum stress in a loaded beam",
+        "Design structures with columnar and beam elements",
+        "Predict failure of structures due to yielding of components",
+        "Utilise FEA software to solve stress analysis problems."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Proficiency in engineering design",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMCEN30017Mechanics & MaterialsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN30017",
+                        "Name": "Mechanics & Materials",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN30017",
+                        "Name": "Mechanics & Materials",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A mid semester test, assesses Intended Learning Outcomes (ILOs) 1-4.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "An examination, assesses ILOs 1-4.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Two modelling projects of equal weight and approximately 1000 words each. Assesses ILOs 1-4.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 11",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Contact hours: 36 hours of lectures, 12 hours of tutorials and 20 hours of laboratory classes.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Prof. Peter Vee Sin Lee",
+            "contact_email": "pvlee@unimelb.edu.au"
+        }
+    ]
+}

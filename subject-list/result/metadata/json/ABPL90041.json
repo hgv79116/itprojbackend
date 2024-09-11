@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>Overview of the legal system in Australia:</p>",
+        "<ul><li class=\"MsoNormal\">The concept of property and ownership in Australia</li><li class=\"MsoNormal\">Comparative land policy</li><li class=\"MsoNormal\">The general law and the Torrens land registration systems</li><li class=\"MsoNormal\">The legal nature of land: improvements, fixtures and chattels</li><li class=\"MsoNormal\">Encumbrances: easements, restrictive covenants, right</li><li class=\"MsoNormal\">Co-ownership: subdivision, joint tenancy in common</li><li class=\"MsoNormal\">Licenses and leases</li><li class=\"MsoNormal\">Contract, tort and agency</li><li class=\"MsoNormal\">Occupier's liability</li><li class=\"MsoNormal\">Impact of heritage legislation</li></ul>"
+    ],
+    "ilo": [
+        "Analyse basic property law issues;",
+        "Adopt an ethical viewpoint to real property matters;",
+        "Understand the processes of law in the context of real property;",
+        "Use effective written communications in a professional report;",
+        "Use effective oral communications in debating legal principles."
+    ],
+    "generic_skills": [
+        "Analysis of basic property law issues",
+        "Understanding of the processes of law affecting real property",
+        "Understanding the ethics of real property matters",
+        "Oral communication in debating legal principles",
+        "Planning of own work via assignments throughout the semester"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-PROP Master of Property",
+                    "MC-PROP2Y Master of Property",
+                    "MC-PROP3Y Master of Property",
+                    "702PA Graduate Diploma in Property Valuation",
+                    "MC-SPATENG Master of Spatial Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the subject coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment one",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment two, due towards the end of semester",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written examination, not exceeding three hours",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "A grade of at least 40% must be achieved in the final examination in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Hao Wu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "one 2-hour lecture, and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "haow@unimelb.edu.au"
+        }
+    ]
+}

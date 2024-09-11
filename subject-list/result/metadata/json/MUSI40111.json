@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p>This subject introduces students to a major research topic in musicology, ethnomusicology, or popular music studies through guided readings, discussions and a research project.</p>",
+        "<p>Topic, reading list, project timeline and format are agreed upon in collaboration between student and honours coordinator before the semester begins.</p>",
+        "<p><strong>2023 Topic: Music and meaning from Bach to Beethoven and beyond. </strong></p>",
+        "<p>In this subject we will explore the construction of meaning in Western music from the early Modern period to the present through the lens of the theory of musical topics. The concept of <em>topic</em> alludes to conventional figures that refer audiences to culturally shared worlds of meaning. Topical awareness can influence our understanding of individual works and help shape their interpretation. Although our main focus will be the Western art music tradition, the use of topics in other genres such as video game, popular, and film music will be considered. </p>",
+        "<p><strong>Delivery</strong></p>",
+        "<p>This subject is co-taught with MUSI30270 Topics in Musicology. Students cannot simultaneously enrol in co-taught subjects in the same study period.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "identify and critique major perspectives and methods associated with a contemporary topic or area in academic music studies;",
+        "compare and assess how major topics in music studies have been applied to different contexts and time periods;",
+        "find and assess the secondary literature on a major issue in the study of music;",
+        "craft and answer a research question related to a major topic in music studies using primary, secondary and tertiary sources as appropriate."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI20227",
+                        "Name": "Popular Music Studies",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUSI30269",
+                        "Name": "Music in Australia",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUSI30270",
+                        "Name": "Topics in Musicology",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUSI30271",
+                        "Name": "Topics in Popular Music Studies",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A folio of written work",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Research project - 2000 words or equivalent (excluding references)",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

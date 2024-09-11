@@ -1,0 +1,76 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject covers the basic areas of optical networks.<strong><br/><br/>INDICATIVE CONTENT</strong></p>",
+        "<p>In particular, it includes the following topics:</p>",
+        "<ul><li>Optical network elements;</li><li>Optical transport network architecture and design;</li><li>Optical circuit switching, optical burst switching, and optical packet switching;</li><li>Optical network control and management;</li><li>Optical network survivability;</li><li>Traffic grooming in optical networks;</li><li>IP over WDM networks;</li><li>Optical access network architectures and technologies (e.g. Active Ethernet, EPON, GPON, WDM PON);</li><li>Design and analysis of optical access networks;</li><li>Free space optical networks.</li></ul>"
+    ],
+    "ilo": [
+        "Fundamental optical network elements",
+        "Optical network architectures ranging from optical access networks to backbone optical transport networks",
+        "Approaches and methodologies of optical network design optimisation",
+        "Techniques of optical network survivability",
+        "Problem solving skills and critical thinking in the discipline of optical networks",
+        "The subject will also help students develop an enthusiasm towards research and development in the field of optical networks"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Formally supervised written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written report on project of 2000 words per student",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

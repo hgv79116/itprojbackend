@@ -1,0 +1,166 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Candidates will undertake as individuals or as a member of a team a designated investigative project,  or a professional work experience, with a suitable industry partner. This work could involve critical analysis of a topic, experimental research and/or development, theoretical modelling, process simulation and/or the solution of an industrial problem. Rigorous planning and scheduling of the project, time management, written and verbal technical communication, interpretation of results and team work will be required. Working off campus may be also be required, depending on the project.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>The exact content covered in the subject will depend to some extent on the nature of the industry project. Topics covered will most probably include literature searches, site safety, risk assessment, engineering analysis, modelling and design and report writing.</p>",
+        "<p>Students will undertake seminars covering topics that will include professional standards of behaviour and ethical conduct, working in teams, time management and workplace networking.</p>",
+        "<p>This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH).</p>"
+    ],
+    "ilo": [
+        "Describe the application of established engineering methods to complex problem solving, design, process safety or project management",
+        "Demonstrate written and oral communication appropriate to the host organization and/or clients",
+        "Demonstrate professional use and management of information."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to communicate effectively, not only with engineers but also with the community at large",
+        "In-depth technical competence in at least one engineering discipline",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-CHEMENG Master of Chemical Engineering",
+                    "Chemical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Chemical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Biochemical specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "There is an application process for this subject:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who have successfully completed no fewer than 50 points of coursework at the University of Melbourne in one of the prerequisite Master degree courses and achieved a WAM of 60 and a satisfactory academic record will be able to access University-sourced internships and can apply for these internships through a competitive process."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who do not meet these criteria may source their own internship; either independently or through the Department of Chemical Engineering; and apply to have it approved by the CHEN90028 subject coordinator."
+            },
+            {
+                "type": "paragraph",
+                "content": "An application for a student-sourced internship must be made at least two weeks before the teaching period commencement date."
+            },
+            {
+                "type": "paragraph",
+                "content": "Due to workload commitments, it is recommended that students restrict their enrolment to 37.5 points in total during the semester, if enrolled in CHEN90028 in Semesters 1 or 2."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students are not able to enrol in CHEN90023 Research Project or BIEN90001 Biochemical Engineering Research Project subject concurrently with CHEN90028, due to the workload commitment associated with each subject."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students are not able to enrol in ENGR90027 Engineering Project, CHEN90022 Chemical Engineering Design Project or BIEN90002 Biochemical Engineering Design project concurrently with CHEN90028 due to the workload commitment involved in each subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90033",
+                        "Name": "Internship",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)Summer Term (Dual-Delivery - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Presentation-Oral presentation (maximum 10 minutes duration) on work undertaken and/or reflection against the IChemE Process Safety Competencies. Requires approximately 7 hours of work in total.\n\nIntended Learning Outcomes (ILOs) 1, 2 and 3 will be assessed through the student's presentation.",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Presentation: An oral presentation (maximum 15 minutes duration)  supported either by powerpoint slides or a poster. The presentation will either present the results of a technical investigation, or a response to the IChemE Safety Centre Process Safety Competencies. Intended Learning Outcomes (ILOs) 1, 2 and 3 will be assessed through the student's presentation. Students complete their oral presentation towards the end of semester and their written report is submitted during the exam period.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Practical Assessment / Project-\n\nA written report of up to 35 pages, not including appendices, diagrams, tables, computations and computer output. The report will either present the results of a technical investigation, or a response to the IChemE Safety Centre Process Safety Competencies. Intended Learning Outcomes (ILOs),1, 2 and 3 will be assessed through the student's written report.",
+            "bullets": [
+                "35 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Catherine Sutton",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Up to 350 hours workplace commitment, including a 2 hour lecture at the start of the teaching period, 10 hours of seminars/academic supervision, 40 hours of take-home assignments and independent study.",
+            "total_time_commitment": "350 hours",
+            "teaching_period": "27 November 2023 to 11 February 2024",
+            "last_self_enrol_date": "30 January 2024",
+            "census_date": "30 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": "Dr Catherine Sutton",
+            "contact_email": "ccsutton@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Catherine Sutton",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Up to 350 hours workplace commitment, including a 2 hour lecture at the start of the teaching period, 10 hours of seminars/academic supervision, 40 hours of take-home assignments and independent study.",
+            "total_time_commitment": "350 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "7 June 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Catherine Sutton",
+            "contact_email": "ccsutton@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": "Colin Scholes",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Up to 350 hours workplace commitment, including a 2 hour lecture at the start of the teaching period, 10 hours of seminars/academic supervision, 40 hours of take-home assignments and independent study.",
+            "total_time_commitment": "350 hours",
+            "teaching_period": "28 June 2024 to 20 October 2024",
+            "last_self_enrol_date": "29 October 2024",
+            "census_date": "31 October 2024",
+            "last_date_to_withdraw_without_fail": "1 November 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Associate Professor Colin Scholes",
+            "contact_email": "cascho@unimelb.edu.au"
+        }
+    ]
+}

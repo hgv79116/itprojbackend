@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p><strong>This subject has been designed and developed for online delivery and assessment only.</strong></p>",
+        "<p>This <em>online</em> subject provides students with the opportunity to apply key principles in objectivist research within the field of creative arts therapies. Students will learn about the most common objectivist research designs applied within the field and explore the quantitative methods associated with each through detailed examples of specific projects. This subject deepens understandings about objectivist research through direct examples from the literature with key skills being developed and assessed.</p>",
+        "<p>Students will devise a creative arts therapy theory or practice research project that generates objectivist data; systematically review and critique literature that identifies research needs and knowledge gaps; apply an understanding of objectivist research through appropriate research design and plan a minor research project in creative arts therapy.</p>"
+    ],
+    "ilo": [
+        "devise a creative arts therapy theory or practice research project that generates objectivist data;",
+        "systematically review and critique literature that identifies research needs and knowledge gaps;",
+        "apply an understanding of objectivist research through appropriate research design;",
+        "plan a minor research project in creative arts therapy."
+    ],
+    "generic_skills": [
+        "interpret and present data logically and effectively;",
+        "model respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "demonstrate empathy and ability to overcome stereotypes and prejudices;",
+        "make effective use of planning skills;",
+        "articulate, integrate and adapt knowledge from different domains."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CREA90009",
+                        "Name": "Creative Arts Therapies Research 1",
+                        "Teaching period": "Semester 2 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5-minute research video pitch",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Research design proposal",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "30 hours, comprising one 1-hour fortnightly online tutorial and one 2-hour weekly online lecture",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "k.mcferran@unimelb.edu.au"
+        }
+    ]
+}

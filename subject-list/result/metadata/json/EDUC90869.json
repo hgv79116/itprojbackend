@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>The Doctor of Education candidate will prepare under supervision a comprehensive thesis proposal, providing a clear indication of the nature and purpose of the research to be undertaken in the Doctor of Education (DEd) thesis. The proposal should contain:</p>",
+        "<ul><li>A clear statement of the purpose of the research and the research question(s) being investigated.</li><li>A justification of why the chosen topic is a worthwhile one to educational research.</li><li>A substantial overview and critical discussion of research already done in the area available in the research literature.</li><li>A critical discussion of the research methodology proposed, showing its appropriateness for answering the research question(s).</li><li>An outline of the research design and the timeline for implementing it.</li></ul>"
+    ],
+    "ilo": [
+        "Define and defend a viable topic, research problem and research questions for their doctoral research project.",
+        "Produce a high-quality literature review to justify the originality and significance of the proposed study.",
+        "Define and defend an appropriate research design and methodology for investigating the topic through a comprehensive doctoral study.",
+        "Demonstrate an understanding of, and commitment to research ethics and integrity."
+    ],
+    "generic_skills": [
+        "Critical reasoning and thinking",
+        "Problem Solving",
+        "Communication",
+        "Evidence-based decision making",
+        "Ethical skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90870",
+                        "Name": "Laying the Foundations for Your Research",
+                        "Teaching period": "February (Online)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "EDUC90868",
+                        "Name": "Methodological Foundations",
+                        "Teaching period": "Semester 1 (Online)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation and defense of thesis outline/plan (30 minutes)",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Late semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Brief report on supervisor feedback on oral defense",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": "The report on supervisor feedback must be submitted",
+            "timing": "Late semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Detailed research proposal",
+            "bullets": [
+                "7000 words"
+            ],
+            "hurdle": null,
+            "timing": "3 weeks after the end of teaching",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Attendance:",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at all scheduled tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": "Jason Beech",
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jason.beech@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "j.mcleod@unimelb.edu.au"
+        }
+    ]
+}

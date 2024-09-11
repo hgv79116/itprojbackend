@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>The Foundations of Analytics is a core subject in the Health specialisation. It looks at the foundational principles and practice of modern data analytics, including techniques of data manipulation, presentation, and analysis. It\u2019s teaching approach will emphasis interpretation underpinned by an understanding of the appropriate use of data, rather than just disseminating the technical details about performing an analysis. Students will be introduced to probability models used for a continuous response and will learn how to use methods such as linear models, tree-based methods and forecasting. Students will also use statistical software to analyse data.</p>"
+    ],
+    "ilo": [
+        "Apply basic methods to organise a data set for analysis, including importing into statistical software, cleaning, coding and arranging data",
+        "List the important types of analytics software and use at least two different software packages to perform some basic analyses",
+        "Expand on the graphics material in \"Critical Thinking with Analytics\" to develop more sophisticated graphics, including panel graphs",
+        "Develop a taxonomy of graphical forms and apply it to different graphical requirements",
+        "Assess and critique modern data visualisations",
+        "Identify and describe several of the main forms of probability models used for description, analysis and forecasting of data, including simple analyses and models, the general linear model, models in forecasting and tree-based models",
+        "Apply simulation methods to address a non-standard analytics problem",
+        "Evaluate and critique the use of analytics in case studies and apply sound principles to create a high-level design for an analytics investigation"
+    ],
+    "generic_skills": [
+        "High level written communication skills.",
+        "Interpretation skills.",
+        "Demonstrate competence in critical and theoretical thinking through essay writing and online discussions."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90130",
+                        "Name": "Critical Thinking with Analytics",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to online discussions.  Assessment will be based on participation.",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Three concise essays to appraise the analytics used in a study, public debate and official report, each 300 words. . Students will be assessed based on their understanding and critique of the methods, and their discussion of the validity of the results. Due end of weeks 2, 4 and 6.",
+            "bullets": [
+                "900 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Short answer online test  To include multiple choice questions to assess understanding of the analytics concepts.",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Case study written assignment. Case study written assignment (2500 words. Students will be assessed based on their detailed understanding and critique of the methods, and their discussion of the validity of the results. Additionally, students should be able to perform their own analysis using techniques developed in the subject.",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of term",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 4 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "3-4 hours per week, including online lectures, discussion forums and other resources",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "14 October 2024 to  8 December 2024",
+            "last_self_enrol_date": "8 October 2024",
+            "census_date": "1 November 2024",
+            "last_date_to_withdraw_without_fail": "22 November 2024",
+            "assessment_period_ends": "15 December 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an introduction to modern control theory with a particular focus on design of advanced control laws via state-space methods and optimal control. The role of feedback in control design will be reinforced within this context, alongside the role of optimisation techniques in control system synthesis. <br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:<br/>State-space models - first-order vector differential/difference equations; Lyapunov stability; linearisation; discretisation; Kalman decomposition (observable, detectable, reachable and stabilisable subspaces); state-feedback and pole placement; output-feedback and observer design in both continuous-time and discrete-time.<br/>Optimal control - dynamic programming; linear quadratic regulation in both continuous-time and discrete-time. Model predictive control in discrete-time; moving-horizon with constraints.</p>"
+    ],
+    "ilo": [
+        "Apply fundamental state-space-techniques in the analysis and design of linear feedback control systems, as they arise in a variety of contexts",
+        "Formulate and solve constrained optimisation problems for control system synthesis",
+        "Use software tools to simulate and design the linear behaviour of automatic control systems."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "In-depth technical competence in at least one engineering discipline",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Openness to new ideas and unconventional critiques of received wisdom",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90055",
+                        "Name": "Control Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "(prior to 2011, ELEN30001 Control 1 OR MCEN30008 Control Systems 1)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of 4 quizzes throughout the semester (weeks 3, 6, 9 and 12) each lasting 30 minutes. Approximately 20-25 hours of work. Intended Learning Outcomes (ILOs) 1, 2 are addressed in this assessment.",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Continuous assessment of submitted workshop report completed in small groups (2-3 students), not exceeding a total of 20 pages per student over the semester. Approximately 35-40 hours of work per student. ILOs 2, 3 are addressed in this assessment.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual design project with a submitted written report . Approximately 40-45 hours of work. ILOs 1, 2, 3 are addressed in this assessment.",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": "* Refer to Assessment additional information",
+            "timing": "Week 14",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual oral assessment of design project . 15 minutes per student. ILOs 1, 2, 3 will be addressed in this assessment.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "* Refer to Assessment additional information",
+            "timing": "Week 14",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Dragan Nesic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and 24 hours of workshops and tutorials",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "dnesic@unimelb.edu.au"
+        }
+    ]
+}

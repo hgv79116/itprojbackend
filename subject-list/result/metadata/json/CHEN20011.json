@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>Building on Fundamentals of Chemical Engineering (CHEN20012) and Material and Energy Balances (CHEN20010), this subject further explores chemical engineering processes and design, both on the large plant-wide scale and at the single unit operation scale with a quantitative approach to analysis and complexity commensurate with real world applications.</p>",
+        "<p>A range of numerical methods are introduced in a problem-specific context, from CHEN20010 and CHEN20012.  This subject will focus on applying numerical methods in chemical engineering  processes at multiple levels, first on a fundamental molecular level, followed by the design of a particular product or unit operation all the way up to an overall engineering process on a plant-wide scale. Students are introduced to steady-state and unsteady-state process simulations using tools including simple spreadsheet packages, commercial-scale simulation packages widely used in the chemical process industry and basic programming. Being able to simulate material and energy balances on reactors and separation unit operations allows the students to optimally design processes to meet safety and sustainability requirements. The subject will include exercises in process optimisation and the solution of ill-defined process problems.</p>",
+        "<p>Please view this video for further information: <a href=\"https://youtu.be/fJZiiDITbRs?si=vHmQL9_tqomsCmaZ\">Digitisation in the Process Industries</a></p>"
+    ],
+    "ilo": [
+        "Formulate a chemical engineering problem as a mathematical model, and select an appropriate solution method",
+        "Apply appropriate numerical models to solve chemical engineering problems in diffusion, chemical kinetics and heat transfer relevant to unit operations",
+        "Model steady and unsteady material and energy flows around reacting chemical systems using commercially relevant chemical process simulator software packages",
+        "Define and scope engineering problems and formulate suitable strategies including computational requirements of various solution options and use this understanding in the selection of the solution method",
+        "Apply chemical engineering process simulation software to model thermodynamic properties, real gas behaviour using equations of state models and physical property estimation of pure components and mixtures",
+        "Select the appropriate software package to perform the numerical solution to a chemical engineering problem",
+        "Formulate and solve process design problems, based on economic analysis and using mathematical models of chemical processes."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and fundamentals of chemical engineering",
+        "Ability to identify, formulate, and solve engineering problems",
+        "Ability to utilise a systems approach to design and evaluate performance of operational processes"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20010",
+                        "Name": "Material and Energy Balances",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEN20012",
+                        "Name": "Fundamentals of Chemical Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One team-based (3-4 students) written programming assignment. 10-13 hours of work per group member.  Intended Learning Outcomes 1-7 are addressed in this activity.",
+            "bullets": [
+                "10-13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4 or 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One in-class 2-hour programming assignment on unit operations. Intended Learning Outcomes 1, 2 and 4 are addressed in this activity.",
+            "bullets": [
+                "2 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Approximately Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An in-class written computer simulation assignment. Intended Learning Outcomes 1-7 are addressed in this activity.",
+            "bullets": [
+                "2 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Approximately Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A team-based (3-4 students) computer simulation mini-design problem. 10-13 hours of work per group member. Intended Learning Outcomes 1 and 3 to 7 are addressed in this activity.",
+            "bullets": [
+                "10-13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11 or 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One 3-hour combined process modelling, programming and simulation assignment. Intended Learning Outcomes 1 and 3 to 7 are addressed in this activity.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Eirini Goudeli",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "12 x 1-hour lectures, 11 x 1-hour tutorials, and 12 x 2-hour computer laboratory classes (workshop).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Eirini Goudeli",
+            "contact_email": "eirini.goudeli@unimelb.edu.au"
+        }
+    ]
+}

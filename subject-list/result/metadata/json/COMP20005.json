@@ -1,0 +1,217 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Many engineering disciplines make use of numerical solutions to computational problems. In this subject students will be introduced to the key elements of programming in a high level language, and will then use that skill to explore methods for solving numerical problems in a range of discipline areas.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<ul><li>Algorithmic problem solving</li><li>Fundamental data types: numbers and characters</li><li>Approximation and errors in numerical computation</li><li>Fundamental program structures: sequencing, selection, repetition, functions</li><li>Simple data storage structures, variables, arrays, and structures</li><li>Roots of equations and of linear algebraic equations</li><li>Curve fitting and splines</li><li>Interpolation and extrapolation</li><li>Numerical differentiation and integration</li></ul>"
+    ],
+    "ilo": [
+        "Read and write typical small-scale numerical programs in a high-level programming language",
+        "Test and debug such programs",
+        "Argue for the correctness of such programs, from both a logical point of view and a numeric-soundness point of view",
+        "Describe the range of techniques available for creating computational solutions to scientific and engineering problems, and be able to evaluate and choose between alternative approaches",
+        "Describe and employ the general concepts that apply when computers are used to solve numerical problems",
+        "Demonstrate familiarity with the underlying theory behind a range of numerical algorithms used in scientific and engineering software packages"
+    ],
+    "generic_skills": [
+        "The ability to undertake problem identification, formulation and solution",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "An ability to apply knowledge of basic science and engineering fundamentals"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10005Calculus 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: Any of the above subjects may also be taken concurrently"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ENG Master of Engineering",
+                    "MC-ELECENG Master of Electrical Engineering",
+                    "MC-SPATENG Master of Spatial Engineering",
+                    "MC-MTRNENG Master of Mechatronics Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ENGR20005Numerical Methods in EngineeringSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR20005",
+                        "Name": "Numerical Methods in Engineering",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One Quiz. \n\n\n\nILOs 1, 2, 3, 4, 5 and 6 are addressed.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": "Students are required to obtain 16/40 in the two programming assignments, and 24/60 on the quiz and exam when marks are combined. ",
+            "timing": "Week 5 or Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two Programming Assignments (40% combined). 35~40 hours each. \n\n\n\nILOs 1, 2 and 3 are addressed.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": "Students are required to obtain 16/40 in the two programming assignments, and 24/60 on the quiz and exam when marks are combined.",
+            "timing": "Due Week 8 and Week 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Two-hour programming exam\n\n(50%, examination period). \n\n\n\nILOs 1, 2, 3, 4, 5 and 6 are addressed.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students are required to obtain 16/40 in the two programming assignments, and 24/60 on the quiz and exam when marks are combined.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Alistair Moffat",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "52 hours, comprising approximately thirty hours of lecture video content; and eleven two-hour workshop classes, one hour of which is tutorial style activity, and the second hour of which is individual work, with the tutor available to assist. Weekly opt-in in-person lecturer consultation opportunities will be provided to support students who wish to attend them.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Professor Alistair Moffat",
+            "contact_email": "ammoffat@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jianzhong Qi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "52 hours, comprising approximately thirty hours of lecture video content; and eleven two-hour workshop classes, one hour of which is tutorial style activity, and the second hour of which is individual work, with the tutor available to assist. Weekly opt-in in-person lecturer consultation opportunities will be provided to support students who wish to attend them.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Jianzhong Qi",
+            "contact_email": "jianzhong.qi@unimelb.edu.au"
+        }
+    ]
+}

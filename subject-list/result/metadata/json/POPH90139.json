@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p>This subject introduces Bayesian statistical concepts and methods, with emphasis on practical applications in biostatistics. We begin with a discussion of subjective probability in quantifying uncertainty in the scientific process. Subsequently, the concept of full probability modelling is introduced and developed through single- and multi-parameter models with conjugate prior distributions. The connection with frequentist approaches is examined in light of the relationship between non-informative and informative prior distributions and their effect on posterior estimates We discuss the specification of appropriate prior distributions, including the concepts of non-informative and weakly informative priors. We consider the frequentist properties of Bayesian procedures. The application of Bayesian methods for fitting hierarchical models to correlated data structures is developed. Computational techniques for use in Bayesian statistics, especially the use of iterative simulation from posterior distributions using Markov chain Monte Carlo techniques (MCMC) will be covered using the <em>Stan</em> software through <em>R</em>.</p>",
+        "<p><br/></p>"
+    ],
+    "ilo": [
+        "Explain the difference between Bayesian and frequentist concepts of statistical inference.",
+        "Demonstrate how to specify and fit simple Bayesian models with appropriate attention to the role of the prior distribution and the data model.",
+        "Explain how these generative models can be used for inference, prediction and model criticism.",
+        "Demonstrate proficiency in using statistical software packages (R and Stan) to specify and fit models, assess model fit, detect and remediate non-convergence, and compare models.",
+        "Engage in specifying, checking and interpreting Bayesian statistical analyses in practical problems using effective communication with health and medical investigators."
+    ],
+    "generic_skills": [
+        "Independent problem solving;",
+        "facility with abstract reasoning;",
+        "clarity of written expression;",
+        "sound communication of technical concepts."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST90100Probability & Inference in BiostatisticsSemester 1 (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90100",
+                        "Name": "Probability & Inference in Biostatistics",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST90102Foundations of RegressionJuly (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90102",
+                        "Name": "Foundations of Regression",
+                        "Teaching period": "July (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST90099Advanced RegressionSeptember (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90099",
+                        "Name": "Advanced Regression",
+                        "Teaching period": "September (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four short assignments (500 words each) (10% each). Due in weeks 3, 5, 7, 9 and 11 respectively.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Major Assignment #1",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Major Assignment #2",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

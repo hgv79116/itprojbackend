@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>Introduction to recent developments in macroeconomics. Students will learn how to formulate and solve stochastic dynamic economic models and to apply these techniques to a number of substantive issues in consumption, asset pricing, business cycle theory, monetary economics, and labour economics.</p>"
+    ],
+    "ilo": [
+        "Identify well posed economic questions;",
+        "Formulate dynamic macroeconomic models that could provide answers to well posed questions;",
+        "Apply existing empirical work to parameterize and calibrate such models and understand some methods of estimation;",
+        "Evaluate critically the performance of such models;",
+        "Develop an understanding of representative agent models and/or heterogeneous agent models;",
+        "Evaluate recent contributions to macroeconomics;",
+        "Analyse the interplay of questions, theory, and data."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence;",
+        "Synthesis of ideas, views and evidence;",
+        "Strategic thinking;",
+        "Critical thinking;",
+        "Application of theory to economic policy and business decision making;",
+        "Accessing economic and other information;",
+        "Summary and interpretation of information;",
+        "Application of Windows software;",
+        "Using and designing computer programs;",
+        "Statistical reasoning;",
+        "Problem solving skills;",
+        "Collaborative learning and teamwork;",
+        "Negotiation and bargaining;",
+        "Written and oral communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsECON30020Mathematical EconomicsSemester 1 (On Campus - Parkville)12.5ECON40002Advanced MacroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON30020",
+                        "Name": "Mathematical Economics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON40002",
+                        "Name": "Advanced Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90021",
+                        "Name": "Macroeconomic Techniques",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Class assignments of up to 3000 words",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

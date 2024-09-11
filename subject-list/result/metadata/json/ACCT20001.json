@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>This subject explores the design and implementation of cost management systems in a variety of organisational contexts. As well as emphasising technical expertise in the development of these systems, this subject also considers the use of cost system information in management decision making, specifically for the purposes of effective management of organisational resources and the creation of customer and shareholder value.</p>"
+    ],
+    "ilo": [
+        "Describe a range of cost behaviour patterns and estimate costs using a range of sophisticated cost estimation techniques;",
+        "Calculate product and service costs using a variety of costing systems and cost allocation techniques;",
+        "Describe the link between resource flows and activities;",
+        "Discuss the implications of resource flow patterns for the design of costing systems in a range of organisational contexts;",
+        "Explain techniques for the management of costs to facilitate the effective use of organisational resources; and",
+        "Analyse and evaluate cost information for the purposes of making a variety of value-based decisions."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; interpretation and analysis; synthesis of data and other information; evaluation of data and other information.",
+        "Moderate level of development: written communication; oral communication; team work; collaborative learning; application of theory to practice; critical thinking; receptiveness to alternative ideas.",
+        "Some level of development: use of computer software; accessing data and other information from a range of sources; statistical reasoning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT10001",
+                        "Name": "Accounting Reports and Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester Test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Ongoing assessment (e.g., online quizzes)",
+            "bullets": [
+                "40 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sujay Nair",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1.5-hour lecture and one 1.5-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "sujay.nair@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sujay Nair",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1.5-hour lecture and one 1.5-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "sujay.nair@unimelb.edu.au"
+        }
+    ]
+}

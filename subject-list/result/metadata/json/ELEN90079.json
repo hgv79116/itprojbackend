@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>Topics include: State estimation algorithms (Kalman and Wiener filtering); parameter estimation algorithms (Least Squares, Maximum Likelihood, Maximum a Posteriori) and their adaptive versions.</p>",
+        "<p>Other topics to be selected from: system identification, spectral analysis, nonlinear filtering; hidden Markov model signal processing; expectation maximization algorithm; distributed detection and estimation; information-theoretic aspects of estimation and detection (Cramer Rao bound, Divergence measures).</p>"
+    ],
+    "ilo": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity;",
+        "Openness to new ideas and unconventional critiques of received wisdom;",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity;",
+        "Openness to new ideas and unconventional critiques of received wisdom;",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the subject coordinator"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN90054Probability and Random ModelsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90054",
+                        "Name": "Probability and Random Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Knowledge of signals and systems concept, equivalent to:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN30012Signals and SystemsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ELEN90058Signal ProcessingSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90058",
+                        "Name": "Signal Processing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of assignments, not exceeding 60 pages in total over the semester. The continuous assessment consists of two projects to be submitted in Week 7 and Week 12 respectively",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the final exam in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,160 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of this subject is for students to develop familiarity and competence in assessing and designing computer programs for computational efficiency. Although computers manipulate data very quickly, to solve large-scale problems, we must design strategies so that the calculations combine effectively. Over the latter half of the 20th century, an elegant theory of computational efficiency developed. This subject introduces students to the fundamentals of this theory and to many of the classical algorithms and data structures that solve key computational questions. These questions include distance computations in networks, searching items in large collections, and sorting them in order.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics covered include complexity classes and asymptotic notation; empirical analysis of algorithms; abstract data types including queues, trees, priority queues and graphs; algorithmic techniques including brute force, divide-and-conquer, dynamic programming and greedy approaches; space and time trade-offs; and the theoretical limits of algorithm power.</p>"
+    ],
+    "ilo": [
+        "Design, manipulate and reason about a variety of techniques for solving sorting, searching and graph problems",
+        "Write efficient algorithms and data structures for a variety of fundamental problems",
+        "Conduct formal reasoning about problem complexity and algorithmic efficiency",
+        "Recognize the design techniques of standard algorithms, and apply these techniques to develop new computational solutions to problems"
+    ],
+    "generic_skills": [
+        "An ability to apply fundamental knowledge in reasoning and problem solving",
+        "Capacity to reason and solve problems",
+        "Ability to undertake problem identification, formulation and solution",
+        "Capacity for creativity and innovation",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SOFTENG Master of Software Engineering",
+                    "MC-IT Master of Information Technology",
+                    "MC-DATASC Master of Data Science",
+                    "GD-CS Graduate Diploma in Computer Science",
+                    "GD-DATASC Graduate Diploma in Data Science",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering",
+                    "Software specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Software with Business specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students wanting to enrol in COMP90038 that have not met any of the above pre-requisites will need to complete an enrolment variation form and attach Subject Coordinator approval."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project work during semester due around weeks 7 and 11, addressing all Intended Learning Outcomes (ILOs) 1-4.",
+            "bullets": [
+                "30-36 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "10 weekly online quizzes, addressing ILOs 1 and 3.",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A written closed book examination, addressing all Intended Learning Outcomes (ILOs) 1-4.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "The examination is a hurdle and must be passed to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Junhao Gan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "junhao.gan@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Olya Ohrimenko",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "oohrimenko@unimelb.edu.au"
+        }
+    ]
+}

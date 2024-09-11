@@ -1,0 +1,173 @@
+{
+    "overview": [],
+    "ilo": [
+        "evaluate modern experimental approaches of animal biology and interventionist techniques;",
+        "discuss and appraise issues in using animals in experimental studies;",
+        "collaborate effectively with peers in a team to achieve excellent project outcomes;",
+        "determine and compare the structure and function of cellular and organ systems;",
+        "explain neural and endocrine control systems and their role in the regulation of biological processes; and",
+        "undertake the process by which scientists move from an original idea to a final published paper."
+    ],
+    "generic_skills": [
+        "identifying, compiling and synthesising new knowledge from observations and the literature;",
+        "making and recording scientific observations;",
+        "evaluating and analysing data in an objective manner as part of practical class report writing;",
+        "formulating hypotheses, succinctly conveying and defending a rationale;",
+        "the ethical use of animals in experimentation; and",
+        "cooperative teamwork through small group based practical work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "CEDB20003",
+                        "Name": "Fundamentals of Cell Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE20001",
+                        "Name": "Foundations of Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYS20008",
+                        "Name": "Human Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYS20009",
+                        "Name": "Research-Based Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20005",
+                        "Name": "Animal Structure and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20006",
+                        "Name": "Comparative Animal Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students with equivalent alternative backgrounds should discuss their options with the coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group work and individual written task related to practicals. 2 individual written tasks (no more than 100 words each worth 5% each) and completed in class time, due weeks 1-4 and weeks 10-11",
+            "bullets": [
+                "100 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual written work relating to practicals",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual 5-week Research Project Proposal",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Peer and Supervisor assessment of group 5-week project practical contribution. 2% peer and 3% supervisor, in class time.",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Peer-reviewed 5-week group oral presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual 5-week Research Project Report",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x one hour lecture/tute per week; 1 x four hour practical class/laboratory-based research work time per week; one 4 hour excursion late in the semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "1 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "nathan.burke@unimelb.edu.au"
+        }
+    ]
+}

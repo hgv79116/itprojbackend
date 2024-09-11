@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>This subject examines the development of the microeconomic theory of the behaviour of economic agents and how the behaviour of economic agents and government influence the efficiency of the economy. Topics include perfect competition, general equilibrium, market power, intertemporal decision making, decision making under uncertainty and imperfect information.</p>"
+    ],
+    "ilo": [
+        "Explain the core microeconomic theories of the consumer and the firm;",
+        "Identify the usefulness and limitations of these theories;",
+        "Apply microeconomic theories to economic problems faced by business, government and other decision makers under different assumptions about market structure and under different assumptions about available information;",
+        "Critically evaluate the role of markets and governments in solving the economic problems facing societies;",
+        "Apply economic tools to the analysis and solution of selected decision problems facing businesses; and",
+        "Synthesise theory and practice in the context of selected public policy issues."
+    ],
+    "generic_skills": [
+        "High level of development: oral communication; written communication; collaborative learning; problem solving; teamwork; application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: synthesis of data and other information; evaluation of data and other information; receptiveness to alternative ideas.",
+        "Some level of development: statistical reasoning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON10004",
+                        "Name": "Introductory Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Lecture participation and activities",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Tutorial preparation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Weekly online quizzes",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Mid-semester Test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Svetlana Danilkina",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 2-hour lectures and two 1-hour tutorials per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 16 February 2024",
+            "last_self_enrol_date": "11 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "24 February 2024",
+            "contact_name": null,
+            "contact_email": "sdanilki@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Joshua Miller",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "joshua.miller@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>This subject will discuss general principles of laser action, the properties of laser beams, some specific types of lasers, laser-based spectroscopic methods, laser photochemistry, ultrafast lasers, and lasers in mass spectrometry.</p>"
+    ],
+    "ilo": [
+        "Discuss the principles of laser action",
+        "Identify the properties of lasers and what causes these properties",
+        "Identify the properties of a laser best suited to various applications especially in a chemistry context",
+        "Identify current and potential applications of lasers in chemistry."
+    ],
+    "generic_skills": [
+        "advanced problem-solving and critical thinking skills",
+        "an ability to evaluate the professional literature",
+        "an understanding of the changing knowledge base",
+        "a capacity to apply concepts developed in one area to a different context",
+        "the ability to use conceptual models to rationalize experimental observations"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tMaster of Science (Chemistry) (MC-SCICHE)"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tMaster of Industrial Research (Chemistry) (MR-IRCHEM)"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tBachelor of Science (Degree with Honours) - Chemistry Specialisation (BH-SCI)"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tGraduate Diploma in Science (Advanced) - Chemistry Specialisation (GDA-SCI)"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "At the 9-lecture mark each subject will be assessed by a written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination after completion of the subject (this is seen as equivalent to 1500 words)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": []
+}

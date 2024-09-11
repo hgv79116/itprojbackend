@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>This subject involves the development and application of the tools of bioinformatics to address a significant research problem. The subject also provides students with skills and knowledge for understanding original research and enhanced written and oral communication skills.</p>",
+        "<p>The process of matching students with supervisors and research projects will occur in the first semester of enrolment of the Bioinformatics stream of the Master of Science. Apart from the help and guidance from their supervisor(s) each student also has a committee that regularly meets with them and provides additional help and expertise. This committee is responsible for assessment of the research project subject.</p>",
+        "<p>Students need to ensure they have completed a total of 50points Research Project by the end of their course.</p>"
+    ],
+    "ilo": [
+        "critical appraisal of scientific literature;",
+        "planning of research;",
+        "development and application of bioinformatics tools in the analysis of scientific data;",
+        "writing research proposals, reports and a thesis."
+    ],
+    "generic_skills": [
+        "articulating the breadth of knowledge gained in a particular discipline;",
+        "critically evaluating the data and interpretation of data presented in scientific papers;",
+        "developing the ability to exercise critical judgement;",
+        "expressing persuasive intellectual arguments",
+        "rigorous and independent thinking;",
+        "managing time and competing deadlines;",
+        "writing research reports;",
+        "giving oral presentations."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One research proposal incorporating a literature review",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "In the first semester of the project",
+            "percentage": "15%"
+        },
+        {
+            "brief": "An oral presentation on the proposed research",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "In the first semester of the project",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A progress report on the research project",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "In the second semester of the project",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A final oral presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "At the end of the third semester of the project",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written thesis",
+            "bullets": [
+                "15000 words"
+            ],
+            "hurdle": null,
+            "timing": "At the end of the third semester of the project",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": "Vicky Perreau",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular meetings with supervisor, one hour weekly or fortnightly.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "2 January 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "vperreau@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": "Vicky Perreau",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular meetings with supervisor, one hour weekly or fortnightly.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "1 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "vperreau@unimelb.edu.au"
+        }
+    ]
+}

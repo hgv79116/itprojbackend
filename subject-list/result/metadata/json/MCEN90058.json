@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>Since the first industrial revolution, industrial engineering has evolved as a major engineering and management discipline, the effective utilization of which has contributed to our increased standard of living through increased productivity, quality of work, and improvements in the working environment. This subject is being introduced to offer students an overview of industrial engineering as well as its core principles and approaches, allowing a deeper understanding of the role of industrial engineers in society and organisations.</p>",
+        "<p>This subject introduces concepts and most common approaches of industrial engineering, allowing students a wider view of their role. Topics covered are grouped in four modules: (1) history and fundamental concepts of industrial engineering; (2) principles and techniques of lean production; (3) facility planning and production flow design; and, (4) work measurement and ergonomics. A diversified set of classroom and industry activities help to consolidate the concepts and illustrate their applicability, preparing students for the upcoming subjects of the course and enabling a wider view of industrial engineering.</p>"
+    ],
+    "ilo": [
+        "1. Explain the development of industrial engineering and current approaches;",
+        "2. Analyse the role of industrial engineers in society and organizations;",
+        "3. Apply Industrial Engineering main concepts and improvement approaches;",
+        "4. Design of production flows and factory layouts;",
+        "5. Apply work measurements methods to improve the operation efficiency;",
+        "6. Analyse the factors that affect the ergonomic design of jobs, tools and equipment, and the workplace."
+    ],
+    "generic_skills": [
+        "Capacity for independent thought.",
+        "The ability to apply knowledge of engineering science and engineering methods to solve complex problems.",
+        "The ability to comprehend complex concepts and effectively communicate this understanding.",
+        "The ability to plan work and to use time effectively.",
+        "The ability to function effectively as an individual and in multidisciplinary and multicultural teams."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid semester test. Intended Learning Outcomes (ILOs) 1 - 3 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group presentation, 20-25 minutes, 5 minutes each for a goup of 4-5. ILOs 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "20-25 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual written report. ILOs 2-5 are addressed in this assessment.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 13",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final written exam. ILOs 4-6 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": "Guilherme Luz Tortorella",
+            "mode_of_delivery": "Online",
+            "contact_hours": "48 hours of lectures",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "luztortorella@unimelb.edu.au"
+        }
+    ]
+}

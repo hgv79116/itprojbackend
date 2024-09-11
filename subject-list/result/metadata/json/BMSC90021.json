@@ -1,0 +1,71 @@
+{
+    "overview": [
+        "<p>Personalized medicine is the end goal of advances in genomics. Many patients are now able to have their genome sequenced and many, many new human sequence variants are being discovered on a weekly basis. How can these data be analysed to benefit the patient? How can we interpret genomic data to determine if a sequence variant is likely to be pathological or be causative for a specific disease phenotype. This subject will provide students with experience of a pipeline that can be used to analyse genomic variants and a framework for decision-making about the types of laboratory studies that can be utilized to gain further information about a gene and related sequence variants.</p>"
+    ],
+    "ilo": [
+        "Analyse how genetic variants are identified in the clinic.",
+        "Synthesise ethical and patient-centred issues associated with genomic sequencing and evaluate strategies to address these.",
+        "Apply relevant technologies to investigate pathological genetic variation and interpret the data obtained from these analyses.",
+        "Design a workflow utilising a range of experimental techniques  to analyse the function of genomic variants.",
+        "Evaluate various models available for analysis of gene and protein function."
+    ],
+    "generic_skills": [
+        "The ability to work collaboratively and constructively  in a multidisciplinary and multicultural team environment",
+        "Time management, self-regulation, project management and problem-solving skills",
+        "The ability to collect, analyse, interpret and critically evaluate authentic scientific data",
+        "The ability to communicate with varied audiences and stakeholders using appropriate written, oral and visual communication skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "Students should have completed an undergraduate degree in a biomedical science, bioengineering, or bioscience discipline."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 8",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Multimedia presentation made up of an Oral presentation (10 minute talk + 5 minutes questions) and a written submission (approx. 1000 words equivalent)",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Gary Hime",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

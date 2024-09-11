@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>This subject will develop teacher candidates\u2019 skills in using student achievement data to inform teaching practice to support student learning. It will consider the use of a wide range of data types and sources to evaluate learning, teaching and assessment and make recommendations for improving practice. Through case studies and practical activities, teacher candidates will be exposed to ideas, methods and techniques to support high quality, evidence-based decision making.</p>"
+    ],
+    "ilo": [
+        "Identify evidence suitable to the purpose",
+        "Determine relevant and ethical methods of data collection, storage and recording",
+        "Use approaches and tools to analyse and interpret data within a clinical teaching cycle",
+        "Use the interpretation of data to test hypotheses and inform decisions within clinical practice",
+        "Differentiate teaching based on the interpretation of data",
+        "Synthesise multiple sources of data and use them to evaluate the impact of teaching",
+        "Evaluate the limitations of evidence in both practice and research"
+    ],
+    "generic_skills": [
+        "Analytical skills and the ability to construct and express logical arguments.",
+        "Capacity to critique and use appropriately a range of evidence and data.",
+        "Problem solving skills, including engaging with, researching and identifying strategies to solve unfamiliar problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90891",
+                        "Name": "Becoming a Clinical Practitioner (EC)",
+                        "Teaching period": "July (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90894",
+                        "Name": "Clinical Teaching Practice (EC) 3",
+                        "Teaching period": "February (On Campus - Parkville)August (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90832",
+                        "Name": "Learning From Evidence",
+                        "Teaching period": "Term 4 (Online)Term 2 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Case study: Interpreting evidence",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Reflective task based on seminar contributions",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Case study: Using evidence to evaluate teaching and learning",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at all scheduled tutorials, seminars and workshops ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July - Online",
+            "principal_coordinator": "Ana Garcia-Melgar",
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 July 2024 to 20 September 2024",
+            "last_self_enrol_date": "8 August 2024",
+            "census_date": "23 August 2024",
+            "last_date_to_withdraw_without_fail": "4 October 2024",
+            "assessment_period_ends": "4 November 2024",
+            "contact_name": null,
+            "contact_email": "ana.garciamelgar@unimelb.edu.au"
+        }
+    ]
+}

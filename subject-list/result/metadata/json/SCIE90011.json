@@ -1,0 +1,90 @@
+{
+    "overview": [
+        "<p>What does it take to develop something innovative and then move it from the laboratory out into the real world? Scientists must negotiate a labyrinth of hurdles, ranging from conducting bullet-proof data analysis, designing clinical trials, developing and managing intellectual property, assessing contracts, and setting up Total Quality Management systems in a biotech setting. Students will learn how to navigate these hurdles as applied to a range of possible inventions, such as therapeutics, diagnostics, medical devices, GMOs and other bio-science-related creations.</p>"
+    ],
+    "ilo": [
+        "Acquire in-depth knowledge of Australian biotechnology research and examine the development of agricultural, life science and medical technology products from initial discovery through to market;",
+        "Articulate knowledge to analyze and critically discuss the state of Australian and global biotechnology sectors;",
+        "Investigate company R&D programs and product development, including intellectual property, clinical trials, regulatory approval, and manufacturing;",
+        "Interrogate market and investment opportunities and commercialisation pathways for novel biotechnology innovations;",
+        "Synthesise knowledge and utilise evidence to create new arguments supporting biotechnology's role as a social, economic and technological driver."
+    ],
+    "generic_skills": [
+        "applying advanced analysis, scientific communication and critical analytical skills towards an industry-based practice;",
+        "demonstrating the breadth of knowledge gained in an inter-disciplinary approach;",
+        "analysing projects holistically and identifying and integrating multiple disciplines in order to solve problems;",
+        "exercising critical judgement, being capable of rigorous and independent thinking, being able to account for their decisions;",
+        "examining critically, synthesizing and evaluating knowledge pertaining to biotechnology;",
+        "demonstrating high level written report presentation skills;",
+        "exhibiting exceptional time and self- management with lecture and workshop attendance, and assessment completion; and",
+        "exemplifying professional collaboration in group tasks and assignments."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BTCH30003",
+                        "Name": "Biotechnology in Practice",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual written report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group written report with individual contributions",
+            "bullets": [
+                "2000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "In-class test (written and MCQ)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 comprised of lectures and workshops.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "SCIE90011-info@unimelb.edu.au"
+        }
+    ]
+}

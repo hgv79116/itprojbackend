@@ -1,0 +1,83 @@
+{
+    "overview": [
+        "<p>The student will prepare under supervision a thesis proposal, providing a clear indication of the nature and purpose of the research to be undertaken in the thesis. The proposal should contain:</p>",
+        "<ul><li>a clear statement of the purpose of the research and the research question(s) being investigated;</li><li>a justification of why the chosen topic is a worthwhile one to research;</li><li>a substantial overview and critical discussion of research already done in the area available in the research literature;</li><li>a critical discussion of the research methodology proposed, showing its appropriateness for answering the research question(s); and</li><li>an outline of the research design and the timeline for implementing it.</li></ul>"
+    ],
+    "ilo": [
+        "Extend their capacity to evaluate research literature in educational psychology in order to make informed decisions about the conduct of independent enquiries in psychology and education."
+    ],
+    "generic_skills": [
+        "Develop literature review skills",
+        "Develop an evidence-based argument"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsEDUC90220Research MethodsSemester 2 (On Campus - Parkville)12.5EDUC90225Psychological TestsSemester 1 (On Campus - Parkville)12.5EDUC90224Counselling Skills for Ed. PsychologistsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90220",
+                        "Name": "Research Methods",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90225",
+                        "Name": "Psychological Tests",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90224",
+                        "Name": "Counselling Skills for Ed. Psychologists",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research proposal",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Chelsea Hyde",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "12 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "chelsea.hyde@unimelb.edu.au"
+        }
+    ]
+}

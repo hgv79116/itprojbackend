@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Information Technology now impacts on people and processes within and beyond organisational boundaries. The discipline of Information Systems is concerned with the effective use of IT by people and organisations. This subject provides context on Information Systems practice and use viewed through a range of roles that interact with these systems, including those of system developers, users, business managers, IT managers, and vendors. It provides students with a foundation that is further built on in other information systems subjects.</p>",
+        "<p>The subject supports course-level objectives by allowing students to understand the complexity of real-world applications of information systems within a range of industries. It challenges students to integrate concepts, theories and frameworks with case studies and examples drawn from industry. The emphasis is on gaining a tool kit for a rich understanding of the practical problem solving rather than learning the theory per se. The subject contributes to the development of independent critical inquiry, case study analysis and problem solving.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Klings\u2019s Social Informatics, Prahalad and Hamel\u2019s Core Competencies, Porter\u2019s Competitive Advantage, Chan and Luftman\u2019s Concepts of Business \u2013 IT Alignment, Cullen and Seddon\u2019s Outsourcing Management, Willcock\u2019s Offshoring Challenges, Agarwal and Sambamurthy\u2019s IT Governance issues and various Change Management Models.</p>"
+    ],
+    "ilo": [
+        "Explain the importance of understanding IT in its context to successful IS practice by looking at issues such as IT-supported core competencies, competitive advantage, business-IT alignment, governance and outsourcing, and change management in IT",
+        "Apply key areas of research and practice in information systems",
+        "Identify interrelationships between concepts in information systems",
+        "Critically discuss and analyse information systems issues at an advanced level",
+        "Exploit the key knowledge and transferable skills as a basis for further post-graduate level study",
+        "Use the learned context to assess the role of IT/IS in organisations",
+        "Demonstrate the importance of ICT service provision and acquisition in the responsibilities of an ICT infrastructure manager"
+    ],
+    "generic_skills": [
+        "Analytical and interpretive skills through introduction to and use of case studies",
+        "Ability to look at cases and business contexts from multiple perspectives",
+        "Research and critical thinking skills through preparation of discussion materials",
+        "Team work through group and project work",
+        "Confidence through online discussion"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Tutorial participation. Intended Learning Outcomes (ILO's) 1 to 7 are addressed.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Hurdle case: this is the first case study exercise where students are introduced to Case Study methodology.  This is a hurdle case, which is not marked, and is used to provide early feedback on how students should be analysing and writing up a case. The total time commitment for this exercise is around 15 hours. ILO's 2, 4 and 5 are addressed in this assessment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Individual case 1: Following the case study method taught to students in the Hurdle case, students are asked to fully analyse and respond to a case study. Approximately 25 hours. ILO's 1 to 4, 6 and 7 are addressed in this assessment.",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual case 2: Following the case study method taught to students in the Hurdle case, students are asked to fully analyse and respond to a case study. Approximately 25 hours. ILO's 1 to 4, 6 and 7 are addressed in this assessment.",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group case: Students form groups of 5 students, and together analyse and respond to a larger case study.  Approximately 8 hours per student. ILO's 1 to 7 are addressed in this assessment.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Exam case:  End of semester Case Study. Approximately 30 hours. ILO's 1  to 4, 6 and 7 are addressed in this assessment.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Ofir Turel",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "6x 90 minute lectures, 7x 90 minute tutorials. Total 19.5 hours.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "oturel@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Ofir Turel",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "6x 90 minute lectures, 7x 90 minute tutorials. Total 19.5 hours.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "oturel@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "overview": [
+        "<p>The subject critically examines the contemporary and historical modes in which architecture engages with media. This subject will include a focus on videogames media, game engines and experiencing digital game worlds by identifying physical-virtual exchanges. It is structured into two parts: lectures, readings and discussion in the first half of the semester, followed by a workshop format where students apply theory to practice and create digital narratives using new software skills in the second half of the semester. Students will develop and present the outcomes of a workshop series within the subject, including a fanzine, a digital gaming cartography and representations of digital interactive design.</p>"
+    ],
+    "ilo": [
+        "Explain valuable aspects of the relationship between architecture and media.",
+        "Analyse important contemporary and historical examples of media in architecture.",
+        "Engage critical thinking in analyzing histories and theories of architectural design.",
+        "Develop a design vision using game engines.",
+        "Explore digital representation and narratives (e.g. video games) as an emerging form of media responding to contemporary design challenges, and representation of architectural spaces.",
+        "Explore how digital narratives can be utilized a tool and as a testing ground to develop and explore digital worlds."
+    ],
+    "generic_skills": [
+        "Comprehend and discuss concepts related to architecture and media",
+        "Develop critical thinking and analytical ability",
+        "Develop leadership skills and teamwork capabilities",
+        "Improve writing skills",
+        "Learn new software related to digital representation",
+        "Improve a multidisciplinary approach toward a design problem"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the subject coordinator"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Fanzine Design, written and graphic submission including concept design, drawings, and project description.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2- Design: Graphic submission, creation of Gaming Cartography",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 3 : Graphic submission, Design of Digital Interactive Objects using Unreal Engine\n\nsoftware",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 4 :  4 Reading Analysis and leading class discussion ( 4X 125  words)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 5",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": []
+}

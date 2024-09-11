@@ -1,0 +1,138 @@
+{
+    "overview": [
+        "<p>This subject provides those students wishing to progress to a higher research degree the opportunity to conduct individual research in either the development of theory and methods or the application of business analytics techniques. This subject is an alternative to the subject <em>Industry Practicum</em> and a student choosing this subject is disallowed from <em>Industry Practicum.</em></p>"
+    ],
+    "ilo": [
+        "Produce original individual work in an appropriate format which demonstrates research skills in the application or development of business analytic techniques;",
+        "Present their research professionally in a way that demonstrates the impact of their research."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBUSA90543Text Analytics for BusinessMay (On Campus - Parkville)12.5BUSA90542Machine Learning & AI for BusinessMay (On Campus - Parkville)12.5BUSA90541Predictive Business AnalyticsMay (On Campus - Parkville)12.5BUSA90540Causal Analytics for BusinessMay (On Campus - Parkville)12.5BUSA90539Business Data PlatformsMarch (On Campus - Parkville)12.5BUSA90538Decision Making and OptimisationMarch (On Campus - Parkville)12.5BUSA90536Statistical Learning for BusinessMarch (On Campus - Parkville)12.5BUSA90537Coding for Business ProblemsMarch (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90543",
+                        "Name": "Text Analytics for Business",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90542",
+                        "Name": "Machine Learning & AI for Business",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90541",
+                        "Name": "Predictive Business Analytics",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90540",
+                        "Name": "Causal Analytics for Business",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90539",
+                        "Name": "Business Data Platforms",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90538",
+                        "Name": "Decision Making and Optimisation",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90536",
+                        "Name": "Statistical Learning for Business",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90537",
+                        "Name": "Coding for Business Problems",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students will need to organise approval from the Academic Director before enrolling in this research pathway subject"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90502",
+                        "Name": "Analytics Lab",
+                        "Teaching period": "October (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BUSA90502 Industry Practicum"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research Report for projects being undertaken by individuals",
+            "bullets": [
+                "7000 words (equivalent)"
+            ],
+            "hurdle": "",
+            "timing": "Final week of the subject",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Individual Oral Presentation",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Final week of the subject",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "August",
+            "principal_coordinator": "Pete Manasantivongs",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "320 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "5 August 2024 to  6 December 2024",
+            "last_self_enrol_date": "29 August 2024",
+            "census_date": "30 August 2024",
+            "last_date_to_withdraw_without_fail": "25 October 2024",
+            "assessment_period_ends": "6 December 2024",
+            "contact_name": "Program Services",
+            "contact_email": "programservices@mbs.edu"
+        }
+    ]
+}

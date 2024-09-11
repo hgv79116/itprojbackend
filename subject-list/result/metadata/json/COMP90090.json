@@ -1,0 +1,131 @@
+{
+    "overview": [
+        "<p>AIMS</p>"
+    ],
+    "ilo": [
+        "Demonstrate an ability to evaluate a range of health-related text data sources",
+        "Develop and evaluate text analytics pipelines using the Python programming language",
+        "Demonstrate competence in the use of standard health-related text analytics libraries and knowledge resources",
+        "Demonstrate an ability to appraise ethical issues in health-related text analytics",
+        "Develop and evaluate a text analytics pipeline for consumer-generated data using Python",
+        "Demonstrate an ability to critically evaluate health text analytics publications"
+    ],
+    "generic_skills": [
+        "Develop critical thinking and analytical skills",
+        "Enhance existing Python programming skills",
+        "Presentation skills",
+        "Improved writing skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Permission of the coordinator is required prior to enrolling in this subject (some programming experience in Python is required)"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short essay on ethical issues in health text analytics - Equivalent to approximately 500 words in total",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Two individual programming assignments \u2013 Equivalent to approximately 2,000 words in total (2x1,000 words). Due in Week 4 & 7.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": "50% hurdle \u2013 Students are required to obtain at least 50% collectively on the three programming assignments. ",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Participation in online discussion \u2013 Equivalent to 500 words in total",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Independent project (Individual) \u2013 Equivalent to 2,000 words. Due at the start of the exam period",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": "50% hurdle \u2013 Students are required to obtain at least 50% on their individual, independent project. ",
+            "timing": "End of semester",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mike.conway@unimelb.edu.au"
+        }
+    ]
+}

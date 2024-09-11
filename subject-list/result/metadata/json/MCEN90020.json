@@ -1,0 +1,93 @@
+{
+    "overview": [],
+    "ilo": [
+        "Gain knowledge and practice in advanced alloys and polymeric materials.",
+        "Apply advanced engineering materials through applications and case studies;",
+        "Acquire knowledge of emerging alloys as well as their potential applications.",
+        "Learn and compare conventional and modern manufacturing processes and associated machinery of relevance to polymer-based engineering products",
+        "Analyse potential root causes and create troubleshooting strategies for defects in manufactured products.",
+        "Evaluating the effects of material and process variables.",
+        "Critically appraise research/scientific publications.",
+        "Articulate acquired knowledge and proposed solution to stakeholders both verbally and in written form."
+    ],
+    "generic_skills": [
+        "10 pages"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90014",
+                        "Name": "Materials",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project report for Unit 1",
+            "bullets": [
+                "10 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "In class test for Unit 1",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "In class presentation/discussion with a mock up stakeholder team for Unit 2",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Project Report for Unit 2",
+            "bullets": [
+                "7 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "k.xia@unimelb.edu.au"
+        }
+    ]
+}

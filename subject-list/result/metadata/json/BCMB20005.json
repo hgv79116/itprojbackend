@@ -1,0 +1,221 @@
+{
+    "overview": [
+        "<p>This is a subject suitable for students taking life science and biomedical subjects. It offers an introduction to the techniques used in many areas of molecular science.</p>",
+        "<p>Students taking the course will develop practical skills in the laboratory and an understanding of the techniques used in biochemistry and molecular biology to investigate biological problems.</p>",
+        "<p>Students will develop practical and research skills by exploiting the physico-chemical properties of molecules in a variety of experimental techniques, and interpreting the data they generate.</p>",
+        "<p>Students will apply these skills to the:</p>",
+        "<ul><li>separation and characterisation of proteins; and</li><li>isolation, manipulation and characterisation of nucleic acids: and</li><li>examination of cellular structures.</li></ul>",
+        "<p>Students will develop key scientific communication skills required to report on their practical work; as well as learning to relate theoretical principles to practical observations.</p>",
+        "<p>Online lectures will cover the theory of these standard laboratory techniques central to biochemistry and molecular biology and new methods driving the fields of genomics and proteomics.</p>"
+    ],
+    "ilo": [
+        "describe the theory of key techniques used in molecular and cell biology and protein biochemistry",
+        "competently carry out experimental protocols in molecular biology, protein biochemistry and cell biology using standard laboratory equipment and reagents",
+        "generate data for further analysis",
+        "perform biochemical calculations",
+        "evaluate data (including trouble-shooting errors or explaining inconsistencies) to make quantitative assessments of experimental results",
+        "collate and present data in a conventional standardised format for concise scientific reports",
+        "work effectively in the laboratory, either in small groups or individually"
+    ],
+    "generic_skills": [
+        "gained hands-on experience in a number of biochemical techniques;",
+        "analysed experimental data and made quantitative assessments of their results;",
+        "learnt to write concise and accurate scientific reports;",
+        "gained the ability to understand and follow simple experimental protocols;",
+        "gained experience in working with others towards common goals."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10002Biomolecules and CellsSemester 1 (On Campus - Parkville)12.5BIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10004:\t\n\nBiology of Cells and Organisms"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEM10003Chemistry 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5CHEM10004Chemistry 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10006Chemistry for BiomedicineSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10009Chemistry for BioSciencesNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10004",
+                        "Name": "Chemistry 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10009",
+                        "Name": "Chemistry for BioSciences",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBCMB20002Biochemistry and Molecular BiologySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "is strongly recommended. Students may take BCMB20002 and BCMB20005 concurrently or in alternate semesters."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly MCQs on preparation for practical class",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Weekly throughout the teaching period",
+            "percentage": "2.5%"
+        },
+        {
+            "brief": "Assessed Practical performance",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Weekly quizzes (10 MCQs per quiz)",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "6%"
+        },
+        {
+            "brief": "Written reports based on experimental data (4 reports)",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "47.5%"
+        },
+        {
+            "brief": "Written final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Continuous assessment through completion of an online Scientific Investigation module Continuous (3 x 1 hr modules embedded in class).",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "9%"
+        },
+        {
+            "brief": "Attendance-\n\n80% attendance at practical classes and tutorial sessions",
+            "bullets": null,
+            "hurdle": "Students who are absent for more than 20% of practical classes and/or tutorials in this subject might be ineligible for the final exam assessment (coordinator decision).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Amber Willems-Jones",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week of practicals, 1 hour per week online lecture, 2 hours per fortnight tutorial/workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "23 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Amber Willems-Jones",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week of practicals, 1 hour per week online lecture, 2 hours per fortnight tutorial/workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

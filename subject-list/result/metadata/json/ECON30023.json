@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>The focus of this unit is on the application of economic analysis to study the consumption and production of health. The main objectives of this subject are to develop an understanding of: (1) the underlying economic frameworks appropriate to study health and health care, and (2) the impact of market failures in the provision of health care and the role for government policy. Topics covered may include production of health, demand for health (including the demand for health \u201cbads\u201d), moral hazard and adverse selection in health insurance markets, health labour markets, including physician-patient interactions, the institutions of the Australian system of health care, health policy and evaluation techniques.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of the basic economic concepts used in the study of health economics",
+        "Apply appropriate economic tools to analyse the behaviour of the various agents in the provision and consumption of health care.",
+        "Describe the major government programs and institutional features in the provision of health care in Australia and the debates currently surrounding these programs.",
+        "Demonstrate knowledge of the main empirical tools used in the analysis of issues in health economics."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; collaborative learning; problem solving; team work; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information.",
+        "Moderate level of development: oral communication; statistical reasoning; evaluation of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM20001Econometrics 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ECON20003Quantitative Methods 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM20001",
+                        "Name": "Econometrics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20003",
+                        "Name": "Quantitative Methods 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignments not exceeding 3000 words",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Tutorial participation (10%)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "An exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

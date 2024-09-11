@@ -1,0 +1,71 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject has a twofold aim. First, it introduces students to auditory processing and auditory prostheses available for treating auditory impairment, and to visual processing and visual prostheses available for treating vision impairment. Topics covered in auditory processing and prostheses include: acoustics and auditory stimuli, auditory pathway, neural coding of sound, auditory psychophysics, hearing loss and auditory impairment, cochlear implants (the Bionic Ear) and cochlear implant stimulation strategies. Topics covered in visual processing and prostheses include: the retina, the visual pathway, vision psychophysics, visual prostheses, prosthetic vision and retinal implant stimulation strategies.</p>",
+        "<p>Second, it introduces students to a number of important research skills: (i) how to prepare and present a lecture and (ii) how to provide feedback on the presentations of other students.<strong><br/><br/>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>Topics include:</p>",
+        "<p>Acoustics and auditory stimuli, auditory pathway, neural coding of sound, auditory psychophysics, hearing loss and auditory impairment, cochlear implants (the Bionic Ear) and cochlear implant stimulation strategies, the retina, the visual pathway, vision psychophysics, visual prostheses, prosthetic vision and retinal implant stimulation strategies.</p>"
+    ],
+    "ilo": [
+        "Describe the processing of sound carried out in the auditory pathway",
+        "Measure the behaviour of the human auditory system using psychophysical procedures",
+        "Interpret the results of the principal measures of auditory impairment",
+        "Identify the type of neural prosthesis appropriate for specific types of hearing impairment",
+        "Describe the principal signal processing techniques used with cochlear implants",
+        "Identify the factors that determine the effectiveness of a cochlear implant for a particular patient",
+        "Describe the processing of vision carried out in the visual pathway",
+        "Measure the behaviour of the human visual system using psychophysical procedures",
+        "Interpret the results of the principal measures of visual impairment",
+        "Describe the principal signal processing techniques used with retinal implants",
+        "Identify the factors that determine the effectiveness of a vision implant for a particular patient"
+    ],
+    "generic_skills": [
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Understanding of the social, cultural, global and environmental responsibilities of the professional engineer, and the need for sustainable development;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity;",
+        "Openness to new ideas and unconventional critiques of received wisdom."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A lecture of up to one hour, including question time, on a journal paper",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "A written report of up to 3000 words on the journal paper that was presented as a lecture during the semester",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Five critiques of up to 750 words each of lectures presented by other students, worth 10% each.",
+            "bullets": [
+                "65-75 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

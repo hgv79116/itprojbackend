@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject consists of three distinct and fundamentally related topics -</p>",
+        "<ul><li>An introduction to the fundamentals of materials science will be given on atomic structure and bonding, crystal structures and defects, elastic and plastic deformation, dislocations and strengthening and failured (fast fracture, fatigue and creep)</li></ul>",
+        "<ul><li>The mechanics of materials section will extend the concepts of material mechanical behaviour by detailing elastic/inelastic behaviour and introducing the concepts of stress and strain analysis. Topics covered may include the definition of principal stresses, plane stress, plane strain, two-dimensional stress and strain analysis, torsion, pure bending, transverse loading, Mohr\u2019s circle, failure criteria, inelastic behaviour, residual stress</li></ul>",
+        "<ul><li>This subject will also provide an introduction to finite element analysis (FEA) and its application for stress-strain analysis. Particular emphasis will be placed on the fundamental mechanisms by which materials fail under loading.</li></ul>",
+        "<p><strong> </strong></p>",
+        "<p><strong>INDICATIVE CONTENT<br/><br/></strong></p>",
+        "<ul><li>Mechanics<strong>: </strong>the definition of principal stresses, plane stress, plane strain, two-dimensional stress and strain analysis, torsion, pure bending, transverse loading, Mohr\u2019s circle, failure criteria, inelastic behaviour, residual stress.</li><li>Materials: atomic structure and bonding, crystal structures and defects, elastic and plastic deformation, dislocations and strengthening and failure (fast fracture, fatigue and creep).</li><li>Finite element analysis (FEA): FEA procedure, application of FEA to discrete systems and continuous bodies.</li></ul>",
+        "<p>Please view this video for further information: <a href=\"https://www.youtube.com/watch?v=vvMN8rW0dzo\">Mechanics &amp; Materials </a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Perform basic stress and strain analysis.",
+        "Analyse mechanical behaviour of materials.",
+        "Obtain simple mathematical and physical relationships between mechanics and materials.",
+        "Describe various testing techniques for characterisation of mechanical behaviour of materials.",
+        "Use the finite element method for performing a computer-based stress and strain analysis."
+    ],
+    "generic_skills": [
+        "15 hours (of work required)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENGR20004Engineering MechanicsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR20004",
+                        "Name": "Engineering Mechanics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHYC10003Physics 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5PHYC10004Physics 2: Physical Science & TechnologySummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10003",
+                        "Name": "Physics 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10004",
+                        "Name": "Physics 2: Physical Science & Technology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Attendance and participation in materials labs and submission of written assignments, due\u00a0weeks\u00a07 to 9. Addresses Intended Learning Outcomes (ILOs) 1 and 2",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One mid semester written examination.\u00a0 Addresses ILOs 1 to 4",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Attendance and participation in Finite Element Analysis (FEA) workshops, and one written assignment approximately 15 pages. ILO 5 is addressed with these workshops sessions",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One end of semester written examination. Addresses ILOs 1 to 4.",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures, 12 hours of tutorials and 12 hours of workshops.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Tesfaye Molla",
+            "contact_email": "tesfaye.molla@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Zhe Liu",
+            "contact_email": "zhe.liu@unimelb.edu.au"
+        }
+    ]
+}

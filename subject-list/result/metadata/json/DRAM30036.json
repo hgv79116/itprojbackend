@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>This subject is the final extension of students as performers, theatre-makers and independent artists as they create a new work for public performance.</p>",
+        "<p>Students will be mentored through the creation and performance of new ensemble work and refine their performance skills, working independently and self-reflexively in collaborative settings.</p>"
+    ],
+    "ilo": [
+        "apply advanced performance skills required to devise a public project;",
+        "research, conceive, develop, rehearse and present a new work for public performance;",
+        "apply advanced dramaturgical processes and knowledge to self-authored and collaboratively devised works;",
+        "apply and sustain a professional working ethos in independent and collaborative tasks and in communication with staff, industry and peers."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DRAM30033",
+                        "Name": "Theatre Practice 3",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "DRAM30034",
+                        "Name": "Theatre Skills 3",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "DRAM30035",
+                        "Name": "Professional Practice Theatre 1",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Studio process: contribution to devising and rehearsals of public performance outcomes",
+            "bullets": [
+                "120 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Dramaturgy Reflection",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Public performance",
+            "bullets": [
+                "80 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend 75% of all scheduled classes and submit all assessment items to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "260 hours, comprising rehearsal and dramaturgy classes as directed",
+            "total_time_commitment": "408 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ksulan@unimelb.edu.au"
+        }
+    ]
+}

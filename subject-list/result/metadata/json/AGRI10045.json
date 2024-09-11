@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>This subject aims to provide Bachelor of Agriculture students with an understanding of the underpinning enabling physical sciences, as they relate to agricultural systems. Concepts in physics, chemistry, mathematics and data management will be introduced in the context of the science of Earth and soil, water and climate, and plant and animal biology. In particular, this subject introduces students to concepts in physics and chemistry, as they apply to agricultural science.</p>",
+        "<p>In addition, students will acquire and apply mathematical techniques that will enable them to model and interpret data sets.</p>",
+        "<p>This subject will begin with introduction to the sun and to solar radiation as the source of energy on earth. Topics will include the spectrum of solar radiation, how light carries energy, energy transformation and measurement of solar radiation. The nature of energy in chemical bonds will then be discussed, with introduction to different types of bonding, valency, and the periodic table. The energy cycle in living systems will then be introduced, and some important chemical reactions in cells will be discussed. Heating and cooling and heat transfer mechanisms, as they apply to earth systems and living systems operating in agricultural environments, will then be discussed. Topics discussed will include the latent heat of water, evaporation and condensation, states of matter, evapotranspiration and the water cycle. The subject will conclude with consideration of how the Earth\u2019s crust captures the suns energy, measurement of temperature and introduction to principles of climate trends and climate change.</p>",
+        "<p>Mathematics topics in this subject will include: data visualisation; data analyses, including population statistics and correlation; determination of key data parameters such as rate of change, maxima and minima.</p>"
+    ],
+    "ilo": [
+        "Understand the importance of physical and chemical principles as the foundations of agricultural sciences",
+        "Apply an understanding of key concepts in physics and chemistry to describe fundamental biological processes such as electron transfer, photosynthesis, respiration, circulation and transpiration",
+        "Integrate the use of numerical data, graphical analysis, basic statistics, and mapping, to represent and interpret phenomena in the natural world, in particular as they operate in agricultural environments",
+        "Apply principles in physics and chemistry using logical reasoning, together with appropriate mathematical reasoning, to a variety of familiar and novel situations, both biological and physical, and to problems in agricultural contexts"
+    ],
+    "generic_skills": [
+        "demonstrate their understanding of fundamental principles in chemistry, physics and data management and their application in agricultural contexts lucidly, both in writing and orally",
+        "acquire and interpret scientific data",
+        "participate as an effective member of a group in tutorial discussions, and study groups",
+        "think independently and analytically, and direct his or her own learning",
+        "manage time effectively in order to be prepared for regular tutorial classes, tests and the examination"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10053",
+                        "Name": "Agriculture Discovery",
+                        "Teaching period": "February (On Campus - Dookie)",
+                        "Credit Points": "0"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 intra-semester assessments based on workshop activities in Weeks 2, 3, 5 and 10",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Intra-semester assessment",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "45%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum 80% of scheduled workshops/practical classes.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sarah Frankland",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Each week students will participate in three 1-hour lectures and one 2-hour workshop for 12 weeks.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jeff.yeoman@unimelb.edu.au"
+        }
+    ]
+}

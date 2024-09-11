@@ -1,0 +1,140 @@
+{
+    "overview": [
+        "<p>This subject will encourage students to use sources along with basic research concepts and design to develop their ability to become evidence-based clinicians. Students will use basic statistics and assessments to make judgements and decisions on best practice forming development of clinical decision making. Students will participate in workshops and interactive sessions that will allow them to develop their analytical skills. On completion, students will be able to critically appraise evidence to establish valid conclusions that assist with interpreting, integrating and managing results and outcomes, ensuring best and safe practice.  </p>"
+    ],
+    "ilo": [
+        "Adapt thinking by incorporating the theoretical principles of clinical decision making in the context of audiological practice.",
+        "Evaluate and critically appraise available evidence to inform intervention options/strategies and education programs related to  screenings, referral guidelines and pathways.",
+        "Apply basic research design skills and generate testable hypotheses relating to clinical decision making.",
+        "Select basic statistical tests and be able to interpret statistical results  in clinical decision making."
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90053",
+                        "Name": "Audiology Practice A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90055",
+                        "Name": "Professionalism and Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90056",
+                        "Name": "Professionalism and Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90058",
+                        "Name": "Sound and Innovative Solutions B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90054",
+                        "Name": "Audiology Practice B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four online tests",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Tests will be spread evenly across the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group presentation",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Exam must be passed ",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Lauren Story",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of Lecturers and 2 hours of Tutorial sessions per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "story.l@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "overview": [
+        "<p>Technology has been transforming the financial industry, with the potential to disrupt traditional industry structure and practice. The subject is organised around a number of real\u2010world issues, in order to introduce fundamental underlying economic (including money, moral hazard, property rights and bank runs) and psychological (including engagement, trust and privacy) problems, and how technology could provide transformative solutions to those problems (e.g., big data, distributed ledgers, artificial intelligence, machine learning and natural language processing). Cases will illustrate the core concepts. The emphasis is on foundations, so students will be able to apply the learned concepts in novel situations.</p>"
+    ],
+    "ilo": [
+        "Identify fundamental economic and psychological issues behind real\u2010world problems in the financial sphere",
+        "Determine how major advances in artificial intelligence and machine learning are applicable to finance problems",
+        "Demonstrate basic knowledge of techniques in artificial intelligence and machine learning",
+        "Demonstrate knowledge of major trends in Fintech",
+        "Distinguish disruption from mere computerisation",
+        "Acquire skills to solve practical financial problems",
+        "Learn to think outside the box",
+        "Critically evaluate new ideas and their implementation",
+        "Recognise opportunities to innovate"
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; critical thinking; interpretation and analysis",
+        "Moderate level of development: statistical analysis; algorithm development",
+        "Some level of development: programming"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1 - required subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsFNCE10002Principles of FinanceSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5FNCE20001Business FinanceNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE10002",
+                        "Name": "Principles of Finance",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE20001",
+                        "Name": "Business Finance",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM20001Econometrics 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ECON20003Quantitative Methods 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ECON20005Competition and StrategySemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM20001",
+                        "Name": "Econometrics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20003",
+                        "Name": "Quantitative Methods 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20005",
+                        "Name": "Competition and Strategy",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2 - alternative enrolment"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students wishing to enrol into FNCE30012 Foundations of FinTech who have not met the listed prerequisite subjects are to email the subject coordinator listed on the Dates and times page, with evidence supporting how they meet requirements. If enrolment is approved, students will be contacted. Please note, waivers are not guaranteed and the decision from the Faculty is final."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE90084",
+                        "Name": "Fintech: Foundations and Applications",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Eleven in\u2010class quizzes (not more than 50 words each)",
+            "bullets": [
+                "550 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Two individual homework\n\nassignments (not more than 600 words each)",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One individual term project papers (not more than 800 words each)",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Nitin Yadav",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2\u2010hour lecture per week plus one 1\u2010hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "nitin.yadav@unimelb.edu.au"
+        }
+    ]
+}

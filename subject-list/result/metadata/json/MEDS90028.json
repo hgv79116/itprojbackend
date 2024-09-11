@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>Principles of Clinical Practice 3 (Oslo) is available only to students attending the Melbourne Medical School as participants in the Oslo exchange program through which a small number (maximum of eight students per year) of students from the University of Oslo complete their women's and children's health rotations, while a similar number of University of Melbourne students fulfill this requirement at the University of Oslo.</p>",
+        "<p><br/></p>",
+        "<p>The aim of the subject is to develop students' key clinical skills in clinical settings in Women's and Children's Health. The subject will be delivered in two clinical terms: Women's Health (8 weeks), Children and Adolescent Health (8 weeks). In each rotation students will acquire the skills to prepare them for any form of clinical practice in that discipline.</p>"
+    ],
+    "ilo": [
+        "Highly developed cognitive, analytic and problem-solving skills;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability and self-confidence to comprehend complex concepts to express them lucidly, whether orally or in writing, and to confront unfamiliar problems;",
+        "Leadership capacity, including a willingness to engage in constructive public discourse, to accept social and civic responsibilities;",
+        "Ability and confidence to participate effectively in collaborative learning as a team-member, while respecting individual differences; and",
+        "Ability to plan work and to use time effectively."
+    ],
+    "generic_skills": [
+        "Highly developed cognitive, analytic and problem-solving skills;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability and self-confidence to comprehend complex concepts to express them lucidly, whether orally or in writing, and to confront unfamiliar problems;",
+        "Leadership capacity, including a willingness to engage in constructive public discourse, to accept social and civic responsibilities;",
+        "Ability and confidence to participate effectively in collaborative learning as a team-member, while respecting individual differences; and",
+        "Ability to plan work and to use time effectively."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS90020",
+                        "Name": "Principles of Clinical Practice 3",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "81.25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written examination (MCQ/EMQ/SAQ)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Multi-station objective structured clinical examinations [OSCE]",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "4 x Mini-Clinical Evaluation Exercises [mini-CEX] , 2 in each rotation",
+            "bullets": [
+                "80 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written tasks specific to each rotation (Women's Health and Children's Health)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Attendance - Clinical",
+            "bullets": null,
+            "hurdle": "100% attendance at clinical placements and field visits",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Attendance - Tutorials",
+            "bullets": null,
+            "hurdle": "75% attendance at lectures, tutorials and practical classes",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Professional Behaviour Hurdle",
+            "bullets": null,
+            "hurdle": "Satisfactory standard in professional behaviour, as demonstrated by observed Professional Behaviour Assessment ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Speciality Rotation Requirements Hurdle",
+            "bullets": null,
+            "hurdle": "Sign-off designated procedures to be completed in each speciality rotation ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

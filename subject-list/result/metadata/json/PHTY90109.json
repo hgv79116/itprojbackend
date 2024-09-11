@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>This subject will build on and integrate research knowledge from Research and Evidence 1 and Research and Evidence 2 to apply research concepts in the individual physiotherapy clinical practice streams. Specific content in this subject will focus on systematic reviews and meta-analyses, incorporating statistical analysis and critical appraisal relevant to such study designs. Clinical guidelines will also be a focus, emphasising possible processes for development as well as how they can be used to inform clinical practice and application of tools available for critical appraisal. Strategies for communicating research findings (eg posters, conference presentations, journal papers) will be explored. Application of measurement in clinical practice, including diagnostic accuracy, clinical decision rules and clinical utility, will be studied. Steps involved in developing a research proposal and strategies for incorporating evidence-based practice into daily clinical practice will draw together the three years of curriculum in this stream of subjects.</p>"
+    ],
+    "ilo": [
+        "Critically appraise systematic reviews and clinical guidelines for the validity of their conclusions to contemporary physiotherapy clinical practice",
+        "Interpret findings from common statistical approaches relevant to meta-analytical study designs",
+        "Communicate the methodology and findings of a research study for a physiotherapy audience in a oral presentation",
+        "Interpret findings from measurement tests in order to predict diagnosis and/or prognosis",
+        "Interpret the relevance of findings from systematic reviews and clinical guidelines to physiotherapy practice, particularly in relation to treatment strategies",
+        "Implement strategies that facilitate the practice of evidence-based physiotherapy in clinical settings",
+        "Evaluate the diversity of populations represented in systematic review data and the generalisability of findings to culturally and ethnically diverse populations",
+        "Identify the sources of funding available for physiotherapy research, and how this funding shapes the research agenda in physiotherapy"
+    ],
+    "generic_skills": [
+        "an appreciation of the responsibility to contribute towards the generation of new knowledge",
+        "an appreciation of the responsibility to maintain standards of physiotherapy practice at the highest level throughout a professional career",
+        "reaching a high level of achievement in writing, generic research activities, problem-solving and communication",
+        "accessing new knowledge from all sources, to analyse and interpret it in a critical manner, and to apply it appropriately to their provision of health care"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90094",
+                        "Name": "Research and Evidence 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PHTY90101",
+                        "Name": "Research and Evidence 2",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual written assignment - critical appraisal of systematic review or clinical guidelines",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Individual oral presentation in Journal club - marked by peer review",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group written assignment - development of a research proposal",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Group oral presentation of research proposal",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "20 hours of lectures, 12 hours of self-directed tutorials and 12 hours of journal clubs",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to  8 November 2024",
+            "last_self_enrol_date": "12 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "16 November 2024",
+            "contact_name": null,
+            "contact_email": "mcginley@unimelb.edu.au"
+        }
+    ]
+}

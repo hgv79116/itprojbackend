@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>This subject is designed to equip students with the tools necessary to enable them to make the core decisions faced by managers and investors. The first part of the subject deals with establishing the environment in which organizations operate, namely the objectives of the suppliers of financial and human capital. The subject then considers the basic tools commonly employed by financial managers and investors including discounted cash flow techniques and financial mathematics. Measures and definitions of alternative forms of risk are considered and the relation between risk and expected reward in capital markets is established. Finally, the subject considers the important decisions faced by firms (investment, financing, dividend policy, hedging and executive compensation) and by investors (the composition of their optimal retirement portfolio).</p>"
+    ],
+    "ilo": [
+        "Analyse the environment in which organizations operate, namely the objectives of suppliers of financial and human capital;",
+        "Apply basic financial mathematical techniques;",
+        "Recognise the fundamentals of capital budgeting; the foundation for the use discounted cash flow techniques and the contribution of alternative methods of project evaluation;",
+        "Explain the benefits of diversification and the main drivers of those benefits;",
+        "Differentiate between alternative forms of risk and understand the link between risk and return in a competitive market;",
+        "Describe the nature of leverage and the constraints borrowers face in its use;",
+        "Evaluate the alternatives available to a firm when deciding how to distribute its profits;",
+        "Analyse hedging decisions and their effect on investor and/or manager utility; and",
+        "Understand the costs and incentive effects of alternate executive compensation packages."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-PROFMGT Master of Professional Management",
+                    "MC-SCM150 Master of Supply Chain Management",
+                    "GC-IBL Graduate Certificate in Indigenous Business Leadership",
+                    "GC-BUS Graduate Certificate in Business"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE90060",
+                        "Name": "Financial Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly quizzes  worth 5% each. (Only top 6 quiz marks count).",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 8",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual Assignment",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "End of Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group Assignment",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "End of Wekek 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours equivalent",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 April 2024 to 23 June 2024",
+            "last_self_enrol_date": "23 April 2024",
+            "census_date": "17 May 2024",
+            "last_date_to_withdraw_without_fail": "7 June 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": "",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Term 4 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours equivalent",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "14 October 2024 to  8 December 2024",
+            "last_self_enrol_date": "8 October 2024",
+            "census_date": "1 November 2024",
+            "last_date_to_withdraw_without_fail": "22 November 2024",
+            "assessment_period_ends": "15 December 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

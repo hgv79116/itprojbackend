@@ -1,0 +1,75 @@
+{
+    "overview": [
+        "<p>Solving problems in business often requires computer programming to manipulate, analyse, and visualise data. This component helps students, with little or no background in computer programming, learn how to design and write programs using a high-level procedural programming language, and to solve problems using these skills. Topics such as cyber security, cyber ethics and privacy regarding the collection of individual data will also be discussed.</p>"
+    ],
+    "ilo": [
+        "Read, write, and debug programs to solve business problems.",
+        "Use fundamental programming constructs (sequence, alternation, selection), data structures (arrays, records, lists, associative arrays), abstraction constructs such as functions, and basic algorithms to solve business problems.",
+        "Understand ethical issues regarding privacy and cyber security."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: MC-BUSANA Master of Business Analytics, GD-BUSANA Graduate Diploma in Business Analytics, GC-BUSANA Graduate Certificate in Business Analytics, PR-BUSANA Professional Certificate in Business Analytics"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students admitted to the MBA course may enrol in this subject as an elective subject. Students are required to achieve 70% or above in Data Analysis"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-term test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Syndicate project",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Final Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students are required to pass the final examination to pass the subject.",
+            "timing": "Week 9",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "11 March 2024 to  3 May 2024",
+            "last_self_enrol_date": "21 March 2024",
+            "census_date": "5 April 2024",
+            "last_date_to_withdraw_without_fail": "19 April 2024",
+            "assessment_period_ends": "10 May 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

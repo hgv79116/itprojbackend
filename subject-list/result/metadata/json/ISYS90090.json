@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject introduces a range of information security management services implemented in industry. The subject will cover the fundamental principles and practice of security risk assessment, incident response and disaster recovery, knowledge leakage, systems and network security, and policy and culture. Students will develop an appreciation for the kinds of security practices that exist in industry in each of these areas.</p>",
+        "<p>This subject supports course-level objectives by allowing students to have in-depth knowledge of the specialist area of information security management. The subject\u2019s assessment tasks include the writing of a comprehensive consulting proposal and research into critical security issues faced by organisations. These tasks will encourage students to work in a team to develop a high-level of achievement in writing, research activities, and presentation skills.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Security principles and techniques discussed are: Models for understanding knowledge leakage, Security Risk Assessment Methods, Firewall and virtual private network (VPN) security scenarios, and Incident Response Methodology. Real world cases will be drawn from a range of organization types including critical infrastructure installations in Australia.</p>"
+    ],
+    "ilo": [
+        "Apply skills in critical thinking and systems analysis to identify, evaluate and/or communicate strategic and operational issues suited to the application of information systems security concepts and theories to real-world practice",
+        "Apply skills related to business communication suited to the application of information systems security concepts and theories to real-world practice",
+        "Demonstrate a sound knowledge and understanding of the practice of business information systems security in organisations",
+        "Independently research and argue disparate beliefs/theories of information systems security",
+        "Apply the professional codes of conduct and ethical standards as they pertain to information systems security in practice"
+    ],
+    "generic_skills": [
+        "Have in-depth knowledge of a specialist area through exposure and study of information security areas of knowledge",
+        "Reach a high level of achievement in writing, research or project activities problem-solving and communication through the writing of a comprehensive consulting proposal",
+        "Report-writing skills",
+        "Presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90026",
+                        "Name": "Concepts in Information Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology AND special permission from the subject coordinator"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the Information Systems specialisation (formal) in the MC-DINFENG Master of Digital Infrastructure Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90070",
+                        "Name": "Information Security Consulting",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A quiz conducted each week in workshops across 10 weeks of the semester 2% each (Total 20% / 1000 words / 60mins). Intended Learning Outcomes (ILOs) 1-3 and 5 are addressed in this assessment.",
+            "bullets": [
+                "60 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment - One individual report, requiring 26-30 hours of work. Intended Learning Outcomes (ILO's) 1, 2, 3 and 5 are addressed in the report.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Assignment- \n\nOne group (4 members maximum) written assignment (consulting proposal), requiring 64-70 hours of work. ILO's 1 to 5 are addressed in the consulting proposal.",
+            "bullets": [
+                "2,500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Atif Ahmad",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1-hour lecture per week.\n\nOne 2-hour workshop per week.\n\n36 contact hours in total.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "atif@unimelb.edu.au"
+        }
+    ]
+}

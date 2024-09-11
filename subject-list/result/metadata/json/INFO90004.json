@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>User Experience (UX) means the way we respond to technology, including our practical, intellectual, emotional and affective responses. UX is widely recognised as a major determinant of successful technology outcomes, and it provides the design inspiration behind some of the most successful innovations in digital technologies that define the present era. This subject concerns the methods and techniques that are used to identify what characterises UX and how you can recognise, measure and evaluate it in a variety of contexts. This entails a deep understanding of the psychological and social theories underlying UX, combined with practical knowledge of the various industry methods and tools currently in use. In terms of practice, an emphasis is placed on learning the skills needed to design, justify and conduct appropriate evaluations, and the interpretation of findings. In terms of theory, special emphasis is placed on how to identify and evaluate the various facets of UX, across a range of social and work-based settings, and across a range of technologies.</p>"
+    ],
+    "ilo": [
+        "Choose appropriate technology evaluation methods for a given problem, and critique this choice in terms of the advantages and disadvantages",
+        "Understand the different types of data for UX evaluation and how to interpret them, including field observations, interviews, automated use-logs, measurements of errors and efficacy",
+        "Apply knowledge of the contemporary tools and environments (including those of the industry-standard usability-testing laboratory) for the purpose of evaluating interactive systems",
+        "Analyse and interpret evaluation data to inform further design and development"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ISYS90026",
+                        "Name": "Concepts in Information Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CS Master of Computer Science",
+                    "MC-SOFTENG Master of Software Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Human-Computer Interaction specialisation (formal) in the MC-IT Master of Information Technology"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 \u2013 Expert Review/Critique - Involves three parts (a) Heuristic evaluation (500-1000 words, due in week 3; (b) Cognitive walkthrough of a given interactive technology (3 tasks, 300 words each), due in week 5 (c) Critical reflection on the benefits and limitations of each technique (500 words), due in week 5. Templates will be provided for this assignment. Requires total of approximately 20 hours of work. Due in week 3 and week 5. Addressing Intended Learning Outcomes (ILO's) 2, 3  and 4.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 2 - Group Assessment/Project - Evaluation Report:\u00a0\u00a0Group project (3-4 students) to plan an evaluation, then collect and analyse data to evaluate the usability of a given interactive technology. Students are to submit a test plan in week 6, then present their evaluation methods and findings in a structured written report (4000 words) and a 5-minute video presentation in Week 12, requiring approximately 50 hours of work per student. Addressing ILO's 1, 2, 3  and 4.",
+            "bullets": [
+                "50  hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Assignment 3 - Take-home Exam:\u00a0Individual assignment (2000 words) responding to supplied questions, requiring approximately 30 hours of work. Students will be expected to apply, review and contrast benefits/limitations of different (specified) evaluation methods. Questions will be supplied to students in class during week 12.\u00a0Due first week of examination period. Addressing ILO's 1, 2 and 4.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the marks available in the take-home exam.",
+            "timing": "Week 14",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Melissa Rogerson",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lectures per week and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Melissa Rogerson",
+            "contact_email": "melissa.rogerson@unimelb.edu.au"
+        }
+    ]
+}

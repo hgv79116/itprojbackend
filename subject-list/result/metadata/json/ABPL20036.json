@@ -1,0 +1,151 @@
+{
+    "overview": [
+        "<p>This subject covers key elements of building services and sustainability at a residential and commercial scale. The subject aims to teach the basic terminology and concepts behind providing comfortable and effectively functioning buildings in terms of sun, envelope, services (water, waste, gas, electricity, data, fire protection), heating and cooling, air quality, acoustics and vertical transport. Using the sustainability tools being used in the industry (FirstRate5, and Green Star) students will be given a framework in which to understand how buildings perform and their impact on the environment.<br/><br/></p>",
+        "<p><strong>Prescribed software programs with no cost</strong><br/>FirstRate5</p>",
+        "<p>Details of software availability and pricing are captured at  <a href=\"https://edsc.unimelb.edu.au/student-experience/it-support\">https://edsc.unimelb.edu.au/student-experience/it-support</a></p>",
+        "<p> </p>",
+        "<p><strong>Note</strong>: Please check Subject Notes section.</p>"
+    ],
+    "ilo": [
+        "Understand the terminology, principles and techniques of environmental control systems at both small and medium scale;",
+        "Integrate environmental controls into architectural designs in a sustainable manner."
+    ],
+    "generic_skills": [
+        "Written, verbal and graphic presentation of ideas;",
+        "Critical thinking and analysis;",
+        "Evaluation of existing knowledge;",
+        "Appropriate use of design terminology;",
+        "Application of generic theories to specific examples."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsARCH10002Construction as AlchemyNo longer availableABPL10005Understanding the Built EnvironmentSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH10002",
+                        "Name": "Construction as Alchemy",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ABPL10005",
+                        "Name": "Understanding the Built Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the B-ENVS Bachelor of Environments"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of 50 points of Architecture or Construction major subjects prior to taking the subject"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "list",
+                "content": []
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsABPL10007Environmental TechnologiesSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL10007",
+                        "Name": "Environmental Technologies",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1:submission of a set of 10 A3 drawings that includes layouts, schematics, description and justification of environmental systems and services.",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Progression on Assignment 1: Progression on Assignment 1 is a pin-up presentation of a set of 3 A3 Drawings (Site plan, Passive Strategy and Energy assessment) that takes place at the beginning of week 3 tutorial.",
+            "bullets": [
+                "3 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Weekly Quizzes",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One exam (equivalent to 2000 words)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of lectures and 2 hours of tutorials per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

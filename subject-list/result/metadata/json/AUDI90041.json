@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>This unit focuses on problem based learning to build student competencies in working with complex, multifaceted clinical cases. The content will focus on a range of issues across the lifespan including neurological diseases, diverse cultural backgrounds, mental health, behavioural difficulties, pre-intentional and multimodal communication, diverse socio-economic backgrounds, adolescent development and health, aged care and hearing loss. Students will be required to integrate information from a variety of sources, apply knowledge acquired in previous units, address professional issues that arise during complex cases and communicate their ideas clearly and effectively in both written and oral format.</p>"
+    ],
+    "ilo": [
+        "Apply evidence based methods for differentially diagnosing, planning and implementing intervention;",
+        "Integrate knowledge acquired from a variety of sources to make decisions about client care;",
+        "Work with peers and independently to apply clinical reasoning to case problem-solving",
+        "Demonstrate problem-solving in complex case management, taking into account multifaceted factors that impact on client care (e.g. cultural, financial, time, treatment resources, other health providers); and",
+        "Communicate clinical information clearly for a variety of purposes and audiences."
+    ],
+    "generic_skills": [
+        "an ability to evaluate and synthesise information in a flexible manner",
+        "a capacity to articulate their knowledge in both oral and written formats",
+        "develop an awareness of the challenges facing their clinical practice"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90033",
+                        "Name": "Speech Pathology Practice 2",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90034",
+                        "Name": "Planning and Integrating Intervention",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90035",
+                        "Name": "Speech and Language Disorders - Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90036",
+                        "Name": "Disorders of Fluency",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90039",
+                        "Name": "Speech Pathology Practice 3",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90052",
+                        "Name": "Practice in Diverse Communities",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 case studies (1x oral, 1x written and 1x video)  Each case equivalent to 800 words",
+            "bullets": [
+                "2400 words (equivalent)"
+            ],
+            "hurdle": "Students must pass all of the case studies to pass the subject",
+            "timing": "First case due week 4-6; second case due week 7-9; and third case due week 11-12",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Attendance and participation in group discussions in tutorials",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "2 Objective Structured Clinical Exams (1 hour each, equivalent to 1000 words)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass both of the OSCEs in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "georgie.johnson@unimelb.edu.au"
+        }
+    ]
+}

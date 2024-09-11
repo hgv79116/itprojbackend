@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p>The aim of this subject is to provide students with an understanding of the science and technology associated with the processing of materials of plant and animal origin into food and food products and their preservation by traditional and modern techniques. An integrated presentation embodying chemical, microbiological, nutritional and engineering aspects will be adopted. Practical exercises, demonstrations and site visits will provide experience in commonly applied technologies.</p>",
+        "<p>The content includes:</p>",
+        "<ul><li>Basic unit and factory operations</li><li>Preservation and processing by: moisture control, application of heat, removal of heat, chemical additives, fermentation and emerging technologies</li><li>Food packaging</li><li>Science and technology of production of selected food products from plant and animal sources</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of the principles and application of food processing and preservation technologies",
+        "Describe the technologies used to effect preservation",
+        "Describe the manufacture of a variety of foods and food products, including formulated and specialty foods as well as those within the main commodity groups",
+        "Understand the role of fractionation and manipulation of food components to produce new products or ingredients",
+        "Understand and evaluate the implications of processing and preservation methodologies on the physical, chemical, microbiological and nutritional quality of foods",
+        "Demonstrate an understanding of the basic unit and factory operations used in food processing",
+        "Evaluate processing technologies for their appropriate application"
+    ],
+    "generic_skills": [
+        "Skills in observation, critical analysis and report writing",
+        "An ability to derive, interpret and evaluate social, technical and economic information from a wide variety of sources",
+        "A capacity for independent critical thought, rational inquiry and self-directed learning and research",
+        "An ability to communicate effectively in both written and verbal forms"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FOOD20003",
+                        "Name": "Intro to Food Science & Human Nutrition",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FOOD20006",
+                        "Name": "Food Microbiology and Safety",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written report on selected practical activities undertaken during semester from week 3 to week 8",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Zhongxiang Fang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours including 42 hours of lectures and 18 hours of practicals/site visits/demonstrations",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "zhongxiang.fang@unimelb.edu.au"
+        }
+    ]
+}

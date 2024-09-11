@@ -1,0 +1,162 @@
+{
+    "overview": [
+        "<p>This course introduces students to the design principles of cochlear implants and the history of their development. All aspects of the clinical application of cochlear implants including audiological evaluation, medical issues, counselling, programming of devices and outcome measures are covered.</p>"
+    ],
+    "ilo": [
+        "apply audiological assessment techniques to accurately evaluate a severe to profoundly hearing impaired individual;",
+        "apply communication skills to effectively counsel candidates regarding cochlear implants;",
+        "apply communication skills to effectively rehabilitate/habilitate cochlear implant recipients;",
+        "apply audiological skills to manage and assess cochlear implants patients pre and post operatively;",
+        "develop a management plan for patients for whom a cochlear implant is not appropriate; and",
+        "understand the technical advances and limitations of cochlear implant technology."
+    ],
+    "generic_skills": [
+        "critical thinking, analytical and problem-solving skills",
+        "the ability to integrate theory and practice and to apply this in novel situations",
+        "an openness to new ideas",
+        "planning and time management skills",
+        "the ability to communicate their knowledge in both oral and written form",
+        "the ability to behave in a professionally appropriate manner"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "For students completing 1st Year from 2021 onwards"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsAUDI90021Clinical Audiology ASemester 2 (On Campus - Parkville)12.5AUDI90023Hearing Devices and Rehabilitation ASemester 2 (Early-Start) (On Campus - Parkville)12.5AUDI90047Audiology in Professional ContextsSemester 2 (On Campus - Parkville)6.25AUDI90050Acoustics and Perception of SpeechSemester 1 (On Campus - Parkville)6.25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90021",
+                        "Name": "Clinical Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90023",
+                        "Name": "Hearing Devices and Rehabilitation A",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90047",
+                        "Name": "Audiology in Professional Contexts",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90050",
+                        "Name": "Acoustics and Perception of Speech",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "For students completing 1st Year prior to 2021"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsAUDI90023Hearing Devices and Rehabilitation ASemester 2 (Early-Start) (On Campus - Parkville)12.5AUDI90021Clinical Audiology ASemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90023",
+                        "Name": "Hearing Devices and Rehabilitation A",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90021",
+                        "Name": "Clinical Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AUDI90015 Acoustics"
+            },
+            {
+                "type": "paragraph",
+                "content": "AUDI90017 Perception of Sound & Speech"
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90007",
+                        "Name": "Clinical Audiology B",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A short answer test",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 13 of semester 3",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A written assignment not exceeding 1500 words",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8 of semester 4",
+            "percentage": "25%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "At the end of semester 4",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures and Practical Sessions: 34 hours. Clinics: 20 hours.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr. Alexandra Walchhuetter",
+            "contact_email": "alexandra.walchhuetter@unimelb.edu.au"
+        }
+    ]
+}

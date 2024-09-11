@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p>Soil is the foundation for profitable farming. In this subject the principles of chemistry, physics and biology will be used to determine how decisions are made on the suitability of soil for agriculture and what effects agricultural practice can have on soil. Topics include soil morphology, soil physical and chemical properties, clay mineralogy, soil organic matter, soil biology &amp; ecology, soil acidity and alkalinity, and the biogeochemical cycles of C, N, and other elements as well as the environmental outcomes associated with the management of soils. The subject will enable students to understand the importance of soil knowledge for sustainable agricultural production. Students will undertake hands-on practicals, and field trips will be used to enable students to understand the relationship between landscapes, soils and land use, the impacts land management decisions can have on soil quality, and to describe soils for the purpose of enabling informed land management decision.</p>"
+    ],
+    "ilo": [
+        "Explain the relationship between soils and landscape",
+        "Infer soil functions from biological, chemical and physical characteristics of the soil",
+        "Report how land management influences soil health",
+        "Advise land managers and others on how soil properties influence agriculture production",
+        "Draw conclusions on the relationship between land use and soil using data collated on soil properties"
+    ],
+    "generic_skills": [
+        "explain their understanding of soil science;",
+        "review and evaluate readings relating to soil science and agricultural production",
+        "participate as an effective member of a group in workshop discussions, and study groups;",
+        "think independently and analytically, and direct his or her own learning; and",
+        "manage time effectively in order to be prepared for regular classes, tests and the examination."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10046",
+                        "Name": "Foundations of Agricultural Sciences 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Report 1 based on field trips, practicals or workshops",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Report 2 based on field trips, practicals or workshops",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Quiz based on practicals / workshops",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Approximately week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": " Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": "Helen Suter",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "52 hours. 24 hours of lectures, 12 hours of practicals/workshops, 2-days field trips",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "helencs@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": "Helen Suter",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 2 hour lecture per week,  1x2 hr tutorial/practicals per week, and 2-days of field trips",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "helencs@unimelb.edu.au"
+        }
+    ]
+}

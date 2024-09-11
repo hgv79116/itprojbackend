@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>This subject builds on the knowledge obtained in the prerequisite subject AUDI90032 Speech Pathology Practice 1. The subject expands the student\u2019s knowledge of speech pathology clinical settings and introduces the student to more complex cases. The clinical settings for this subject may include hospitals, community clinics, early intervention centres, specialist centres, schools, private practices, university clinics, nursing homes and others. Students will be allocated to placements both prior to and during semester 1. Students can anticipate a rural placement during this subject OR AUDI90039 Speech Pathology Practice 3. Students are required to financially support expenses associated with their rural placements, such as accommodation.</p>",
+        "<p>A variety of clinical experiences will be offered but increasingly the student will be expected to engage with and actively participate in assessing and managing infants, children, young people and adults. In particular, the student will be expected to independently take histories, have highly developed observational skills and to use this information to be able to select the appropriate diagnostic methods and tests as per the setting, client problem, age and any other relevant variables. In addition, the student will be able to identify and differentially diagnose problems, identify co morbidity and suggest appropriate referral options. Intervention goal setting, planning and the ability to execute intervention will be developed. To support the student\u2019s learning, workshops will accompany the clinical placement experiences.</p>"
+    ],
+    "ilo": [
+        "formulate a diagnosis on clients of varying ages;",
+        "take account of and recognise co-morbid conditions;",
+        "adapt their behaviour, approach and techniques to suit the capabilities of clients from a diverse range of backgrounds, ages and clinical presentation;",
+        "interpret test results and integrate the results of the case history;",
+        "use the test results and client information to develop a diagnosis and prognosis;",
+        "utilise test results and all relevant client information to develop intervention goals and formulate appropriate management strategies;",
+        "demonstrate the development of professionalism and clinical communication skills and the skills necessary to relay the results of various tests to clients in a manner that can be readily understood; and",
+        "write clear, well organised reports."
+    ],
+    "generic_skills": [
+        "the ability to behave in a professionally appropriate manner",
+        "critical thinking, analytical and problem solving skills",
+        "the ability to integrate theory and practice and to apply this in novel situations",
+        "an openness to new ideas",
+        "planning and time management skills",
+        "the ability to communicate knowledge in both oral and written form"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90028",
+                        "Name": "Swallowing and Voice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90029",
+                        "Name": "Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90030",
+                        "Name": "Language Disorders Across the Lifespan",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90031",
+                        "Name": "Speech Disorders Across the Lifespan",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90032",
+                        "Name": "Speech Pathology Practice 1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90034",
+                        "Name": "Planning and Integrating Intervention",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90035",
+                        "Name": "Speech and Language Disorders - Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90036",
+                        "Name": "Disorders of Fluency",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assessment by Objective Structured Clinical Examination (OSCE)",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "Yes, OSCE must be passed (assessed as PASS/FAIL)",
+            "timing": "End of semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Assessment of two clinical placements. Students' clinical performance during each placement will be assessed via the Competency Assessment in Speech Pathology (COMPASS\u00ae) and the completion of a Clinical Portfolio.",
+            "bullets": null,
+            "hurdle": "Yes, Student must meet Competency and Clinical Portfolio requirements (PASS/FAIL)",
+            "timing": "The COMPASS\u00ae Assessments and the Clinical Portfolio are to be submitted one week after the final day of the clinical placement.",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "100% attendance and participation at all clinical placements.",
+            "bullets": null,
+            "hurdle": "Yes, participation must be 100% (assessed as PASS/FAIL)",
+            "timing": "3 workshops throughout semester. Placements as allocated.",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": "Ana Lopez Flores",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "224 hours",
+            "total_time_commitment": "272 hours",
+            "teaching_period": "2 January 2024 to 26 May 2024",
+            "last_self_enrol_date": "12 January 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "ana.lopezflores@unimelb.edu.au"
+        }
+    ]
+}

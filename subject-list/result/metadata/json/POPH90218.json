@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>This subject is a compulsory subject within the Master of Public Health that aims to develop the practical leadership and management skills necessary for the public health workforce. Public Health Leadership and Management will introduce students to relevant theories and models of public health leadership and project management. This knowledge will be grounded in real-life case studies of public health significance, lectures with experts in the field, interactive sessions to practice skills and small team exploration and presentation on important public health projects, including Indigenous health project.</p>"
+    ],
+    "ilo": [
+        "Discuss and reflect on how effective leadership and management occurs across public health organisations with particular reference to communication, advocacy, emotional intelligence; decision making human rights, equity and ethical approaches;",
+        "Apply the fundamental project management functions of planning, budgeting, staffing, scheduling, risk management, regulatory oversight and stakeholder management in public health and health care organisations;",
+        "Accomplish creative and authentic solutions to real-world challenges for public health issues by working in an effective and diverse team;",
+        "Apply knowledge of Indigenous culture and values to public health leadership in collaborative and complex settings; and",
+        "Reflect on the theories and practice of leadership in relation to their own personal and professional experience in order to encourage future investment in student's leadership capabilities."
+    ],
+    "generic_skills": [
+        "Critical thinking and analysis",
+        "Written communication",
+        "Oral communication",
+        "Finding, evaluating and using relevant information",
+        "Leadership",
+        "Teamwork and working with others"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90217",
+                        "Name": "Foundations of Public Health",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90274",
+                        "Name": "Prioritising & Planning in Public Health",
+                        "Teaching period": "July (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Team Project (five students per team) - Written Team Agreement",
+            "bullets": [
+                "1 pages"
+            ],
+            "hurdle": null,
+            "timing": "Day 3",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Team Project (five students per team) - Oral Presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Day 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Team Project (five students per team) - Reflection on Written Team Agreement",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Day 6",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Critical reflection on learnings around leadership",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Project Management Plan",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A minimum of 80% attendance at all tutorials (i.e. studio work and interactive session).",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at all tutorials (i.e. studio work and interactive session).",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "7 March 2024 to 22 March 2024",
+            "last_self_enrol_date": "11 March 2024",
+            "census_date": "22 March 2024",
+            "last_date_to_withdraw_without_fail": "12 April 2024",
+            "assessment_period_ends": "6 May 2024",
+            "contact_name": "",
+            "contact_email": "nathan.stam@unimelb.edu.au"
+        }
+    ]
+}

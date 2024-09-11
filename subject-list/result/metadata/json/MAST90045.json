@@ -1,0 +1,68 @@
+{
+    "overview": [
+        "<p>Modern science and business makes extensive use of computers for simulation, because complex real-world systems often cannot be analysed exactly, but can be simulated. Using simulation we can perform virtual experiments with the system, to see how it responds when we change parameters, which thus allows us to optimise its performance. We use the language R, which is one of the most popular modern languages for data analysis.</p>"
+    ],
+    "ilo": [
+        "Program in R;",
+        "Develop and analyse simulations of deterministic and stochastic processes, with an emphasis on those arising in business and management settings; and",
+        "Apply local optimisation techniques."
+    ],
+    "generic_skills": [
+        "Problem-solving skills (especially through tutorial exercises and assignments), including engaging with unfamiliar problems and identifying relevant strategies;",
+        "Analytical skills, in particular the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency an analysis."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 21 pages of written assignments (three assignments worth 17% each)",
+            "bullets": [
+                "21 pages"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "51%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "49%"
+        }
+    ],
+    "date_times": []
+}

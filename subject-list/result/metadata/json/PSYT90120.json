@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>This subject introduces students in the third year of the Master of Youth Mental Health to the essential elements of the research process. The subject commences with learning content on the principles of practice-based research, as well as the ethical and legal issues of working with young people in a clinical research setting. The subject then progresses to the development of targeted research questions, the identification of appropriate research designs and methods, the interpretation of data and statistical analyses, and different types of research design.</p>",
+        "<p>This subject will allow students to build on their existing knowledge and experience in youth mental health to formulate a research question, write a literature review, and draft a research proposal on a youth mental health topic of their choice. Students who are interested in carrying out their proposed research project will need to achieve a minimum H2A (75%) grade in order to progress to the elective, <a href=\"#\">PSYT90109</a> Youth Mental Health Research Project elective in Semester 2. Note that successful completion of PSYT90109 will equip students with a viable pathway to pursue a PhD in the youth mental health field.</p>"
+    ],
+    "ilo": [
+        "Identify and interpret the principles and methods of practice-based research",
+        "Explain the principles of evidence-based practice",
+        "Design studies to address different research questions",
+        "Identify and interpret qualitative and quantitative methods of practice-based research",
+        "Identify and manage confidentiality and human ethical issues",
+        "Produce a research proposal tailored to the student's own professional practice",
+        "Critically review and analyse relevant literature in a selected area of youth mental health",
+        "Prepare an evidence-based rationale for a research proposal",
+        "Explain the use of appropriate methods of investigation to answer a research question",
+        "Complete a comprehensive literature review"
+    ],
+    "generic_skills": [
+        "Independent research skills",
+        "Critical and analytical thinking skills",
+        "Oral and written communication skills",
+        "Problem-solving skills",
+        "Ability to find, evaluate and use relevant information",
+        "Capacity for logical and independent thought",
+        "Planning and time management skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYT90101",
+                        "Name": "Early Intervention in Mental Health",
+                        "Teaching period": "April (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYT90100",
+                        "Name": "Mental Ill-health in Young People 2",
+                        "Teaching period": "February (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYT90102",
+                        "Name": "Psychosocial Interventions with Youth",
+                        "Teaching period": "July (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple Choice Quizzes (Fortnightly)\n\n6 in total",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Literature Review",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Oral Presentation, with written summary of approx. 750 words (Research Proposal)",
+            "bullets": [
+                "15-20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Peer Review of Oral Presentation",
+            "bullets": [
+                "750-1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Research Proposal",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended) - Online",
+            "principal_coordinator": "Caitlin McDowell",
+            "mode_of_delivery": "Online",
+            "contact_hours": "Online equivalent to 40 contact hours is made up of 20 hours of lectures and live consultation sessions, and 20 hours of asynchronous discussions and structured online tasks.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "23 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

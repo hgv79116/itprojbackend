@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>A capacity to interpret data is fundamental to making informed decisions in everyday life. The design of experiments, analysis, and interpretation of biological data also lie at the very heart of the scientific enterprise. You cannot be a scientist without an understanding of data and design. This subject introduces you to fundamental concepts in data science for biology, with emphasis on modern statistical methods. Drawing on real biological problems and datasets, as well as drawing on data collected by the class, the lectures cover foundational concepts in experimental design and statistical modelling. The subject emphasises hands-on problem solving. As well as a solid grounding in statistical methodology, you will also develop practical skills, developing your capacity to design experiments, collect data, and analyse those data using the R statistical environment.</p>"
+    ],
+    "ilo": [
+        "Evaluate importance of careful design and analysis in scientific enterprise;",
+        "Design biological experiments in a variety of contexts such as laboratory cell studies, greenhouse experiments, and ecological field studies, build statistical models, and sample real biological populations;",
+        "Formulate an approach to problems entailing the collection and analysis of biological data;",
+        "Recognise and manipulate common data types and models in biology;",
+        "Desribe fundamental statistical concepts including exploratory data analysis; basic principles of statistical inference; linear models, likelihood-based methods and re-sampling techniques"
+    ],
+    "generic_skills": [
+        "solve practical data analysis problems faced by biologists",
+        "design experiments and critically evaluate observations",
+        "evaluate and interpret real data"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "6 online tests, held fortnightly",
+            "bullets": [
+                "45 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "3 x 400 word assignments, due at regular intervals throughout semester*",
+            "bullets": [
+                "1200 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Weekly online review quizzes (of which only 10 need to be completed)",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Paul Fijn",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour online lectures per week, 1 x one hour interactive lecture per week, 1 x one hour tutorial per week, 1 x one hour computer laboratory class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mast20031-info@unimelb.edu.au"
+        }
+    ]
+}

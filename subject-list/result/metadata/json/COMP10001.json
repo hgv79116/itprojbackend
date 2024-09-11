@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Solving problems in areas such as business, biology, physics, chemistry, engineering, humanities, and social sciences often requires manipulating, analysing, and visualising data through computer programming. This subject teaches students with little or no background in computer programming how to design and write basic programs using a high-level procedural programming language, and to solve simple problems using these skills.</p>",
+        "<p>This subject is the first subject in the Computing &amp; Software Systems and the Informatics majors, and introduces students to programming and the basics of algorithmic thinking.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving, testing and debugging; introduction to the Web, multimedia and visualisation.</p>",
+        "<p>Examples of projects that students complete are:</p>",
+        "<ul><li>A text analytics \u201clibrary\u201d consisting of a series of independent functions to calculate/extract different things given a document/document collection as input</li><li>A video recommender system, broken down into a series of functions</li><li>An AI player for an online card game, designed such that students play off against each other (and against the class) at the end of semester</li></ul>",
+        "<p>Please view this video for further information: <a href=\"https://youtu.be/Hyy67DfHsCM\">Foundations of Computing</a></p>"
+    ],
+    "ilo": [
+        "Use the fundamental programming constructs (sequence, alternation, selection)",
+        "Use the fundamental data structures (arrays, records, lists, associative arrays)",
+        "Use abstraction constructs such as functions",
+        "Understand and employ some basic program structures",
+        "Understand and employ some basic algorithmic problem-solving techniques",
+        "Read, write, and debug simple, small programs"
+    ],
+    "generic_skills": [
+        "An ability to apply knowledge of basic science and engineering fundamentals",
+        "An ability to undertake problem identification, formulation and solution",
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The capacity for critical and independent thought and reflection",
+        "An expectation of the need to undertake lifelong learning, and the capacity to do so"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "INFO10001 Informatics 1: Practical Computing (prior to 2011)"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One 2-hour end-of-semester examination,  due during examination period.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": " And 30/60 for the mid-semester test and end-of-semester written examination combined.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A two-stage project, requiring approximately 30 - 35 hours of work, with stages due in approximately weeks 7 and 12 (15% each project stage).",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One 1-hour mid-semester test.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Workshop assignments that demonstrate programming competency, due weekly, requiring 10 - 13 hours of work per student.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": "50% overall, 20/40 for the project and assignment work.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Ekaterina Vylomova",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "45 hours, comprising three 2-hour lectures (1-hour live lecture, 1-hour pre-recorded material) and three 1-hour tutorials per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "16 January 2024 to 16 February 2024",
+            "last_self_enrol_date": "22 January 2024",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "9 February 2024",
+            "assessment_period_ends": "19 February 2024",
+            "contact_name": null,
+            "contact_email": "ekaterina.vylomova@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Chris Ewin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours, comprising three 1-hour lectures and one 2-hour workshop (1-hour tutorial followed by 1-hour computer lab) per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "comp10001-semester1@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Shaanan Cohney",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours, comprising three 1-hour lectures and one 2-hour workshop (1-hour tutorial followed by 1-hour computer lab) per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Shaanan Cohney",
+            "contact_email": "comp10001-semester2@unimelb.edu.au"
+        }
+    ]
+}

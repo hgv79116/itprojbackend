@@ -1,0 +1,168 @@
+{
+    "overview": [
+        "<p>This capstone subject provides students with a research opportunity that allows investigation of a problem, intervention or issue related to the field. The project is run by a student-led team and is supported by a teaching staff member. Students will develop a research proposal and data analysis plan, write a narrative literature review and perform data collection and analysis of the data/outcomes of the project. Outcomes and findings of the project are presented by students in both written and oral formats. </p>"
+    ],
+    "ilo": [
+        "Apply knowledge and skills of audiological practices  to investigate a problem, issue or intervention related to the field.",
+        "Critically analyse relevant and current literature to inform and justify the project's aims and approach.",
+        "Analyse and synthesise a range of conceptual and empirical materials to draw defensible conclusions.",
+        "Demonstrate teamwork, project planning/management and leadership skills to investigate a problem, issue or intervention related to the field.",
+        "Articulate outcomes of the problem, issue or intervention in a scholarly manner in both oral and written format."
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90053",
+                        "Name": "Audiology Practice A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90054",
+                        "Name": "Audiology Practice B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90055",
+                        "Name": "Professionalism and Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90056",
+                        "Name": "Professionalism and Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90058",
+                        "Name": "Sound and Innovative Solutions B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90060",
+                        "Name": "Evidence-Based Practice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90061",
+                        "Name": "Complex Audiological Cases",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AUDI90064",
+                        "Name": "Transition to Practice",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AUDI90062",
+                        "Name": "Advanced Solutions in Hearing Care",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assessment: Project outline",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Early Semester 1",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "Review must achieve a pass mark",
+            "timing": "End of semester 1",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group Assessment: Data analysis plan",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Early Semester 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Manuscript",
+            "bullets": [
+                "5000 words (equivalent)"
+            ],
+            "hurdle": "Student must achieve pass mark for manuscript",
+            "timing": "End of Semester 2",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Group contribution",
+            "bullets": [
+                "200 words"
+            ],
+            "hurdle": null,
+            "timing": "End of Semester 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "3 minutes"
+            ],
+            "hurdle": "Oral presentation must be passed",
+            "timing": "End of semester 2",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": []
+}

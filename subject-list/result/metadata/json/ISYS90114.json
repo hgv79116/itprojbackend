@@ -1,0 +1,66 @@
+{
+    "overview": [
+        "<p>Refer to: Information Systems Res Project Pt 1</p>"
+    ],
+    "generic_skills": [
+        "Refer to: Information Systems Res Project Pt 1"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90113",
+                        "Name": "Information Systems Res Project Pt 1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional detailsRefer to: Information Systems Res Project Pt 1 "
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": "Abel Armas Cervantes",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "2 January 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": "Abel Armas Cervantes",
+            "contact_email": "abel.armas@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": "Abel Armas Cervantes",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "1 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": "Abel Armas Cervantes",
+            "contact_email": "abel.armas@unimelb.edu.au"
+        }
+    ]
+}

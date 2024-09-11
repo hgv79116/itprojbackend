@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>This subject progresses from Music Theatre Studio 1 to deepen the knowledge of the core disciplines of acting, singing and dancing. Students will identify through skills-based performances and reflection, students will further develop their knowledge of acting, singing, and dancing.</p>"
+    ],
+    "ilo": [
+        "identify appropriate technical skills to demonstrate an interpretation of a stimulus;",
+        "demonstrate skills in multiple dance genres and styles within the context of technical execution and in choreography;",
+        "model independence in the ability to musically harmonise, phrase and blend within an ensemble singing context;",
+        "develop techniques in combining acting and singing skills;",
+        "demonstrate a series of creative responses, interpreting stimulus that accurately serves story within an individual and ensemble context;",
+        "reflect on acting, singing and dancing skills at an intermediate level."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUST10013",
+                        "Name": "Music Theatre Contextual Studies 1",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUST10014",
+                        "Name": "Music Theatre Studio 1",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "MUST10005 Dance Skills 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "MUST10006 Acting Skills 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "MUST10007 Voice Skills 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "MUST10008 Music Theatre Combination Class 1"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Technical Skills Presentation (Acting, MT Dance Technique), accumulative 15-25 minutes solo and group presentation, requiring approximately 40 hours of work to complete",
+            "bullets": [
+                "15-25 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Skills Presentation (Movement, Spoken Voice), accumulative 15-25 minutes solo and group presentation requiring approximately 40 hours of work to complete",
+            "bullets": [
+                "15-25 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Formal Skills Presentation (Acting The Song, Production, One to One Singing, MT Dance Choreography) accumulative 30-40 minutes solo and group presentation requiring approximately 80 hours of work to complete",
+            "bullets": [
+                "30-40 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Reflection report",
+            "bullets": [
+                "1600 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "261 hours, comprising 6.25 hours of Singing (one 45-minute Individual Lesson; one 1.5-hour Large Ensemble class; one 2-hour Acting through Song class; one 2-hour Spoken Voice class), 8 hours of Acting (two 2-hour Acting classes; one 2-hour Movement class;  one 2-hour Text Study class), and 7.5 hours of Dance (two 1.5-hour Ballet classes; two 1.5-hour Jazz classes; one 1.5-hour Production class) per week for 12 weeks.",
+            "total_time_commitment": "408 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "peter.rutherford@unimelb.edu.au"
+        }
+    ]
+}

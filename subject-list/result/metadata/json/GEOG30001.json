@@ -1,0 +1,142 @@
+{
+    "overview": [
+        "<p>The subject is designed to develop students\u2019 understanding of the physical processes of coasts and rivers, and how these processes interact, over time, to shape catchments and landscapes. A focus is on processes of erosion and deposition that occur as we follow the movement of water and sediment from hillsides, down rivers, through estuaries, to meet wave and tidal processes at the coast. A theme of the subject is the impact of humans on these geomorphic systems, and how these impacts can be predicted and managed. The subject will address major questions and challenges that are facing the management and research communities alike. These challenges include the impact of past and present management activities on both the fluvial and coastal processes. Furthermore, the impact of a changing climate on the rates and types of processes occurring in these dynamic environments will be addressed both from a holistic catchment perspective and at the individual landform scale. Management of coasts and rivers is a growing area of employment. </p>",
+        "<p>Using practicals and field-trips, students will develop their empirical and analytical skills including the use of ArcGIS (spatial mapping and geomorphic analysis), stratigraphic logging and interpretation, and topographic surveying. This subject includes a 3-day field trip to the Otways Ranges in western Victoria, occurring over a weekend during semester, where students will collect and interpret field data from coasts and rivers. </p>"
+    ],
+    "ilo": [
+        "Identify coastal and fluvial landforms and the processes that drive their evolution and present-day morphology",
+        "Recognise fundamental similarities and differences in sediment transport principles",
+        "Identify how humans can modify the physical processes of these features",
+        "Recognise the importance of using geomorphic principles to ensure effective management of coasts and rivers",
+        "Apply skills in GIS, data analysis, and field investigations."
+    ],
+    "generic_skills": [
+        "Critically evaluate and synthesise literature and information",
+        "Write succinctly and accurately",
+        "Conduct library based research",
+        "Apply knowledge (about given examples) to new cases",
+        "Work independently to solve problems",
+        "Competence in writing consulting reports and journal articles"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsGEOG20002Landscapes and Environmental ChangeSemester 1 (On Campus - Parkville)12.5GEOG30023Global Climate Change in ContextFebruary (On Campus - Parkville)12.5EVSC20008Earth's Surface ProcessesJuly (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOG20002",
+                        "Name": "Landscapes and Environmental Change",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOG30023",
+                        "Name": "Global Climate Change in Context",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC20008",
+                        "Name": "Earth's Surface Processes",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "GEOL20004 Earth's Surface Processes"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsGEOG30022Riverine Landscapes: Hydrology & EcologyNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOG30022",
+                        "Name": "Riverine Landscapes: Hydrology & Ecology",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "25 credit points ofLevel 2 Geography or Earth Sciences subjects (or equivalent as approved by the subject coordinator)"
+            },
+            {
+                "type": "paragraph",
+                "content": "GEOG20002 is strongly recommended."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Laboratory work and worksheets",
+            "bullets": null,
+            "hurdle": "It is a hurdle requirement that students submit 80% of the laboratory work, attend 80% of the laboratories and attend the virtual field trip to be eligible to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Research assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "It is a hurdle requirement that students submit the research assignment to be eligible to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final exam",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x 1-hour (or 1 x 2-hour) lectures per week, 1 x 3-hour practical per week, and a 3-day fieldtrip (occurring over a weekend (Fri-Sun) between weeks 6 - 9 of semester)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "baum.m@unimelb.edu.au"
+        }
+    ]
+}

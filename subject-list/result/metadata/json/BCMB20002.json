@@ -1,0 +1,244 @@
+{
+    "overview": [
+        "<p>This subject is an introduction to the field of Biochemistry and Molecular Biology, building on 1st year chemical principles relating molecular structure to biological function. The content includes a detailed introduction to the structure of biological building blocks (amino acids, nucleic acids, carbohydrates and lipids). The subject covers the structure and function of proteins, including the properties of enzymes, their regulation and kinetic behaviour. How nucleic acids replicate information, are maintained and repaired and serve as a template for the synthesis of RNAs and proteins (i.e. molecular biology) is addressed. The structure of lipids is examined to show their major biological roles, particularly as components of cell membranes. Metabolic pathways (glycolysis, gluconeogenesis, glycogen metabolism, TCA cycle and oxidative phosphorylation) will complete this core coverage of essential biochemistry. The subject is a prerequisite for lecture-based level-3 subjects in the Biochemistry and Molecular Biology. The subject is designed to stand alone, but it complements the laboratory experiences in the subject BCMB20005 \u201cTechniques in Molecular Science\u201d, Each of these level-2 subjects can be taken independently, concurrently or in either order.</p>"
+    ],
+    "ilo": [
+        "Explain the covalent, non-covalent and thermodynamic contributions to the structure and function of biomolecules (proteins, nucleic acids, lipids & carbohydrates).",
+        "Generate and interpret pictorial representations of biomolecules.",
+        "Apply mathematical models to analyse the function of biomolecules (e.g. chemical equilibria, ligand binding, enzyme kinetics and hydropathy index).",
+        "Analyse nucleic acid and amino acid sequences to predict structural properties and evolutionary relationships.",
+        "Discuss the molecular basis of chromosome structure, heredity, gene transcription and translation, DNA repair and cell cycle.",
+        "Describe how extracellular signals are transmitted across membranes and become amplified in the cell",
+        "Describe how lipid and protein composition affect the structural and functional properties of biological membranes.",
+        "Explain how the linkage of monosaccharides gives rise to the structural and functional diversity of oligosaccharides and polysaccharides",
+        "Compare and contrast cellular energy metabolism under anaerobic and aerobic conditions.",
+        "Predict the changes in flow of metabolites in response to hormonal regulation and gene mutations."
+    ],
+    "generic_skills": [
+        "think critically and organise and expand knowledge from consideration of the lecture material;",
+        "learn to adopt new ideas from participation in the lecture and tutorial programs; and",
+        "plan effective work schedules and grow more confident in the synthesis of knowledge."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10002Biomolecules and CellsSemester 1 (On Campus - Parkville)12.5BIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10004:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Biology of Cells and Organisms"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10005:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Genetics & The Evolution of Life"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEM10003Chemistry 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5CHEM10004Chemistry 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10006Chemistry for BiomedicineSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10009Chemistry for BioSciencesNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10004",
+                        "Name": "Chemistry 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10009",
+                        "Name": "Chemistry for BioSciences",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Candidates who have taken chemistry subjects at other universities may be accepted for BCMB20002 if their studies are equivalent to a full first year of chemistry with basic organic chemistry well covered. Contact the coordinator to ask for a waiver of the prerequisites (include previous chemistry subject details, the institution, the year(s) of study and the grades achieved)."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "Bachelor of Biomedicine students taking the below subject are excluded from this subject:"
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOM20001"
+            },
+            {
+                "type": "paragraph",
+                "content": "Passing BCMB20002 Biochemistry and Molecular Biology precludes subsequent credit for AGRI20043 Biochemistry in Agricultural Systems."
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBCMB20005Techniques in Molecular ScienceSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20005",
+                        "Name": "Techniques in Molecular Science",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "or equivalent is strongly recommended."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid Semester Test 1",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Mid Semester Test 2",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Weekly quiz and written assessments.",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Terry Mulhern",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x 1 hour online lectures, and one x 1 hour face-to-face tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Terry Mulhern",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x 1 hour online lectures, and one x 1 hour face-to-face tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

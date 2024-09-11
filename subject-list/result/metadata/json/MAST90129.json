@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p>This subject introduces the fundamental mathematical models used to study infectious diseases at both the epidemiological and within-host scale. The emphasis is on: 1) how models are developed, from conceptualisation through to implementation in software; and 2) how to apply models to questions of epidemiological, public health and biological importance. Statistical techniques for the model-based analysis of relevant data resources will be introduced.</p>",
+        "<ul><li>Epidemiology: epidemic/endemic behaviour and intervention strategies to reduce transmission, the SIR model, including demography, threshold behaviour, phase-plane analysis;</li><li>Viral dynamics: host-pathogen interactions, the mediating influences of immunomodulatory agents and antimicrobials, the TIV model, including the immune response, pharmacokinetic-pharmacodynamic models;</li><li>Model sensitivity and uncertainty analysis, scenario analysis, parameter estimation, model comparison</li></ul>"
+    ],
+    "ilo": [
+        "Appreciate the nature and purpose of infectious diseases modelling in the epidemiological and biological contexts",
+        "Be able to apply analytical approaches to the study of infectious diseases problems",
+        "Be able to develop, implement and analyse (numerically) models in software",
+        "Understand and be able to apply principles of Bayesian statistical inference to infectious diseases problems",
+        "Understand how to interpret and evaluate models of infectious diseases in a variety of contexts"
+    ],
+    "generic_skills": [
+        "In addition to learning specific skills that will assist students in their future careers in science, they will have the opportunity to develop generic skills that will assist them in any future career path. In particular:\n\n- modelling skills: the ability to abstract and generalise from observations of a complex system, providing an alternative perspective on the problem\n\n- numerical and computer simulation skills: the ability to design computer programs to solve models and test hypotheses\n\n- time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30032",
+                        "Name": "Biological Modelling and Simulation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30028",
+                        "Name": "Numerical Methods & Scientific Computing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST30030Applied Mathematical ModellingSemester 1 (On Campus - Parkville)12.5MAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5MAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5PHYC20014Theoretical Physics 2Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30030",
+                        "Name": "Applied Mathematical Modelling",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20014",
+                        "Name": "Theoretical Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short answer test (in class)",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Computer laboratory assessment",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

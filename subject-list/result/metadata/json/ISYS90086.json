@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Data warehouses are designed to provide organisations with an integrated set of high quality data to support decision-makers. They should support flexible and multi-dimensional retrieval and analysis of data. Topics covered include data warehousing and decision-making, data warehouse design, data warehouse implementation, data sourcing and data quality, on-line analytical processing (OLAP) and data mining, customer relationship management systems, and case studies of data warehousing practice. This subject is part of the Business Analytics stream within the Master of Information Systems.</p>",
+        "<p>Students who have a weighted average mark of at least 75% in the Master of Information Systems have the option to complete the on-line Advanced Elective ISYS90094 Business Analysis and Decision Making instead of ISYS90086 Data Warehousing.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>This subject introduces the compelling need for data warehousing, data warehouse architectures, decision making, data warehouse design, data warehouse modelling, data quality, data warehouse implementation - including the Extract Transform Load (ETL) process, and data warehouse use in supporting decision making \u2013 including decision making tools and OLAP. Readings are provided for all topics that introduce real world cases on data warehousing and related areas and include the use of data warehousing for competitive advantage, success and failure stories in Data Warehousing.</p>"
+    ],
+    "ilo": [
+        "Describe the scope and application of data warehousing in organisations",
+        "Evaluate the appropriateness of data warehousing initiatives in organisations",
+        "Design data warehouse solutions",
+        "Explain and illustrate the intricacies of the data integration problem",
+        "Communicate the role of data warehousing in organisations",
+        "Understand the issues around data quality, privacy and metadata and how these issues affect data warehousing initiatives"
+    ],
+    "generic_skills": [
+        "Students should develop skills in literature search and analysis, critical thinking and independent learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO90002",
+                        "Name": "Database Systems & Information Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90094",
+                        "Name": "Business Analytics and Decision Making",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Part A: A data warehouse design case study paper (25%) of approximately 5000 words requiring approximately 32-37 hours of work per student. Due after the 4th day of teaching (equivalent week 9). Intended Learning Outcomes (ILO's) 1, 2, 3 and 5 are addressed in this part of the assessment.",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the marks available in the non-examination based assessment.\n\n\n\n",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Part B: A report (25%) of approximately 4000 words requiring approximately 32-37 hours of work per student. Due after the 6th day of teaching (equivalent week 12). ILO's 3, 4, 5 and 6 are addressed in this part of the assessment.",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the marks available in the non-examination based assessment.\n\n\n\n",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One written 2 hour closed book end of semester examination (50%). ILO's 1 to 6 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the marks available in the examination.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

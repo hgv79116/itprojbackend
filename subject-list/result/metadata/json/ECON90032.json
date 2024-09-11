@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>The subject covers issues relating to the labour market (employment and unemployment), the product market (consumption, saving and investment) and the markets for finance and foreign exchange. It covers the role of government economic policy as well as issues such as inflation and the balance of payments.</p>"
+    ],
+    "ilo": [
+        "Synthesise the Classical and Keynesian divide within macroeconomic theory and policy;",
+        "Identify and classify the constituent parts of a countrys Balance of Payments and explain the factors that may influence these components;",
+        "Explain both the causes and consequences of movement in a countrys exchange rate;",
+        "Explain both the causes and consequences of inflation and evaluate the policy options available to governments;",
+        "Explain both the causes and consequences of unemployment and evaluate the policy options available to governments;",
+        "Identify and explain key aspects of both monetary and budgetary policy;",
+        "Access and interpret a wide range of economic statistics."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision making",
+        "Accessing economic and other information",
+        "Summary and interpretation of information",
+        "Written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-MGMT Master of Management",
+                    "MC-MGMTACT Master of Management (Accounting)",
+                    "MC-MGMTAFN Master of Management (Accounting and Finance)",
+                    "MC-MGMTFIN Master of Management (Finance)",
+                    "MC-MGMTHRE Master of Management (Human Resources)",
+                    "MC-MGMTMKT Master of Management (Marketing)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into programs offered by the Graduate School of Humanities and Social Sciences."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON10003",
+                        "Name": "Introductory Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject is not available to students enrolled in MC-ECO Master of Economics."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Multiple choice test",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour recorded lecture, 1-hour live online tutorial.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

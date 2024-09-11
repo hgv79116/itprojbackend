@@ -1,0 +1,95 @@
+{
+    "overview": [],
+    "ilo": [
+        "ILO 1. Demonstrate knowledge and skills to evaluate an infrastructure project with regard to its environmental, economic, and social sustainability, alongside its engineering performance",
+        "ILO 2.  Use different sustainability assessment frameworks, apply a set of multi-attribute assessment methods, and critically interpret results for decision making on engineering projects",
+        "ILO 3. Synthesise complex information and concepts to understand the relationships between infrastructure and its broader societal context, including public policy, ethics, equity, and stakeholder interests",
+        "ILO 4. Communicate in technical reports and oral presentations."
+    ],
+    "generic_skills": [
+        "Critical thinking and analytic skills",
+        "Effective oral and written communication skills",
+        "Working in teams, assuming a complementary role, and contributing to joint outcomes",
+        "Understanding of professional and ethical responsibilities, and commitment to them"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CVEN90043 - Sustainable Infrastructure Engineering"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual written report forming the first step of a semester-long class project (20%). 20 hours of work (20 hours for a report equivalent of 1000 words) per student. Due in Week 3. ILOs 1,2,3,4",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Case study or assigned task reports.\n\n12 hours (for a contribution equivalent of 500 words) of work per student. Due in week 4 to  week 6. \n\nAddressing  Intended  Learning Outcomes (ILO)'s, 1,2, 3& 4",
+            "bullets": [
+                "12 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual written report forming the second step of a semester-long class project (20%). 20 hours of work (20 hours for a report equivalent of 1000 words) per student. Due in Week 7. ILOs 1,2,3,4",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group report as a second step of a semester-long class project (20%). 20 hours of work (20 hours for a report contribution equivalent of 1000 words) per student. Due in Week 12. ILOs 1,2,3,4",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One 2-hour open book written examination in the exam period.\n\nAddressing ILO's 1,2 & 3.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 2 hours per week; Workshops: 2 hours per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Stephan Matthai",
+            "contact_email": "stephan.matthai@unimelb.edu.au"
+        }
+    ]
+}

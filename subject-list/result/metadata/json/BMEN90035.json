@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>This subject teaches the fundamentals of signal processing in a biomedical engineering context. Students will be introduced to digital sampling of analog signals, frequency domain analysis, design of digital filters, parameter estimation techniques and Wiener and Kalman filtering. The subject includes analysis and design for biomedical engineering applications.</p>"
+    ],
+    "ilo": [
+        "Design and evaluate digital sampling and filtering systems.",
+        "Apply frequency-domain techniques in the analysis and design of signal processing systems.",
+        "Design, implement and analyse algorithms for solving estimation problems.",
+        "Analyse and design software for signal processing systems, focussing on signals relevant to biomedical engineering problems and applications."
+    ],
+    "generic_skills": [
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Understanding of the principles of sustainable design and development",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30006",
+                        "Name": "Circuits and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90052",
+                        "Name": "Advanced Signal Processing",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90058",
+                        "Name": "Signal Processing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Workshop Reports (6 x 4-page reports). Intended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "24 pages"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Mid Semester Test.  Intended Learning Outcomes  (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final Exam. Intended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Examination must be  passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Hamish Meffin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x 1 hour lectures per week for 12 weeks, 1 x 2 hour computer-based workshop per week for 11 weeks",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Hamish Meffin",
+            "contact_email": "hmeffin@unimelb.edu."
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "overview": [
+        "<p>There are over 800 million people in the world who are chronically malnourished, and world hunger is rising. Yet the world already produces enough food to feed 1.5 times the global population. This subject explains the physical and social drivers of hunger, famines, and related crises in social-ecological systems. It proposes theories that explain famines and crises of scarcity, and tests these with evidence and case studies. In this way the subject introduces key issues, concepts, and theories central to geography, development, environmental studies and environmental science. The subject is interdisciplinary, providing students with a broad range of knowledge and analytical tools. Specifically, the subject draws together science and social science, introducing students to multiple disciplinary knowledge and practices.</p>"
+    ],
+    "ilo": [
+        "Identify the causes of hunger and famine",
+        "Explain the relationships between climate and food production",
+        "Identify the extent to which scarcity has contributed to the collapse of civilizations throughout history",
+        "Analyse relations between population, environmental change and food supply",
+        "Explain how solutions to hunger are designed on the basis of particular theories about scarcity",
+        "Have developed skills in empirical and theoretical evaluation of theories of hunger and famine",
+        "Have gained a basic understanding of the discipline of geography and the interdisciplinary field of development studies"
+    ],
+    "generic_skills": [
+        "Thinking critically and analytically",
+        "Testing theories with evidence",
+        "Writing essays that weigh-up evidence concerning complex physical and social phenomena",
+        "Mapping data using ArcGIS"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two short exercises in spatial representation of data about famines and food security (equivalent to 1500 words in total)",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Wolfram Dressler",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two x 1 hour lectures and one x 1 hour tutorial per week. It is a hurdle requirement that students attend 9 out of 12 weeks of tutorials. Attendance will be taken.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "wolfram.dressler@unimelb.edu.au"
+        }
+    ]
+}

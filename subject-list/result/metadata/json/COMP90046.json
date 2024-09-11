@@ -1,0 +1,153 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aims for this subject is for students to develop an understanding of approaches to solving combinatorial optimization problems with computers, and to be able to demonstrate proficiency in modelling and solving programs using a high-level modelling language, and understanding of different solving technologies. The modelling language used is MiniZinc.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>Topics covered will include:</p>",
+        "<ul><li>Modelling with Constraints</li><li>Global constraints</li><li>Multiple Modelling</li><li>Model Debugging</li><li>Scheduling and Packing</li><li>Finite domain constraint solving</li><li>Mixed Integer Programming</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Model a complex constraint problem using a high level modelling language",
+        "Define and explore different search strategies for solving a problem",
+        "Explain how modelling interacts with solving algorithms, and formulate models to take advantage of this using state of the art optimisation tools",
+        "Explain different optimization technologies, and their strengths and weaknesses"
+    ],
+    "generic_skills": [
+        "Undertake problem identification, formulation, and solution",
+        "Utilise a systems approach to complex problems and to design and for operational performance",
+        "Manage information and documentation in solution creation",
+        "Demonstrate improved capacity for creativity and innovation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP90048Declarative ProgrammingSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90048",
+                        "Name": "Declarative Programming",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP20006 Programming the Machine"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Computing specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 4"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CS Master of Computer Science"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "There are five project assignments, requiring approximately 35 \u2013 40 hours in total, due approximately every two weeks",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

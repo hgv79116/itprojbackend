@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>Industries widely apply systems engineering for various projects (e.g., product design, process improvement) to handle the system complexity and to ensure the effectiveness and efficiency through the project life cycle. This subject offers a practical introduction to the system engineering principles in an industrial context. The lectures and project work will expose students to the various stages of the systems engineering process and a range of simulation techniques.</p>",
+        "<p>Topics covered are grouped in four modules: 1) fundamentals of systems engineering; 2) functional analysis and conceptional modelling; 3) model implementation and discrete event simulation; and, 4) model validation and system evaluation. This subject will include a high level of industry engagement. Real world problems and industry projects will be used as learning instrument to provide first hand experience and to reinforce the system thinking as engineers. Industrial speakers are also invited as guest lectures to provide broader examples of engineering projects.</p>",
+        "<p><br/></p>"
+    ],
+    "ilo": [
+        "1. Design an industrial project by using system engineering framework;",
+        "2. Analyse the function requirements and classify system elements/attributes of complex industrial systems;",
+        "3. Develop conceptual models of industrial projects;",
+        "4. Apply a range of simulation and modelling techniques to analyse industrial systems;",
+        "5. Apply commercial package to develop discrete event simulation for process improvement projects;",
+        "6. Apply model verification and validation methods at different system stages;",
+        "7. Evaluate system performance by using simulation models."
+    ],
+    "generic_skills": [
+        "Capacity for independent thought.",
+        "Ability to apply knowledge of engineering science and engineering methods to solve complex problems",
+        "Ability to comprehend complex concepts and effectively communicate this understanding.",
+        "Ability to plan work and to use time effectively.",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual project report, maximum 2000 words. Intended Learning Outcomes (ILOs) 1, 2, 3, 4 and 7 are addressed in this assessment.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 8",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written exam. ILOs 1, 2, 3, 4 and 6 are addressed in the written exam.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group presentation. 20-25 minutes, 5 minutes each for a group of 4-5. ILOs 5, 6 and 7 are addressed in this assessment.",
+            "bullets": [
+                "25 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group report, maximum 4000 words for a group of 4-5. ILOs 1, 2, 3, 5, 6 and 7 are addressed in this assessment.",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 15",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures and 24 hours of workshop/tutorials",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Wen Li",
+            "contact_email": "wen.li3@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p>This subject teaches the fundamental theory, design and operational principles of biomedical instrumentation and measurement systems for the design of electronics for measurement and analysis of physiological parameters of the body and organs. The subject provides theory and practical exposure to understanding the basis of physiological signals and analysing biomedical signals, including hands-on experience in designing and building bioinstrumentation systems that can measure biological signals. Students will be introduced to medical devices, design principles, biomedical signals, biomedical instrumentation circuits and electrical safety and systems. These topics will be complemented by exposure to software tools for electronic circuit simulation and design. The subject is taught in a flipped classroom format and comprises: pre-tutorial reading, tutorials requiring student participation, guided workshops on using biosensors and transducers and individual self-paced project work.</p>"
+    ],
+    "ilo": [
+        "Design and build biomedical instruments that comply with the regulatory standards for medical devices.",
+        "Describe the key considerations for biological signal generation and measurements.",
+        "Design and apply signal conditioning within the context of a biomedical device.",
+        "Describe and apply safety concepts for biomedical instrumentation and clinical implementation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30008",
+                        "Name": "Biosystems Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Completion of prescribed reading, completion of tutorials and workshops. ILOs 1 and 2 are addressed in this assessment. 6 hours of work per week.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual project ePortfolio comprising\n\n1) Design proposal (500 words; weighing 10%; due Week 4) 2) Design History (50 -200 words per week; 20%; due Week 6-12) \n\n3) Results Summary (800 words; weighing 15%; due during Exam Period) \n\nIntended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "2700 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Oral examination (Viva Voce): 15 minutes. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "Students must pass the oral exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sam John",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 1.5-hour of interactive discussion forums for 12 weeks, 1 x 1.5-hour tutorial per week for 10 weeks (Weeks 2-11) and 1 x 2-hour workshop per week for 10 weeks",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Sam John",
+            "contact_email": "sam.john@unimelb.edu.au"
+        }
+    ]
+}

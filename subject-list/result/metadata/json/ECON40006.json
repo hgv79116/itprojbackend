@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>This subject is an introduction to economic design, the interaction of modern economic theory, economic policy and experimental economics. The subject will cover mechanism design, auction theory, contract theory, and the fundamental results on the limits to efficiency in asymmetric information environments. The theory will be illustrated with case studies of recent policy applications of economic design techniques.</p>"
+    ],
+    "ilo": [
+        "Formulate economic problems as they relate to economic design.",
+        "Identify relevant economic theory tools to address the problems.",
+        "Critically evaluate policy prescriptions.",
+        "Suggest alternative economic designs."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: accessing data and other information from a range of sources.",
+        "Some level of development: oral communication; written communication; collaborative learning; team work; synthesis of data and other information; evaluation of data and other information."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON40001Advanced MicroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90028",
+                        "Name": "Economic Design",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester examination. Please see below",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "End-of-semester examination. Please see below",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Assignments. Please see below",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

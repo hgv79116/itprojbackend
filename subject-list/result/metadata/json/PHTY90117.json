@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>This subject aims to develop within the student a clear sense of professional identity and professional standards, the values of collaboration, respect and humility and the importance of their own mental health and well-being throughout their lifelong learning journey. Students will have the opportunity to learn the foundational knowledge, skills and attitudes necessary to becoming a physiotherapist. The focus of the subject will be on preparing students to work with patients in a variety of contexts including as first contact practitioners and as practitioners working within health care teams. The subject will emphasise topics such as professional identity formation, ethical decision making, evidence-based practice, clinical reasoning, collaborative practice, health behaviour change, exercise and physical activity prescription and effective communication. The development of professional knowledge and skills that underpin assessment, diagnosis, education and patient engagement in physiotherapy practice are fundament to this subject as are the fundamental research skills required to practice evidence-based practice. Students learn the core strands of physiotherapy knowledge and practice and how to integrate practice with the health needs of individuals, communities and populations, including how these apply to chronic illness.</p>"
+    ],
+    "ilo": [
+        "Critically reflect on own cultural self, worldviews and cultural and social determinants including the impact of colonisation upon the Indigenous experience of physiotherapy",
+        "Analyse the role of physiotherapy within the Australian and global healthcare contexts and identify the ethical and legal standards of physiotherapy practice and the mechanisms of accountability for patient and therapist safety within the profession.",
+        "Identify and reflect on the internal and external factors that influence your own well-being and learning style to inform development of strategies for self-care and self-regulated learning practice in the physiotherapy learning context.",
+        "Identify key components of culturally safe practice and demonstrate skills and knowledge of cross-cultural communication",
+        "Apply a biopsychosocial model of health to enhance patient-centered care including the ability to develop a therapeutic alliance, demonstrate effective communication skills and strategies to enhance health literacy",
+        "Apply a clinical reasoning framework to apply knowledge of anatomy, pathophysiology, neuroscience, condition specific information and patient-centered care to critically select and justify appropriate assessment tools (across the domains of impairment, activity and participation) in individuals with health conditions across the lifespan",
+        "Analyse human movement across the lifespan and apply knowledge of kinesiology and biomechanics of movement to interpret joint and muscle function and to recognize variations that can contribute to pain or injury.",
+        "Effectively source, critically appraise and interpret (measurement outcome) research studies for the validity of their conclusions to contemporary physiotherapy clinical practice",
+        "Identify the personal and environmental factors that influence a client's health behaviours and motivation to exercise at an appropriate and safe level and to implement strategies to facilitate engagement with exercise programs to achieve optimal health outcomes across the lifespan.",
+        "Select and apply appropriate interventions to facilitate active engagement and health behaviour change for individuals living with or at risk of developing a chronic health condition, including motivational interviewing.",
+        "Integrate prior knowledge, including pathophysiology and psychosocial theory to inform appropriate exercise prescription for individuals, groups and specific populations across the life span and health and impairment continuum."
+    ],
+    "generic_skills": [
+        "the ability to identify and address their own learning needs;",
+        "the ability to give effective feedback to colleagues in order to help them improve their performances;",
+        "Responding constructively to feedback",
+        "Recognising personal, spiritual, cultural or religious beliefs in others",
+        "Accessing new knowledge from all sources, to analyse and interpret it in a critical manner, and to apply it appropriately",
+        "Understanding and respecting the rights of including choice, dignity and privacy",
+        "Identifying and addressing personal learning needs",
+        "Communicating empathy, compassion, honesty, integrity and altruism",
+        "Applying the principles of reflective practice",
+        "Communicating with people from diverse backgrounds including the ability to listen to, respond to, inform and understand others' perspective"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHRM90023",
+                        "Name": "Pharmacology for Physiotherapy A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PHTY90115",
+                        "Name": "Foundation Physiotherapy Sciences A",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "e-Portfolio",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "First half of  semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Midsemester tests x 2 combination MCQs and short answer questions",
+            "bullets": [
+                "60 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Evidence based written video analysis requiring 1500 words and  a 5min video",
+            "bullets": [
+                "2500  words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Objective structured  clinical examination (OSCE) - 9 station OSCE each station 5 minutes inc reading time",
+            "bullets": [
+                "45 minutes (total)"
+            ],
+            "hurdle": "Student must pass overall and must pass three of the five physical assessment (stations 1-6).",
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "458 hours",
+            "teaching_period": "12 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "16 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "14 June 2024",
+            "contact_name": null,
+            "contact_email": "kim.allison@unimelb.edu.au"
+        }
+    ]
+}

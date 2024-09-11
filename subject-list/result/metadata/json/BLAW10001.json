@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to law from a business perspective. This subject is available as a level 1 breadth subject to students in all faculties.</p>",
+        "<p>Topics include:</p>",
+        "<ul><li>The nature and purpose of law;</li><li>how law develops and changes;</li><li>how new law is made;</li><li>how to read and understand legislation and case law;</li><li>how legally binding agreements (contracts) are created and enforced;</li><li>remedies for breach of contract;</li><li>consumer protection law;</li><li>property law;</li><li>liability in tort law for negligence; and</li><li>the law of agency.</li></ul>",
+        "<p>Note 1: Principles of Business Law is a prerequisite for Corporate Law and Taxation Law.</p>",
+        "<p>Note 2: This subject is recommended to students in any faculty and in any year of study who would like to study an introductory law subject.</p>"
+    ],
+    "ilo": [
+        "describe the sources of Australian law;",
+        "find, interpret and apply case-law and legislation;",
+        "explain and apply the principles of contract law in business situations;",
+        "explain and apply the basic principles of liability in tort law;",
+        "explain and apply statutory consumer protection legislation;",
+        "explain and apply the law of agency; and",
+        "understand the basic principles of property law."
+    ],
+    "generic_skills": [
+        "The capacity for close reading and analysis of a range of legal source materials;",
+        "The capacity to solve problems, including through the collection and evaluation of information; and",
+        "The capacity to effectively plan and manage time."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two x 1-hour open-book Canvas quizzes  (10% each)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Open-book exam (multiple choice and short-answer questions)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": "Arlen Duke",
+            "mode_of_delivery": "Online",
+            "contact_hours": "Students do not need to select a set time to access pre-recorded lectures, workshops and consultation sessions.",
+            "total_time_commitment": "136 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "Contact Stop 1"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": "Tanya Josev",
+            "mode_of_delivery": "Online",
+            "contact_hours": "Students do not need to select a set time to access pre-recorded lectures, workshops and consultation sessions.",
+            "total_time_commitment": "136 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "Contact Stop 1"
+        }
+    ]
+}

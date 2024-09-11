@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p>The lecture component of this subject covers the main sources and types of environmental contaminants with a focus on water contaminants and their effect on water quality. Frequently used analytical techniques in environmental and industrial monitoring and analysis, not covered in the prerequisite or other second year level chemistry subjects, will be outlined in the context of achieving desirable environmental outcomes. These include: volumetric analysis; gravimetric analysis; optical techniques (inductively coupled plasma optical emission spectrometry); electroanalytical techniques such as potentiometry (ion-selective electrodes, potentiometric stripping analysis) and voltammetry (polarography, anodic stripping voltammetry); analytical separation techniques (ion chromatography, extraction); and automatic analytical techniques (flow injection analysis).</p>",
+        "<p>The practical component of this subject involves the application of chromatographic (ion chromatography, gas chromatography and high performance liquid chromatography), electroanalytical (potentiometry, polarography and anodic stripping volatmmetry) and optical (atomic absorption spectrometry) analytical techniques to environmental samples.</p>"
+    ],
+    "ilo": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the scientific community and in a manner accessible to the wider community;",
+        "the ability to analyse and solve abstract technical problems;",
+        "the ability to connect and apply the learnt concepts to a broad range of scientific problems beyond the scope of this subject;",
+        "an awareness of advanced technologies;",
+        "the ability to use conceptual models to rationalise observations;",
+        "the ability to think and reason logically."
+    ],
+    "generic_skills": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the scientific community and in a manner accessible to the wider community;",
+        "the ability to analyse and solve abstract technical problems;",
+        "the ability to connect and apply the learnt concepts to a broad range of scientific problems beyond the scope of this subject;",
+        "an awareness of advanced technologies;",
+        "the ability to use conceptual models to rationalise observations;",
+        "the ability to think and reason logically."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEM20011Environmental ChemistrySemester 1 (On Campus - Parkville)12.5CHEM90007Environmental ChemistryNot available in 202412.5CHEM20019Practical Chemistry 2Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM20011",
+                        "Name": "Environmental Chemistry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM90007",
+                        "Name": "Environmental Chemistry",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM20019",
+                        "Name": "Practical Chemistry 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30012",
+                        "Name": "Analytical & Environmental Chemistry",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Ongoing assessment of practical work in the form of short laboratory reports",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A written test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Satisfactory completion of both theory and practical work is necessary to pass the subject",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p><strong>AIMS </strong></p>",
+        "<p>From self-driving cars to automatic processing of medical scans, vision is a key sensory modality for a variety of artificial intelligence tasks. However, extracting meaning from images poses various computational challenges. In this subject, students will learn the basic principles of image formation and computational methods for interpreting images. Students will develop an understanding of the standard frameworks used in computer vision algorithms and their applications in tasks such as object recognition, target detection, and three-dimensional reconstruction. The programming language used is Python.</p>",
+        "<p><strong>INDICATIVE CONTENT </strong></p>",
+        "<p>Topics covered may include:</p>",
+        "<ul><li>Basics of image formation</li><li>Illumination and reflectance models</li><li>Colour spaces</li><li>Feature detectors and descriptors</li><li>Stereo correspondence</li><li>Methods for recovering three-dimensional shape</li><li>Image segmentation</li><li>Categorical and instance-level recognition</li></ul>"
+    ],
+    "ilo": [
+        "Identify basic challenges involved in interpreting image data",
+        "Understand and articulate the mathematical and/or algorithmic basis of common techniques used in computer vision",
+        "Analyse, design, and implement relevant techniques in computer vision to given problems",
+        "Undertake end-to-end research experiments, including evaluation with image datasets, including reporting results",
+        "Communicate technical solutions to computer vision problems"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Ability to communicate effectively with both technical experts and the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30027",
+                        "Name": "Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90049",
+                        "Name": "Introduction to Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three individual programming assignments. Intended Learning Outcomes (ILO's) 3 and 4 are addressed in the individual assignments.",
+            "bullets": [
+                "30-40 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final, open-ended group research project, requiring 40-50 hours of work per student. ILO's 1, 3, 4 and 5 are addressed in the group research project.",
+            "bullets": [
+                "40-50 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final examination. ILO's 1 and 2 are addressed in the final examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Kris Ehinger",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week. Some computer lab classes will require you to bring your own device.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "kris.ehinger@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>The epidemiology of infectious diseases differs from chronic disease - cases may be the source of infection for further cases, immunity is an important factor in disease transmission and control, and there is often the need for urgency in the detection and response to disease.</p>",
+        "<p>This subject introduces students to the strategies used to identify and respond to infectious disease problems. Content is updated weekly to incorporate topical infectious disease events, and emphasis is given to a practical understanding and application of infectious disease epidemiology. Students will learn the basic principles of infectious disease surveillance and response, and will develop the terminology, and written and oral skills for effective reporting. Students will also develop problem-solving skills in scenario-based exercises.</p>"
+    ],
+    "ilo": [
+        "Use key epidemiological characteristics to explain how infectious agents are transmitted and cause disease in human populations.",
+        "Analyse surveillance systems and data to show they are used to understand the epidemiology of an infectious disease.",
+        "Identify and investigate an infectious disease outbreak to explain its cause and transmission.",
+        "Formulate a comprehensive assessment to characterise the epidemiology of an infectious disease.",
+        "Design a response to an infectious disease problem and its evaluation."
+    ],
+    "generic_skills": [
+        "Critical thinking and analysis",
+        "Working with others and in teams",
+        "Problem-solving",
+        "Oral communication",
+        "Finding, evaluating and using relevant information",
+        "Written communication",
+        "Decision-making"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three short answer assignments (300 words each), due during the 1st, 2nd, 3rd week of teaching respectively.",
+            "bullets": [
+                "900 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group oral Presentation (15 minutes) (assessed as a group)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual summary of group work",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Major Assignment",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "April",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 April 2024 to 26 May 2024",
+            "last_self_enrol_date": "12 April 2024",
+            "census_date": "19 April 2024",
+            "last_date_to_withdraw_without_fail": "24 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "alicia.arnott@unimelb.edu.au"
+        }
+    ]
+}

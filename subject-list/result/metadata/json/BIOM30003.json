@@ -1,0 +1,182 @@
+{
+    "overview": [
+        "<p>In this subject students participate in an individual program of supervised research within the School of Biomedical Sciences, or elsewhere within the faculty, at a research institute or overseas institution in which the student contributes to the design of a research project, in consultation with a supervisor\u037e conducts the research\u037e and presents the findings of the project. The project may be self contained or form a component of a larger research program. Each student will receive feedback on their progress through ongoing consultation with their supervisor.</p>",
+        "<p>Where a student is conducting the research external to the School of Biomedical Sciences, a School of Biomedical Sciences academic staff member who has allied research expertise co-supervises the project and coordinates the assessment requirements. Detailed assessment requirements, including due dates of individual assessment items, are determined through consultation between the supervisor, the co-supervisor and the Biomedical Science Research Project Coordinator(s) in the relevant department.</p>",
+        "<p>The subject may incur additional costs such as travel and accommodation. Students may be eligible for University funding. Where the host institution is located in the IndoPacific, Australian citizens for whom this subject is part of a full time semester of study may consider applications through the New Colombo Plan scholarship funding.</p>"
+    ],
+    "ilo": [
+        "Locate and synthesise information available in scientific (and in some cases other) literature in order to establish the need for, and potential scope and context of, a research project",
+        "Design a research project to meet particular research outcome(s) or to answer particular research question(s)",
+        "Develop creative ways of solving unfamiliar problems by devising a methodological approach to address the research question being raised",
+        "Collect and analyse data (qualitative and quantitative) including appropriate statistical analyses of the research results",
+        "Communicate the research results in written form, requiring critical analysis, synthesis and organisation of knowledge, and the construction of a rational and lucid scientific argument",
+        "Communicate the research results in another form \u2013 either through an oral presentation or poster presentation",
+        "Manage the time allocated to completing specific tasks",
+        "Depending on the project, students may also find they achieve other outcomes such as learning how to take account of ethical considerations in designing a project."
+    ],
+    "generic_skills": [
+        "locating and synthesising information available in scientific and other literature in order to establish the need and scope of the research project;",
+        "creative problem solving by devising the methodological approaches to address the research question;",
+        "time management;",
+        "collection and analysis of data;",
+        "communication of research results in oral and written form, requiring critical analysis, synthesis and organisation of knowledge and construction of a rational and lucid scientific argument;",
+        "understanding potential ethical issues associated with research"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Excellent results in a discipline appropriate to the project (normally an average of at least 75% in relevant 2nd and 3rd year subjects)"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval of the relevant Department Coordinator."
+            },
+            {
+                "type": "paragraph",
+                "content": "Department specific details are listed in the link below:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Link"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PATH30004",
+                        "Name": "Advanced Investigation of Human Disease",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "written report",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "oral report or poster presentation requiring an equivalent amount of preparation",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "supervisor assessment of research competence, based on student's contributions to project design and completion (5% around mid semester, 5% at the end of semester)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term - On Campus",
+            "principal_coordinator": "Laura Edgington-Mitchell",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor but an overall weekly commitment of 10 hr per week is expected.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "4 December 2023 to 16 February 2024",
+            "last_self_enrol_date": "19 December 2023",
+            "census_date": "5 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Summer Term - Off Campus",
+            "principal_coordinator": "Laura Edgington-Mitchell",
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "Distribution of time betwen specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment for 10 hrs per week is expected.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "4 December 2023 to 16 February 2024",
+            "last_self_enrol_date": "19 December 2023",
+            "census_date": "5 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 1 (Early-Start) - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor but an overall weekly commitment of 10 hr per week is expected.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "5 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "16 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 1 (Early-Start) - Off Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 10hrs is expected.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "5 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "16 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 2 (Early-Start) - Off Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor but an overall weekly commitment of 10 hr per week is expected.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "12 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 2 (Early-Start) - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor but an overall weekly commitment of 10 hr per week is expected.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "12 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

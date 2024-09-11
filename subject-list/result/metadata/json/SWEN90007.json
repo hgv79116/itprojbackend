@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>One of the main challenges in developing enterprise-wide distributed systems is in choosing the right software architectures. In this subject students will study software architectures in depth and the principles, techniques and tools for creating, developing and evaluating software architectures.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics covered in this subject will be drawn from: design styles and architectural patterns; design strategies; domain specific architectures; evaluation of designs; architectural design for non-functional requirements; and modelling architectures.</p>"
+    ],
+    "ilo": [
+        "Analyse large scale and distributed systems and select appropriate architectures for them",
+        "Evaluate architectures both qualitatively and quantitatively",
+        "Make suitable trade-offs between different architectures"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Proficiency in engineering design",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN30006",
+                        "Name": "Software Modelling and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsSWEN90016Software Processes and ManagementSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN90016",
+                        "Name": "Software Processes and Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "SWEN90003 IT Project Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "SWEN90008 Software Processes and Management"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A team-based project throughout the semester with code and reports,\n\nsubmitted in 3 parts. Submission 1 due in week 3 (20%).  Individual moderation will be made on marks based on the contribution that individuals make to the team throughout the project. Intended Learning Outcomes (ILO's)  1, 2 and, 3 are addressed in the project.",
+            "bullets": [
+                "120-130 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (50/100) in the team based project.",
+            "timing": "",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Team-based project - Submission 2",
+            "bullets": null,
+            "hurdle": "To pass the subject, students must obtain at least 50% (50/100) in the team based project",
+            "timing": "Week 7",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Team-based project \u2013 Submission 3, due in\n\nthe first week of the exam period",
+            "bullets": null,
+            "hurdle": "To pass the subject, students must obtain at least 50% (50/100) in the team based project.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Eduardo Araujo Oliveira",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1 hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "eduardo.oliveira@unimelb.edu.au"
+        }
+    ]
+}

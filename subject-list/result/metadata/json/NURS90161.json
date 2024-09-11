@@ -1,0 +1,107 @@
+{
+    "overview": [
+        "<p><span>In this subject, students will clinically apply the theoretical principles from this subject and subjects, Applied Pathophysiology, Foundations of Critical Care Nursing and Critical Care Nursing. Students will demonstrate the ability to undertake and support comprehensive patient assessment, monitoring and evaluation and care planning in specialty nursing practice. Students will learn to incorporate and apply scientific knowledge and evidence-based treatment and nursing interventions to support a patient-centred approach to inform their clinical decision making in practice.</span></p>"
+    ],
+    "ilo": [
+        "Integrate core principles covered in the subject and its pre-requisites, Applied Pathophysiology and Foundations of Critical Care Nursing, to develop practice knowledge that supports comprehensive patient assessment and monitoring",
+        "Apply knowledge and skills to recognise, prioritise and respond to patients experiencing acute alterations to health status",
+        "Evaluate the effect of intensive care nursing interventions in the delivery of safe and competent nursing",
+        "Apply skills in problem-solving, critical thinking, and reflective practice to the delivery of specialist intensive care nursing",
+        "Coordinate safe and timely care of patients with a range of speciality clinical needs"
+    ],
+    "generic_skills": [
+        "A capacity to articulate their knowledge and understanding in oral and written modes of communication",
+        "A capacity to manage competing demands on time, including self-directed project work",
+        "Well-developed problem-solving abilities, characterised by flexibility of approach",
+        "An ability to evaluate and synthesise the research and professional literature",
+        "An appreciation of the ways in which advanced knowledge equips the student to offer leadership"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90076",
+                        "Name": "Applied Pathophysiology",
+                        "Teaching period": "July (Online)January (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsNURS90122Foundations of Critical Care NursingSeptember (Online)April (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90122",
+                        "Name": "Foundations of Critical Care Nursing",
+                        "Teaching period": "September (Online)April (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90150",
+                        "Name": "Intensive Care Nursing Practice",
+                        "Teaching period": "April (Off Campus)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Formative written assessment (Professional Practice Portfolio Part A)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "Students must pass this assessment.",
+            "timing": "First half of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Summative written assessment \n\n(Professional Practice Portfolio Part B)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "Students must pass this assessment.",
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Clinical Skills Assessment x 6 (500 words each)\n\n(Professional Practice Portfolio Part C)",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": "tudents must pass all six clinical skills assessments.",
+            "timing": "Distributed evenly across the study period and due by the end of assessment period",
+            "percentage": "0%"
+        }
+    ],
+    "date_times": []
+}

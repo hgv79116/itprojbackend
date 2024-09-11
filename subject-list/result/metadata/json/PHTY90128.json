@@ -1,0 +1,120 @@
+{
+    "overview": [],
+    "ilo": [
+        "Refer to the Australian Physiotherapy Council's practice thresholds and codes of conduct to reflect on professional knowledge and skills, and to identify and address personal learning needs.",
+        "Demonstrate preparation for transition from student to working as a physiotherapist in a professional practice setting.",
+        "Set early career goals and undertake opportunities that further extend your clinical or professional practice.",
+        "Demonstrate the capacity to be an independent physiotherapist capable of working safely, effectively and efficiently in diverse practice settings.",
+        "Advocate for clients' equitable access to effective health care services that addresses their personal health needs and goals including Aboriginal and Torres Strait Islander clients and colleagues."
+    ],
+    "generic_skills": [
+        "Excellent interpersonal and decision-making skills, clinical reasoning, and critical and creative thinking",
+        "Capability for reflective practice including an awareness of personal and professional strengths and limitations, and responsibility to maintain high quality professional standards",
+        "Capability to participate in collaborative learning, confront unfamiliar problems, initiate and implement constructive change at an individual and community level, including their profession and/or workplace."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHTY90118Physiotherapy Clinical Practice AYear Long (Extended) (On Campus - Parkville)12.5PHTY90119Physiotherapy Clinical Practice BYear Long (Extended) (On Campus - Parkville)12.5PHTY90120Physiotherapy Clinical Practice CYear Long (Extended) (On Campus - Parkville)12.5PHTY90121Lifespan PracticeYear Long (Extended) (On Campus - Parkville)18.75PHTY90125Strength and Conditioning for LifeSeptember (On Campus - Parkville)6.25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90118",
+                        "Name": "Physiotherapy Clinical Practice A",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90119",
+                        "Name": "Physiotherapy Clinical Practice B",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90120",
+                        "Name": "Physiotherapy Clinical Practice C",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90121",
+                        "Name": "Lifespan Practice",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "PHTY90125",
+                        "Name": "Strength and Conditioning for Life",
+                        "Teaching period": "September (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Professional ePortfolio  (Individual)",
+            "bullets": [
+                "5000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of first theory block",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Work Readiness Placement (Individual)",
+            "bullets": [
+                "122 hours"
+            ],
+            "hurdle": "Students are required to achieve a pass in the Australian Physiotherapy Practice (APP) form.",
+            "timing": "Second half of Semester 2",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Future Career Selective Placement (Individual)",
+            "bullets": [
+                "122 hours"
+            ],
+            "hurdle": "This is a Pass/Fail assessment. Students are required to achieve clinical competency as determined by a global rating of 'satisfactory', 'good' or 'excellent' on a Professional Behaviour form. A rating of 'unsatisfactory' constitutes a hurdle fail. ",
+            "timing": "Second half of semester 2",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Infographic (Group of 4)",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures/workshops: 24hrs \n\n\n\nImmersive modules: 40hrs \n\n\n\nClinical placements: 244hrs \n\n\n\n\n\nThe high contact hours in this subject are primarily attributable to the: \n\n\n\n2x four week clinical placements which account for 32 clinical days \n\n\n\n2x immersive modules which assist students prior to undertaking their Future Career Selective placement. Each of these modules is designed to have 20 contact hours to allow the student to fully engage within one specific area of physiotherapy practice. These hours may include field trips, additional laboratory time (e.g. within the anatomy laboratory) or simulated experiences.",
+            "total_time_commitment": "425 hours",
+            "teaching_period": "8 July 2024 to 15 November 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "tandyh@unimelb.edu.au"
+        }
+    ]
+}

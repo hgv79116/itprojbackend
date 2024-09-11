@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>Finance and Accounting Analytics examines how financial statement data, financial market data and non-financial metrics are associated with firm value and performance. The subject will explore how to use statistical modelling to determine the primary drivers of firm value and performance and the evolution of market prices. Topics include: performance analytics, valuation analytics, credit analytics, risk analytics, portfolio analytics and market analytics. The subject will also examine the use of prediction models to detect financial reports and transactions that may have been manipulated by managers.</p>"
+    ],
+    "ilo": [
+        "Use data from financial statements to model and explain the factors driving firm performance.",
+        "Use financial statement data and forecasting techniques to predict future firm performance.",
+        "Apply appropriate data and modelling skills to predict earnings management.",
+        "Use financial statement and other data to explain and predict market prices.",
+        "Examine the role of data in understanding and analysing key financial concepts including value, risk and credit."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; synthesis of data and other information; evaluation of data and other information; use of computer software; accessing data and other information from a range of sources.",
+        "Moderate level of development:  written communication; critical thinking; receptiveness to alternative ideas.",
+        "Some level of development: collaborative learning; team work"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsBUSA90060Data AnalysisJanuary (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)12.5BUSA90093FinanceSeptember (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)12.5BUSA90001Financial AccountingSeptember (On Campus - Parkville)April (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90060",
+                        "Name": "Data Analysis",
+                        "Teaching period": "January (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90093",
+                        "Name": "Finance",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90001",
+                        "Name": "Financial Accounting",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "\u2022The ability to explain and evaluate concepts, theories, and business operations of organisations"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022Ability to use analytic techniques to solve business problems"
+            },
+            {
+                "type": "paragraph",
+                "content": "Melbourne Business School welcomes applications from students with disabilities and takes reasonable steps to implement adjustments to provide equal participation opportunities for students with disability."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual assignment (short answer\n\nquestions)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Syndicate assignment.\n\nEach syndicate includes 5 \u2013 6\n\nsyndicate members and students are\n\nassessed as a group.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "",
+            "timing": "End of term",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

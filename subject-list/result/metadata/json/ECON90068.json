@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p>This subject will emphasise the application of economic theory and empirical methods to the analysis and development of public policy. The subject will consist of modules, with each module to cover a specific policy application. A module will consist of an introduction to a policy issue, an overview of relevant theory and empirical tools, demonstrate application of those tools to address the policy issue, and options for presenting the findings. The orientation this subject will be to applications of microeconomic theory and methods. This might involve, for example, design of environmental policy using auction theory; evaluating whether there is evidence of collusive behaviour by firms in an industry using game theory and econometric methods; design of welfare and tax policies using micro-simulation modelling and other methods; and using benefit-cost analysis to evaluate the net gain to society from active labour market programs. The exact applications taught will vary over time depending on the staff teaching the subject.</p>"
+    ],
+    "ilo": [
+        "Understand the Australian policy environment;",
+        "Identify types of public policy issues where economic methods can assist with analysis and development of policy;",
+        "Formulate a program of research for analysis and development of a public policy issue;",
+        "Choose and apply relevant theory and empirical methods to address a public policy issue;",
+        "Assess the limitations of available economic methods for undertaking research on public policy issues; and",
+        "Identify alternative methods of presenting findings, and strengths and weaknesses of those methods."
+    ],
+    "generic_skills": [
+        "2000 words"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90063",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project 1 (written assessment). Due end of Week 4",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "33.33%"
+        },
+        {
+            "brief": "Project 2 (written assessment). Due end of Week 8",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "33.33%"
+        },
+        {
+            "brief": "Project 3 (written assessment). Due end of Week 12",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "33.33%"
+        }
+    ],
+    "date_times": []
+}

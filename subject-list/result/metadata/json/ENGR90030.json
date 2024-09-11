@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject examines in detail the main forms of non-renewable energy and their uses, including:</p>",
+        "<ul><li>The composition and origin of coal, oil, natural gas and uranium</li><li>The performance of coal, gas, liquid fuel and nuclear power generation</li><li>The performance of power plants featuring steam turbines, gas turbines and reciprocating engines.<br/><br/></li></ul>",
+        "<p> </p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Explain what determines the performance of different energy technologies",
+        "Explain why different non-renewable, primary energies have different economic, social and environmental costs and benefits",
+        "Estimate the potential role of different non-renewable energies and energy technologies in a sustainable energy system."
+    ],
+    "generic_skills": [
+        "60-70 hours (of work required)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90029",
+                        "Name": "Analysing Energy Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90015",
+                        "Name": "Thermodynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN90019",
+                        "Name": "Advanced Thermodynamics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two assignments (25% each) not exceeding 12 pages each, one due mid-semester and the other at the end of semester, each requiring approximately 30-35 hours of work.",
+            "bullets": [
+                "60-70 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "One written examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Mohsen Talei",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "mohsen.talei@unimelb.edu.au"
+        }
+    ]
+}

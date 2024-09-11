@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The goal of the course is to develop familiarity with the requirements and methods of downstream processing, i.e., separation, purification and formulation, in biotechnological applications, particularly for biopharmaceutical production. The course will introduce general principles of downstream processing but most of the semester will be devoted to the treatment of the most important unit operations employed in downstream processing. As is typical for chemical engineering courses, this one will include elements of both analysis and synthesis (i.e., design). Although the modern industry depended extensively on empiricism over much of its first few decades, there is increasing interest in and use of a deeper fundamental understanding of individual unit operations, including use of detailed computer simulations. The emphasis in the course will be on such a fundamental treatment of the various operations that we will encounter and will include use of computational models. References to relevant published research articles will also be provided.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Biological products and impurities. Bioseparations strategies; Analytical methods; Cell lysis. Formation of solids: Flocculation, precipitation; Removal of solids: Centrifugation. Membrane processes: Filtration principles. Modes and of Optimisation  of filtration. Chromatography: Overview and principles, operating modes, applications of chromatography for different biopharmaceutical products; Modelling of chromatographic behaviour; Viral clearance. Crystallisation; Drying; Additional topics in formulation.</p>"
+    ],
+    "ilo": [
+        "Develop a familiarity with the requirements and methods of downstream processing to be able to differentiate the need for separation, purification or formulation operations in biotechnological applications.",
+        "Students will be able to analyse downstream processing or separation requirements to design appropriate unit operations for the specific applications or processes.",
+        "At the end of this subject students will be able to demonstrate the ability to use computational models to evaluate and design various unit operations in downstream processing."
+    ],
+    "generic_skills": [
+        "Capacity for independent thought",
+        "Awareness of advanced technologies in the discipline",
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEN30016Momentum, Mass and Heat TransferSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN30016",
+                        "Name": "Momentum, Mass and Heat Transfer",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEN30005Heat and Mass Transport ProcessesNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN30005",
+                        "Name": "Heat and Mass Transport Processes",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "(Prior to 2023)"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CHEMENG Master of Chemical Engineering, Chemical specialisation (formal) in the MC-ENG Master of Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment comprising regular homework problem sets (2 per week, for 4 weeks = 8 problem sets).",
+            "bullets": [
+                "8-10 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 1-hour mid-semester examination in week 2.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "35%"
+        },
+        {
+            "brief": "A computational project that applies the use of Chromatography Analysis and Design Toolkit (CADET) package.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One 1-hour end-of-semester examination in week 4.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": []
+}

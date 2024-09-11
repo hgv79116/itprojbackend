@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p><em>EDUC90884 Integrating Clinical Practice (Prim)</em> builds on the learning developed in <em>EDUC90885 Introduction to Clinical Practice (Prim)</em>to further explore and consolidate Teacher Candidates\u2019 knowledge and application of assessment, pedagogy and instructional approaches related to clinical practice. It aims to further equip Teacher Candidates with the knowledge and skills necessary to assess student learning at the class and individual levels, and then to justify the selection of strategies appropriate to students\u2019 learning needs.</p>",
+        "<p>Students will become familiar with planning frameworks that promote inclusive classroom and consider pedagogical approaches and strategies designed to meet students\u2019 learning needs. Teacher Candidates will connect and engage with students, developing their knowledge of verbal and non-verbal communication to support student understanding. Teacher Candidates will gain enhanced understandings of assessment techniques that underpin the articulation of learning progressions and methods that provide grounds for making reliable judgements about student learning will support the planning and implementation of inclusive classroom practices. Teacher Candidates will develop methods for collecting and maintaining accurate and reliable data on student achievement and strategies for reporting to students and parents/carers.</p>",
+        "<p>Teacher Candidates will articulate learning progressions using student behaviours; develop methods for making reliable judgements about student learning; analyse student evidence to determine the next steps in learning and to evaluate progress; identify interventions and their associated research; select interventions to match the student and their context; and reflect on the implementation of interventions. The theme of the content presented in this core subject is \u2018making judgements and adjustments\u2019.</p>"
+    ],
+    "ilo": [
+        "Draw on their knowledge of learners and learning as central to making judgements about teaching (Graduate Standards 1.1; 1.2, 3.3)",
+        "Design assessment tools and tasks to collect, display, analyse and interpret reliable assessment data and evidence about individual students and determine next steps for learning.\u00a0(Graduate Standards 2.3, 3.6, 5.1; 5.2; 5.3; 5.4; 5.5)",
+        "Plan for and implement research-informed pedagogical practices to address the individual learning needs of a learner within a group/class context (Graduate Standards 1.3; 1.5; 3.1, 3.2, 4.4)",
+        "Connect and engage with learners through effective communication (Graduate Standards 1.2; 3.5; 4.1)"
+    ],
+    "generic_skills": [
+        "Clinical reasoning and thinking",
+        "Problem solving",
+        "Evidence based decision making",
+        "Creativity and innovation",
+        "Teamwork and professional collaboration",
+        "Learning to learn and metacognition",
+        "Responsiveness to a changing knowledge base",
+        "Reflection for continuous improvement",
+        "Linking theory and practice",
+        "Inquiry and research",
+        "Active and participatory citizenship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90885",
+                        "Name": "Introduction to Clinical Practice (Prim)",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90881",
+                        "Name": "Diverse and Inclusive Classrooms (Prim)",
+                        "Teaching period": "March (Online)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assessment Response Task",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Evidence-Based Teaching and Assessment Plan",
+            "bullets": [
+                "1750 words"
+            ],
+            "hurdle": "This task must be passed to successfully complete the subject",
+            "timing": "Mid semester",
+            "percentage": "70%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Minimum of 80% attendance at all scheduled lectures, tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>This subject investigates the integral role of assessment and reporting for learning and teaching. Participants will develop theoretical and practical understanding of the principles of assessment, focussing on assessment as a tool to promote student achievement and experiential learning, and methods of evaluation that contribute to the ongoing effectiveness of the curriculum and support different learning needs. Topics include assessment approaches across all stages of schooling; developmental assessment frameworks, feedback, assessment practices and processes in the IB PYP, MYP, and DP programmes; and criterion referenced assessment approaches and high-stakes testing.</p>"
+    ],
+    "ilo": [
+        "Demonstrate knowledge and understanding of assessment of student learning and its contribution to the evaluation of the effectiveness of an educational programme;",
+        "Recognise the difference between knowledge, attitudes, skills and understanding and how these constitute challenges and/or opportunities for assessment as a means of supporting teaching and learning;",
+        "Evaluate a range of assessment tools and styles and reporting strategies including rubrics, teacher and school self-evaluation, and the rationale for them in the area of teaching and learning;",
+        "Demonstrate an understanding of formative and summative assessment and the relationship between reporting and feedback and improved student learning;",
+        "Explore different tools and strategies for assessing student learning and supporting the diverse learning needs of students;",
+        "Explore challenges for administering assessment especially within an international context."
+    ],
+    "generic_skills": [
+        "Demonstrate essential knowledge and skills of teachers in relation to effective assessment and reporting;",
+        "Comprehend the intellectual, social and psychological aspects of their work with learners and synthesise theory and practice;",
+        "Understand the key assessment and reporting requirements of the IB Diploma Programme;",
+        "Evaluate and use constructive criticism of their own work and of the institutions/communities in which they teach."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90333",
+                        "Name": "Introduction to the IB",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Critical Reading Task \u2013 Reciprocal teaching model",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Scaffolded assessment framework",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Essay: Applying the IB principles of assessment",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 January 2024 to 24 March 2024",
+            "last_self_enrol_date": "23 January 2024",
+            "census_date": "16 February 2024",
+            "last_date_to_withdraw_without_fail": "8 March 2024",
+            "assessment_period_ends": "31 March 2024",
+            "contact_name": null,
+            "contact_email": "dulfern@unimelb.edu.au"
+        },
+        {
+            "semester": "Term 3 - Online",
+            "principal_coordinator": "Nicky Dulfer",
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 15 September 2024",
+            "last_self_enrol_date": "16 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "22 September 2024",
+            "contact_name": null,
+            "contact_email": "dulfern@unimelb.edu.au"
+        }
+    ]
+}

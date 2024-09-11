@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject explores the chemical transformations in the Earth's atmosphere, which is influenced by both natural processes and human activities. The subject will provide an introduction into the chemistry of the stratosphere and the troposphere to explore some important problems, such as acid rain, ozone depletion, photochemical smog, greenhouse gases and global warming.</p>"
+    ],
+    "ilo": [
+        "Explain the structure of the atmosphere.",
+        "Define important chemical processes in the stratosphere and troposphere.",
+        "Discuss the role of greenhouse gases on global warming.",
+        "Demonstrate an increased knowledge and understanding of chemical science",
+        "Use investigative skills, critical thought and the ability to evaluate information and to analyse experimental data."
+    ],
+    "generic_skills": [
+        "advanced problem-solving and critical thinking skills",
+        "an ability to evaluate the professional literature",
+        "an understanding of the changing knowledge base",
+        "a capacity to apply concepts developed in one area to a different context",
+        "the ability to use conceptual models to rationalize experimental observations"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent subject"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SCICHE Master of Science (Chemistry)",
+                    "MR-IRCHEM Master of Industrial Research (Chemistry)",
+                    "Chemistry informal specialisation in the GDA-SCI Graduate Diploma in Science (Advanced)",
+                    "Chemistry informal specialisation in the BH-SCI Bachelor of Science (Degree with Honours)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "At the 9-lecture mark each subject will be assessed by a written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination after completion of the subject (this is seen as equivalent to 1500 words)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": "Colette Boskovic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total contact hours 18: 12 hours of lectures and 6 hours of tutorials",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 22 March 2024",
+            "last_self_enrol_date": "1 March 2024",
+            "census_date": "8 March 2024",
+            "last_date_to_withdraw_without_fail": "5 April 2024",
+            "assessment_period_ends": "19 April 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

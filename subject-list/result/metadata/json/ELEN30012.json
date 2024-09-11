@@ -1,0 +1,241 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/>The aim of this subject is twofold: firstly, to develop an understanding of the fundamental tools and concepts used in the analysis of signals and the analysis and design of linear time-invariant systems path in continuous\u2013time and discrete-time; secondly, to develop an understanding of their application in a broad range of areas, including electrical networks, telecommunications, signal-processing and automatic control.<br/>The subject formally introduces the fundamental mathematical techniques that underpin the analysis and design of electrical networks, telecommunication systems, signal-processing systems and automatic control systems. Such systems lie at the heart of the electrical engineering technologies that underpin modern society. This subject is one of four Level 3 subjects that define the Electrical Engineering Systems Major in the Bachelor of Science. . It provides the foundation for various subsequent subjects, including ELEN90057 Communication Systems, ELEN90058 Signal Processing and ELEN90055 Control Systems.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong><br/>Topics include:<br/>Signals \u2013 continuously and discretely indexed signals, important signal types, frequency-domain analysis (Fourier, Laplace and Z transforms), nonlinear transformations and harmonics, sampling;<br/>Systems \u2013 viewing differential / difference equations as systems that process signals, the notions of input, output and internal signals, block diagrams (series, parallel and feedback connections), properties of input-output models (causality, delay, stability, gain, shift-invariance, linearity), transient and steady state behaviour;<br/>Linear time-invariant systems \u2013 continuous and discrete impulse response; convolution operation, transfer functions and frequency response, time-domain interpretation of stable and unstable poles and zeros, state-space models (construction from high-order ODEs, canonical forms, state transformations and stability), and the discretisation of models for systems of continuously indexed signals.<br/>This material is complemented by exposure to the use of MATLAB for computation and simulation and examples from diverse areas including electrical engineering, biology, population dynamics and economics.</p>"
+    ],
+    "ilo": [
+        "Apply fundamental mathematical tools to model, analyse and design signals and systems in both time-domain and frequency-domain",
+        "Explain the broad applicability of the mathematics of signals and systems theory, particularly within electrical engineering",
+        "Articulate the similarities and differences between the mathematical tools needed for dealing with continuous-time systems/signals versus their discrete-time counterparts",
+        "Use MATLAB to study the behaviour of signals and systems as they arise in a variety of contexts."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Ability to communicate effectively, with the engineering team and with the community at large;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN20005Foundations of Electrical NetworksSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20005",
+                        "Name": "Foundations of Electrical Networks",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST20026Real AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5MAST20033Real Analysis: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20033",
+                        "Name": "Real Analysis: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Either:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5BMEN20003Applied Computation in BioengineeringSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BMEN20003",
+                        "Name": "Applied Computation in Bioengineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN20001 - Biomechanical Physics & Computation"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ENGR20005Numerical Methods in EngineeringSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR20005",
+                        "Name": "Numerical Methods in Engineering",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: Students pursuing the Electrical Systems major are very strongly encouraged to take COMP20005. BMEN20003 is a suitable alternative to COMP10002, COMP20005 or COMP20007 for students enrolled in the B-SCI or the B-BMED undertaking a major in Biomedical Engineering Systems."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30006",
+                        "Name": "Circuits and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of workshops and assignments, will not exceed 40 pages in total over the semester.  Intended Learning Outcomes (ILOs) 2-4 are addressed in this assessment.",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Progress test 1 and 2 (7.5% each, 15% total). Each test will run 50 minutes. Scheduled approximately weeks 5 and 9. ILOs 1-3 will be addressed in this assessment.",
+            "bullets": [
+                "50 minutes (each)"
+            ],
+            "hurdle": "Students must score above a hurdle pass grade  requirement on the total of progress tests and final exam.",
+            "timing": "From Week 5 to Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final written examination. ILOs 1-3 will be addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must score above a hurdle pass grade requirement on the total of progress tests and final exam. ",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Margreta Kuijper",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 x 1 hour lectures per week) and up to 24 hours of workshops (2 hours workshop per week).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mkuijper@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Chris Manzie",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 x 1 hour lectures per week) and up to 24 hours of workshops (2 hours workshop per week).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "sbalendhran@unimelb.edu.au"
+        }
+    ]
+}

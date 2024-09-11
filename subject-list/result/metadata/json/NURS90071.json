@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>This subject addresses the application of pharmacokinetics and dynamics to clinical practice and introduces students to regulation and governance of prescribing, therapeutic planning across the life span, medication safety and risk and error management. This subject includes practical application of this knowledge in class and clinical practice and includes Integrated Professional Practice (IPP) hours.</p>"
+    ],
+    "ilo": [
+        "Analyse the impact of medication use on population health outcomes with particular regard to the national health priorities, cost benefit ratio, ethics and the principles of quality use of medicines.",
+        "Apply knowledge of basic science, pharmacokinetics and pharmacotherapeutics, best available evidence, and the principles of quality use of medicines to develop safe and effective therapeutic plans that address the consumer/patient's healthcare needs and agreed therapeutic goals.",
+        "Partner with the consumer/patient and their family and collaborate with other healthcare professionals to identify therapeutic goals and a therapeutic plan that integrates best evidence, cost, access and respect for the consumer/patient's values and outcome goals.",
+        "Communicate the therapeutic plan and educate the consumer/patient and, where appropriate their family, and other healthcare professionals regarding safe and effective use of medications.",
+        "Monitor the impact of therapeutic plans on the agreed health outcomes of the individual and adjust plans accordingly and their impact on population outcomes.",
+        "Identify measures employed to ensure safe and appropriate use of medications including drug development, drug trials and medication registration and regulation, medication reconciliation, antibiotic stewardship.",
+        "Demonstrate ability to prescribe medications in accordance with State and Federal regulation, ethical principles, professional standards and competence."
+    ],
+    "generic_skills": [
+        "Capacity to work collaboratively with people from diverse communities to achieve goals",
+        "Respectfully engages with Aboriginal and Torres Strait Islander Australians to understand and incorporate indigenous ways of knowing",
+        "Communicates to effectively gather and share essential information",
+        "Capacity to use technology and online resources to support learning and innovation",
+        "Uses analytic and decision-making skills and system-level thinking to identify and address challenges",
+        "Effective time management skills for planning and completing work to deadline"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHRM90002",
+                        "Name": "Pharmacology for Health Professionals",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 hour written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Completion of 20 hours of Integrated Professional Practice (IPP)",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": "Completion of 20 hours of Integrated Professional Practice (IPP)",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Four medication management plans",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Medication prescribing competency assessment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "Students must pass this assessment to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Snezana Kusljic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hrs contact synchronous time consisting of: 24 hours of synchronous lectures; 8 hours of online content modules; and 4 hours of online case studies.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "skusljic@unimelb.edu.au"
+        }
+    ]
+}

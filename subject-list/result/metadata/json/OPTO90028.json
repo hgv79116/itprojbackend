@@ -1,0 +1,77 @@
+{
+    "overview": [
+        "<p>Note: This subject is only available to students enrolled in the Doctor of Optometry.</p>",
+        "<p>In this subject, students will integrate the optometric knowledge gained during their first three years of study with clinical work in a variety of clinical settings, in a way that will consolidate what they have learned and help them develop and improve the clinical skills necessary to practice optometry and serve patients in a safe and satisfactory way. The variety of clinical settings may include clinical rotations based in the University of Melbourne teaching clinics, public and private metropolitan practices, and hospital clinics. Other possible rotations include overseas placement sites, rural settings and specialist practices. Students will have the opportunity to gain experience in the areas of contact lenses, paediatrics, ocular disease, clinical therapeutic management of disease, low vision and binocular vision clinical areas during the year.</p>"
+    ],
+    "ilo": [
+        "demonstrate clinical competence through critical reflection over a broad range of patient experiences;",
+        "select, perform and interpret appropriate clinical tests as part of a targeted, accurate and timely clinical examination;",
+        "identify and evaluate resources that relate to the ethical, moral and legal foundations of optometric care; and",
+        "articulate how physical, social and cultural background impact a patient's likelihood of developing a vision disorder or disease."
+    ],
+    "generic_skills": [
+        "demonstrate critical thinking and problem-solving skills;",
+        "demonstrate written and oral communication skills;",
+        "demonstrate leadership skills;",
+        "work as part of a team to address a common goal;",
+        "effectively manage time and competing demands;",
+        "independently advance their professional expertise and knowledge in optometry;",
+        "collect and record accurate and complete data; and",
+        "keep up to date with the latest innovations."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "OPTO90026",
+                        "Name": "Clinical Optometry Practice",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "100"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A learning portfolio (see below)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance at clinical placements. Satisfactory performance in OSCEs.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Anthea Cochrane",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "27 hours of clinical practice per week; 22 x 1-hr tutorial / debate sessions (organised across the year). Plus attendance at the Doctor of Optometry Student Conference",
+            "total_time_commitment": "1,632 hours",
+            "teaching_period": "23 January 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 February 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "mjp@unimelb.edu.au"
+        }
+    ]
+}

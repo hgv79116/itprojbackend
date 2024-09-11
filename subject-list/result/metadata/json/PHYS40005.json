@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>The student will conduct an original research project under supervision in the Department of Anatomy and Physiology or an affiliated institute from February to November. The student will be introduced to current literature and techniques in specialised areas. The student will acquire skills in experimental design, critical thinking, interpretation, and assessment of literature. The student will gain skills in communicating their research and complex research ideas in oral presentations and thesis writing. The research project will typically form part of a larger project or the basis of an expanded project. In either case, the work may culminate in a contribution to an original research publication.</p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Apply advanced knowledge in their field of biomedical research.",
+        "Analyse and critically assess scientific literature in the context of their specialised research.",
+        "Design and conduct scientific experiment within their specialised research area, acquire, analyse and evaluate the quality of research data.",
+        "Describe and apply technical skills in advanced, modern biomedical research techniques, and solve complex problems in real-world situations.",
+        "Work effectively independently, and collaboratively under supervision within a research team, to direct and guide their independent learning and research.",
+        "Direct and guide their independent learning and research.",
+        "Clearly and effectively communicate scientific knowledge and information to a range of audience in both written and oral format.",
+        "Identify and follow appropriate risk assessment and ethical conduct."
+    ],
+    "generic_skills": [
+        "Critical analysis and evaluation of complex scientific issues.",
+        "Identification of critical and essential factors from a large body of information from a variety of scientific databases.",
+        "To develop skills in communication of complex scientific ideas and concepts in written and oral form.",
+        "To develop ability to self-directed and independent research.",
+        "To enhance and develop abilities to work effectively in a team environment."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYS90008",
+                        "Name": "Advanced Seminars in Biomedical Sciences",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due around Week 6 to 7 of Semester 1",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation. 5 minutes plus 5 minutes answering questions.",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due middle of Semester 1",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Research thesis",
+            "bullets": [
+                "10,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due late in Semester 2",
+            "percentage": "65%"
+        },
+        {
+            "brief": "Laboratory performance",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation. 10 minutes plus 5 minutes answering questions.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due end of Semester 2",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

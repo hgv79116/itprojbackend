@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>Generative AI has rapidly emerged across society, with much speculation about the opportunities and threats it poses.</p>",
+        "<p>As a technology that fundamentally accepts natural language instruction, has an ability to reason on that language, and provides natural language output, there are parallels with the work performed by legal practitioners\u2014 who receive client instructions, apply legal expertise with the intent to achieve some outcome, and ordinarily provide a written output in the form of a contract, an advice or a submission.</p>",
+        "<p>Advancements in tools that abstract away a lot of the underlying complexity mean that you no longer need to be a \"software developer\" to develop powerful, practical programs. Increasingly the focus is on having the domain expertise and imagination, rather than the technical skill.</p>",
+        "<p>To best make use of the current capabilities of this technology, and to form a view on where it might lead, there is no substitute for lifting the hood and using the core components to build practical outputs. This provides a depth of understanding that cannot be obtained by theoretical study alone.</p>",
+        "<p>Society will require legal practitioners who are able to understand, build, and critique the machinations of programs that use artificial intelligence (in particular, Generative AI). Accordingly, this timely and hands-on subject provides a much-needed set of tools for those engaged with law and technology: it steps through how to build Generative AI based programs for legal solutions, giving students an opportunity to put that learning into practice and become leaders in AI within their chosen career area.<br/><br/></p>",
+        "<p>Principal topics will include:</p>",
+        "<p><strong>Overview of Large Language Models</strong><br/>o What is an LLM? How does it work?<br/>o How can we effectively prompt engineer LLMs?</p>",
+        "<p><strong>Programmatic Access to Large Language Models</strong><br/>o How do software programs interact with LLMs?<br/>o How can we make LLM functionality accessible to legal users?</p>",
+        "<p><strong>Information Architecture</strong><br/>o How do LLMs interact with data?<br/>o What is legal data and how can it be managed?</p>",
+        "<p><strong>Developing Applications</strong><br/>o How do users interact with LLMs \u2013 data in and out?<br/>o How do we build applications that use LLMs?<br/>o How can we understand and design systems that do legal work?</p>",
+        "<p><strong>Measuring and Improving Performance</strong><br/>o What concerns should we be aware of in using LLMs?<br/>o How can we see if an LLM is working well?<br/>o How might LLM performance improve in the future</p>"
+    ],
+    "ilo": [
+        "Explain the fundamental mechanisms by which a Language Model (LLM) stores information, reasons, and generates content.",
+        "Develop a basic web-based interface that enables users to effectively interact with an LLM-based application to solve legal problems.",
+        "Specify and implement the necessary code logic for an LLM to execute legal tasks and integrate it with a web-based user interface.",
+        "Analyse legal documents and sources as data structures from the perspective of an LLM and demonstrate proficiency in making this data accessible for an LLM.",
+        "Analyse the performance of an LLM-based application in solving legal problems, and enhance its performance through prompt engineering and context augmentation resulting in improved outcomes and usability.",
+        "Hypothesise the ways in which LLM-based technology might affect the legal industry in the short-, medium- and long-term."
+    ],
+    "generic_skills": [
+        "Ability to investigate, evaluate, synthesise and apply knowledge in LLM\u0002based AI to legal scenarios, with creativity and initiative.",
+        "Capacity to manage competing demands on time and ability to work with a high level of autonomy and accountability.",
+        "Capacity to value and participate in teamwork and interdisciplinary collaboration.",
+        "Capacity to engage with issues in contemporary society.",
+        "Advanced working skills in the design, deployment and evaluation of new technology with a focus on AI applications.",
+        "Capacity for self-directed learning, organisation and time management."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "Applicants without legal qualifications should note that subjects are offered in the discipline of law at an advanced graduate level. While every effort will be made to meet the needs of students trained in other fields, concessions will not be made in the general level of instruction or assessment. Most subjects assume the knowledge usually acquired in a degree in law (LLB, JD or equivalent). Applicants should note that admission to some subjects in the Melbourne Law Masters will be dependent upon the individual applicant\u2019s educational background and professional experience."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Build and deliver a single-document Q&A chatbot.",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due Wednesday 16 October 2024.",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Build and deliver a legal workflow solution.",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due Wednesday 27 November 2024.",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Legal workflow solution review: Write a report critiquing the performance of solution created in\n\nAssessment item 2, suggesting potential enhancements",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Due Wednesday 27 November 2024.",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "September",
+            "principal_coordinator": "Jack Stoneman",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject runs over five days as follows:  Monday 30 September to Wednesday 2 October and Thursday 17 October to Friday 18 October.",
+            "total_time_commitment": "150 hours",
+            "teaching_period": "30 September 2024 to 18 October 2024",
+            "last_self_enrol_date": "6 September 2024",
+            "census_date": "4 October 2024",
+            "last_date_to_withdraw_without_fail": "25 October 2024",
+            "assessment_period_ends": "27 November 2024",
+            "contact_name": "Jack Stoneman (Subject Coordinator)",
+            "contact_email": "contact the Law School Academic Support Office"
+        }
+    ]
+}

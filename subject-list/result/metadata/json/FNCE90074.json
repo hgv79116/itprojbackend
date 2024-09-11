@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>Students are to participate in the day-to-day operation of a laboratory working on experiments related to human decision-making, actively engaging in its tasks and projects, in order to acquire on-the-job experience with the practical aspects of designing, managing and analysing experiments, become accustomed with team work, and to help create science. To the extent it is practically possible given other coursework, the student is allowed to complete the laboratory assignment overseas in a collaborating laboratory.</p>"
+    ],
+    "ilo": [
+        "Acquire a practical understanding of how science is done",
+        "Plan each stage of a scientific research project",
+        "Work in teams",
+        "Engage in in-depth scientific discourse"
+    ],
+    "generic_skills": [
+        "High level of development: written communication; interpretation and analysis; critical thinking.",
+        "Moderate level of development: collaborative learning; formulating problems; problem solving;team work; application of theory to practice; accessing data and other information from a range of sources.",
+        "Some level of development: oral communication; statistical reasoning; designing experiments; synthesis of data and other information; evaluation of data and other information; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90049Introduction to Machine LearningSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90049",
+                        "Name": "Introduction to Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students must choose a different laboratory from the one selected in FNCE90073 Laboratory Rotation 1."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written report on the research questions currently being investigated in the lab that is being visited, and positioning of the research questions within the relevant literature.",
+            "bullets": [
+                "2,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written report on the research methods being used by the lab being visited to address the research questions described in the first report (see above).",
+            "bullets": [
+                "3,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Pablo Franco Ulloa",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

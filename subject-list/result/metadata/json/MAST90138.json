@@ -1,0 +1,145 @@
+{
+    "overview": [
+        "<p>Modern statistics and data science deals with data having multiple dimensions. Multivariate methods are used to handle these types of data. Approaches to supervised and unsupervised learning with multivariate data are discussed. In particular, methods for classification, clustering, and dimension reduction are introduced, which are particularly suited to high-dimensional data. Both parametric and nonparametric approaches are discussed.</p>"
+    ],
+    "ilo": [
+        "Understand the structure of multivariate data, particularly high-dimensional data.",
+        "Select, implement, and justify appropriate methods to perform classification, clustering, and dimension reduction.",
+        "Understand the statistical underpinnings of the methods used in multivariate data and be able to check when assumptions may or may not hold.",
+        "Pursue further studies in this and related areas, or to be work ready as an applied statistician or a data scientist."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team;",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30025",
+                        "Name": "Linear Statistical Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST90104A First Course In Statistical LearningSemester 2 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90104",
+                        "Name": "A First Course In Statistical Learning",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022 Master of Data Science (MC-DATASC) - Statistics Background Stream"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022 Master of Data Science (MC-DATASC) - Data Science Background Stream"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 20 pages of written assignments\u00a0(equivalent to approx. 20 hours)",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Up to 20 pages of written assignments (equivalent to approx. 20 hours)",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Up to 20 pages of written assignments (equivalent to approx. 20 hours)",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours comprising 2 one-hour lectures per week and 1 one-hour practice class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "dennis.leung@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "overview": [
+        "<p>Predicting key business and economic variables is increasingly important, as it drives both objective decision-making and improved profitability. This course aims to cover the basic forecasting methods used to predict business and economic variables, based on historical data. These include traditional regression, time series, as well as emerging methods such as ensemble forecasts. Throughout, the focus will be on practical implementation of forecasting techniques using the publicly available software \u201cR\u201d. The importance of benchmarking, the assessment of forecasts from different models, and the use of forecasts in decision-making frameworks, will also be highlighted.</p>"
+    ],
+    "ilo": [
+        "an understanding of a range of models relevant to forecasting time series data.",
+        "the skills to apply appropriate modelling and forecasting techniques in the \u201cR\u201d software to business and economic contexts, and to critique and compare competing methodologies.",
+        "the skills to translate forecasting outputs to information and provide recommendation for relevant business problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT90215",
+                        "Name": "Introduction to Data Analytics",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple-choice on the different predictive methods covered in the subject",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "To be completed on the end of the second day",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Essay \u2013 develop a recommendation for operationalizing predictive methods in a business case, and how they can be used to improve decision-making",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

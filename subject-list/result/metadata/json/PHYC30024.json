@@ -1,0 +1,160 @@
+{
+    "overview": [
+        "<p>This subject will introduce basic concepts in Condensed Matter Physics, the physics of solids and liquids, from a theoretical and experimental perspective. In particular, it will address the most fundamental concepts and techniques which are required to gain a basic understanding of materials. These concepts and techniques include crystal structure, reciprocal space, adiabatic approximation, free electrons, electrons in a periodic potential, insulators, conductors, semi-conductors and mean-field theory. The subject further aims to introduce some of the most basic experimental techniques in solid state physics and material research. Finally, this subject will provide a phenomenological introduction to one of the most fascinating states of matter: superconductors.</p>"
+    ],
+    "ilo": [
+        "Classify crystals, identify their symmetries and explain the notion of point and space groups;",
+        "Model the solid state using the principles of quantum mechanics;",
+        "Distinguish between conductors, insulators and semi-conductors with respect to their electronic properties;",
+        "Apply Bloch's theorem and understand the notion of band structures;",
+        "Examine the phenomenology of superconductors."
+    ],
+    "generic_skills": [
+        "analyse how to solve a problem by applying fundamental laws to more complicated situations",
+        "apply abstract concepts to real world situations",
+        "solve relatively complicated problems using approximations",
+        "participate effectively in group discussions"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC30016",
+                        "Name": "Electrodynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC30018",
+                        "Name": "Quantum Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST20026Real AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5PHYC20014Theoretical Physics 2Semester 2 (On Campus - Parkville)12.5MAST20033Real Analysis: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20014",
+                        "Name": "Theoretical Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20033",
+                        "Name": "Real Analysis: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment 1",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Friday 5.00pm, Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written Assignment 2",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Friday 5.00pm, Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Stephan Rachel",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total of 44 hours: 36 hours lectures (3 x 1 hour lectures per week) and 8 hours a mixture of problem-solving classes and computational lab (four 2-hours classes in weeks 3,5,7,9).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

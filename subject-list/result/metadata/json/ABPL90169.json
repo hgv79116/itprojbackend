@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p>This subject is the culmination of each student's studies in Master of Architecture. It will consist of a number of studio groups offering a range of opportunities for students to demonstrate an original approach to design synthesis, in architecture which is based on research and critical thinking. These studios will allow opportunities for self-directed research inquiries/projects.</p>",
+        "<p>Students will be expected to demonstrate mastery of design resolution, conceptual engagement and aesthetic expression. Students will also be required to demonstrate a range of professional competencies defined in the National Standard of Competency for Architects (NSCA).</p>"
+    ],
+    "ilo": [
+        "Demonstrate a capacity to make a contribution to the existing body of knowledge in architectural theory and practice;",
+        "Demonstrate critical awareness of how their chosen specialisation contributes to this body of knowledge;",
+        "Demonstrate an understanding of design as a form of research enquiry."
+    ],
+    "generic_skills": [
+        "Written, verbal and graphic presentation of ideas",
+        "Correct use of design terminology",
+        "Ability to analyse social and cultural contexts",
+        "Critical thinking and analysis",
+        "Creative response to complex problems",
+        "Ability to select the appropriate design approach"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90115",
+                        "Name": "Master of Architecture Studio E",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ABPL90439",
+                        "Name": "Design Studio E",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (Early-Start) (On Campus - Parkville)Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsABPL90438Design Studio DSummer Term (On Campus - Parkville)Semester 1 (Early-Start) (On Campus - Parkville)Semester 2 (Early-Start) (On Campus - Parkville)25ABPL90143Master of Architecture Studio DNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90438",
+                        "Name": "Design Studio D",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (Early-Start) (On Campus - Parkville)Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "ABPL90143",
+                        "Name": "Master of Architecture Studio D",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Preliminary Thesis Proposal:\n\nOral presentation (7 minutes) of research questions, accompanied by critical evaluation of relevant precedents from practice and research, and a draft 'thesis statement'",
+            "bullets": [
+                "26 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Interim design: Design crit comprising oral presentation (7 minutes) of refined research question accompanied by representations of design-in-progress, that might include including site investigations, sketches, drawings, maquettes, concept test models and/or digital multi-media experiments, as appropriate to the research.",
+            "bullets": [
+                "52 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Resolved Design: Fully resolved architectural design thesis that explores the research question presented in two forms: \n\nA5 digital book that records the research investigation through text and visual representations that may include drawings, digital multi-media and physical models as appropriate to the design; and\n\nDesign crit (10 minutes)",
+            "bullets": [
+                "182 hours (of work required)"
+            ],
+            "hurdle": "Must pass  Resolved  Design  to pass the subject ",
+            "timing": "During the teaching period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": "Stuart Harrison",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Up to 80 hours: including   2 x 3 hours of studios  and 8 x 1 hour lectures  over the teaching period",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "23 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "1 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "stuart.harrison1@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": "Rory Hyde",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Up to 80 hours: including   2 x 3 hours of studios  and 8 x 1 hour lectures  over the teaching period",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "19 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "26 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Rory Hyde",
+            "contact_email": "rory.hyde@unimelb.edu.au"
+        }
+    ]
+}

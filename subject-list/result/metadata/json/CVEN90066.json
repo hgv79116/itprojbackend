@@ -1,0 +1,83 @@
+{
+    "overview": [
+        "<p>The subject examines in-depth the observation, analysis and prediction of wind-generated waves in the open ocean, in shelf seas, and in coastal regions. It also provides an introduction to wave and hydrodynamics modelling as a support for engineering applications. It provides a multi-disciplinary overview of problems by combining cutting-edge research in Maritime and Coastal Engineering and industry applications. The subject will provide students with a solid grounding in wave physics that is essential to evaluate the environmental impact on design and operation of marine structures.</p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Linear wave theory;</li><li>Second-order wave theory</li><li>Wave Spectrum;</li><li>Tides;</li><li>Wave Measurements;</li><li>Near-shore processes;</li><li>Wave statistics;</li><li>Hydrodynamics and wave modelling;</li></ul>"
+    ],
+    "ilo": [
+        "Demonstrate a knowledge of the fundamental topics of marine hydrodynamics;",
+        "Respond to environmental issues in maritime engineering;",
+        "Plan field/laboratory campaigns and analyse field/laboratory data;",
+        "Model marine hydrodynamics for maritime engineering operations;",
+        "Demonstrate highly developed analytical and problem solving skills."
+    ],
+    "generic_skills": [
+        "20 hours (of work required)"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Essay (1000 words on critical reading of a research paper). Intended Learning Outcome (ILO) 1 is addressed in this essay",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Laboratory exercises and data analysis, 2000 words. ILOs 3, 4 and 5 are addressed in this assessment",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Computer exercise and submission of a report with result interpretation, 3000 words. Addressing  Intended Learning Outcomes (ILOs) 2 to 5 are addressed in this assessment",
+            "bullets": [
+                "60-80 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Online quiz/test. ILOs 1, 2, 3 and 5 are addressed in this assessment",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must pass the online quiz/test to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (Lectures: 16 hours; Computer lab sessions: 12 hours; Tutorials/consultations: 8 hours)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Alexander Babanin",
+            "contact_email": "a.babanin@uninmelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "overview": [
+        "<p>This subject will teach how to interpret structure and stratigraphy on seismic data and in the field and the interactions between structure and stratigraphy during basin development. The interpretations will be used to assess hydrocarbon and gas-storage potential in the basins. The subject involves one week in the lab and one week in the field along the Otway coast at Port Campbell and Apollo Bay. The subject will examine the 2D and 3D geometries of extension, inversion, compression, salt diapirism and strike-slip deformation and the sedimentation/erosion and stratigraphic patterns that develop. In the field, we will mainly examine the deformation and sedimentation that occurs during extension and inversion and determine the basin environment of deposition through geological time.</p>"
+    ],
+    "ilo": [
+        "Reconstruct the structure and deposition in sedimentary basins, including mountain belts;",
+        "Interpret different structural styles on seismic data and in the field;",
+        "Interpret sedimentary deposition during deformation;",
+        "Recognise stratigraphic sequences on seismic and in the field;",
+        "Measure and interpret structural and stratigraphic sections in the field; and",
+        "Evaluate the hydrocarbon potential of a structure and basin ;"
+    ],
+    "generic_skills": [
+        "think critically and creatively, with an aptitude for continued self-directed learning;",
+        "demonstrate a problem-solving approach to new and unfamiliar tasks;",
+        "produce high-level written and/or oral reports;",
+        "apply skills to interrogate synthesise and interpret the published literature;",
+        "demonstrate the ability to assess resource potential; and",
+        "work constructively within teams."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOL30003",
+                        "Name": "Sedimentary Geology and Hydrogeology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Field structure and stratigraphic measured sections",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due in the first week of teaching",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assignment on the Otway Basin",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due at the beginning of the second week of teaching",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Practical & Theory examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

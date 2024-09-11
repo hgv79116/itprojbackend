@@ -1,0 +1,147 @@
+{
+    "overview": [
+        "<p>It is widely held that nothing in biology makes sense, except in the light of evolution. But evolutionary theory is crucial not only for making sense of organic diversity, but also for helping us understand and manage our interactions with other organisms: antibiotic and insecticide resistance, disease virulence, fisheries decline, spread of invasive species, human behaviour and life-histories are all informed by a knowledge of the processes of evolution. This subject will reveal the ubiquity of biological evolution in both natural and human modified environments. It will describe and explain the agents of change\u2014 drift, migration and selection, and show their effects on both single and multiple gene traits, and on the phylogenetic relationships of species. The subject will introduce co-evolutionary processes, which are critical for understanding traits that evolve through interactions between species, including humans. Particular topics will include (but not limited to): heritable variation; agents of evolution; artificial, natural and sexual selection; phenotypes and quantitative genetics; phylogeny, speciation and the tree of life; and antagonistic and mutualistic co-evolution. The subject will emphasise both the outcome and process of scientific research leading to our understanding of evolutionary processes, drawing on examples from across the diversity of life.</p>"
+    ],
+    "ilo": [
+        "Define and explain the core concepts of evolutionary biology, including heritability, adaptation, and speciation.",
+        "Describe the scientific techniques used to study evolution, such as experimental evolution, long-term field studies, quantitative genetics, and molecular phylogenetics.",
+        "Interpret and build phylogenies describing the evolutionary relationships between species.",
+        "Explain some of the practical applications of evolutionary research, for example in conservation biology."
+    ],
+    "generic_skills": [
+        "Critical analysis and synthesis of new knowledge;",
+        "Practical problem solving;",
+        "Evaluating, interpreting, and presenting data;",
+        "Searching and evaluating primary scientific literature;",
+        "Oral communication and presentation skills; and",
+        "Time management and self-management skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10001Biology of Australian Flora & FaunaSemester 2 (On Campus - Parkville)12.5BIOL10002Biomolecules and CellsSemester 1 (On Campus - Parkville)12.5BIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5BIOL10010Foundational Biology: Life's ComplexitySemester 2 (On Campus - Parkville)12.5BIOL10011Biology: Life's ComplexityNot available in 202412.5BIOM10002Exploring BiomedicineSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10001",
+                        "Name": "Biology of Australian Flora & Fauna",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10010",
+                        "Name": "Foundational Biology: Life's Complexity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10011",
+                        "Name": "Biology: Life's Complexity",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM10002",
+                        "Name": "Exploring Biomedicine",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Pre 2021"
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10003 - Genes and Environment"
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10004 - Biology of Cells and Organisms"
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10005 - Genetics and The Evolution of Life"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "In-class assessment of interactive problems associated with each fortnightly workshop. 6 submissions (5 best-scoring submissions used to calculate grade, each worth 8%)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Weeks 2,4,6,8,10,12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written essay on one of three optional topics. 1500 words total",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination. 2 hours.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x 1hr lectures per week and 6 x 2hr workshops over the semester (one fortnightly)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "BIOL-20001@lists.unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of this subject is to get students to apply their knowledge and skills learnt in the course into designing a real system.<strong><br/><br/>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject centres on a group design project where students design and fabricate a substantial electronics system (example applications include wireless, GPS, radar). The final mark will also take into account the methodologies used, testing, simulation and verification of the designed system and adherence to appropriate standards.</p>"
+    ],
+    "ilo": [
+        "Design a substantial electronics system",
+        "Apply their knowledge and skills learnt in the course in designing a real system"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals;",
+        "Ability to undertake problem identification, formulation, and solution;",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance;",
+        "Ability to build and test real world systems that meet industry specialisation and manufacturing standards;",
+        "Proficiency in engineering design;",
+        "Ability to conduct an engineering project;",
+        "Capacity for creativity and innovation;",
+        "Understanding of professional and ethical responsibilities, and commitment to them;",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member;",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "ELEN90047 Mixed Signal Design"
+            },
+            {
+                "type": "paragraph",
+                "content": "ELEN90050  RF Systems and Architecture"
+            },
+            {
+                "type": "paragraph",
+                "content": "ELEN90049 RF Electronics and Design"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written report of up to 100 pages",
+            "bullets": [
+                "300-350 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "An oral examination",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

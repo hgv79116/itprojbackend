@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>This subject elaborates on the scientific basis of disease recognition in individual animals and populations of animals. It explores causes of disease in animal populations, the mechanisms of disease processes and their transmission, principles of biosecurity, and the scientific basis of technologies and procedures available for monitoring disease status (diagnostics). Students will acquire skills in a variety of techniques used to monitor the health of populations of animals (ELISA, PCR, microbiology), and will develop abilities in critical analysis of animal health related matters.</p>"
+    ],
+    "ilo": [
+        "Evaluate the different types of scientific evidence that inform animal disease control",
+        "Analyse the biological basis of diagnostic tests and control measures in animal disease",
+        "Assess diagnostic test results and control plans for infectious diseases in animals",
+        "Perform a range of laboratory tests used in monitoring the health of populations of animals",
+        "Apply formulas utilised in diagnostic test evaluation and disease investigations"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20043",
+                        "Name": "Biochemistry in Agricultural Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Mid-Semester test",
+            "bullets": [
+                "55 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "In class participation  including group work and mini-quizzes",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Alistair Legione",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures (2 hours per week)\n\n36 hours of case studies and practical classes (3 hours per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "legionea@unimelb.edu.au"
+        }
+    ]
+}

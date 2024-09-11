@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>How do you design interactive technologies that are useful, usable and satisfying? How can we better understand user needs in order to inform the design of new technologies? Fundamentals of Interaction Design addresses these questions, and students will learn about the key theories, concepts and industry methods that are crucial to the user-centred design process.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<ul><li>Theoretical foundations of Interaction Design</li><li>Design principles and heuristics</li><li>Usability and user experience</li><li>Methods for understanding user needs (e.g., contextual inquiry, ethnography, interviews)</li><li>Interview data analysis</li><li>Techniques for communicating context of use (e.g., scenarios, personas, and rich pictures)</li><li>Prototyping and visual design</li><li>Interfaces and platforms of interactive technologies</li></ul>"
+    ],
+    "ilo": [
+        "Define and distinguish between the different types of user interface",
+        "Exploit cognitive and social factors that make interactive software usable",
+        "Apply key design principles and guidelines that assist user interface designers, and understand the limitations of such guidelines",
+        "Apply techniques of Interaction Design / User-Centred Design across the development lifecycle",
+        "Understand theoretical approaches and methods for identifying user requirements",
+        "Understand the ethics of working with and employing ICTs in society"
+    ],
+    "generic_skills": [
+        "Ability to review and research a problem domain",
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The ability to communicate designs and design thinking",
+        "The capacity for critical and independent thought and reflection",
+        "Team work skills",
+        "Written and oral presentation skills",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "An expectation of the need to undertake lifelong learning, and the capacity to do so"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO30004",
+                        "Name": "Usability Engineering",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 \u2013 User needs analysis: Group project (3-4 students) to identify user needs in a particular situation of use, with recommendations for the design of a prototype interactive system. The assignment consists of a group written report (4000 words) and a presentation (10 minutes) Group report 20%. Group presentation 10%. Intended Learning Outcomes (ILO's) 3, 4 and 5 are addressed in this assignment.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2 - Personal reflection. An individual report (1500 words) reflecting on the group project, the methods used, and the insights obtained. ILO's 1, 2 and 3 are addressed in this assignment.",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": "Assignment 2 is a hurdle and must be passed to pass the subject.",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 3 \u2013 Prototyping: Group project (3-4 students) involving the application of design techniques to create a wireframe prototype (consisting of screenshots or paper sketches) based on the findings of assignment 1. Groups must document, justify, and evaluate their design decisions via a written report (2000-3000 words) and a presentation (10 minutes). Written report 40%. Presentation 10%. ILO's 1 to 6 are addressed in this assignment.",
+            "bullets": [
+                "40-50 hours"
+            ],
+            "hurdle": "Assignment 3 is a hurdle and must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Greg Wadley",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising 2 x 1 hour lectures and 1 hour tutorial",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "greg.wadley@unimelb.edu.au"
+        }
+    ]
+}

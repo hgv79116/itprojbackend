@@ -1,0 +1,175 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>To construct a software system, requirements must be analysed and modelled, and designs developed and evaluated; this subject teaches knowledge and skills needed for these tasks. This includes the development of static and dynamic models for aspects of both the problem space and the solution space. The emphasis here is on an Agile approach, and on techniques appropriate for object-oriented development.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics covered include:</p>",
+        "<ul><li>Analysis and modelling requirements</li><li>Developing, modelling and evaluating designs</li><li>Modelling using the Unified Modelling Language (UML)</li><li>Software design processes and principles</li><li>Common design patterns and software architectures</li><li>Tools for design and development</li></ul>"
+    ],
+    "ilo": [
+        "Apply their knowledge of modelling and design to solve computing problems",
+        "Work as an Individual and in a Team, with effective communication for software engineering tasks",
+        "Evaluate and apply appropriate choices of software tools in the modelling and design process",
+        "Engage in Life-long Learning with respect to the evolution of software processes"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Proficiency in engineering design",
+        "Ability to utilise a systems approach to design and operational performance"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP90041Programming and Software DevelopmentSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5SWEN20003Object Oriented Software DevelopmentSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SWEN20003",
+                        "Name": "Object Oriented Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ENGR30004Numerical Algorithms in EngineeringSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ENGR30003Numerical Programming for EngineersNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR30004",
+                        "Name": "Numerical Algorithms in Engineering",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR30003",
+                        "Name": "Numerical Programming for Engineers",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into or selection of one of the following:MC-IT100 Master of Information TechnologyMC-IT150 Master of Information TechnologyGC-CS Graduate Certificate in Computer Science",
+                    "MC-IT100 Master of Information Technology",
+                    "MC-IT150 Master of Information Technology",
+                    "GC-CS Graduate Certificate in Computer Science"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-IT100 Master of Information Technology",
+                    "MC-IT150 Master of Information Technology",
+                    "GC-CS Graduate Certificate in Computer Science"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project work covering activities such as the analysis, design and implementation of small to medium-sized applications, comprising: completion of workshop-based exercises related to project, ongoing throughout the semester; 2 small-team based projects requiring approximately 50-55 hours of work per student.  Projects are due around weeks 7 and 11.",
+            "bullets": [
+                "50-55 hours"
+            ],
+            "hurdle": "The project work is a hurdle and must be passed (20/40) to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One written 2 hour closed book examination. Intended Learning Outcomes (ILO's) 1 to 4 are assessed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "The examination is a hurdle and must be passed (30/60) to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Patanamon Thongtanunam",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1 hour lecture per week  and one 2 hour workshop per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "patanamon.t@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Chitchanok Chuengsatiansup",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1 hour lecture per week and one 2 hour workshop per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "c.chuengsatiansup@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,228 @@
+{
+    "overview": [
+        "<p><span>This subject teaches core methods used in economics, finance and business for empirical research and data analysis. Extensions of the multiple regression model are examined. Topics include causal and statistical interpretations of regression models, instrumental variables, panel data and time series regression models and relevant statistical theory. Methods are consolidated through a Capstone project involving hypothesis-formation, real-world data collection, and writing-up the results in a formal report.</span></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Explain various problems of interpretation of causal estimates in regression and how the problems may be addressed using instrumental variables.",
+        "Apply least squares methods to estimation and inference for linear regression models with panel data.",
+        "Apply least squares to estimation, inference and interpretation for single and multiple equation models for stationary and non-stationary time series data.",
+        "Derive, simulate and interpret statistical properties of least squares estimators in these settings.",
+        "Formulate hypotheses about economic phenomena, collect real-world data, apply econometric methods to test hypotheses, and draw evidenced-based conclusions or implications for economic theory and/or public policy."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; evaluation of data and other information; use of computer software.",
+        "Moderate level of development: written communication; collaborative learning; team work; critical thinking; synthesis of data and other information.",
+        "Some level of development: accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM20001Econometrics 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ECOM30001Basic EconometricsSemester 1 (On Campus - Parkville)12.5ECOM90001Basic EconometricsSemester 1 (On Campus - Parkville)12.5MAST20005StatisticsSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM20001",
+                        "Name": "Econometrics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM30001",
+                        "Name": "Basic Econometrics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM90001",
+                        "Name": "Basic Econometrics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "A grade of H2A or above in the following:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON20003Quantitative Methods 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20003",
+                        "Name": "Quantitative Methods 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECON20001Intermediate MacroeconomicsSemester 2 (On Campus - Parkville)12.5ECON20002Intermediate MicroeconomicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5FNCE20001Business FinanceNo longer availableFNCE10002Principles of FinanceSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5ECON90047Macroeconomics 2Not available in 202412.5ECON90045Microeconomics 2Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20001",
+                        "Name": "Intermediate Macroeconomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE20001",
+                        "Name": "Business Finance",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "FNCE10002",
+                        "Name": "Principles of Finance",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90047",
+                        "Name": "Macroeconomics 2",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90045",
+                        "Name": "Microeconomics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM30002",
+                        "Name": "Econometrics 2",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Capstone Project Proposal (report)",
+            "bullets": [
+                "200 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Mid-Semester Test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Capstone Project Progress Report (report)",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Capstone Project Submission (report)",
+            "bullets": [
+                "1700 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Liana Jacobi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "ljacobi@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Kevin Staub",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "kevin.staub@unimelb.edu.au"
+        }
+    ]
+}

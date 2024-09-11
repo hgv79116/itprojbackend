@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This capstone subject for the Data Science major combines statistical reasoning and practical computing skills to solve challenging problems with big data.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Students will learn about communication of quantitative information and insights; presentation skills; report writing; project management; problem formulation using case studies; data collection and measurement protocols; data from surveys and experiments; issues in capturing and dealing with \u201cbig data\u201d; dimension reduction; data visualisation; fitting formulated models to data to infer insightful information about populations; ethics in quantitative research; working effectively in teams.</p>"
+    ],
+    "ilo": [
+        "Display data in a manner that highlights its principal structures",
+        "Formulate problems presented to them according to data science principles",
+        "Organise and structure data for the purposes of analysis, particularly \"big data\"",
+        "Fit and refine models",
+        "Understand the dynamics of working in a team",
+        "Communicate effectively with team members and non-technical subject matter experts",
+        "Harness the collective skills in a team to achieve an efficient outcome",
+        "Apply sound ethical principles to ethical issues that arise in data science",
+        "Interpret the results of analysis and communicate insights effectively"
+    ],
+    "generic_skills": [
+        "30 hours (of work required)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30027",
+                        "Name": "Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30025",
+                        "Name": "Linear Statistical Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two individual assignments (up to 15 pages each), addressing Intended Learning Outcomes (ILO's) 1 to 4, due in weeks 3-4 and 6-7 (20% each). (*)",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 7",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Group assignment (written component, up to 50 pages), addressing ILO's 1 to 9, and especially 5 to 9. To proceed in two phases: formulation followed by a review in weeks 9-10, then implementation, due in week 12.(*)",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Individual self-reflection report that also outlines the individual's contribution to the group assignment. The individual's contribution to the project will be measured using change logs from document and source-code repositories.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 1-hour lecture and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "mingming.gong@unimelb.edu.au"
+        }
+    ]
+}

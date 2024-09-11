@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>Students are required to undertake research into a topic of their choice, subject to approval by the program coordinator, under the supervision of a member of the Department of Management and Marketing.<br/><br/></p>"
+    ],
+    "ilo": [
+        "A critical evaluation of the literature on a chosen topic;",
+        "A research question or questions that incorporate testable hypotheses or research propositions; and",
+        "Findings based on original research that deploys rigorous and appropriate research methods."
+    ],
+    "generic_skills": [
+        "Written communication",
+        "Problem solving",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Critical thinking",
+        "Synthesis of data and other information",
+        "Accessing data and other information from a range of sources",
+        "Receptiveness to alternative ideas",
+        "Conducting research in an ethical manner"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-COMMGMT Master of Commerce (Management)",
+                    "MC-COMMKTG Master of Commerce (Marketing)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of 100 credit points"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual research report.",
+            "bullets": [
+                "12,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due at end of year",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One hour per week supervision. A total of 24 contact hours over the course of the year [overall total for enrolment in MGMT90237 and MGMT90238 over two consecutive semesters]",
+            "total_time_commitment": "180 hours",
+            "teaching_period": "26 February 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": "",
+            "contact_email": "andrew.yu@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One hour per week supervision. A total of 24 contact hours over the course of the year [overall total for enrolment in MGMT90237 and MGMT90238 over two consecutive semesters]",
+            "total_time_commitment": "180 hours",
+            "teaching_period": "22 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "andrew.yu@unimelb.edu.au"
+        }
+    ]
+}

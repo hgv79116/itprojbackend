@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>This subject focuses on both the general principles of veterinary clinical practice and the specific approach to diagnosis, management and prevention of disease in dogs and cats. Content will be delivered in blocks based on clinical presentations related to gastrointestinal, urinary, nervous and non-specific clinical problems in parallel with presentations of the same systems in other species. This approach is designed to support students in the development of their diagnostic reasoning skills, and encourage a comparative view of veterinary medicine and surgery.</p>"
+    ],
+    "ilo": [
+        "Collect and interpret information from clinical history, epidemiological data and clinical examination findings in an individual or groups of dogs and cats in order to develop contextually appropriate prioritised differential diagnoses in dogs and cats with gastrointestinal, urinary, nervous and non-specific clinical presentations",
+        "Choose, perform and interpret diagnostic testing in order to establish a definitive diagnosis in dogs and cats with gastrointestinal, urinary, nervous and non-specific clinical presentations",
+        "Formulate and recommend appropriate strategies that promote preventative health and that address common and important medical and surgical conditions in dogs and cats with gastrointestinal, urinary, nervous and non-specific clinical presentations, taking into account prognostic, economic, public health and animal welfare considerations",
+        "Describe techniques for humane euthanasia of dogs and cats"
+    ],
+    "generic_skills": [
+        "An in-depth understanding of specific veterinary clinical disciplines",
+        "Manual dexterity and technical skills in the practical application of these disciplines",
+        "The ability to apply theoretical knowledge in a practical setting, to trouble-shoot technical difficulties and to seek accurate solutions to complex biological problems",
+        "The capacity to apply a rigorous, critical and logical approach to problem-solving",
+        "Advanced experience in observation, interpretation of complex data, problem-solving, time management, record-keeping and communication in both written and verbal formats"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90142",
+                        "Name": "Dogs and Cats A",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Werribee)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "VETS90141",
+                        "Name": "Veterinary Professional Practice 3",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Werribee)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90148",
+                        "Name": "Ruminants and Camelids B",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Werribee)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "VETS90149",
+                        "Name": "Horses B",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Werribee)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "VETS90150",
+                        "Name": "Wildlife, Aquaculture, Exotics and Pigs",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Werribee)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "All students are to enrol in these corequisite subjects unless directed by the Melbourne Veterinary School"
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written test",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Aggregate Mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Up to four online quizzes, each equally weighted",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Werribee)",
+            "contact_hours": "112 hours of lectures, practical classes and workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "8 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rachaelkate.llewellyn@unimelb.edu.au"
+        }
+    ]
+}

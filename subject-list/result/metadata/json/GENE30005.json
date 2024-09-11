@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p>Genetics permeates all aspects of modern life, and modern genetic technologies are being developed at an unprecedented rate with impacts on our understanding of human biology and implications for medicine. This subject will expose students to a deeper understanding of human genetics including the origins of human genomes, rapidly advancing technologies to study and understand genomes, and how this can be used for understanding and improving human health, as well as the overarching ethical considerations.</p>",
+        "<p>This subject focuses on several key areas in contemporary human genetics: the contributions mutation and natural selection make to human populations; the genetic basis of non-communicable diseases; strategies (technologies) for identifying the genetic basis of human disease; genetics of cancer and ageing; genetic counselling and gene by environment interactions. </p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of how traits emerge from multiple interacting mechanisms at the cellular, tissue, and organismal levels (and are influenced by the environment);",
+        "Contrast the different approaches used to understand the genetic contribution to human traits and the impact of the limitations of these approaches;",
+        "Critically evaluate and debate the ethical and social implications of human genetics today, including the impact of developing technologies;",
+        "Apply their knowledge to the real world and contribute to public discourse as a genetically literate member of society; and",
+        "Effectively communicate human genetic concepts to a broad audience."
+    ],
+    "generic_skills": [
+        "Read relevant literature and be able to interpret this in order to answer detailed questions on both theory and methodology;",
+        "Understand how new scientific data relevant to the human condition is acquired;",
+        "Understand how scientific data is applied to old and new problems in society;",
+        "Have an appreciation for how modern knowledge in human biology is relevant to an understanding of our past and future;",
+        "Use information technology to acquire relevant knowledge; and",
+        "Think clearly about the application of scientific principles to the consideration of ethical issues."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE20001",
+                        "Name": "Foundations of Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Critical reflection essay on one of the tutorial discussions (student chooses)",
+            "bullets": [
+                "700 words"
+            ],
+            "hurdle": null,
+            "timing": "Due 1 week after relevant tutorial discussion (Weeks 1-12)",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written timed mid-semester test on weeks 1\u20134 content (650 words)",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group video (4\u20135 students) on one key concept (group chooses from a list provided by instructors). \n\n\n\nPart 1: progress assessment - outline of video and team roles",
+            "bullets": [
+                "200 words (total)"
+            ],
+            "hurdle": "Submission of progress assessment",
+            "timing": "Week 6",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written timed mid-semester test on weeks 5\u20138 content (650 words)",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group video (4\u20135 students) on one key concept (group chooses from a list provided by instructors). \n\n\n\nPart 2: final video",
+            "bullets": [
+                "3 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Patricia Jusuf",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x 1 hour lectures per week, 1 x 1 hour tutorial discussions per week (there will be 8 tutorials/discussion sessions, remaining slots will be used for written timed mid-semester tests, feedback session and exam preparation)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "irene.gallego@unimelb.edu.au"
+        }
+    ]
+}

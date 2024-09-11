@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p>An introduction to advanced microeconomics and to the economics of information and strategic behaviour. Topics to be covered include decision making under uncertainty, the interaction of primal and dual methods of modelling producer and consumer behaviour, the existence and welfare properties of general equilibrium, the theory of market failure and public goods, models of strategic behaviour in oligopoly, an introduction to game theory.</p>"
+    ],
+    "ilo": [
+        "Understand and to be able to use the techniques of parametric optimisation, the envelope technique and duality as a basis for comparative statics",
+        "Understand and to be able to use the fixed point theorems that are used in advanced microeconomics",
+        "Understand and to be able to explain the structure of the standard competitive model using envelope and duality methods",
+        "Be able to apply fixed point theorems to demonstrate existence of optima and equilibria in general equilibrium, game theory and dynamic programming",
+        "Understand the mathematical concepts that underlie the envelope techniques and fixed point theorems that are used in advanced microeconomics."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; interpretation and analysis; critical thinking.",
+        "Moderate level of development: collaborative learning; application of theory to practice; synthesis of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: written communication; team work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-COMACT Master of Commerce (Accounting)",
+                    "MC-COMFIN Master of Commerce (Finance)",
+                    "MC-APPECON Master of Applied Econometrics"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON30010MicroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON30010",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON30020",
+                        "Name": "Mathematical Economics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Word problem set 1",
+            "bullets": [
+                "250 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Word problem set 2",
+            "bullets": [
+                "250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Alexandru Nichifor",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Four hours of lectures, seminars and tutorials per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "nichifor@unimelb.edu.au"
+        }
+    ]
+}

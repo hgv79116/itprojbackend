@@ -1,0 +1,46 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Microwave Photonics is a field that fuses microwave and optical technologies to bring out the best of both worlds. This subject will explore this interdisciplinary field, starting by looking at the basics to investigating interesting applications that may not be possible using just one of these disciplines. <br/><br/>This course will cover topics from: Introduction to microwave photonics, basic optical and RF components (optical sources, modulators, receivers, passive devices, RF mixers, wireless receivers); applications of microwave photonics \u2013 fibre-wireless links (basic configuration, signal generation, transport strategies, design and analysis, limitation); microwave photonics signal processing (filters, photonics analog-digital-converters, true-time delay beamforming, electro-optic sampling, signal generation); optoelectronic oscillators (generation, frequency combs); photonic integrated circuits for microwave photonics (different platforms of integration, filter designs \u2013 microresonators, nonlinear effects).<br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject will explore the close interactions of lightwave and microwave and understand the physical principles of the hybrid field. Students will learn and investigate the microwave photonics principles through a number of cutting-edge system applications ranging from high-speed fibre-wireless links to microwave photonic signal processing. The focus will be on link and subsystem design and performance analysis that are usually not covered in other subjects. Through these studies, students will understand the different functionalities that can only be created by combining the two different disciplines.</p>"
+    ],
+    "ilo": [
+        "Explain the principles of microwave photonics",
+        "Be able to understand microwave photonics subsystem designs",
+        "Recognise the broad applicability of microwave photonics in many fields",
+        "Use software tools to design simple fibre-wireless links."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment to be completed during the semester, with a written report not exceeding 25 pages",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final presentation of not more than 30 minutes duration, with a written report not exceeding 30 pages",
+            "bullets": [
+                "70 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

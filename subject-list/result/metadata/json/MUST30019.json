@@ -1,0 +1,73 @@
+{
+    "overview": [
+        "<p>This subject offers an immersive music theatre experience over a two-week period. Students will have the opportunity to engage in online classes with international guest teachers, as well as attend masterclasses with local music theatre guests. This subject will focus on the continuing high-level development of technically proficient, integrated and performance-ready skills in acting, singing and dance as students prepare for their final year of training and entry into the industry. Students will be assessed on dance skills performance, a masterclass performance, a performance project and a reflection report.</p>"
+    ],
+    "ilo": [
+        "apply proficiency, professionalism, and a commitment to the application of acting, singing, and dancing;",
+        "critically reflect and evaluate independent practice and performance;",
+        "compare and contrast local and international expectations and practices of music theatre training and performance;",
+        "draw upon international perspective to enhance and perform acting, singing, and dancing in a music theatre context."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUST20015",
+                        "Name": "Music Theatre Studio 4",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Dance Skills Presentation - group performance",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Masterclass Presentation - individual performance",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Performance Project (Concert Performance) - individual performance",
+            "bullets": [
+                "10-15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Reflection Report",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

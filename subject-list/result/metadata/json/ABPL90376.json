@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>This subject is the culmination of each student's studies in Master of Urban Design. It will consist of a number of autonomous studio groups offering a range of opportunities for students to demonstrate an original approach to design synthesis in urban design, which is based on research and critical thinking. These studios will offer an interdisciplinary experience, and in some cases students may be working alongside others in a parallel design discipline.</p>",
+        "<p>Students will be expected to demonstrate mastery of conceptual engagement with the shaping of urban space, design resolution, and aesthetic expression.</p>",
+        "<p>With course coordinator approval, high-achieving students may undertake the Urban Design Thesis as an individually supervised design investigation. Similarly, under exceptional circumstances and with course coordinator approval, the Urban Design Thesis may be undertaken as a written thesis (see ABPL90067).</p>"
+    ],
+    "ilo": [
+        "Engage critically with contemporary urban issues.",
+        "Apply design as a form of research enquiry.",
+        "Develop an urban design project proposal.",
+        "Situate a completed proposal with respect to urban design knowledge, and its intersections with related design perspectives."
+    ],
+    "generic_skills": [
+        "Written, verbal and graphic presentation of ideas",
+        "Correct use of design terminology",
+        "Ability to analyse social and cultural contexts",
+        "Critical thinking and analysis",
+        "Creative response to complex problems",
+        "Ability to select the appropriate design approach"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsABPL90017Urban Design TheorySemester 1 (On Campus - Parkville)12.5ABPL90061Urban Design Studio ASemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)25ABPL90273Urban Design Studio BSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90017",
+                        "Name": "Urban Design Theory",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL90061",
+                        "Name": "Urban Design Studio A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "ABPL90273",
+                        "Name": "Urban Design Studio B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Graphic, verbal and written presentation of design concept, analytical work and design explorations. Students will present their work comprising models, drawings or animations as relevant to the individual design",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2: Graphic, verbal and written presentation of design concept, analytical work and design explorations.  Students will present their final work comprising models, drawings or animations as relevant to the individual design   This will include exhibition panels and an accompanying document",
+            "bullets": [
+                "7000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "David Mah",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "David Mah",
+            "contact_email": "david.mah@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "David Mah",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "David Mah",
+            "contact_email": "david.mah@unimelb.edu.au"
+        }
+    ]
+}

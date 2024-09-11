@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>This course provides an overview of the economic principles that underlie the operation of banks and other financial institutions. The impact of monetary policy in Australia will also be examined with particular emphasis on the roles played by the Reserve Bank and other banking and financial institutions. Topics may include how economic theory applies to financial markets; the process of financial intermediation; available financial statistics; the money supply process and the implementation of monetary policy; money in the macroeconomy; the recent behaviour of major financial aggregates; the 1997/98 Asian economic crisis; financial regulation and deregulation; the monetary transmission mechanism; and a discussion of the recent approach to monetary policy in Australia. The course emphasises institutional and public policy issues, providing an Australian perspective on this topical subject.</p>"
+    ],
+    "ilo": [
+        "Explain how financial institutions improve welfare outcomes by facilitating borrowing and lending outcomes that would not otherwise occur",
+        "Synthesise how financial institutions transform the risk and liquidity structure of financial assets and remove informational asymmetries and identify the subsequent impact on borrowing and lending opportunities",
+        "Describe the role of the financial intermediary and the function of financial institutions in facilitating financial intermediation",
+        "Analyse the implication of expectations in economic markets generally and in financial markets particularly;",
+        "Explain regulation and deregulation of economic markets in general and of financial markets in particular",
+        "Evaluate the implementation of, and recent approach to, monetary policy in Australia and explain the transmission of monetary policy throughout the economy",
+        "Describe the role of money and financial institutions in recent problems in the world economy",
+        "Apply relevant theories to the real world issues and scenarios, such as how the institutional structure of the Reserve Bank Board can be designed to minimise the incentive to deliver undesirable outcomes",
+        "Critically evaluate the relevance of competing theories. For example, the extent to which different types of market failure apply to financial markets and consequently how best to regulate financial markets."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; application of theory to practice; interpretation and analysis.",
+        "Moderate level of development: oral communication; collaborative learning; problem solving; statistical reasoning; critical thinking; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: team work; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20001",
+                        "Name": "Intermediate Macroeconomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Lawrence Uren",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and a 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "luren@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides knowledge and skills necessary for analysis, design modelling and optimisation of telecommunication networks.<strong><br/><br/>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject is a collection of analytical, numerical and optimisation techniques relating to network modelling and optimisation.</p>",
+        "<p>Topics in this subject can be generically applied to wired or wireless networks and are not limited to any specific type or tier. More specifically, the subject will include:</p>",
+        "<ul><li>Topological modelling of telecommunication network;</li><li>Capacity planning and design; problems involving flow;</li><li>Content and data delivery; supply and demand in telecommunication networks;</li><li>Network cost optimisation with flow considerations;</li><li>Collision detection; spanning trees, ethernet and its application;</li><li>Routing protocols; shortest path problems;</li><li>Application of evolutionary computation in network design and optimisation (will be presented subject to time availability);</li><li>Quality of service and class of service (core network); Multiprotocole Label Switching (will be presented subject to time availability);</li><li>Designing for performance, consideration of service level agreements in network design;</li><li>Survivability, reliability and availability in network design; Designing fault tolerant network; Self healing design techniques; Fault detection mechanisms;</li><li>Packet loss, delay and buffer size consideration in network design; Application of relevant queuing models.</li></ul>"
+    ],
+    "ilo": [
+        "Linear programming formulation of network design and optimisation problem; Simplex algorithm",
+        "Maximum flow problem; Path augmentation and labelling methods Transportation problem; Minimum cost and penalty cost method for finding feasible solution; Modified distribution method for finding minimum cost supply-demand solution",
+        "Minimum cost flow problem; Network simplex method",
+        "Prim\u2019s and Kruskal\u2019s algorithm for minimum spanning trees",
+        "Shortest math problem; Dijkstra algorithm",
+        "Travelling sales man problem; application of branch and bound",
+        "Application of Genetic algorithm, Tabu search and hill climbing in network design and optimisation (including cost optimisation) - (subject to time availability)",
+        "Modelling network redundancies; cost consideration of adding redundancies (as a multiobjective optimisation example)",
+        "Obtaining availability and reliability figures; application of mean time to failure and mean time to repair and the relevant formulations",
+        "Little\u2019s formula, Deterministic queuing models; Birth-Death process Queue models such as M/M/k, M/M/k/k, finite buffer, finite source, state dependent models; queuing networks, and telecommunication applications; Recursion of Erlang B formula"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of submitted project work completed in small groups (2-4 students), not exceeding 30 pages in total, (Addressing ILOs 1-10)",
+            "bullets": [
+                "55-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One written examination,(Addressing ILOs 1-10)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

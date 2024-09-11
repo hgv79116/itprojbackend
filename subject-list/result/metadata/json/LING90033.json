@@ -1,0 +1,107 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the structure and sounds of English. The course provides an introduction to morphology, syntax, semantics and psycholinguistics, with an emphasis on developing skills for analysing language. The course provides an introduction to the International Phonetic Alphabet, illustrates its uses as a transcription tool and provides instruction in both broad and narrow transcription of speech. Students will be introduced to the acoustic analysis of speech sounds, and will gain an understanding of how the acoustic structure of sounds is related to their perception.</p>"
+    ],
+    "ilo": [
+        "have acquired terminology for discussing language",
+        "understand and be able to apply some of the techniques available for analysing words, morphemes, sentence constituents and sentence structure",
+        "understand language structure, processing, variation and use",
+        "use broad and narrow IPA to accurately transcribe spoken language",
+        "understand the phonotactic and prosodic structure of speech",
+        "understand how speech sounds are produced in the vocal tract, the effect of the position of the articulators (tongue, lips, velum, etc.) on speech sounds and the acoustic principles underlying these effects",
+        "understand the acoustic features of different speech sounds as they relate to their production and auditory discrimination",
+        "understand the range of intensity, frequency and temporal components found in normal speech sounds and the effects of inter- and intra- speaker variations"
+    ],
+    "generic_skills": [
+        "well-developed critical thinking, problem solving and analysis skills,",
+        "an ability to evaluate and synthesise information in a flexible manner"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT90011",
+                        "Name": "Anatomy and Physiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90025",
+                        "Name": "Communication Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90027",
+                        "Name": "Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "LING90027 Introduction to Linguistics"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Language sample analysis\n\n\n\na) Broad transcription (Part 1 due Week 5)\n\n\n\nb) Phonological analysis (Part 2 due Week 7)\n\n\n\nC) Morphosyntactical analysis (Part 3 due Week 11)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 5 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Broad transcription test",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must pass the broad transcription test and written exam to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "miya.stjohn@unimelb.edu.au"
+        }
+    ]
+}

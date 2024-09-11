@@ -1,0 +1,208 @@
+{
+    "overview": [
+        "<p>In this subject, students will learn surface and groundwater hydrology with an emphasis on engineering applications. Techniques for statistical analyses of hydrological variables and mathematical modelling of hydrological processes will be introduced for engineering designs and investigations. The subject will introduce groundwater principles and modelling. Students will also acquire knowledge of surface water and groundwater quality. The subject will lay the foundation for a later subject ENEN90039 - Advanced Hydrological Solutions.</p>"
+    ],
+    "ilo": [
+        "Explain the process of evapotranspiration and perform quantitative analyses on meteorological and environmental data to compute evapotranspiration.",
+        "Describe precipitation processes and perform quantitative analyses on precipitation to be used in engineering designs.",
+        "Perform flood frequency analyses and flood modelling for engineering design.",
+        "Explain runoff processes and perform water balance modelling for hydrological investigations.",
+        "Identify surface water quality issues and conduct simple water quality modelling.",
+        "Analyse groundwater processes and undertake basic groundwater flow modelling.",
+        "Identify major sources and types of groundwater contamination and formulate mechanisms of contamination transport."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals.",
+        "Ability to undertake problem identification, formulation and solution.",
+        "Ability to utilise a systems approach to complex problems, design and operational performance.",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ENG Master of Engineering",
+                    "206EC Master of Environmental Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENEN20002Earth Processes for EngineeringSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ENEN30003Environmental Systems Modelling & DesignSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENEN30003",
+                        "Name": "Environmental Systems Modelling & Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment one: Hydrological processes and data analyses 1, including a report of 1000 words.  Intended Learning Outcomes (ILOs) 1 - 3 are adddressed in this assessment.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment two: Hydrological processes\n\nand data analyses 2, including a report of 1000 words. ILO 1-3 are addressed in this assessment.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment three: Rainfall-runoff and flood\n\nmodelling, including a report of 1000 words.  ILO 3 and 4 are addressed in this assessment.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment four: Groundwater hydrology, including a report of 1000 words.  ILOs 6 and 7 are addressed in this assessment.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One final (written) examination. ILOs 1-7 are addressed in this assessment.",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": "Examination must be passed.",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Up to 50 hours of contact hours, including lectures (i.e. 24 hours), tutorials (i.e. 24 hours) and lab practical (i.e. 2 hours).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Prof. QJ Wang",
+            "contact_email": "quan.wang@unimelb.edu.au"
+        }
+    ]
+}

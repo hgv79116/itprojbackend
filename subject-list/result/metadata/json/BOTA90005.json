@@ -1,0 +1,75 @@
+{
+    "overview": [
+        "<p>This subject is designed for students wishing to take a summer course, and who are interested in the biology of native plants and plant communities and environments in Victoria. It is suited to students studying environmental science or environmental studies.</p>",
+        "<p>Topics covered include:</p>",
+        "<ul><li>biogeographic regions of Victoria: climate, landforms, geology, soils and vegetation types;</li><li>biology of Victorian plants: intraspecific variation and adaptation to local conditions, ecotypes and clines, mallee plants, coastal plants, alpine plants;</li><li>conservation and threats to the Victorian flora: weeds, diseases, pests, fire, extinctions.</li></ul>"
+    ],
+    "ilo": [
+        "examine the biogeography and biology of the Victorian flora",
+        "appraise and classify Victorian plants",
+        "investigate the evolutionary history,  threats to and the conservation value of  Victoria's ecosystems"
+    ],
+    "generic_skills": [
+        "This subject should provide you with knowledge of the diversity and biology of the Victorian Flora, especially the vascular, flowering plants. It is presented in the context of understanding the natural regions and evolutionary history of Victoria.",
+        "You should gain generic skills in identifying flowering plant families and genera by the use of identification tools, including both written keys and computer-based interactive keys.",
+        "You should develop your observation skills and knowledge of plant structures.",
+        "Through reports you should enhance your written presentation skills and abilities to interpret literature.",
+        "Through field excursions you should learn to observe and describe vegetation patterns, and develop skills to enable you to discover more about the flora yourself."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignments",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "At the start of Semester 1",
+            "percentage": "25%"
+        },
+        {
+            "brief": "A written examination in the summer semester examination period",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Mike Bayly",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "21 hours of lectures and 33 hours of practical work, including fieldwork, full-time over two weeks in early February",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "5 February 2024 to 15 February 2024",
+            "last_self_enrol_date": "7 February 2024",
+            "census_date": "12 February 2024",
+            "last_date_to_withdraw_without_fail": "16 February 2024",
+            "assessment_period_ends": "29 February 2024",
+            "contact_name": "",
+            "contact_email": "mbayly@unimelb.edu.au"
+        }
+    ]
+}

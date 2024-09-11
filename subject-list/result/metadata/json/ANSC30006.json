@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the major factors influencing the health of production animals. Students will learn the principles of health, understand how to analyse data to identify disease, and investigate significant infectious and non-infectious causes of disease in production systems. Students will develop an understanding of how the type of production system will influence disease risk and development in production animals, and begin to understand how management of the whole production system is key in maximising animal health and production.</p>"
+    ],
+    "ilo": [
+        "Describe the different factors that can affect the health of production animals",
+        "Describe some of the important diseases of concern in the major production animal species in Australia",
+        "Demonstrate how management practices contribute to the risk of disease and to optimising the health of production animals",
+        "Determine the impact of disease in production animals by analysing animal health data",
+        "Apply knowledge that enables an assessment of the overall health status of production animals"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsAGRI20043Biochemistry in Agricultural SystemsSemester 1 (On Campus - Parkville)12.5BCMB20002Biochemistry and Molecular BiologySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5BIOM20001Molecular and Cellular BiomedicineSemester 1 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20043",
+                        "Name": "Biochemistry in Agricultural Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsAGRI20044Microbiology in AgricultureSemester 1 (On Campus - Parkville)12.5MIIM20001Principles of Microbiology & ImmunologySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20044",
+                        "Name": "Microbiology in Agriculture",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MIIM20001",
+                        "Name": "Principles of Microbiology & Immunology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANSC20001",
+                        "Name": "Animal Physiology and Growth",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI10049",
+                        "Name": "Animal Production Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC20002",
+                        "Name": "Comparative Nutrition and Digestion",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid semester examination",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Online assessments based on case studies/workshops/practicals (total 4 of no more than 500 words each)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours: 2 hours of lectures and 3 hours of workshop/practicals per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "vmb@unimelb.edu.au"
+        }
+    ]
+}

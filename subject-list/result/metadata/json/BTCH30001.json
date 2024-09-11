@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>The aim of this subject is to introduce students to the practical skills in the application of biotechnological techniques with particular emphasis on agri-food sector related investigations. The practical techniques to be introduced to the students include cell and tissue culture, plant genetic transformation, molecular markers in animal and plant improvement, polymerase chain reaction and antibody based diagnostic techniques, accessing and utilising bioinformatic resources for biotechnology and analytical techniques for GM products, antioxidants and other constituents in food samples.</p>"
+    ],
+    "ilo": [
+        "Understood the way in which experiments are designed, interpreted and communicated",
+        "Experienced the use of particular laboratory techniques and methods used in agri-food biotechnology",
+        "Developed an understanding of technologies applied in biotechnology",
+        "Gained experience in writing scientific reports",
+        "Developed an ability to analyse data generated from their own experiments"
+    ],
+    "generic_skills": [
+        "The ability to integrate interdisciplinary knowledge across broad discipline areas",
+        "The awareness of and ability to utilize appropriate communication technology and methods for the storage, management and analysis of the data",
+        "The ability to develop as a well-informed citizen better able to contribute to their community",
+        "Critical thinking and problem solving skills",
+        "The ability to work effectively as a team member",
+        "Skills in the design, conduct and interpretation of experiments"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10004 - Biology of Cells and Organisms"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at practical classes is compulsory. Students must attend at least 80% of the laboratory-based component to be considered for assessment",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "10-minute group oral presentation or a 1000-word written assignment due approximately Week 7",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Up to four written reports",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

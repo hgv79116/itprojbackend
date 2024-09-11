@@ -1,0 +1,126 @@
+{
+    "overview": [
+        "<p>This subject examines the principles and procedures for effective contract management from both clients\u2019 and contractors\u2019 perspectives. Practices and techniques of planning and managing a contract through to a successful conclusion are presented. <br/><br/>Topics include: development of legal framework for project delivery (contract formation \u2013 principles and philosophies of contract drafting); contract negotiation techniques and execution; contract performance, monitoring and enforcement; managing project close-out; relationship management during the construction phase; project procurement and allocation of risks; payment systems; contractual responsibilities and liabilities imposed by general conditions of contracts; construction delay claims management; conflict and dispute management. <br/>The subject also examines alliancing and partnering contracts, performance-based contracts as well as contract management in the context of BIM-based projects. <br/>Contract management software applications are used where applicable.</p>"
+    ],
+    "ilo": [
+        "Explain the fundamentals of Australian contract, tort and property law and how these relate to the legal aspects of construction projects.",
+        "Interpret, explain and compare the obligations and responsibilities imposed by selected general conditions of contracts used locally and internationally.",
+        "Identify situations which may have legal consequences that would negatively impact project delivery outcomes.",
+        "Analyse the complex and interrelated issues associated with contract management and identify when to seek professional advice on a project.",
+        "Demonstrate skills to effectively oversee the contractual environment of projects.",
+        "Identify, prepare, and analyse extension of time claims as well as explain the management and legal principles involved.",
+        "Differentiate and explain various conflicts and dispute resolution processes."
+    ],
+    "generic_skills": [
+        "5 hours"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90292",
+                        "Name": "Construction of Buildings",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL90313",
+                        "Name": "Management of Construction",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL90324",
+                        "Name": "Materials and Structures",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the subject coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL30039",
+                        "Name": "Construction Contract Administration",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Introduction to Construction Law modules",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": "Completion of the 'Introduction to Construction Law' modules is required in order to pass this subject.",
+            "timing": "Week 2",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Written assignment focusing on variations, delays and conflict/dispute.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written report focusing on contract management, systems, administration of contracts, interim valuation/progress claims and insurance and security.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": " A minimum mark of 40% has to be achieved in the examination to pass this subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Ajibade Aibinu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "aaibinu@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "overview": [
+        "<p>This subject covers aspects related to particle technology including powder and suspension processing. Initially, the student learns how to describe particles and systems of particles in terms of size, shape and distribution. Particle formation and synthesis will be covered.  Understanding of the basic mechanics of fluid flow around particles is described. This knowledge is used as the basis for designing unit operations associated with powders and suspensions, including particle classification, particle breakage (comminution) and agglomeration, packed beds and fluidisation, flotation and powder storage in hoppers.  Particle systems will be simulated using Discrete Element Modelling.  The combination and variety of topics in this subject provides students with an appreciation of particulate processing. This knowledge is vital for numerous industries including (but not limited to) mineral processing, potable water treatment, wastewater treatment, food and pharmaceuticals.</p>",
+        "<ul><li>Particle size and measurement of particle size, shape factors, differential and cumulative distributions, mean size, median size and surface area</li><li>Particle formation processes</li><li>Generalised description of separation and classification efficiency based on particle size, density and composition. Hydrocyclones, screens and data reconciliation for particulate separators, including the two-product formula</li><li>Comminution, Bond work index, matrix description of size reduction and milling circuit simulation, comminution circuits and liberation of particles from composite particles</li><li>Flow properties of solids, design of bins and hoppers, mass and channel flow</li><li>Particle settling including single particle and hindered gravity sedimentation</li><li>Pressure filtration</li><li>Motion of particles in fluids, fluidisation, minimum fluidisation velocity and bed expansion, flow of fluids through granular beds</li><li>Modelling of particle systems</li></ul>"
+    ],
+    "ilo": [
+        "Be able to describe particles and systems of particles and appreciate the flow behaviour of particulate materials",
+        "Design unit operations associated with particulate powders and slurries common to the materials, food, water, pharmaceuticals and minerals processing industries",
+        "Appraise different proposals for unit operations in comminution and particle liberation, particle separation, hopper flow",
+        "Be able to design unit operations involving fluidisation and flow through packed beds",
+        "Be fluent in Discrete Element Modelling of particle systems."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution through application of knowledge of basic science and engineering fundamentals",
+        "Capacity for independent thought",
+        "Awareness of advanced technologies in the discipline",
+        "Ability and self confidence to comprehend complex concepts, to express them lucidly and to confront unfamiliar problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENGR30002Fluid MechanicsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR30002",
+                        "Name": "Fluid Mechanics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent approved by the subject coordinator"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CHEMENG Master of Chemical Engineering",
+                    "Chemical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Biochemical specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10 x weekly online quizzes worth 10 marks each (10% total). Each quiz reinforces the week's lectures and address Intended Learning Outcomes (ILOs) 1 to 5. Assessed within weeks 2 to 11",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written experimental report not exceeding 1000 words, based on the 3 hour practical experiment. ILOs 1, 2 and 4 are addressed in the practical.",
+            "bullets": [
+                "12-14 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written assignment not exceeding 1000 words. ILOs 3 and 4 are addressed in the assignment",
+            "bullets": [
+                "10-13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written closed book examination. ILOs 1 to 4 are addressed in the exam.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "The final exam must be passed (with minimum score of 40%) to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Anthony Stickland",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 2-hour lecture and 2 x 1-hour lectures + 1 x 1-hour tutorial per week + 1 x 3-hour practical",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject involves undertaking a major research or advanced innovative design project requiring an independent investigation and the preparation of reports on an approved topic. Students will present their findings in a conference presentation format, held at the end of the project cycle in the latter half of semester two. The emphasis of the project can be associated with either:</p>",
+        "<p>Explorative approach, where students will pursue outcomes associated with new knowledge or understanding within the biomedical engineering or science disciplines, often as an adjunct to existing academic research initiatives.</p>",
+        "<p>A well-defined innovative project, usually based on a research and development required by an external industrial client. Students will be tutored in the synthesis of practical solutions to complex technical problems within a structured working environment, as if they were research and development professional engineers.<br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include: Technical report writing, engineering design planning and conducting experiments and test, data acquisition and analysis, public speaking, project presentation skills.</p>",
+        "<p>This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH).</p>",
+        "<p><strong>Note:</strong><em> Enrolment in BMEN90031 Biomedical Engineering Capstone Project Part 1 is subject to approval from the subject coordinator. Students commence BMEN90031 Biomedical Engineering Capstone Project Part 1 in Semester 2 and then subsequently continue BMEN90032 Biomedical Engineering Capstone Project Part 2 in Semester 1 in the following year. Upon successful completion of this project, students will receive 25 points credit.</em></p>"
+    ],
+    "ilo": [
+        "Search, analyse and document engineering science and other relevant literature in order to determine the need for further research in a chosen area;",
+        "Devise a methodology of investigation to improve knowledge or understanding of a chosen topic;",
+        "Collect and analyse a range of data (both qualitative and quantitative) to improve our collective understanding of a chosen topic;",
+        "Write a project report that follows good engineering science practice;",
+        "Present an oral presentation of the findings of an investigation to an audience of peers or lay people."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to function effectively as an individual and as a member of a collaborative research team;",
+        "Understanding of the principles of research;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Openness to new ideas and unconventional critiques of received wisdom."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBMEN90039Biomedical Eng Management & RegulationsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN90039",
+                        "Name": "Biomedical Eng Management & Regulations",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN90037 Bioengineering Data Analytics"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "A minimum of four oflevel 9 Biomedical Engineering (BMEN) subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Subject Coordinator approval, please complete an enrolment variation form attaching coordinator approval upon submission."
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: BMEN90031 Biomedical Engineering Capstone Project Part 1 and BMEN90032 Biomedical Engineering Capstone Project Part 2 can only be taken in the final 2 semesters of enrolment."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN90018",
+                        "Name": "Biomedical Engineering Capstone Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "BMEN90030",
+                        "Name": "BioDesign Innovation",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    },
+                    {
+                        "Code": "ENGR90037",
+                        "Name": "Engineering Capstone Project Part 1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR90038",
+                        "Name": "Engineering Capstone Project Part 2",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A literature review of 2000 words per student, excluding appendices or supporting material that can include diagrams or tables, requiring approximately 100 hours of work. Due at end of week 7 of semester 2.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7 of Semester 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A Final Report (4,000 words per student). Due in week 12 of the following semester.",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Exam period of following semester",
+            "percentage": "45%"
+        },
+        {
+            "brief": "A technical oral examination of no more than one half hour duration per student. Technical oral examination includes a formal presentation of 15 minutes per student followed by questions from an academic supervisor and academic examiner. Due in week 12 of the following semester.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12 of following semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A lay person oral examination of 5 minutes duration. Due in week 12 of the following semester.",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12 of following semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Static display materials (e.g. poster, computer demonstration, prototype), requiring 30-35 hours of work. Due in week 12 of the following semester.",
+            "bullets": [
+                "30-35 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12 of following semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Project Management : Conduct will be assessed on your professional skills and your active participation in the project. You will be assessed on attendance at weekly meetings, demonstration of ability to plan, execute, track and revise project goals, demonstration of understanding of the project topic through self-initiated problem solving, and constructive improvement on project progress and professional skills applying supervisor feedback.\n\n  Assessed throughout the teaching periods within semester. ILOs 1, 2, and 3 are addressed in this assessment.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": "Brooke Farrugia",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures and up to 24 hours of meetings with supervisors (across both BMEN90031 and BMEN90032)",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": "Associate Professor Brooke Farrugia",
+            "contact_email": "brooke.farrugia@unimelb.edu.au"
+        }
+    ]
+}

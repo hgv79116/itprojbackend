@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>Students will undertake an original research project in an area of critical care medicine, gaining an advanced understanding of experimental design and statistical considerations while addressing their own research question and evaluating the research of others.</p>",
+        "<p>Students undergo extensive research training with their own individually-supervised research project, acquiring skills in experimental design, technical expertise in clinical and translational research methodologies, critical thinking, analysis, project management and communication.</p>",
+        "<p>Being part of a clinical hospital site, students also have the opportunity to learn about the broader significance of research translation as it relates to human health and disease and how research can change and improve the clinical management of patients.</p>"
+    ],
+    "ilo": [
+        "Select, summarise and critically appraise published research in an area of critical care medicine.",
+        "Formulate a research question based upon a synthesis of the published research evidence.",
+        "Identify, plan, organise and implement research methodologies and techniques.",
+        "Conduct supervised research on a chosen research project and work effectively both in teams and autonomously.",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "generic_skills": [
+        "Understanding scientific and ethical approaches to clinical questions",
+        "Appreciating how data are evaluated",
+        "Learning how to present a constructive critique of research",
+        "Developing written and oral communication skills to a high standard",
+        "Contributing to intellectual discussion"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMSC40011",
+                        "Name": "Advancing Critical Care",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review and research plan",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Semester 1 Week 6-8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Research abstract describing the research findings to date",
+            "bullets": [
+                "250 words"
+            ],
+            "hurdle": null,
+            "timing": "Semester 2 - Week 6 - 8",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written research thesis",
+            "bullets": [
+                "10000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of October",
+            "percentage": "75%"
+        },
+        {
+            "brief": "Oral presentation of research project (15 minutes presentation and 5 minutes questions)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of October",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Yasmine Ali Abdelhamid",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Yasmine Ali Abdelhamid",
+            "contact_email": "Yasmine.Aliabdelhamid@mh.org.au"
+        }
+    ]
+}

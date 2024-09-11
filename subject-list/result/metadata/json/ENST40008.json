@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>This subject develops a student\u2019s ability to design and undertake a research project in the fields of ecosystem science, landscape management or forest science and their related social sciences and to report on this in written and verbal form. The project is completed under supervision of an academic staff member of the School of Ecosystem and Forest Sciences or an approved external supervisor, depending on the particular research project. The research topic is developed in collaboration between student and supervisor prior to or early in the first semester of enrolment.</p>",
+        "<p>Students enrol in a total of 75 points of research project across the duration of the Honours program. This is achieved by enrolling in two subjects across two consecutive semesters to achieve a total 75 credit points. Students enrol in a Part 1 subject in the first semester and a Part 2 subject in the second semester of the program.</p>",
+        "<p>This subject is a 25 point version for one semester.</p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Demonstrate a critical understanding of the discipline area.",
+        "Demonstrate the ability to collect or source scientific data.",
+        "Apply quantitative and statistical techniques to analyse scientific data.",
+        "Demonstrate individual investigative skills, critical thought and the ability to evaluate information and analyse data.",
+        "Demonstrate academic writing skills.",
+        "Communicate research findings to a scientific audience."
+    ],
+    "generic_skills": [
+        "Critical thinking and analysis;",
+        "Ability to seek out, retrieve and evaluate information from multiple sources;",
+        "Ability to explain complex concepts in written and oral form;",
+        "Time management skills;",
+        "Appreciation and implementation of the ethics associated with knowledge creation and usage;",
+        "Report writing skills;",
+        "Ability to manage large data sets."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "Landscape Management informal specialisation in the BH-ENVS Bachelor of Environments (Degree with Honours)",
+                    "Honours Program - Forest Science major in the BH-SCI Bachelor of Science (Degree with Honours)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research Proposal",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Due towards the end of the first semester of enrolment (~12 weeks from starting)",
+            "percentage": "10%"
+        },
+        {
+            "brief": "An oral presentation of the research project",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "",
+            "timing": "Due towards the end of the first semester of enrolment (~12 weeks from the start of the teaching period).\n\n\n\nExpected to take 20 hours to prepare for the presentation.",
+            "percentage": "5%"
+        },
+        {
+            "brief": "An oral presentation of research project for 30 minutes including questions.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due towards the end of the final semester of enrolment (~Mid June for mid-year intakes).\n\n\n\nExpected to take 40 hours to prepare for the presentation.",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A Research Report",
+            "bullets": [
+                "15000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due at the end of the final semester of enrolment (~June for mid-year intakes).",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Supervisor's assessment of student's demonstrated research performance throughout the program.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the program",
+            "percentage": "5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "2 January 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Matthew Burns",
+            "contact_email": "matthew.burns@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Matthew Burns",
+            "contact_email": "matthew.burns@unimelb.edu.au"
+        }
+    ]
+}

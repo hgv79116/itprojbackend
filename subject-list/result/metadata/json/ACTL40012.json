@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>This subject aims to further develop students\u2019 knowledge of modern analytical tools and techniques, including GLM, shrinkage techniques (e.g., LASSO and ridge regression), tree-based methods (e.g., random forests and GBM) and neural networks. It also teaches students to connect data analytics work to the actuarial control cycle and real-world business environments. Effective communication of findings to a range of business decision making audiences is also stressed.</p>"
+    ],
+    "ilo": [
+        "Explain where and how their data analytics work can add value to the business environment and strategy",
+        "Source, interpret, evaluate and prepare data for modelling",
+        "Use judgment to select appropriate predictive analytic techniques for a given business problem",
+        "Apply predictive analytic techniques to solve estimation and classification problems",
+        "Evaluate and compare performance of different models",
+        "Communicate findings to a range of audiences"
+    ],
+    "generic_skills": [
+        "Written communication",
+        "Problem solving",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Predictive analytic",
+        "Interpretation and analysis."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "From 2021, students must have completed both of the following subjects:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsACTL30004Actuarial StatisticsSemester 2 (On Campus - Parkville)12.5ACTL30008Actuarial Analytics and Data ISemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL30004",
+                        "Name": "Actuarial Statistics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACTL30008",
+                        "Name": "Actuarial Analytics and Data I",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Written Assignment 1",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual Written Assignment 2",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end of semester exam",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of lecture and 1 hour of tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "genevieve.hayes@unimelb.edu.au"
+        }
+    ]
+}

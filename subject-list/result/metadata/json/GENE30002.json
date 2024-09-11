@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This subject focuses on gene structure, function and regulation, which form the molecular basis of many important biological phenomena such as short-term organismal and cellular responses to rapid changes in environmental conditions and long-term controls of development. The molecular mechanisms underlying these phenomena are frequently exploited in biotechnology, medical and agricultural applications. The topics covered in this subject include gene structure; genome organisation; regulation of gene expression by transcriptional, translational and post-translational control; and regulatory networks. These processes are presented in prokaryotes and eukaryotes, using examples in model organisms and humans. Understanding of these processes is considered in the context of significant historical genetic experiments and through the application of current molecular genetic and genomic techniques. </p>"
+    ],
+    "ilo": [
+        "Explain current concepts of gene structure and the molecular basis of genetic processes, including diverse molecular mechanisms for generating gene products and regulating their expression in both prokaryotes and eukaryotes;",
+        "Discuss how experimental results and data from classical genetics, recombinant DNA and genomics experiments solve specific biological problems;",
+        "Interpret information in the field of molecular genetics through the study of the current scientific literature;",
+        "Synthesise basic concepts and knowledge to enable assessment of newly reported findings in the field of molecular genetics; and",
+        "Explain how modern molecular techniques are applied in biotechnology, medical and agricultural contexts."
+    ],
+    "generic_skills": [
+        "interpretation of experimental data;",
+        "evaluation of scientific literature;",
+        "critical thinking and problem solving; and",
+        "synthesis of complex concepts from basic principles."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE20001",
+                        "Name": "Foundations of Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two individual in-class or online multiple choice/short answer tests (45 min each) held in Weeks 6 and 12.",
+            "bullets": [
+                "45 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Four individual in-class or online multiple-choice/short-answer quizzes related to workshops (200 words each)",
+            "bullets": [
+                "800 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Mike Haydon",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 x 1 hour lectures \n\n12 x 2 h workshops/tutorials",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "m.haydon@unimelb.edu.au"
+        }
+    ]
+}

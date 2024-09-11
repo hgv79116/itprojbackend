@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject will cover key aspects of engineering management to help students prepare for working in the biomedical engineering industry including the processes and regulations of therapeutic goods.</p>",
+        "<p>It will focus on Biomedical Engineering Management, including the engineer and professional practice, the functions of professional societies; systems engineering and management processes of planning, organisation, leadership and control of human, physical and financial resources, biomedical engineering and quality management systems including ISO 9000 series requirements. This subject will also cover regulations, including risk management and international and Australian regulatory guidelines focusing on medical device regulations, classifications and standards. Also taught in this subject will be human clinical trials, regulation and ethics, design and evaluation of human clinical trials, requirements for post market monitoring, and medical device registries.</p>"
+    ],
+    "ilo": [
+        "Evaluate the professional and ethical responsibilities of an engineer.",
+        "Assess a broad range of managerial issues affecting the engineer.",
+        "Assess the feasibility of engineering proposals using the principles of systems engineering and project management.",
+        "Complete a profitability analysis of an engineering project or enterprise.",
+        "Apply appropriate standards used in the design and maintenance of biomedical devices and the appropriate schedules in the distribution of therapeutic agents.",
+        "Evaluate the process and regulations that are required to take a new medical device or a therapeutic agent to market.",
+        "Evaluate the process of the post-market evaluation of therapeutic device/agents and incident reporting schemes.",
+        "Define the ethics, standards and regulations applicable to the development of therapeutic devices and/or agents in Australia and overseas."
+    ],
+    "generic_skills": [
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member.",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Understanding of the principles of sustainable design and development",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30008",
+                        "Name": "Biosystems Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quizzes (total of 4 worth 5% each, through Canvas). Intended Learning Outcomes (ILOs) 1-8 are addressed in this assessment.",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written report in groups of 3 or 4 . ILOs 1-8 are addressed in this assessment.",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Oral presentation in groups of 3 or 4. ILOs 1-8 are addressed in this assessment.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final exam. ILOs 1-8 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the final exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "12 x 2-hour lectures (total 24 hours), 11 x 3-hour workshops (33 hours)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "david.collins@unimelb.edu.au"
+        }
+    ]
+}

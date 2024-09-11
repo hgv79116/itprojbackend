@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Fluid flow and its applications are widespread in nature and everyday life. The scientific investigation of these naturally occurring air and water flows, especially those affecting the environmental quality is known as Environmental Fluid Mechanics. Given the fast-paced changes in our environment and their societal impacts, it has become imperative for engineering students to have a comprehensive understanding of environmental fluid mechanics. This subject is aimed at shedding light on a variety of environmental systems, such as the atmosphere, oceans, lakes, streams, and building ventilation. As such, it has been crafted with the intention of being both engaging and relevant for students specializing in Physics, Engineering, or the physical aspects of marine or climate science.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject focuses on the fluid dynamics of various processes, which can span from the minute turbulent eddies at the millimetre scale to the large-scale dispersion of pollutants, contaminating a region extending over several kilometres. The prime components of the flows addressed in this course are buoyancy effects and fluid motions resulting from density differences. These differences in density may arise from variations in temperature, solute concentration, composition, or due to the occurrence of phase change.</p>",
+        "<p>The subject kicks off with a comprehensive overview of the fluid mechanics field and an explanation of the physics dictating fluid flow. These physical principles are then applied to numerous examples, encompassing free-surface flows, gravity currents, stratified flows, gravity waves, convection and heat transfer, and rotational effects.</p>",
+        "<p>The course is structured into five modules. <strong>Module 1</strong> provides a grounding in the Basic Laws of Fluid Mechanics. <strong>Module 2</strong> delves into Surface Waves in fluid. <strong>Module 3</strong> investigates Free Surface and two-layer flows, while <strong>Module 4</strong> explores Stratification and Convection. Finally, <strong>Module 5</strong> examines the Rotational effects on fluid dynamics. In parallel, the students will utilise an environmental flow software to carry out a project that forms the major assessment</p>"
+    ],
+    "ilo": [
+        "Demonstrate comprehensive understanding and mastery over a variety of environmental fluid flows, and be proficient in the fundamental physical principles and equations governing them.",
+        "Identify and apply common theoretical and numerical techniques to investigate fluid flows in environmental and engineering contexts.",
+        "Utilize their problem-solving skills and physical modelling abilities to address a range of environmental flow scenarios.",
+        "Exhibit a well-developed capability in written and oral communication of scientific ideas, effectively explaining complex concepts in understandable terms.",
+        "Successfully undertake a project-based assignment, showcasing their ability to conduct independent research, integrate theory and practice, and present their findings in a scholarly manner."
+    ],
+    "generic_skills": [
+        "Application of knowledge in science and engineering fundamentals, specifically in the context of environmental fluid mechanics.",
+        "2.\t    Proficiency in identifying, formulating, and providing solutions to complex engineering problems.",
+        "Communicate effectively in an engineering team.",
+        "The ability to exercise creativity and innovation, especially when addressing unique and challenging scenarios in the realm of environmental fluid mechanics."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual assignment",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 1",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual assignment",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group assignment (3 students per group)",
+            "bullets": [
+                "80 hours (of work required)"
+            ],
+            "hurdle": "Students must pass this assignment in order to pass the subject.",
+            "timing": "Week 3",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Bishakhdatta Gayen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures and 16 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "29 January 2024 to 16 February 2024",
+            "last_self_enrol_date": "31 January 2024",
+            "census_date": "9 February 2024",
+            "last_date_to_withdraw_without_fail": "16 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": "",
+            "contact_email": "bishakhdatta.gayen@unimelb.edu.au"
+        }
+    ]
+}

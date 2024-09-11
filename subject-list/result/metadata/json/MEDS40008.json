@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>This subject, the third subject in the Bachelor of Medical Science (Degree with Honours), provides you with the opportunity to conduct an independent research project, in the form of either an advanced systematic review, meta-analysis or empirical project. Utilising the research proposal developed in the subject Advanced Medical Research, under supervision, you will demonstrate the application of knowledge and skills to execute a research project relevant to an identified clinical problem. Upon completion of this subject, you will produce a piece of original research demonstrating an effective writing style and reflecting sound reasoning, clarity of thinking and compliance with style requirements. In addition, during this subject, you will undertake an experiential placement in an area relevant to your research project. The aim of this placement is to advance your understanding and appreciation of the relationship between research and clinical practice, and to directly observe the application of evidence-based medicine.</p>"
+    ],
+    "ilo": [
+        "conducting a research project, under appropriate supervision",
+        "selecting and using methods to ensure the appropriate collection, management, analysis, and storage of research data",
+        "the principles of ethical conduct of research",
+        "high level analytical skills and independent critical thinking to interpret research findings",
+        "assimilating and critically evaluating existing knowledge within a scientific paradigm",
+        "preparing specific case reports based on clinical cases experienced during clinical placement and critically discussing the relevant research evidence underpinning the cases",
+        "mastery in communicating complex scientific information in written and oral form, to a range of audiences."
+    ],
+    "generic_skills": [
+        "critical thinking, analysis, and appraisal skills",
+        "ability to seek out, retrieve and evaluate information from multiple sources",
+        "ability to explain complex concepts in written and oral form",
+        "appreciation and implementation of the ethics associated with knowledge creation and usage",
+        "report writing skills",
+        "time management skills",
+        "developing skills to work effectively in a team."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMEDS40007Introduction to Medical ResearchSemester 2 (Extended) (On Campus - Parkville)50"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS40007",
+                        "Name": "Introduction to Medical Research",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral Presentation: Research progress  (5 minutes presentation and 2 minutes Q&A).",
+            "bullets": [
+                "7 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6 of teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Student logbook - Based on clinical placement (minimum of five clinical case reports, 300 words per case report)",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Clinical placement supervisor evaluation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Final presentation of research findings to an audience of peers and professional colleagues (15 mins presentation and 5 mins Q&A)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "Satisfactory completion of this assessment is required to pass this subject.",
+            "timing": "End of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final research (advanced systematic review, meta-analysis or research project) report",
+            "bullets": [
+                "6500 words"
+            ],
+            "hurdle": "Satisfactory completion of this assessment is required to pass the subject.",
+            "timing": "End of the assessment period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Task associated with systematic/scoping review creation (eg performing literature searches, screening of studies, extracting data and critically appraising the scientific literature) and preparation of assessments = 300 hours \n\nMeeting with supervisor/research team = 20 hours\n\nWriting workshops = 20 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "25 March 2024 to 14 June 2024",
+            "last_self_enrol_date": "10 April 2024",
+            "census_date": "15 April 2024",
+            "last_date_to_withdraw_without_fail": "17 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

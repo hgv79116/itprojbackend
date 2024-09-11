@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>This subject is a core subject within the Graduate Certificate of Dental Public Health. Developed and delivered in collaboration with partners from the sector, this subject will provide the opportunity to apply the knowledge and skills acquired in the pre-requisite subjects to a real-world scenario. Students will undertake a population oral health project, they will work with partners from the sectors and gain exposure to a range of public health roles, perspectives and problems and develop skills in adopting a collaborative, team-based approach to developing solutions.</p>"
+    ],
+    "ilo": [
+        "Analyse a population oral health problem collaboratively with dental public health stakeholders.",
+        "Apply theoretical and methodological dental public health knowledge to identify solutions to complex population oral health problems.",
+        "Conduct a detailed investigation of a public or population dental health issue in a substantial project, working with key stakeholders, with a high-level of personal autonomy and accountability.",
+        "Communicate complex population oral health problems and their solutions to specialist and non-specialist audiences."
+    ],
+    "generic_skills": [
+        "Problem-solving",
+        "Finding, evaluating and applying relevant information",
+        "Demonstrating initiative, autonomy and organization",
+        "Written communication",
+        "Critical thinking and analysis",
+        "Demonstrating the ability to work collaboratively with team members"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90305",
+                        "Name": "Population Oral Health",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project plan for investigation of real-life population health problem",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group Oral  Presentation related to real-life population health problem \n\n(2-4 students per group, group mark)",
+            "bullets": [
+                "15 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "12x 2 hour weekly seminars\n\n6x 1 hour tutorials with group supervisor",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>This subject teaches students to read Latin and covers the material of two semesters. It covers grammatical concepts and paradigms, sentence formation, translation and the reading of simple texts. The aim is for students to acquire the elements of syntax, grammar and vocabulary of Latin, sufficient to begin reading literary and non-literary texts. Some background in Roman cultural and political life will also be covered. Completion of the subject will enable a student to enrol in Intermediate Latin.</p>"
+    ],
+    "ilo": [
+        "Read and comprehend basic Latin texts",
+        "Translate basic Latin passages and sentences into English",
+        "Identify and explain basic Latin grammar, vocabulary and syntax",
+        "Comprehend basic Latin stylistic techniques",
+        "Identify and articulate the relationship between basic Latin texts and their original socio-cultural context."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10006",
+                        "Name": "Latin 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLAS10007",
+                        "Name": "Latin 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLAS30004",
+                        "Name": "Intensive Beginners Latin",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CLAS10003 Intensive Beginners Latin"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Twelve in-class tests due throughout the intensive teaching period",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Six translation and comprehension exercises due throughout the intensive teaching period",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A mid-term exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "35%"
+        },
+        {
+            "brief": "A final exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "At the end of the summer semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Edward Jeremiah",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "96 hours - 1 hour lecture and 2 hours of tutorials per day for 32 days.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "8 January 2024 to 22 February 2024",
+            "last_self_enrol_date": "17 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": "",
+            "contact_email": "edwardj@unimelb.edu.au"
+        }
+    ]
+}

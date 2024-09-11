@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This is a specialised elective subject covering a range of environmental and waste treatment topics of key importance to society and of relevance to most chemical engineering industries. The subject builds on core chemical engineering knowledge and is complementary to the material presented in the Sustainable Processing subject. </p>",
+        "<p><br/>In this subject, students will develop a broad understanding of the nature of waste streams and the principles underlying their treatment. The subject will allow students to learn how to apply chemical and bioprocess engineering knowledge in the design and operation of a range of processes used to treat a variety of domestic, industrial and agricultural wastes. In addition to traditional processes, emphasis is placed on how improved processes can be developed to meet future challenges.</p>",
+        "<p><br/>The principles and technical knowledge developed in this subject are central to chemical engineers working on waste treatment in chemical industries and for municipal water and environmental management.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered include: the characteristics of liquid and solid wastes and the objectives of waste treatment; important waste assay procedures; primary, secondary and tertiary wastewater treatment processes; physical and chemical treatment processes for both liquid and solid wastes; biological waste treatment and the role of various microbial groups: anaerobic, facultative, aerobic and aerated lagoons and factors affecting their design; activated sludge and related processes; adherent growth processes and associated design considerations; biological and physico-chemical removal of nitrogen and phosphorus; anaerobic processes and their use in liquid and solid waste treatment; treatment and disposal of biosolids; recycling and reuse of wastes; sustainability and cleaner production.</p>",
+        "<p>A practical laboratory session using a bench scale wastewater treatment system will also be conducted.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Identify important characteristics of waste streams and the engineering and biological principles underlying their treatment",
+        "Design key elements of a wastewater treatment plant",
+        "Analyse the performance of a bench scale activated sludge unit."
+    ],
+    "generic_skills": [
+        "Capacity for independent thought",
+        "Ability to comprehend complex concepts and communicate lucidly this understanding",
+        "Awareness of advanced technologies in the discipline",
+        "Ability to work in a team (practical work component)."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "or"
+            },
+            {
+                "type": "paragraph",
+                "content": "All other Master of Engineering students may seek approval from their Course Coordinator and the Subject Coordinator to take this subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written mid-semester test.  Intended Learning Outcomes (ILOs) 1 and 2 are addressed in the mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Practical work report associated with the laboratory experiments. ILO 3 is addressed in the practical work report",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual written assignment based on a design exercise. ILOs 1 and 2 are addressed in the written assignment.",
+            "bullets": [
+                "6-8 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written exam. ILOs 1 and 2 are addressed in the examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "At least 40% in the final exam is needed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Greg Martin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "An average of 3-hours of lectures per week, 2x 3-hour practical work sessions per semester, and 1x field trip per semester",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Associate Professor Greg Martn",
+            "contact_email": "gjmartin@unimelb.edu.au"
+        }
+    ]
+}

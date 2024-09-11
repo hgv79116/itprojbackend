@@ -1,0 +1,85 @@
+{
+    "overview": [],
+    "ilo": [
+        "Analyse key concepts of business processes, and the importance of systematically managing such processes to improve organisational performance",
+        "Identify, organise and document business processes at different levels of detail using contemporary process modelling techniques",
+        "Apply qualitative and quantitative techniques to analyse process performance and to assess the impact of process changes",
+        "Analyse how IT can be used to deliver value by automating business processes, and how transactional data can be exploited to build insightful process analytics",
+        "Apply the knowledge and skills acquired holistically on a real-life business problem"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Ability to analyse complex business problems using abstraction and conceptualisation skills",
+        "Team-work skills",
+        "Professional writing skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90049",
+                        "Name": "Digital Business Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group based report, with 2 to 3 group members, of approximately 2500 words. Intended Learning Outcomes (ILO's) 1, 2 and 3 are addressed in the group report.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One group based report with 2 to 3 group members of approximately 3500 words. ILO's 1, 4 and 5 are addressed in the group report.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One written open-book examination. ILO's 1 to 5 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (25/50) in the end of semester written examination.\n\n",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Abel Armas Cervantes",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 2-hour lecture per week and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "abel.armas@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>This subject is an introduction to the key business processes that generate accounting data and information. It entails the study of the information systems that support business processes, and the risks and controls that effect the reliability of accounting transaction data and the quality of information contained in accounting reports.</p>"
+    ],
+    "ilo": [
+        "Describe and explain what is meant by Information quality in regards to accounting information",
+        "Explain the role of information systems and technology in achieving reliable accounting transaction data and reports",
+        "Interpret and analyse business process documentation",
+        "Explain the role of internal controls in managing risks",
+        "Recommend internal control plans to cover key business process risks and to achieve key business process operation and information control goals",
+        "Evaluate, analyse and interpret the efficacy of business processes and reliability of accounting data to ensure the quality of information in accounting reports"
+    ],
+    "generic_skills": [
+        "High level of development: Collaborative learning; problem solving; teamwork; interpretation and analysis; critical thinking; evaluation of data and other information; use of computer software; written communication; application of theory to practice",
+        "Moderate level of development: Oral communication; written communication; synthesis of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT10001",
+                        "Name": "Accounting Reports and Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACCT10002",
+                        "Name": "Introductory Financial Accounting",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Computerised ERP Practice Set (1000 words total)",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group assignment (4-5 students) consisting of a group video presentation and a Q&A session",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Subject participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Maggie Singorahardjo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1-hour pre-recorded lecture and 2-hour tutorial per week, and one 2-hour seminar in weeks 1, 6, 10, 12",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Maggie Singorahardjo",
+            "contact_email": "maggie.singorahardjo@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Maggie Singorahardjo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1-hour pre-recorded lecture and 2-hour tutorial per week, and one 2-hour seminar in weeks 1, 6, 10, 12",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Maggie Singorahardjo",
+            "contact_email": "maggie.singorahardjo@unimelb.edu.au"
+        }
+    ]
+}

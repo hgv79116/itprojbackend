@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>Experimental Economics is a branch of economics that uses controlled experiments to evaluate theories and behavioural assumptions, as well as to test policies and their implementation. The subject will introduce students to experimental methods as applied in economics and present key findings from laboratory and field experiments. The first lecture in most weeks will be devoted to running experiments where students will experience different economic situations. The second lecture will present the theories underlying the experimental games and will use the experimental data from the first lecture (as well as other experimental data) as a vehicle for discussion. By comparing actual individual behaviour to the theoretical predictions, the course aims to provide a deep understanding of individual behaviour and how economic science progresses. Topics that will be covered may include risk, time, and social preferences, trading in a variety of markets such as auction and markets with price controls and for trading long-lived assets, voluntary provision of public goods and cooperation enforcement, social norms and behavioural game theory.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Utilise laboratory experiments as a method for empirical investigation",
+        "Identify alternative approaches to analysing economic problems",
+        "Evaluate the predictive power of different economic theories",
+        "Demonstrate a comprehensive understanding of the topics covered through being exposed to the problem at hand"
+    ],
+    "generic_skills": [
+        "High level of development: oral communication; written communication; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information; use of computer software; receptiveness to alternative ideas.",
+        "Moderate level of development: collaborative learning; problem solving; team work; statistical reasoning; accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Weekly classroom experiment participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Weekly online quiz",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end-of-semester exam",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Laura Liu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours of lectures and practical sessions per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "yang.liu@unimelb.edu.au"
+        }
+    ]
+}

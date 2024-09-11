@@ -1,0 +1,152 @@
+{
+    "overview": [
+        "<p>This subject builds on the basic paediatric assessment skills gained in Paediatric Audiology A. Students will have the opportunity to learn the principles and practice of audiological assessment of children of all ages. Students will refine and expand their understanding of advanced paediatric testing techniques; educational and communication issues for hearing impaired children; assessment and management of children with special needs; assessment and management of hearing-impaired neonates and infants. Supervised clinical experience will be obtained in the diagnosis and management of hearing disorders in children of all ages.</p>",
+        "<p>Students are expected to meet the core participation requirements of the Masters of Clinical Audiology. Lectures, practicals, small group discussions/PBLs are all highly interactive and students are expected to participate and contribute in all classes. Teaching will be conducted face to face in large-group lectures, small group discussions/PBLs, and practical sessions (approximately 3 hours/week including the asynchronous activities such as pre-class readings/modules and optional quizzes that are there to help students gauge their level of understanding and identify current gaps in knowledge).</p>",
+        "<p>The subject is part of the clinical placement program. Students should be expected to be allocated to clinical placements at the University Clinic and across metropolitan and rural services including hospitals and community settings.</p>"
+    ],
+    "ilo": [
+        "Conduct accurate audiometric assessments with children of all ages, including those with developmental and/or behavioural problems and/or significant hearing loss",
+        "Adapt interpersonal communication skills to effectively manage children and advise and support parents/guardians in the clinic;",
+        "Analyse, interpret and integrate test results and be able to formulate appropriate management and intervention strategies",
+        "Conduct a complicated clinical assessment including clinical history, appropriate feedback to parents/guardians and write a well-constructed clinical report",
+        "Demonstrate analytical skills by incorporating the theoretical principles of clinical decision making."
+    ],
+    "generic_skills": [
+        "critical thinking, analytical and problem solving skills",
+        "the ability to integrate theory and practice and to apply this in novel situations",
+        "an openness to new ideas",
+        "planning and time management skills",
+        "the ability to communicate their knowledge in both oral and written form"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90012",
+                        "Name": "Electrophysiological Assessment A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90021",
+                        "Name": "Clinical Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90022",
+                        "Name": "Paediatric Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90023",
+                        "Name": "Hearing Devices and Rehabilitation A",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90001",
+                        "Name": "Electrophysiological Assessment B",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90024",
+                        "Name": "Hearing Devices and Rehabilitation B",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple choice quiz",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6, semester 1",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Multiple choice quiz",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6,  semester 2",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Clinical exam (simulated patient and oral exam)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass clinical exam to pass the subject",
+            "timing": "Exam period, semester 1",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Case study assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3, semester 2",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the written examination to pass the subject",
+            "timing": "End of semester 2",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Clinical portfolio and oral presentation",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": "Students must complete all components of the e-portfolio to a satisfactory standard (50% mark) and pass the oral presentation to pass the assessment.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Kelley Graydon",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "46 hours lectures and practicum sessions, 50 hours clinics.",
+            "total_time_commitment": "255 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Jocelyn Phillips",
+            "contact_email": "jocelyn.phillips@unimelb.edu.au"
+        }
+    ]
+}

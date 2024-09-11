@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject develops a fundamental understanding of the concepts behind and tools used for the analysis and design of analog and digital electronic systems. This is one of four subjects that define the Mechatronics Systems major in the Bachelor of Science and it is a core requirement of the Master of Engineering (Mechatronics).<strong><br/><br/>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:</p>",
+        "<p>Analog systems - time-domain differential equation models of RLC networks, initial conditions, transient response, transfer functions, frequency response, passive filters, impedance functions, two-port networks and dependent sources and matrix circuit representations, op-amp models.</p>",
+        "<p>Digital systems \u2013 encoding information and digital data processing, CMOS realisation of basic logic gates, timing contracts, acyclic networks, switching algebra, combinational logic synthesis, cyclic networks and memory, finite-state machines, metastability, synchronous timing and synchronisation, data-processing paths, control logic and stored-program machines.</p>",
+        "<p>Aspects of these topics will be explored through laboratory work involving simulation tools and hardware experiments.</p>"
+    ],
+    "ilo": [
+        "Model and analyse the linear time-invariant behaviour of electrical and electronic systems, in both the time and frequency domain",
+        "Design, construct and test passive and active electrical networks that achieve specified linear time-invariant behaviour",
+        "Use software tools to simulate the behaviour of linear electrical networks",
+        "Apply fundamental concepts and tools in the analysis and design of combinational and sequential logic systems, with an appreciation for the role and limitations of important digital abstractions",
+        "Configure and test digital hardware development platforms in the laboratory"
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals;",
+        "The ability to undertake problem identification, formulation, and solution;",
+        "The ability to utilise a systems approach to complex problems and to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Graduate Students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-MTRNENG Master of Mechatronics Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Undergraduate Students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN20005Foundations of Electrical NetworksSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20005",
+                        "Name": "Foundations of Electrical Networks",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30009",
+                        "Name": "Electrical Network Analysis and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30010",
+                        "Name": "Digital System Design",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the end-of-semester written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Continuous assessment of quizzes, submitted assignments, tutorial, laboratory, and small group (2-3 students) project work, not exceeding 30 pages in total over the semester",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A mid-semester test.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Gavin Buskes",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 x 1 hour lectures and 12 x 2 hour workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "g.buskes@unimelb.edu.au"
+        }
+    ]
+}

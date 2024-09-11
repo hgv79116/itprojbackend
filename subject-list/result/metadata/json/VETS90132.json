@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>Veterinary Professional Practice 1 centres on developing the skills and competencies required for veterinary employability. Students will integrate aspects of anatomy, clinical skills and imaging to enable understanding and implementation of the diagnostic process and treatment procedures. Students will also gain and apply an understanding of the essential employability attributes, including developing effective relationships, enhancing procedural and client communication skills, considering financial, ethical and legal aspects of practice, and curating psychological resources including mindfulness and self-compassion. Students will learn about relationship-centred care and will use ethical frameworks to analyse and address professional ethical challenges. Upon completion of this and the subsequent related subject (Veterinary Professional Practice 2), students will be prepared for their transition into work-integrated curricular experiences in the profession (clinical intra- and extra-mural placements).</p>"
+    ],
+    "ilo": [
+        "Demonstrate the psychomotor and professional skills required for entry to a clinical teaching environment in order to safely participate in intra- and extramural clinical experiences",
+        "Work collaboratively, communicate effectively, and combine regional and systemic anatomical knowledge with clinical skills in order to apply these to diagnostic, surgical and therapeutic procedures in animals",
+        "Utilise psychological resources to develop and sustain mindfulness and self-compassion, and to understand the difference between well-being and success",
+        "Employ adaptive and professional communication skills to manage a consultation, focusing on appropriate history-taking and empathetic rapport-building with the client",
+        "Use knowledge of ethical decision-making frameworks to address common and important clinical and professional problems"
+    ],
+    "generic_skills": [
+        "Have a broad knowledge of science across a range of fields, with an in-depth understanding in one scientific discipline",
+        "Understand the scientific method, and the history and evolution of scientific concepts",
+        "Be intellectually curious and apply a rigorous, critical and logical approach to enquiry",
+        "Be able to communicate ideas effectively in both written and verbal formats to both specialists and non-specialists",
+        "Reach a high level of achievement in writing, generic research activities, problem-solving and communication",
+        "Be efficient managers of information",
+        "Be able to apply technology to the analysis of biological problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90129",
+                        "Name": "Vet Bioscience: Locomotion",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written peer review of two student mock consultations\n\n150 words (each)\n\n300 words (total)",
+            "bullets": [
+                "150 words (each)"
+            ],
+            "hurdle": "Students must submit by the due date.",
+            "timing": "Due one week after communications practical",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Transcription of the recording of student's own mock consultation",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": "Students must submit by the due date. ",
+            "timing": "Due two weeks after communication practical",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written reflection on student's own mock consultation using peer feedback from two students and transcribed text",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 50% for the written reflection on the mock consultation.",
+            "timing": "Due two weeks after communication practical",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 50% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "51 hours of lectures, seminars and practical classes",
+            "total_time_commitment": "100 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "hofmann.j@unimelb.edu.au"
+        }
+    ]
+}

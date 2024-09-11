@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>This subject introduces Interns to the theory and practice of teaching Chemistry in the context of Australian/Victorian Curricula and Frameworks. This subject provides Interns with both the knowledge base and skills of professional practice, enabling them to effectively educate senior secondary school students (VCE) in this specific learning area, and to work effectively within school contexts.</p>",
+        "<p>Interns are supported to develop knowledge and skills related to curriculum content, best practice pedagogy and assessment, as well as the application and management of these activities in classrooms. Framed through the Clinical Teaching Model, they are supported to adapt and apply this knowledge in lesson planning, including the selection and integration of teaching strategies and resources, including the effective and appropriate use of ICT, to meet the specific needs of students from diverse backgrounds, and to engage students in their learning.</p>",
+        "<p>The assessment tasks in this subject will support the development of Interns\u2019 understanding of contemporary theories and pedagogies of the Chemistry field and their relationship with content and pedagogical knowledge, along with specific skills in developing, sequencing, and delivering programs.</p>"
+    ],
+    "ilo": [
+        "Critically reflect on research into how students learn through an emerging understanding of Chemistry curriculum and theory and implications for effective teaching practice.",
+        "Design achievable Chemistry learning goals, lesson plans and learning sequences, integrating knowledge of student learning, curriculum, assessment, and reporting.",
+        "Demonstrate strong Chemistry subject and pedagogical content knowledge that meets the specific needs of students from diverse backgrounds and promotes participation and inclusion of all students in their learning.",
+        "Select and integrate Chemistry teaching strategies and resources, including ICT, to meet the specific needs of students from diverse backgrounds, and to engage students in their learning."
+    ],
+    "generic_skills": [
+        "Clinical reasoning and evidence-based practice.",
+        "Critical and creative thinking.",
+        "Creativity and innovation.",
+        "Learning to learn and metacognition.",
+        "Responsiveness to a changing knowledge base.",
+        "Reflection for continuous improvement.",
+        "Linking theory and practice.",
+        "Inquiry and research."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsEDUC91096Learning Area Chemistry 1Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91096",
+                        "Name": "Learning Area Chemistry 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Planning document: Lesson plan",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Report: Written\u202freport\u202fon pedagogical content knowledge",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "8 weeks after the end of the intensive",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours (16 hours of on campus classes and 8 hours of asynchronous online activities).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "20 November 2023 to 12 January 2024",
+            "last_self_enrol_date": "30 November 2023",
+            "census_date": "5 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "11 March 2024",
+            "contact_name": null,
+            "contact_email": "emily.rochette@unimelb.edu.au"
+        }
+    ]
+}

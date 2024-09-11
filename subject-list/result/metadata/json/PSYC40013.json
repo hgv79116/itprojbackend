@@ -1,0 +1,135 @@
+{
+    "overview": [
+        "<p>This Capstone subject draws together students\u2019 experiences in the Graduate Diploma in Psychology by emphasising links between the science and practice of psychology in contemporary life.</p>",
+        "<p>The lectures engage students in considering topics related to current applications of psychological research and practice such as the ethical practice of psychology and the measurement of attitudes, behaviour, and behavioural change as related to contemporary issues such as climate change, indigenous cultural respect, drug addiction, and psychological health and wellbeing.</p>",
+        "<p>The research seminars engage students in small groups to design and conduct a research project under the supervision of an academic researcher. </p>",
+        "<p>The graduate attributes seminars engage students in interactive activities to develop their skills in reflective practice and oral presentation.</p>",
+        "<p>Together, the three components of the subject prepare students for further studies in psychology or to enter the workplace having developed skills in applying psychological knowledge, conducting research, working collaboratively, and communicating effectively about psychological theories and findings.</p>",
+        "<p>Students present their research findings in individual oral presentations to their peers and academic staff at the end of semester. Students reflect on the development of their psychological knowledge and skills, articulating their achievements in a Graduate Attributes Portfolio.</p>"
+    ],
+    "ilo": [
+        "The key research findings that underpin psychological science and how these can be applied to psychological practice and contemporary social issues.",
+        "The principles of ethical research and practice in psychology, with reference to the Australian Psychological Society Code of Ethics and NHMRC National Statement on Ethical Conduct in Human Research.",
+        "An awareness of and respect for diverse experiences and culture, including specific reference to the experiences and cultures of Aboriginal and Torres Strait Islander peoples."
+    ],
+    "generic_skills": [
+        "Literature review and research methods;",
+        "Critical thinking and analysis of arguments;",
+        "Reflective thinking and self-evaluation;",
+        "Giving and receiving feedback;",
+        "Goal setting, time management and self-directed learning;",
+        "Effective written and oral communication;",
+        "Sensitivity to ethical issues and cultural diversity;",
+        "Working effectively in a team to design, execute and present a collaborative project."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPSYC40014Advanced Research Methods in PsychologySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC40014",
+                        "Name": "Advanced Research Methods in Psychology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of least two Level 2 subjects."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC30021",
+                        "Name": "Psychological Science: Theory & Practice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual written report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Individual Oral Presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Graduate Attributes Portfolio, 500 words",
+            "timing": "Week 8",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "80% attendance at research seminars, throughout semester. In case of failure to meet the attendance requirement, additional work related to the missed class activities (e.g., short 500 word essay on missed topic) will be required before a passing grade can be awarded.\n\n\n\n\u00a0",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "40 hours",
+            "total_time_commitment": "185 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

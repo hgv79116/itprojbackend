@@ -1,0 +1,76 @@
+{
+    "overview": [
+        "<p>This subject will provide the general conceptual framework for understanding teaching and learning in early childhood. It will examine how learning can be enhanced from a range of evidence-based theoretical perspectives. Candidates will develop a range of strategies for reporting to children/students and parents/carers and develop understanding of the purpose of keeping accurate and reliable records of student achievement.</p>",
+        "<p>Topics include: the clinical teaching cycle (observational assessment including making consistent judgements about learning, planning for learning, curriculum programming, implementation; critical reflection and evaluation); theories of learning; play-based learning; intentional teaching; and designing productive learning environments. These topics underpin the learning as articulated in the Early Years Learning Framework (EYLF), and the Victorian Early Years Learning and Development Framework (VEYLDF); National Quality Frameworks (NQS); The Victorian Curriculum; Australian Curriculum.</p>"
+    ],
+    "ilo": [
+        "Identify learning as a process and a product that have implications for teaching judgements (Graduate Standards 1.2; 5.1; 5.4)",
+        "Collect, analyse, interpret and record the assessment evidence about learners, what they already know and what they are ready to learn to make consistent and comparable judgements about learning and subsequent teaching, reporting the outcomes to learners, parents/carers (Graduate Standards 1.1; 3.1 5.1; 5.3; 5.4, 5.5)",
+        "Recognise and plan for research informed pedagogical practices for a specific context (Graduate Standards 1.2; 2.1; 3.2; 3.3)",
+        "Recognise and develop supportive learning environments with a focus on promotion of positive behaviour and purposeful engagement in learning (Graduate Standards 3.4; 4.1; 4.2; 4.3; 4.4)"
+    ],
+    "generic_skills": [
+        "Clinical reasoning and thinking",
+        "Problem solving",
+        "Evidence based decision making",
+        "Creativity and innovation",
+        "Teamwork and professional collaboration",
+        "Learning to learn and metacognition",
+        "Responsiveness to a changing knowledge base",
+        "Reflection for continuous improvement",
+        "Linking theory and practice",
+        "Inquiry and research",
+        "Active and participatory citizenship."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90895",
+                        "Name": "Educational Foundations (EC)",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Essay",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Planning document",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Minimum of 80% attendance at all scheduled lectures, tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

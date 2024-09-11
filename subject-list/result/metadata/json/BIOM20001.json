@@ -1,0 +1,173 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">The subject introduces students to the molecular and cellular aspects of biological systems, with particular emphasis on human biology. The subject is arranged for students to develop an understanding of the molecular aspects of biology at the biomolecular, sub-cellular and cellular level, leading to systems biology at an organismal level. This includes an understanding of the molecular and cellular basis of infections and host cell responses. The subject is multi-disciplinary being co-taught by staff in the departments of Anatomy &amp; Neuroscience, Biochemistry &amp; Molecular Biology, Genetics, Microbiology &amp; immunology, and Pathology. There is particular emphasis on integration of these disciplines, with students receiving both theoretical and practical knowledge of fundamental research and development at the frontiers of these areas.</p>",
+        "<p class=\"MsoNormal\"> </p>"
+    ],
+    "ilo": [
+        "Integrate and apply key concepts in biochemistry, genetics, cell biology, microbiology and immunology to describe normal functions in prokaryotic and eukaryotic cells.",
+        "Integrate and apply knowledge of the basic principles of pathology to clinically relevant case studies.",
+        "Apply knowledge of the molecular and cellular basis of infection, immunity and pathology to explain pathological changes to cells and tissues.",
+        "Collaboratively apply knowledge in biochemistry, genetics, cell biology, microbiology, immunology and pathology to explain and communicate scientific observations.",
+        "Collaboratively interpret and analyse scientific and experimental data relating to normal functions and pathological changes in prokaryotic and eukaryotic cells."
+    ],
+    "generic_skills": [
+        "Analytical and problem solving skills",
+        "The ability to communicate scientific knowledge in oral and written format",
+        "Collaborative learning skills in practicals and computer-aided workshops",
+        "Collaborative learning skills to complete assessment tasks",
+        "Skills in interpretation and critical analysis of scientific data",
+        "Capacity to integrate and apply knowledge across disciplines",
+        "The ability to comprehend a question, evaluate the relevant information and communicate an answer."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOM10002Exploring BiomedicineSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM10002",
+                        "Name": "Exploring Biomedicine",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10003 Genes and Environment"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CEDB20003",
+                        "Name": "Fundamentals of Cell Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MIIM20001",
+                        "Name": "Principles of Microbiology & Immunology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PATH20001",
+                        "Name": "Exploring Human Disease",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Passing BIOM20001 Molecular and Cellular Biomedicine precludes subsequent credit for BCMB20006 Biochemistry in Agricultural Systems"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment (group work preparation - 4-6 students)",
+            "bullets": [
+                "100 words (equivalent)"
+            ],
+            "hurdle": "Task must be completed to satisfactory standard (ie. a pass grade).",
+            "timing": "Week 2 or week 3",
+            "percentage": "0%"
+        },
+        {
+            "brief": "2x written assignment (5% each)\n\nThroughout the teaching period",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": "Task must be completed to satisfactory standard (ie. a pass grade)",
+            "timing": "Week 3 or Week 4 and Week 9 or Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "5x intra-semester test (10% each)\n\nThroughout the teaching period",
+            "bullets": [
+                "45 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "In Week 4, Week 6, Week 8, Week 10 and Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "2 x examinations\n\nPart 1: written exam, individual assignment, 2 hours (30%)\n\nPart 2: written exam, group (4-6 students) assignment, 1 hour (10%)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Must attend at least 80% of practical classes.",
+            "bullets": null,
+            "hurdle": "Must attend at least 80% of practical classes.",
+            "timing": "",
+            "percentage": "0%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Odilia Wijburg",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Contact hours: \n\nWeekly: \n\n3hrs asynchronous lectures (pre-recorded)\n\n4hrs synchronous workshops\n\n\n\nFortnightly (total of 5 repeats):\n\n3hrs synchronous practical\n\n1hr synchronous assessment session\n\n\n\nTotal contact hours: 92 hours\n\n12 x 7hrs = 72 hrs\n\n5x 3hrs practicals = 15 hrs\n\n5x 1hr assessment session = 5 hrs",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

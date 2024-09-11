@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p>The subject involves undertaking a substantial research project requiring an independent investigation on an approved topic in advanced engineering research and / or design. Each project is carried out under the supervision of a member of academic staff and where appropriate, an industry partner.</p>",
+        "<p>The emphasis of the project is associated with a problem formulation that will require an explorative approach, where students will pursue outcomes associated with new knowledge or understanding, within the engineering science disciplines, often as an adjunct to existing academic research initiatives.</p>",
+        "<p>It is expected that the Engineering Research Project will incorporate findings associated with both well-defined professional practice and research principles and will provide students with the opportunity to integrate technical knowledge and generic skills gained in earlier years.</p>"
+    ],
+    "ilo": [
+        "ILO1. carry out independent research and be proficient in the use of common research tools, and familiar with some of the specific research tools relevant to the selected topic of research;",
+        "ILO2. describe and critically appraise the role of published research, precedent, prior art, patents, registered designs and standards in the engineering project;",
+        "ILO3. demonstrate proficiency in analytical, problem-solving, research and design skills, including those appropriate for sustainable development",
+        "ILO4. apply standard engineering project management tools;",
+        "ILO5. integrate into the engineering research the professional ethics and responsibility considerations towards the profession and the community;",
+        "ILO6. effectively communicate the outcomes of various stages of an engineering and research project;",
+        "ILO7. explore and articulate the impact of the engineering research and design exercise in the wider community."
+    ],
+    "generic_skills": [
+        "Capacity for independent thought;",
+        "Ability to apply knowledge of engineering science and engineering methods to solve complex problems;",
+        "Ability to comprehend complex concepts and effectively communicate this understanding;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to plan work and to use time effectively;",
+        "Ability to function effectively in multidisciplinary teams, with the capacity to be a leader or manager as well as an effective team member;",
+        "Ability to manage project group dynamics;",
+        "Ability to function effectively in a professional engineering environment;",
+        "Ability to communicate effectively, not only with engineers but also with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENGR90041Engineering Research Project Part 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90041",
+                        "Name": "Engineering Research Project Part 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research Proposal (individual assessment). Intended Learning Outcomes (ILOs) 1-7 are addressed in this assessment.",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Non-technical presentation to lay-audience (individual assessment). ILOs 2-7 are addressed in this assessment.",
+            "bullets": [
+                "15 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final Report (individual assessment). ILOs 1-7 are addressed in this assessment.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": "Students must pass the final report to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Oral Examination (individual assessment). ILOs 1-7 are addressed in this assessment.",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": "Students must pass the oral examination to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Bishakhdatta Gayen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "A minimum of 1 hour per week of contact with academic supervior (and industry supervisor where applicable).",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "bishakhdatta.gayen@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "A minimum of 1 hour per week of contact with academic supervior (and industry supervisor where applicable).",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "bishakhdatta.gayen@unimelb.edu.au"
+        }
+    ]
+}

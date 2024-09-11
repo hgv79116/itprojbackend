@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>This subject is designed to equip students with the tools necessary to enable them to make the core decisions faced by managers and investors. The first part of the subject deals with establishing the environment in which organizations operate, namely the objectives of the suppliers of financial and human capital. The subject then considers the basic tools commonly employed by financial managers and investors including discounted cash flow techniques and financial mathematics. Measures and definitions of alternative forms of risk are considered and the relation between risk and expected reward in capital markets is established. Finally, the subject considers the important decisions faced by firms (such as investment, financing and dividend policy) and by investors (the composition of their optimal portfolio of stocks).</p>"
+    ],
+    "ilo": [
+        "Analyse the environment in which organizations operate, namely the objectives of suppliers of financial and human capital;",
+        "Apply basic financial mathematical techniques;",
+        "Recognise the fundamentals of capital budgeting; the foundation for the use discounted cash flow techniques and the contribution of alternative methods of project evaluation;",
+        "Explain the benefits of diversification and the main drivers of those benefits;",
+        "Differentiate between alternative forms of risk and understand the link between risk and return in a competitive market;",
+        "Describe the nature of leverage and the constraints borrowers face in its use;",
+        "Evaluate the alternatives available to a firm when deciding how to distribute its profits;",
+        "Analyse hedging decisions and their effect on investor and/or manager utility; and",
+        "Understand the costs and incentive effects of alternate executive compensation packages."
+    ],
+    "generic_skills": [
+        "An in-depth knowledge of capital markets through an interpretation and analysis of the environments in which these markets operate;",
+        "Critical and evaluative thinking in relation to alternate forms of risk;",
+        "Communication skills which will be developed through an engagement with business press reporting;",
+        "Problem solving skills through discussion of decisions in relation to optimal debt levels for firms; optimal investment decision and optimal dividend policy;",
+        "Synthesis of data and other information through discussion of alternatives in financial decision making;",
+        "Evaluation of data and other information through differentiation of forms of risk;",
+        "Interpersonal and decision-making skills and receptiveness to alternative ideas through tutorial and team work/collaborative exercises; and",
+        "Ethical thinking and work practice skills in financial decision making through case studies."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE90065",
+                        "Name": "Fundamentals of Finance",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject is not available to students enrolled in MC-MGMTAFN Master of Management (Accounting and Finance)."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group (normally 3-4 students per group) homework assignments to be assessed online via the LMS",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group (normally 3-4 students per group) homework assignments to be assessed online via the LMS",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid-semester exam.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Yoon Kang Lee",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Maurice McCourt",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

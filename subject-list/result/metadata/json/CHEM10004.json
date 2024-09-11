@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>This subject provides the continuation of the introduction to the basic concepts of General Chemistry, including chemical kinetics; a revision of carbon-based acids and bases; nucleophilic substitution reactions; elimination reactions; addition reactions; electrophilic aromatic substitution reactions; nucleophilic addition reactions; redox reactions in carbon compounds; spectroscopy and determination of structure; redox reactions and electrochemistry; isolation processes of metals; transition-metal compounds and their nomenclature; coordination chemistry; molecular orbital theory and band structures; properties and structures of solids; aspects of main-group chemistry.</p>"
+    ],
+    "ilo": [
+        "Define the role of chemistry in biology, technology and the physical environment, including the evolution of current theories;",
+        "Illustrate how the individual concepts taught throughout this subject connect with each other and with the concepts learned in Chemistry 1 to form a fundamental basis of the chemical sciences;",
+        "Execute basic laboratory experiments; analyse and interpret experimental data and write laboratory reports;",
+        "Apply safe handling and disposal of laboratory chemicals associated with health and safety issues;",
+        "Describe the kinetics of chemical reactions; synthetic strategies to obtain carbon-based molecules and pure metals; concepts of redox chemistry; the connection between molecular orbital theory and band structures; typical characteristics of structures of solids;",
+        "Determine chemical structures through the analysis of spectroscopic data;",
+        "Outline the unique characteristics of main-group and transition-metal compounds;",
+        "Identify the general scientific research process and how to critically analyse scientific data."
+    ],
+    "generic_skills": [
+        "the organization of work schedules that permit appropriate preparation time for tutorials, practical classes and examinations;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10009",
+                        "Name": "Chemistry for BioSciences",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Ten equally weighted on-line tests on the lecture content (the ten best out of eleven tests count)",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Ongoing assessment of practical work (6 x 3 hour practicals)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Satisfactory completion of practical work is necessary to pass the subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "65%"
+        },
+        {
+            "brief": "2 Independent Learning Tasks",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": "Independent learning tasks need to be completed in order to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "6 x one-hour lectures per week , 1 x three-hour practicals activities per week , 2 x one-hour tutorial/workshop sessions per week, 6 hours of computer aided learning during semester, 8 hours of independent learning tasks during the teaching period.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to  9 February 2024",
+            "last_self_enrol_date": "9 January 2024",
+            "census_date": "12 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "16 February 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sonia Horvat",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week, 6 x 3 hours of practical activities during semester, 1 x one-hour tutorial/workshop sessions per week, 6 hours of computer aided learning during semester, 8 hours of independent learning tasks during semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Sonia Horvat",
+            "contact_email": "shorvat@unimelb.edu.au"
+        }
+    ]
+}

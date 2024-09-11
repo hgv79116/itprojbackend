@@ -1,0 +1,142 @@
+{
+    "overview": [
+        "<p>Emerging trends in globalization and renewed emphasis on operations as a source of competitive advantage have led to organisational changes that focus on inter-functional coordination, often spanning several firms in the supply chain. This course discusses recent developments in manufacturing-marketing-supply chain linkages and studies operational decisions that make such interfaces efficient and effective. It explores inter-functional dependencies, sources of conflicts, and on effective managerial decision making paradigm. The course principles are based on the premise that an organisation can become globally competitive when all elements that comprise its supply chain network are efficient and decision making is coordinated across the chain. The course will present in detail issues related to market-led operations, managing supply and distribution channels, and methodology.</p>"
+    ],
+    "ilo": [
+        "Analyse real-world supply chains and evaluate their consistency of the supply chains with the firm strategy.",
+        "Develop detailed analytical models for designing periodic and continuous review inventory systems.",
+        "Utilize managerial levers available to lower safety inventory and improve product availability.",
+        "Identify the factors affecting the optimal level of product availability and evaluate the optimal service level.",
+        "Design incentives for improved inter-firm and intra-firm coordination of activities in a supply chain.",
+        "To design logistics systems and formulate integrated supply chain strategy.",
+        "To develop models to minimize the demand-supply mismatch costs using quick-response with reactive capacity.",
+        "To develop robust approaches for minimizing bullwhip effect.",
+        "Tackle challenges in ethical sourcing in global supply chain networks."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90481",
+                        "Name": "Managerial Ethics & Business Environment",
+                        "Teaching period": "April (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90060",
+                        "Name": "Data Analysis",
+                        "Teaching period": "January (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90193",
+                        "Name": "Managerial Economics",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90224",
+                        "Name": "Managing People",
+                        "Teaching period": "April (On Campus - Parkville)January (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90227",
+                        "Name": "Operations",
+                        "Teaching period": "April (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90243",
+                        "Name": "Marketing",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90001",
+                        "Name": "Financial Accounting",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90093",
+                        "Name": "Finance",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90074",
+                        "Name": "Global Business Economics",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90026",
+                        "Name": "Business Strategy",
+                        "Teaching period": "July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)April (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to class learning",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "3 Syndicate case assignments, Week 4, 8 & 10",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "15 January 2024 to 22 March 2024",
+            "last_self_enrol_date": "10 December 2023",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "1 March 2024",
+            "assessment_period_ends": "29 March 2024",
+            "contact_name": "Degree Program Services",
+            "contact_email": "programservices@mbs.edu"
+        }
+    ]
+}

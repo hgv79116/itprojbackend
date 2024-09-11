@@ -1,0 +1,135 @@
+{
+    "overview": [
+        "<p>This subject explains and provides illustrative applications of microeconomic theory of the behaviour of households, firms and government and how the behaviour of the private sector and the public sector influence the efficiency of the economy. Topics include consumer theory, producer theory, perfect competition and general equilibrium, market failures associated with market power, externalities and public goods.</p>"
+    ],
+    "ilo": [
+        "Explain the core microeconomic theories of the consumer and the firm;",
+        "Identify the usefulness and limitations of these theories;",
+        "Apply microeconomic theories to economic problems faced by business and other decision makers under different assumptions about market structure and under different assumptions about available information;",
+        "Critically evaluate the role of markets and governments in solving the economic problems facing societies;",
+        "Apply economic tools to the analysis and solution of selected decision problems facing businesses; and",
+        "Synthesise theory and practice in the context of selected public policy issues."
+    ],
+    "generic_skills": [
+        "High level of development: oral communication; written communication; collaborative learning; problem solving; team work; application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: synthesis of data and other information; evaluation of data and other information; receptiveness to alternative ideas.",
+        "Some level of development: statistical reasoning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-MGMTAFN Master of Management (Accounting and Finance)",
+                    "MC-AEMTRCS Master of Applied Econometrics",
+                    "MC-AECOENH Master of Applied Econometrics (Enhanced)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON90015Managerial EconomicsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90015",
+                        "Name": "Managerial Economics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignments equivalent to 1000 words",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One hour in -class test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignments equivalent to 1000 words",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Note: Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Svetlana Danilkina",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "sdanilki@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>This course covers a diverse range of topics related to the operation and design of helicopters. Civilian and military operators are increasingly using helicopters for a variety of applications. In certain roles helicopters offer numerous advantages over fixed-wing aircraft by meeting the growing needs of multi-dimensional flight including hover. The unique roles and missions of helicopters introduce several design issues and challenges for the design engineer to address.</p>",
+        "<p>Helicopter design is governed by the role, missions, payload, mission systems (internal or external) and the flight profile. This requires an understanding of helicopter operations; of mission systems technologies to provide the mission capability; and of aerodynamics to provide the flight performance.</p>",
+        "<p>Through the subject, students will be able to transform helicopter system operational requirements to design requirements; and be able to apply helicopter conceptual design stages. As an exercise, the students will develop a conceptual design of a helicopter, based on the proposed role of the helicopter and mission requirements.</p>"
+    ],
+    "ilo": [
+        "Have the skill to apply fundamental concepts to perform preliminary design and assessment of performance for an overall helicopter design.",
+        "Be able to recognise the challenges associated with helicopters and related technology and appreciate the broad applicability of engineering concepts within mechanical and aerospace engineering.",
+        "Be able to identify the key parameters affecting helicopter performance.",
+        "The skills to design helicopter components using preliminary design tools."
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals",
+        "The ability to undertake problem identification, formulation and solution",
+        "The ability to utilise a systems approach to complex problems, design and operational performance",
+        "The ability to undertake problem identification, formulation and solutions."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90008",
+                        "Name": "Fluid Dynamics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN90015",
+                        "Name": "Thermodynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual assignment of approximately 10 pages, covering Mission analysis, Mission systems analysis. Intended Learning Outcome (ILO) 1 is covered in this assignment.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Individual design exercise with design report submission  (approximately 30 pages) covering Mission payload design, Flight profile development,\tConfiguration alternatives and selection,\tRotor sizing and external configuration design,\tDesign optimisation. ILOs 1 to 4 are covered in this assessment.",
+            "bullets": [
+                "90 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Winter Term - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (24 hours of lectures and 12 hours of tutorials)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "24 June 2024 to 19 July 2024",
+            "last_self_enrol_date": "28 June 2024",
+            "census_date": "5 July 2024",
+            "last_date_to_withdraw_without_fail": "12 July 2024",
+            "assessment_period_ends": "19 July 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Winter Term - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours (24 hours of lectures and 12 hours of tutorials)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "24 June 2024 to 19 July 2024",
+            "last_self_enrol_date": "10 November 2023",
+            "census_date": "5 July 2024",
+            "last_date_to_withdraw_without_fail": "12 July 2024",
+            "assessment_period_ends": "19 July 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

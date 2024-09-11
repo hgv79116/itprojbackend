@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of the subject is to provide theoretical and practical treatment of high-speed electronics. Through the subject, students will grasp the fundamental properties and models of high-speed signals and interconnects, acquire high-speed digital design skills with a focus on the modelling, analysis, design and application of high speed transistors, logic gates and modern logic families, and master the high-speed analogue design capability including the design of oscillators and filters for RF applications. The students will be exposed to the state-of-the-art technologies that are shaping the fast evolving semiconductor industry<strong>.<br/><br/>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>The topics include:</p>",
+        "<ul><li>Fundamental properties of analogue systems;</li><li>Smith charts: principles and applications;</li><li>High-speed analogue circuits: voltage control oscillators, matching networks, and low noise amplifiers;</li><li>Bipolar junction transistors: device, switching, and logic;</li><li>CMOS: device, switching and logic;</li><li>High-speed signalling consideration: power dissipation, heat, signal propagation, and termination.</li></ul>"
+    ],
+    "ilo": [
+        "Understand the properties and fundamental limitations of high speed electronic systems in terms of the underlying physical principles",
+        "Quantitatively model and analyse high speed electronic systems and interconnects in both the digital and analogue domain",
+        "Simulate the behaviour of high speed electronic systems using software tools",
+        "Conduct basic test procedures for high speed signals and systems"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90056",
+                        "Name": "Electronic Circuit Design",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "ELEN40010 Digital Systems 4: High Speed Systems"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One final written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Continuous assessment of submitted tutorial work, lab participation and reports, not exceeding 20 pages in total over the semester",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and up to 24 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "chrislim@unimelb.edu.au"
+        }
+    ]
+}

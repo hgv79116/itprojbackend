@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>This subject is an in-depth examination of property investment and financing strategy and decision-making, with a focus on cash flows, return, and value. Property investments are surveyed with emphases on the analysis of commercial real estate and the theory and methods of investment analysis in respect to tax and financial consequences. Financial and non-financial determinants of investment feasibility of income-producing property are covered. The subject covers a range of approaches used in financing of investment properties. A case-based approach facilitates student learnings in analysing investment and financing strategies as they are applied to real world scenarios. Students will learn financial modelling skills, the art of investment and financing decision making involving qualitative and quantitative skills, and considerations that add value to property assets and investment portfolios of investors</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Evaluate property cash flows for asset valuation using proforma analysis;",
+        "Conduct risk return analysis to property investment decisions;",
+        "Apply modern investment theory to the analysis of directly held property assets and construct optional asset portfolio;",
+        "Examine alternative financing mechanisms for development of properties, investment in income producing properties and for properties for the use of businesses;",
+        "Develop and use spreadsheet based financial modelling techniques."
+    ],
+    "generic_skills": [
+        "Communication skills:written and oral skills developed through online and verbal discussion threads;",
+        "Spreadsheet/Calculator skills:competent use of Microsoft Excel and financial calculator required in class and in tutorials;",
+        "Synthesis and professional application:application of practical and theoretical concepts to investment decision-making through midterm and final examinations;",
+        "Personal skills:individual time management, self-directed reading and information synthesis."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90011",
+                        "Name": "Advanced Property Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL90026",
+                        "Name": "Property Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Analysis of a case requiring decision related to repositioning of an investment portfolio",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 2: Analysis of a case involving construction of a portfolio of assets for an investor",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "ssignment 3: \n\nAnalysis of a case requiring investment decision for a proposed development project",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 4: Analysis of a case requiring examination of various financing options",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 3 hour  lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Piyush Tiwari",
+            "contact_email": "Piyush.tiwari@unimelb.edu.au"
+        }
+    ]
+}

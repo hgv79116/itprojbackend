@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>This subject builds on students\u2019 prior knowledge, exploring the diversity and unity of life through the lens of five core concepts: evolution, cell theory, regulation, transmission of information and interconnectedness in biological systems. These concepts will be studied at the molecular, cellular, and individual level. Topics will include the evolution of life from the abiotic to the individual, the molecular and physical structure of the cell, cell replication and gene expression, homeostasis and physiological systems regulation, respiration, and interactions within and between organisms.</p>"
+    ],
+    "ilo": [
+        "demonstrate an understanding of the evolution of life from the molecular level to the multicellular;",
+        "recognize cells as the fundamental structural and functional unit of life with respect to their molecular machinery, cellular function and cellular interaction;",
+        "explain the importance of information being conserved or modified within, and transferred between, cells and organisms;",
+        "describe the chemical nature of biological processes and the way cells and organisms regulate their (internal) environment;",
+        "explain the interconnected and interacting nature of living systems by drawing on examples of networks at the molecular, cellular and individual levels;",
+        "identify biology as an evolving science based on concepts developed from observations, experiments, and data analysis;",
+        "identify connections between major concepts in biology; and",
+        "design and perform an inquiry-based project and interpret the data."
+    ],
+    "generic_skills": [
+        "demonstrate an understanding and application of the scientific process in theoretical and practical settings;",
+        "use appropriate protocols for making observations and recording data;",
+        "competently use appropriate equipment;",
+        "use quantitative reasoning and analysis;",
+        "collaborate effectively in a team;",
+        "demonstrate well developed information literacy and communication skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Pre 2021: BIOL10004 - Biology of Cells and Organisms"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Test 1 \u2013 30 minutes (Week 4) 10%  \n\nTest 2 \u2013 60 minutes invigilated MST (Weeks 8 \u2013 9) 20%\n\nTest 3 \u2013 30 minutes (Weeks 11 \u2013 12) 10%",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Laboratory practical attendance and completion of in class activities",
+            "bullets": null,
+            "hurdle": "Student participation in practical activities for at least 80% of the practical classes as demonstrated by submission of practical notes and activities completed before and during class. For the purposes of meeting this hurdle requirement, each submission must be submitted during or immediately after  the scheduled practical class and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "A written project report",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of interactive seminars (2 x 1 hour per week across semester) \n\n15 hours of practical classes (5 x 3 hours, approximately fortnightly across semester) \n\n12 hours of workshops (6 x 2 hours, fortnightly across semester)\n\nStudents are also expected to undertake up to 24 hours of independent online activities including watching videos and instant feedback activities (2 hr per week)",
+            "total_time_commitment": "175 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "BIOL10002-info@unimelb.edu.au"
+        }
+    ]
+}

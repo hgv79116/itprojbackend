@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>This subject examines the design, delivery, and evaluation of positive interventions and approaches to fostering wellbeing and other positive outcomes across a range of contexts, such as at home, in the workplace, and in the local community. Nuances of delivery format in each delivery setting will be presented, discussed and critiqued. Ethical issues associated with applying positive interventions relevant to each context will be discussed, drawing upon guidelines from various disciplines. Strategies for evaluating the effectiveness, efficacy, and implementation of interventions and programs will be considered. Through experiential approaches, students will gain clarity on the design and implementation of programs, an appreciation of ethical practice, and understanding of basic evaluation skills.</p>"
+    ],
+    "ilo": [
+        "Identify positive psychology and wellbeing-related interventions and approaches.",
+        "Illustrate factors that impact the applications of positive interventions and approaches.",
+        "Critically evaluate practices and interventions employed in positive psychology, wellbeing science, and related disciplines.",
+        "Develop ethically sensitive approaches to improve wellbeing across a range of contexts.",
+        "Demonstrate reflective practice regarding learning and professional application of positive approaches."
+    ],
+    "generic_skills": [
+        "Ability to critically investigate, revise and review new ideas and approaches.",
+        "Effective organisational and planning skills.",
+        "High level communication (oral and written) skills.",
+        "Application of behaviour change methods.",
+        "Ability to gather, interpret, and distinguish relevant supporting scientific evidence and data."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91041",
+                        "Name": "Principles of Positive Psychology",
+                        "Teaching period": "July (Online)March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students that commenced their course prior to 2022 may have completed EDUC90787 Principles of Positive Psychology."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online open book test on wellbeing-related interventions (1000 words equivalent)",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written essay on positive interventions",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Case study report applying positive interventions",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at a minimum of 75% at all synchronous sessions",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March - Online",
+            "principal_coordinator": "Aaron Jarden",
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours: Comprising 12 hours of synchronous online sessions and 12 hours of asynchronous online sessions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "5 March 2024 to 14 May 2024",
+            "last_self_enrol_date": "27 February 2024",
+            "census_date": "22 March 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "29 May 2024",
+            "contact_name": null,
+            "contact_email": "aaron.jarden@unimelb.edu.au"
+        },
+        {
+            "semester": "July - On Campus",
+            "principal_coordinator": "Aaron Jarden",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours: Comprising 12 hours of on-campus sessions and 12 hours of asynchronous online sessions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 July 2024 to 11 October 2024",
+            "last_self_enrol_date": "22 July 2024",
+            "census_date": "16 August 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "23 October 2024",
+            "contact_name": null,
+            "contact_email": "aaron.jarden@unimelb.edu.au"
+        }
+    ]
+}

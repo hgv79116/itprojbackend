@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>This subject introduces students to the special requirements necessary for the successful design of high rise buildings. Elements of high rise building design considered in the subject are structural floor, framing and foundation systems, wind loading including wind tunnel testing and earthquake loading, analysis techniques including computer-aided analysis, vertical movements and second order effects, facade design, construction methods, sustainability concepts and a review of case study buildings.<br/><br/>The subject builds on fundamental structural engineering knowledge and when learnt together with other structural engineering electives will provide students who successfully complete the subjects a well-rounded knowledge of a range of structural engineering design skills. Students who complete this subject may find work in a structural engineering consultancy or as a site engineer and work under the supervision of a chartered professional engineer on high rise building designs or design variations.<br/><br/><strong>INDICATIVE CONTENT</strong><br/><br/>Introduction to high-rise design; introduction to finite element analysis; loads and design criteria for tall buildings; gravity load resisting; structural systems; gravity loads; lateral load resisting structural system; SpaceGass modelling; wind loading and analysis; earthquake induced loading; distribution of lateral loads to structural elements; coupled core systems and outriggers; theoretical treatment for column beam frames; architectural aspects and sustainability concepts; extreme loading effects; foundations of tall buildings; and, construction methods. Skills acquired from the above topics will be integrated and applied to the assignment which consists of a detailed analysis of a typical high rise building.</p>"
+    ],
+    "ilo": [
+        "Describe the multi-disciplinary nature of designing a tall building and the role of a structural engineer in the design of tall buildings",
+        "Describe the design criteria and loading conditions for buildings",
+        "Develop conceptual designs of floors using different floor systems",
+        "Develop conceptual designs of lateral load resisting systems for buildings",
+        "Calculate dynamic wind loads on tall buildings using the dynamic response factor approach",
+        "Interpret wind tunnel test results to obtain equivalent wind loads",
+        "Understand the concepts behind perception of motion, calculate the serviceability acceleration levels in tall buildings responding to wind loading",
+        "Develop approximate models for analysing structural systems in buildings",
+        "Develop computer models for analysing structural systems in buildings",
+        "Develop conceptual designs of foundation systems for different buildings and soil types",
+        "Identify different facade systems commonly used in building structures",
+        "Identify and analyse different structural systems using case study buildings."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Proficiency in engineering design",
+        "Ability to conduct an engineering project",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN30009Structural Theory and DesignSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN30009",
+                        "Name": "Structural Theory and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN90049Structural Theory and Design 2Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN90049",
+                        "Name": "Structural Theory and Design 2",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A 500 word assignment. Intended Learning Outcomes (ILOs) 2 to 5 and 9 to 12 are addressed in this assignment.",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "4%"
+        },
+        {
+            "brief": "A 2500 word assignment. ILOs 2 to 5 and 9 to 12 are addressed in this assignment.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "26%"
+        },
+        {
+            "brief": "One written examination. ILOs 1 to 12 are addressed in this examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Priyan Mendis",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "52 hours (Lectures: 38 hours per semester; Workshops, including some computer laboratories: 14 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Tharaka Gunawardena",
+            "contact_email": "tgu@unimelb.edu.au"
+        }
+    ]
+}

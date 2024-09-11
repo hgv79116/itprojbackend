@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p><span>This subject comprises lectures, seminars, preclinical practicum, and clinical practicum.</span></p>",
+        "<p><span>The preclinical practicum focuses on an update on dental materials and the principles and techniques of restorative dentistry in both the deciduous and permanent dentitions.</span></p>",
+        "<p><span>The clinical practicum includes the prevention and management of dental caries and periodontal diseases across all ages.</span></p>",
+        "<p><span>Topics include: advanced communication techniques; reflective practice; the principles of cavity preparation; minimal intervention dentistry; reasons for failure of restorations; cuspal overlays; stainless steel crowns; pulp therapy; exodontia technique; post extraction management; space maintenance; periodontics; traumatology; orthodontics within the scope of an oral health therapist (including: orthodontic materials and techniques required for an oral health therapist in orthodontic role; rationale for orthodontic treatment; cause of malocclusion; indications and contra indications for orthodontic treatment; role of the oral health therapist in orthodontics; identification of orthodontic instruments, bands, brackets and attachments; identification of removable appliances); treatment planning; evaluation of treatment; and clinical experience in oral health therapy patient care, including the administration of local analgesia and the management of dental pain, root debridement and sub\u2010gingival scaling, clinical photography, and the clinical management of dental caries.</span></p>"
+    ],
+    "ilo": [
+        "Examine, diagnose, plan and provide treatment as specified in the dental legislation within Australia for Oral Health Therapy (dental therapy and dental hygiene);",
+        "Critically evaluate responses to treatment provided to patients, identify limitations of particular treatment modalities and adapt care appropriately;",
+        "Effectively communicate information regarding oral health status, a range of treatment options and potential outcomes to the patient (and their family), and oral health and general health care providers as necessary;",
+        "Demonstrate effective patient management while respecting the psychosocial, social and cultural differences of individuals;",
+        "Evaluate various techniques associated with the prevention and conservative management of common oral diseases; and",
+        "Identify conditions beyond the scope of an oral health therapist and facilitate appropriate referrals."
+    ],
+    "generic_skills": [
+        "Observation and organisation;",
+        "Communication;",
+        "Multimedia;",
+        "Planning and presenting;",
+        "Leadership and team work;",
+        "Comprehension and critical analysis of scientific concepts and principles;",
+        "Self-evaluation/assessment;",
+        "Critical analysis and decision making."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ORAL20003",
+                        "Name": "Oral Health Sciences 2",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Portfolio incorporating reflective practice",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Objective Structured Clinical Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Must pass this assessment in order to pass the subject",
+            "timing": "End of year examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Viva Voce Examination",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "End of year examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "4 x Pre-Clinical Assessments  (Pass/Fail)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": "Must pass this assessment in order to pass the subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Clinical record audit (Pass/Fail)",
+            "bullets": null,
+            "hurdle": "Must pass this assessment in order to pass the subject",
+            "timing": "End of first half of year and end of year",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 25",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "424 hours of lectures, seminars, computer assisted learning, laboratory and clinical work, plus clinical experience outside of semester",
+            "total_time_commitment": "680 hours",
+            "teaching_period": "30 January 2024 to 20 October 2024",
+            "last_self_enrol_date": "9 February 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Sophie McKenna",
+            "contact_email": "sophie.mckenna@unimelb.edu.au"
+        }
+    ]
+}

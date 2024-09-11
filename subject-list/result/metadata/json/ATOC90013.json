@@ -1,0 +1,60 @@
+{
+    "overview": [
+        "<p>The aim of this unit is to describe the design of global atmospheric models as they are used in Numerical Weather Prediction, seasonal prediction and climate simulation. The unit aims to provide a basic understanding of all aspects of global atmospheric modelling. It will describe modelling techniques required to apply the fundamental equations that govern atmospheric flow in the settings of a modern General Circulation Model.</p>"
+    ],
+    "ilo": [
+        "Explain the basic aspects of atmospheric modelling, including an understanding of how the basic equations are represented in models;",
+        "Analyse and plot model output; and",
+        "Understand how processes are parameterized within models."
+    ],
+    "generic_skills": [
+        "The ability to exercise critical judgement;",
+        "Rigorous and independent thinking;",
+        "Adopted a problem-solving approach to new and unfamiliar tasks; and",
+        "Developed high-level written report presentation skills; oral communication and presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ATOC30004",
+                        "Name": "Dynamical Meteorology and Oceanography",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four assignments collectively totalling 3000 words or equivalent, including a 10-minute presentation, programming exercises and problem sets, due in weeks 3, 4, 5 and 6",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 6",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A final examination due one week after the end of the teaching period",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

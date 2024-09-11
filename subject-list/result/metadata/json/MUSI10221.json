@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>Students will receive tuition in their area of practical study. Vocal and instrumental students will apply technique and stylistic awareness to an individually designed program of recital repertoire. Formative feedback in individual and group settings will be provided across the semester.</p>",
+        "<p>In order to contextualise their education within the best practices of local, national and international standards, students are expected to work competently and productively both alone and in groups. The subject involves participation in individual lessons, instrument/voice classes, concert class and/or assigned ensemble activities. In order to ensure the highest level of performance preparation, 100% attendance is expected.</p>",
+        "<p><em><strong>Progression Note: </strong></em></p>",
+        "<p>To progress from Practical Music 2 into further <em>Practical Music</em> or <em>Performance</em> subjects:</p>",
+        "<ul><li>A subject result of 50% or greater is a prerequisite for MUSI20199 Practical Music 3</li><li>A subject result of 75% or greater is a prerequisite for MUSI20201 Performance 3</li></ul>",
+        "<p> </p>",
+        "<p><strong>Assessment Hurdle Class &amp; Ensemble Information </strong></p>",
+        "<p><strong>Instrument and Vocal Classes: </strong>Information for <em>Instrument and Vocal Classes</em> can be found on the <a href=\"https://finearts-music.unimelb.edu.au/current-students\">Fine Arts and Music Current Students</a> website, or by contacting your Head of Area.</p>",
+        "<p><strong>Concert Class: </strong>Students must apply to participate in <em>Concert Class</em> by completing the Concert Class Application on the <a href=\"https://finearts-music.unimelb.edu.au/current-students/forms/Conservatorium-Special-Permission-Forms\">Conservatorium Special Permission Forms</a> website. </p>",
+        "<p><strong>Ensemble: </strong>Information for <em>Ensemble Activities</em> can be found on the <em><a href=\"https://handbook.unimelb.edu.au/components/b-mus-infspc-6\">Ensembles</a> </em>page in the Handbook. Please refer to each <em>Ensemble </em>subject for details including requisites and additional entry requirements. <em>Note: </em><em>Students do not formally enrol in these subjects.</em></p>"
+    ],
+    "ilo": [
+        "apply technical control and coordination in performance;",
+        "execute recital repertoire at an appropriate level with fluency, accuracy, attention to detail and character;",
+        "project a well-shaped sound across the range of their instrument or voice;",
+        "apply appropriate style to musical performance;",
+        "perform music individually (and where appropriate collaboratively) with commitment and confidence;",
+        "create musical coherence through shaping of phrases and overall continuity;",
+        "Prepare and present a balanced recital program."
+    ],
+    "generic_skills": [
+        "problem-solving skills;",
+        "skills in critical thinking and self-evaluation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI10220",
+                        "Name": "Practical Music 1",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "6 to 8-minute Progress video",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "20-minute Performance examination on an approved program",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "75%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance in Instrumental Class or Vocal Class, unless approved by Head of Area",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% participation in a class or ensemble activity as assigned by the Head of Area (concert class; performance-related skills class; or ensemble activity)\n\n\n\n",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "81 hours, comprising one 45-minute individual lesson, one 2-hour instrumental/vocal class, and one 2 to 4-hour class OR ensemble activity per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "For instrument/vocal specific questions (e.g. New Student Interviews, teacher allocations, ensemble allocations), please contact your head of area. Refer to theDates and Timessection for Instrument Heads of Area.",
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "81 hours, comprising one 45-minute individual lesson, one 2-hour instrumental/vocal class, and one 2 to 4-hour class OR ensemble activity per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "For instrument/vocal specific questions (e.g. New Student Interviews, teacher allocations, ensemble allocations), please contact your head of area. Refer to theDates and Timessection for Instrument Heads of Area.",
+            "contact_email": null
+        }
+    ]
+}

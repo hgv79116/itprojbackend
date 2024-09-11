@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>This subject comprises two intensive modules - Module 1: Geology of Gold and Module 2: Igneous Dynamics and Magmatic Ore Deposits.</p>",
+        "<p>Module 1 provides a broad coverage of gold geology and exploration, as well as some of the latest research ideas and how they apply to mineral exploration. The module covers all major types of gold deposits with emphasis on Archaean deposits of Western Australia and slate-belt deposits of the Victorian gold province.</p>",
+        "<p>Module 2 provides an overview of the geology of major Ni-Cu-(PGE) sulphide deposits, PGE deposits, and diamond deposits with an emphasis on the processes controlling their genesis and how this information can be applied in exploration. The module will also introduce some of the theoretical concepts involved in ore formation such as the factors controlling sulphur solubility in mafic magmas and the roles of partial melting and crustal contamination in the genesis of Ni-Cu-(PGE) sulphide deposits.</p>",
+        "<p>In both modules, the core sub-discipline areas of geochemistry, structural geology, regolith and deposit geology are covered at a level to enable participants to take their place in industry and government teams and make a contribution in all of these areas. The combined modules focus on a holistic approach that uses all applicable fields of geology to address issues pertaining to precious metal and magmatic ore deposits.</p>",
+        "<p>This subject is delivered intensively between weeks 2 and 6 of Semester 1. </p>"
+    ],
+    "ilo": [
+        "Apply discipline-specific knowledge and expertise to investigate the geology of precious metal and magmatic ore deposit systems",
+        "Apply field mapping techniques to understand the structural controls on gold mineralisation;",
+        "Analyse mineralogical, geochemical and structural data to determine the relationships between magmatism, metamorphism, deformation, sedimentation and the formation of precious metal and magmatic ore deposits;",
+        "Apply the theoretical concepts of ore formation and the role of magmas in ore formation; and",
+        "Interpret and analyse samples to link theoretical concepts to exploration methods."
+    ],
+    "generic_skills": [
+        "think critically and evaluate with due consideration;",
+        "apply problem-solving approaches to new and unfamiliar tasks;",
+        "prepare and present high-level written and oral reports; and",
+        "interrogate, synthesise and interpret the published literature;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOL20003",
+                        "Name": "Building Earth: Rocks, Minerals, Magmas",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOL30004",
+                        "Name": "Geochemistry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Field mapping exercise  and report",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Due by end of Module 1 teaching week",
+            "percentage": "10%"
+        },
+        {
+            "brief": "10 Minute Oral Presentation (individual)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due by end of Module 1 teaching week",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Theory Quiz",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Due by end of Module 1 teaching week",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Practical exercises in magmatic ore deposit geology",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due in week 6 of Semester 1",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total of 80 contact hours over 2 weeks during the teaching period:\n\nModule 1: 4 days with x4hrs lectures & x4hrs practicals per day; 1 day of field excursion\n\nModule 2: 5 days with x4hrs lectures & x4hrs practicals per day",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "11 March 2024 to 24 May 2024",
+            "last_self_enrol_date": "26 March 2024",
+            "census_date": "5 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "7 June 2024",
+            "contact_name": null,
+            "contact_email": "dphillip@unimelb.edu.au"
+        }
+    ]
+}

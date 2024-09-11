@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>Screen Practice 1B focuses on the further development of practical film making skills attained in Screen Practice 1A.</p>",
+        "<p>This subject enables students to consolidate and build upon their learning via the production of a short film project, from concept to completion. Practical assignments are completed within a staggered production schedule.</p>",
+        "<p>Students also further develop leadership, collaboration and management skills through designated key crewing roles on other student productions in camera, lighting, production management, and sound departments. Students are exposed to a range of filmmaking styles and begin to develop their own filmmaking philosophy.</p>"
+    ],
+    "ilo": [
+        "apply basic film-making methodologies;",
+        "use film grammar and visual storytelling techniques;",
+        "identify the role of leadership in the effective management of productions from concept to completion;",
+        "identify creative challenges throughout production and apply appropriate problem-solving strategies;",
+        "demonstrate basic film directing skills through the realisation of a short film project through all stages of production."
+    ],
+    "generic_skills": [
+        "apply critical thinking, analytical and problem-solving skills to unfamiliar challenges;",
+        "communicate effectively in oral, written and digital forms;",
+        "work as part of a team to achieve a common goal;",
+        "demonstrate appropriate leadership in group settings;",
+        "integrate personal reflection into the creative process."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FLTV10006",
+                        "Name": "Screen Practice 1A",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "FLTV10025",
+                        "Name": "Introduction to Screenwriting",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Pre-production process and compliance paperwork",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Undertake and execute assigned crew role duties on exercises",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One-day film shoot for a 3-minute short film",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Reflective report",
+            "bullets": [
+                "1600 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Workshop participation (engagement in skill-based workshop activities and practice OHS responsibilities)",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must submit all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "170 hours of Film and Television classes",
+            "total_time_commitment": "408 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ablogg@unimelb.edu.au"
+        }
+    ]
+}

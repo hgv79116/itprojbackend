@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>The goal of statistical mechanics is to describe the behaviour of bulk matter starting from a physical description of the interactions between its microscopic constituents. This subject introduces the Gibbs probability distributions of classical statistical mechanics, the relations to thermodynamics and the modern theory of phase transitions and critical phenomena. The central concepts of critical exponents, universality and scaling are emphasized throughout. Applications include the ideal gases, magnets, fluids, one-dimensional Ising and Potts lattice spin models, random walks and percolation as well as approximate methods of solution.</p>"
+    ],
+    "ilo": [
+        "Have learned how the ensembles and methods of classical statistical mechanics apply to a variety of problems in applied mathematics and mathematical physics;",
+        "Appreciate the role of critical phenomena in modern thermodynamics and to be able to use the principles of critical exponents, universality and scaling to describe the behaviour of complex systems;",
+        "Understand the basic concepts of phase transitions as applied to fluids, magnets, lattice spin models, random walks and percolation and appreciate their applicability;",
+        "Be familiar with the basic mathematical techniques of statistical mechanics including transfer matrices, real-space renormalization group and approximate methods and their applications; and",
+        "Be able to pursue further studies in these and related areas."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team; and",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20026Real AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "No prior knowledge of physics or thermodynamics is assumed."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuing assessment up to 40 hours work, worth 40%, throughout the semester",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

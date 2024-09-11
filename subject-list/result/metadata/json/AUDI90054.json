@@ -1,0 +1,157 @@
+{
+    "overview": [
+        "<p>This subject builds on Audiology Practice A, with more aspects of the clinical encounter introduced so students learn to utilise multiple sources of information, use clinical reasoning skills to select the most appropriate audiological assessment and learn to provide management specific to the individual. On completion of the subject, students will be able to perform history taking and simple diagnostic audiological procedures, and establish appropriate management and intervention plans for straight forward scenarios. This subject will also continue to develop on clinical communication skills, with a focus on verbal and non-verbal skills. </p>"
+    ],
+    "ilo": [
+        "Adapt clinical reasoning skills to interpret and integrate audiological results in standard clinical scenarios.",
+        "Utilise a range of sources including referrals and reports to determine a client's need for audiological services across the lifespan.",
+        "Demonstrate clinical audiological assessments,  incorporating history taking and appropriate use and application of diagnostic tools.",
+        "Formulate evidence-informed client-and family-centred management and intervention plans.",
+        "Communicate standard clinical information professionally in verbal, non-verbal and written formats."
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90053",
+                        "Name": "Audiology Practice A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90055",
+                        "Name": "Professionalism and Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90056",
+                        "Name": "Professionalism and Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90058",
+                        "Name": "Sound and Innovative Solutions B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90060",
+                        "Name": "Evidence-Based Practice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Early in the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Case based written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7-9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Clinical simulation patient exam",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": "Examination must be passed",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance of at least a minimum of 80% of the weekly practical sessions across the semester.",
+            "timing": "Throughout the teaching period",
+            "percentage": "0%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Kelley Graydon",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures (2 hours), Tutorials (1 hour)  and practical sessions  (3 hours) per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "kgraydon@unimelb.edu.au"
+        }
+    ]
+}

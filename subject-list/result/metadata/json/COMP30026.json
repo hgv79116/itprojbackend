@@ -1,0 +1,151 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Formal logic and discrete mathematics provide the theoretical foundations for computer science. This subject uses logic and discrete mathematics to model the science of computing. It provides a grounding in the theories of logic, sets, relations, functions, automata, formal languages, and computability, providing concepts that underpin virtually all the practical tools contributed by the discipline, for automated storage, retrieval, manipulation and communication of data.<br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<ul><li>Logic: Propositional and predicate logic, resolution proofs, mathematical proof</li><li>Discrete mathematics: Sets, functions, relations, order, well-foundedness, induction and recursion</li><li>Automata: Regular languages, finite-state automata, context-free grammars and languages, parsing</li><li>Computability briefly: Turing machines, computability, decidability</li></ul>",
+        "<p>A functional programming language will be used to implement and illustrate concepts.</p>"
+    ],
+    "ilo": [
+        "Use propositional and predicate logic as tools to reason about non-trivial computational problems",
+        "Explain basic principles of mechanised reasoning, including resolution proof, and apply these to reason about computional problems",
+        "Reason about properties of mathematical objects such as functions and relations, and apply them to computational problems",
+        "Apply discrete mathematical techniques to problems in computer science",
+        "Synthesise context-free grammars from less formal language specifications",
+        "Design abstract computational devices, such as finite-state automata and pushdown automata",
+        "Analyse and reason about computational models, including finite-state automata, pushdown automata and Turing machines"
+    ],
+    "generic_skills": [
+        "Analytical skills",
+        "Reasoning and problem-solving skills",
+        "Ability to communicate with precision, rigour and efficacy",
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Capacity for creativity and innovation",
+        "Ability to undertake problem identification, formulation and solution"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the GC-CS Graduate Certificate in Computer Science"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information Technology, Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology, Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology, Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written (800 - 1000 word) assignment, due around week 7, addressing Intended Learning Outcomes (ILO's) 1 and 2.",
+            "bullets": [
+                "12-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "12%"
+        },
+        {
+            "brief": "A written (800 - 1000 word) assignment, due around week 12, addressing ILO's 3, 4, 5 and 6.",
+            "bullets": [
+                "12-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "12%"
+        },
+        {
+            "brief": "Successful completion of at least 75% of worksheet exercises, delivered via an online learning platform (Grok).",
+            "bullets": [
+                "5-7 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "6%"
+        },
+        {
+            "brief": "A written closed book examination, addressing all ILO's.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising two 1-hour lectures and a one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Mak Nazecic-Andrlon",
+            "contact_email": "mak.andrlon@unimelb.edu.au"
+        }
+    ]
+}

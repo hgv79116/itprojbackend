@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p><strong>AIMS<br/></strong></p>",
+        "<p>This core subject introduces the concept of enterprise architecture (EA). The structure of an EA provides the framework by which an organisation can be understood. It introduces the fundamental relationships existing between various components of the EA namely: processes, information, organisational structure and enabling technologies. Consequently, many of the concept domains introduced in this subject are more fully explored in further core and elective subjects.</p>",
+        "<p><strong>INDICATIVE CONTENT <br/></strong></p>",
+        "<p>Integrating business applications across business functions and companies provides large benefits to organisations. This subject has two primary themes. Firstly, it introduces EA concepts and frameworks that serve as artefacts of the business and also the process of creating an EA. Secondly, it looks at the implementation of the EA into the organisation and the impacts on the processes, information, organisational structures and applications employed by to enable the organisation to function. A final discussion covers the benefits, risks and critical success factors.</p>"
+    ],
+    "ilo": [
+        "Describe and discuss the basic concepts of EA",
+        "Identify, assess and apply conceptual EA frameworks in the organisational context",
+        "Conceptualise a holistic view of an organisation's information, processes, structure and applications",
+        "Apply the concepts of EA in an organisational context",
+        "Recognise the benefits associated with an EA"
+    ],
+    "generic_skills": [
+        "Analytical and interpretative skills, in diagnosing organisational issues",
+        "High-level analytical skills, through application of organisational change theory in a practical context",
+        "Problem solving skills using change management models",
+        "Team-work, through working on a group project",
+        "Report-writing skills and",
+        "Presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsISYS90050IT Project and Change ManagementSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90050",
+                        "Name": "IT Project and Change Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group based assignment with 3-5 group members of approximately 3500 words due at the end of week 9, requiring approximately 48-52 hours of work per student. Intended Learning Outcomes (ILO's) 1, 3, 4 and 5 are addressed in the assignment.",
+            "bullets": [
+                "48-52 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain:\n\n\n\nat least 50% of the marks available in the non-examination based assessment.\n\n\n\n\n\n",
+            "timing": "Week 9",
+            "percentage": "35%"
+        },
+        {
+            "brief": "One group based assignment presentation with 3-5 group members of appoximately 15 minutes duration, requiring approximately 13-15 hours of work per student. ILO's 1, 3, 4 and 5 are addressed in the assignment presentation.",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain:\n\n\n\nat least 50% of the marks available in the non-examination based assessment.\n\n\n\n",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Tutorial leadership and participation, including leadership of a discussion on a selected reading topic, requiring approximately 18-22 hours of work per student. ILO's 2 and 3 are addressed in tutorial leadership and discussion.",
+            "bullets": [
+                "18-22 hours (of work required)"
+            ],
+            "hurdle": " To pass the subject, students must obtain:\n\n\n\nat least 50% of the marks available in the non-examination based assessment.",
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One written 2 hour closed book examination. ILO's 1 to 5 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain:\n\n\n\nat least 50% of the marks available in the examination.\n\n",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Rod Dilnutt",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 2-hour lecture and one 1-hour tutorial per week.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Rod Dilnutt",
+            "contact_email": "rpd@unimelb.edu.au"
+        }
+    ]
+}

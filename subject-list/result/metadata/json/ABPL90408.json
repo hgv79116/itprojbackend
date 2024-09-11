@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p>Spatial Analytics is the study of geospatial digital data, information, knowledge and models to understand trends, complexities and inform decision process. The subject explores approaches at the intersection of spatial information, statistics and spatial analytics to further students\u2019 understanding of the built environment. </p>",
+        "<p>The new science of cities is driven by the deluge of data that enables the mapping of new geographies that can be explored, analysed and synthesized. Studies of urban settlements require a deeper knowledge of digital data and how to access, interrogate and synthesis such data. </p>",
+        "<p>A range of research methods will be taught in combination with case studies to provide fundamental skills in Python, spatial analysis and sharpen critical spatial and analytical thinking. At the end you will have a set of Jupyter Notebooks in Python that can be deployed in future cases such as health, urban planning and real estate for evidence-based decision making.</p>"
+    ],
+    "ilo": [
+        "Understand the rationale for using spatial information",
+        "Understand and deploy common approaches to interrogate spatial information",
+        "Infer Spatial relation in and between datasets",
+        "Understand scale and spatial relation",
+        "Identify Spatial autocorrelation",
+        "Model building for evaluation and prediction",
+        "Understanding the limits of models and data",
+        "Synthesize fine scale data to support decision making on multiple scales",
+        "Conduct spatial-statistical analysis of data"
+    ],
+    "generic_skills": [
+        "High level written communication skills",
+        "Advanced information and interpretation skills",
+        "Advanced analytic, integration and problem-solving skills",
+        "Demonstrate competence in critical and theoretical thinking through report writing and online discussions"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90407",
+                        "Name": "Representing Spatial Information",
+                        "Teaching period": "Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90130",
+                        "Name": "Critical Thinking with Analytics",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-URBDES Master of Urban Design",
+                    "MC-URPL Master of Urban Planning",
+                    "MC-ARCH Master of Architecture",
+                    "MC-PROP Master of Property",
+                    "MC-UPUD Master of Urban Planning/Master of Urban Design",
+                    "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                    "MC-ARCHUD Master of Architecture/Master of Urban Design",
+                    "MC-PROPUP Master of Property/Master of Urban Planning"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assessment for critical reflection  (1/2)",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assessment for critical reflection  (2/2)",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Case study proposal and design",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Student Project",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 3 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 15 September 2024",
+            "last_self_enrol_date": "16 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "22 September 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

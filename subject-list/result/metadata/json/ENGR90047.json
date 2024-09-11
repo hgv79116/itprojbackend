@@ -1,0 +1,72 @@
+{
+    "overview": [
+        "<p>Nuclear technology involves the risk of exposure to ionising radiation, with potentially harmful effects on human health. This subject equips students with the necessary knowledge and skills to understand this risk and to manage it by applying established methods of radiation protection.</p>",
+        "<p><strong>Indicative content:</strong></p>",
+        "<ul><li>Effects of ionising radiation on human health</li><li>Methods of radiation detection and measurement</li><li>Principles and methods of radiation protection</li><li> Radiation shielding</li></ul>"
+    ],
+    "ilo": [
+        "Quantify radiation exposure and its effects on human health.",
+        "Explain the working principles and applications of different types of radiation detectors.",
+        "Apply the principles of radiation protection in a workplace with sources of ionising radiation.",
+        "Estimate the effect of shielding on radiation exposure."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to communicate effectively with the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90046",
+                        "Name": "Nuclear Engineering",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment 1",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 6-7 of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Assignment 2",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 11-12 of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Cadastral surveying relates to the laws of land ownership and the definition of property boundaries and is a core responsibility for the surveying industry and profession. This subject introduces the legal framework of cadastral surveying, the land tenure system in Victoria, and the methods of performing cadastral surveys, including computations and documentation, as it is required for land acquisition, land compensation and land subdivision procedures. This subject builds on students\u2019 knowledge of property law and complements other spatial subjects that can lead to a graduate becoming a licensed surveyor.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Surveying Software, <a href=\"http://admin.surveyorsboard.vic.gov.au/uploads/10/docs/SPH_S1_Graphics.pdf\">Graphic Language and Design,</a> Map and Plan Systems, Standardization and Calibration, Survey Information Sources, Survey Marks, Descriptions of Occupation, Levelling, Feature Surveys and Plans, Quality Assurance, Surveying using Global Navigation Satellite Systems Units, Symbols and Conversion Factors, Surveying Act and Regulations.</p>"
+    ],
+    "ilo": [
+        "Identify the legal and technical requirements for making a cadastral survey in Victoria",
+        "Explain the preparation of the corresponding documentation in the form of plans and reports",
+        "Practically perform a cadastral survey",
+        "To perform survey computations with programmable calculators and computer software and to produce cadastral survey documents using computer aided drafting",
+        "Discuss the concepts of SPEAR and ePlan as mechanisms for the digital processing of cadastral plans in Victoria."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Understanding of social, cultural, global, and environmental responsibilities and the need to employ principles of sustainable development",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOM20015",
+                        "Name": "Sensing and Measurement",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsABPL90041Property Law (PG)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90041",
+                        "Name": "Property Law (PG)",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four cadastral surveying practical assignments (20% each) with preparation of resulting computations and survey documents, each of a workload of 20 hours (approx. 1000 words per item) spread equally over weeks 1 - 9. Intended Learning Outcomes (ILOs) 1 to 5 are addressed in these assignments",
+            "bullets": [
+                "80 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 9",
+            "percentage": "80%"
+        },
+        {
+            "brief": "One 30 hour approx. 1500 word assignment. ILOs 1 to 5 are addressed in this assignment",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 24 hours per semester; Lab Exercises: 24 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Davood Shojaei",
+            "contact_email": "shojaeid@unimelb.edu.au"
+        }
+    ]
+}

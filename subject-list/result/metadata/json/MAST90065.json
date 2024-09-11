@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>In mathematical physics, a wealth of information comes from the exact, non-perturbative, solution of quantum models in one-dimension and classical models in two-dimensions. This subject is an introduction to this beautiful and deep subject. Yang-Baxter equations, Bethe ansatz and matrix product techniques are developed in the context of the critical two-dimensional Ising model, dimers, free fermions, the 6-vertex model, percolation, quantum spin chains and the stochastic asymmetric simple exclusion model. The algebraic setting incorporates the quantum groups, and the Temperley-Lieb and braid-monoid algebras.</p>"
+    ],
+    "ilo": [
+        "have learned how exactly solvable models apply to a variety of problems in applied mathematics and mathematical physics;",
+        "appreciate the role of exact solutions and universality in mathematical physics and be able to use concepts of real and complex analysis to determine asymptotic behaviour;",
+        "be able to compute correlation functions using matrix product techniques or random matrix theory;",
+        "be familiar with the basic mathematical techniques of exactly solvable models including Yang-Baxter equation, Bethe Ansatz, commuting transfer matrices and matrix product states;",
+        "understand the basic concepts of random matrix theory and appreciate their applicability;",
+        "have the ability to pursue further studies in these and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "No prior knowledge of physics is assumed."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 40 pages of written assignments (two assignments worth 20% each, due mid and late in semester)",
+            "bullets": [
+                "40 pages"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,240 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject develops a fundamental understanding of concepts used in the analysis, design and building of digital systems. Such systems form the information and communication technologies (ICT) that underpin modern society. This subject provides a foundation for subsequent subjects, including ELEN30013 Electronic System Implementation, ELEN90066 Embedded System Design and ELEN90061 Communication Networks.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:</p>",
+        "<p>Digital systems - quantifying and encoding information, digital data processing, design process abstractions;</p>",
+        "<p>Combinational logic \u2013 timing contracts, acyclic networks, switching algebra, logic synthesis;</p>",
+        "<p>Sequential logic \u2013 cyclic networks and finite-state machines, metastability, microcode;</p>",
+        "<p>These topics will be complemented by exposure to the hardware description language such as Verilog and the use of engineering design automation tools and configurable logic devices (e.g. FPGAs) in the laboratory.</p>",
+        "<p>Please view this video for further information: <a href=\"https://youtu.be/vLbCcuUX8ko\">Digital Systems</a></p>"
+    ],
+    "ilo": [
+        "1. Interpret and relate fundamental tools in the analysis of combinational and sequential logic systems, and understand the role and limitations of important digital abstractions",
+        "2. Recognise fundamental concepts, including hardwired and programmed approaches, to implement digital systems that achieve specified functionality",
+        "3. Use a hardware description language for the documentation, simulation and synthesis of digital systems",
+        "4. Use digital hardware development platforms in the laboratory."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Ability to communicate effectively, with the engineering team and with the community at large;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Electrical specialisation (formal) in the MC-ENG Master of Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Electrical with Business specialisation (formal) in the MC-ENG Master of Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-ELECENG Master of Electrical Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsPHYC10002Physics 2: AdvancedSemester 2 (On Campus - Parkville)12.5PHYC10004Physics 2: Physical Science & TechnologySummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10002",
+                        "Name": "Physics 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC10004",
+                        "Name": "Physics 2: Physical Science & Technology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10019: Calculus Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10018: \t\n\nLinear Algebra Extension Studies"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30010",
+                        "Name": "Digital System Design",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-Semester Test. Intended Learning Outcomes (ILOs) 1 -4 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Oral assessment of laboratory skills and knowledge \u2013 10 minutes per student (approximately 15-20 hours of work per student);. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One written examination. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of project oral assessment and final exam. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Written report completed during labs and oral assessment of project \u2013 20 minutes per student (approximately 30-35 hours of work per student). ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of project oral assessment and final exam. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jonathan Manton",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 x one-hour lectures per week) and 36 hours of workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Jonathan Manton",
+            "contact_email": "jmanton@unimelb.edu.au"
+        }
+    ]
+}

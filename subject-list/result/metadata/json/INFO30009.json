@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Digital games are one of the largest entertainment industries, increasingly pervasive within society, and at the forefront of emerging technologies with respect to user experience and online social interaction. This subject will develop understanding and practical knowledge of the fundamental principles of game design, interactivity and immersion. It will examine how these techniques are increasingly being applied in contexts such as health, learning, web-design and in emerging virtual reality experiences. The subject will explore the deeper conceptual foundations of the theory of games and their use beyond the digital realm. Students will learn the underlying principles of how to design games, what games are and how they engage players. They will apply this knowledge to the analysis of games, the study of play, and the persuasive, transformative and educative potential of gaming experiences.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Fundamentals of game design; interactive techniques of gaming interfaces; social and collaborative techniques of game design; online game communities; trends in the games industry; mobile gaming; methods for studying play; persuasive games; gamification applications.</p>"
+    ],
+    "ilo": [
+        "Apply the basic methodologies and conceptual skills of game design",
+        "Value how games create meaningful play experiences for player",
+        "Have knowledge of the changing landscapes of contemporary gaming, including mobile, virtual reality and augmented reality gaming experiences",
+        "Articulate the motivational, transformative and powerful potentials for play and other ludic experiences in persuasive game design",
+        "Apply qualitative and quantitative techniques in player experience research to critically analyse the design of games and other immersive interactive experiences"
+    ],
+    "generic_skills": [
+        "The ability to undertake problem identification, formulation and solution",
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The capacity for critical and independent thought and reflection",
+        "The ability to communicate designs and design thinking",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10003",
+                        "Name": "Media Computation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Demonstrable equivalent knowledge of computing"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One individual written report critically evaluating a contemporary game (1000 words), identifying specific design goals and applying player experience evaluation techniques to assess the results. Approximately 20-24 hours of work. Due in week 5. Addresses Intended Learning Outcomes (ILO's) 1, 2 & 4.",
+            "bullets": [
+                "20-24 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A group project to design a novel game in teams of two-three. Assessment tasks include, projection and demonstration of prototypes, a short video, and written reports inlcuding the results of playtesting. 1000 words per student. Requiring approximately 40-48 hours of work. Addressess ILO's 1 to 5.",
+            "bullets": [
+                "40-48 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Take-home exam: A written take home exam (1500 words). Approximately 30-36 hours of work per student, including preparation throughout semester.  Addresses ILO's 2, 3 & 5.",
+            "bullets": [
+                "30-36 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain:\n\n\n\nat least 50% of the marks available in the take-home exam.",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Participation in workshop activities throughout the semester.  Addresses ILO's 1 to 5.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising 2 x 1-hour lectures and 1 x 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Assoc. Prof. Martin Gibbs",
+            "contact_email": "martin.gibbs@unimelb.edu.au"
+        }
+    ]
+}

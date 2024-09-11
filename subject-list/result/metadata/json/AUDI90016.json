@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>The aim of this subject is to prepare the student to understand the basis of diseases that are commonly found in the ear and in particular the reasons for a patient having a hearing and/or balance disorder. The knowledge the students have gained about the structure and function of the ear will be built on, and this will be integrated with the impact of the different types of pathology on the patient\u2019s life.<br/>The teaching and learning will take place in three ways:</p>",
+        "<ol><li>a series of lectures</li><li>additional information on the Learning Management System (LMS)</li><li>a group project on the diagnosis and management of a pathological condition.</li></ol>"
+    ],
+    "ilo": [
+        "understand the effects of different ear pathologies on the structure and function of the ear; and",
+        "understand the presentations and management of ear conditions."
+    ],
+    "generic_skills": [
+        "10 minutes"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT90004",
+                        "Name": "Anatomy and Physiology for Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90048",
+                        "Name": "Principles of Clinical Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90051",
+                        "Name": "Principles of Paediatric Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quiz",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group (approx 4 students) written report about the diagnosis and management of a particular pathological process",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must pass the written examination in order to pass this subject",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures: 17 hours. Clinics: 4 hours of attendance at ENT outpatient clinics",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "chisarid@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>This subject teaches fundamentals of data analysis as relevant to modern biomedical engineering, in an integrated approach that combines theory with highly contextualised, project-based learning. Students are introduced to the foundations of probability and random variables, statistical hypothesis testing, linear and nonlinear regression, data classification and dimensionality reduction techniques. Each topic is explicated via case studies from clinical, industrial and research applications of biomedical engineering, covering topics in biomechanics, biosensors, bioinformatics, biomedical imaging and biomaterials. </p>"
+    ],
+    "ilo": [
+        "Calculate and interpret probabilities, probability densities, means, variances and covariances using axioms of probability, random variables and Bayes' rule",
+        "Formulate and perform appropriate statistical hypothesis tests on biomedical engineering datasets",
+        "Apply standard statistical procedures using a statistical computing package",
+        "Model biomedical engineering data using linear and nonlinear models by estimating and testing hypotheses of model parameters",
+        "Apply classifiers to biomedical engineering datasets",
+        "Apply dimensionality reduction methods, including PCA and ICA, to biomedical engineering datasets."
+    ],
+    "generic_skills": [
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Understanding of the principles of sustainable design and development",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time):"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBMEN20003Applied Computation in BioengineeringSemester 1 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN20003",
+                        "Name": "Applied Computation in Bioengineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN20001 Biomechanical Physics & Computation"
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Workshop Reports (8 x 3-page reports). Intended Learning Outcomes (ILOs) 1-6 are addressed in this assessment.",
+            "bullets": [
+                "3 pages"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Mid-Semester Test. ILOs 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final Exam. ILOs 1, 2, 4-6 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the end of semester examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Katie Davey",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3x 1-hour lectures per week for 12 weeks, 1x 3-hour computer-based workshop per week incorporating tutorial syle learning for 11 weeks",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "catherine.davey@unimelb.edu.au"
+        }
+    ]
+}

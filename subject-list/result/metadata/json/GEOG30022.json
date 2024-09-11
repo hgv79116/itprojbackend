@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>This subject examines principles in the two disciplines of hydrology and ecology, emphasising the application of both to understand how to solve environmental management problems in river ecosystems. The subject examines water in terms of quantity and quality; and the physical channel and floodplain systems in which it is conveyed and stored, along with transported materials such as sediments and organic matter. The subject also examines population, community and ecosystem dynamics of riverine organisms and their geographical distributions and diversities. Through practicals and fieldwork, students should develop skills in acquiring, analysing and presenting hydrological and ecological data, and in the identification and proper field sampling of stream biota. Students should become aware of the multidisciplinary nature of environmental management and the need for critical examination of ideas in the literature.</p>"
+    ],
+    "ilo": [
+        "Understand the principles of hydrology and ecology as they relate to river ecosystems",
+        "Acquire, analyse and present data relating to catchment characteristics, water quality and quantity, and the biota of river ecosystems",
+        "Understand the processes that determine water quality and quantity and the ecological status of rivers",
+        "Apply basic laboratory, computer and field methods for hydrology and ecology"
+    ],
+    "generic_skills": [
+        "Thinking critically and analytically",
+        "Testing theories with evidence",
+        "Designing and implementing field projects that meaningfully test hypotheses",
+        "Writing well constructed field reports and journal articles",
+        "Interpreting data, informed by the relevant literature",
+        "Collaborating in group field and research activities"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsGEOG20002Landscapes and Environmental ChangeSemester 1 (On Campus - Parkville)12.5ECOL20003EcologySemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOG20002",
+                        "Name": "Landscapes and Environmental Change",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "GEOG20009 Landscapes and Diversity"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent as approved by the subject coordinator"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Field and practical exercises completed primarily within practical classes during weeks 2-11, with some assessment completed during non-contact time",
+            "bullets": [
+                "250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A field research report due at the end of the first week of the Examination Period",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "A group presentation on field research in groups of 6-8 students (equivalent to 250 words)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Four quizzes of equal weight, with one quiz every 3 weeks",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

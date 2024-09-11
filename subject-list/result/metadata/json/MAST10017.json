@@ -1,0 +1,78 @@
+{
+    "overview": [
+        "<p>Note: students with a score of 25 or above in Units 3/4 VCE Mathematics Methods or equivalent would not normally be permitted to take this subject.</p>",
+        "<p>Fundamentals of Mathematics is designed for students requiring mathematical knowledge and skills which are applicable to, and provide a foundation for further studies in science, statistics, business and economics. Students will gain the ability to apply mathematical knowledge and skills to analyse, investigate, model and solve problems in a variety of situations, ranging from well defined and familiar situations to unfamiliar and open ended situations.</p>"
+    ],
+    "ilo": [
+        "Fundamental concepts of number systems: number line and Cartesian plane, interval and set notation, use of logic",
+        "Algebra: simplification, expansion and factorisation of algebraic expressions, solution of equations, transposition of formulae",
+        "Functions: graphs of polynomials of up to and including degree 3, and exponential and logarithm functions, including transformations",
+        "Introduction to mathematical modelling: linear and non-linear models and regression methods",
+        "Sequences and series and applications to financial mathematics",
+        "Statistics: univariate and bivariate data analysis, introduction to experimental design",
+        "Probability: probability rules, discrete random variables, binomial and normal distributions",
+        "Calculus: derivatives - product, quotient and chain rules for differentiation; integration of simple functions; applications including rates of change, extrema of graphs, solution of simple differential equations and areas under graphs"
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis",
+        "Collaborative skills: the ability to work in a team",
+        "Time management skills: the ability to meet regular deadlines while balancing competing commitments"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Six fortnightly homework assignments each worth 5%",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Mid-semester test in approximately week 6",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Ros Gall",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "66 hours: 24 hours of lectures, 24 hours of tutorials/workshops and up to 18 hours of computer-aided learning exercises",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rosgall@unimelb.edu.au"
+        }
+    ]
+}

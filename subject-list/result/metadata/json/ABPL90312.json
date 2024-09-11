@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject deals with building works measurement and tendering processes. It provides students with the skills of pricing of measured items of building works and the building-up of unit rates for pricing.  </p>",
+        "<p>Topics covered include computerised building measurement and documentation including the;</p>",
+        "<ul><li>Processes of preparing Bills of Quantities (BoQ), including on screen take off and types of bill formats and their uses;</li><li>The use of Formulae, Trigonometry, Mensuration and Abbreviations to measure and describe building works;</li><li>Basic principles of measurement and description of works: the use of Australian Standard Method of Measurement (ASMM) for producing construction tender documents;</li><li>Measurement and description of specific Trades: Groundworks, Concrete work (including reinforcement and formwork), Masonry, Roofing, and Internal Finishes for simple residential building.</li></ul>",
+        "<p><strong>Prescribed software programs with no cost</strong><br/>RiB CostX Educational ver 6.9<br/><br/>Details of software availability and pricing are captured at: <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support\">https://msd.unimelb.edu.au/current-students/student-experience/it-support</a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Be able to describe the role of cost management of building works.",
+        "Be able apply the Australian Standard Method of Measurement to quantification of the works for simple buildings.",
+        "Be able to measure and prepare bill of quantities for ground works; masonry; concrete/reinforcement and form work; simple timber pitched timber roof; roofing, and finishes.",
+        "Be able to price measured building work items.",
+        "Be able to describe the application of computer software to measurement of building works.",
+        "Know how to apply cost forecasting methods at pre-construction stage.",
+        "Be able to explain the theory and practice of competitive tendering."
+    ],
+    "generic_skills": [
+        "Effective participation as a team member.",
+        "Written, verbal and visual presentation of ideas",
+        "Correct use of technical terminology relating to cost planning and quantification of building works",
+        "Information gathering and critical synthesis skills",
+        "The ability to apply relevant processes and standards to specific examples",
+        "Identification and familiarity with building components",
+        "Understanding of construction documentation used in residential construction."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 \u2013 Group assignment (2-3 students) focusing on measurement of quantities for (i) Masonry Trade and (ii) Finishes Trade, (1250 words equivalent per student)",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assignment 2\u2013 Individual assignment focusing on measurement of quantities for  Excavation Works,  Concrete, Formwork, and Reinforcement",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assignment 3\u2013 Group assignment ( 2- 3 students ): Pricing Bills of Quantities for various Trades",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance and participation in 80% of the tutorials is a mandatory requirement for passing this subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1X2 hour lecture  and 1X2 hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

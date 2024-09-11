@@ -1,0 +1,76 @@
+{
+    "overview": [
+        "<p>This subject explores a range of key concepts in modern Probability Theory that are fundamental for Mathematical Statistics and are widely used in other applications. We study measurable space, product measure, Fubini's theorem, conditional expectation and conditional probability, construction of i.i.d. and beyond, discrete-time martingales.</p>"
+    ],
+    "ilo": [
+        "Demonstrate mastery of the principles of probability theory and some of its important applications;",
+        "Apply advanced techniques used in probability theory and contiguous areas;",
+        "Analyse and construct mathematical arguments in the context of probability theory;",
+        "Develop essential skills required to pursue further studies in the areas of mathematics dealing with modelling of random phenomena."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30020",
+                        "Name": "Probability for Inference",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two written assignments (worth 10% each, equivalent to 20 hours total) due mid and late semester",
+            "bullets": [
+                "40 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Contact Hours: 36 hours comprising 2 x one-hour lecture per week and 1 x one-hour practice class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "xi.geng@unimelb.edu.au"
+        }
+    ]
+}

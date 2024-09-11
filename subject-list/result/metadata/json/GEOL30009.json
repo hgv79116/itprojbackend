@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p>This subject will provide students the opportunity to develop skills in field geology that are highly valued in the environmental, resource development, engineering, and mining industries. Students will learn to identify minerals, rocks, sediments, structures, and geomorphic features in the field and using remote sensing imagery, and to express them through geological maps, cross-sections and reports. Students will learn how to collate and interpret diverse geological observations and to use these data to develop models of geological histories across multiple time-scales. Students will gain a rich understanding of how geological mapping and other field methods can be used to inform decision-making across a wide array of contemporary challenges, including hazard identification, risk reduction, and sustaining future Earth.</p>"
+    ],
+    "ilo": [
+        "Develop and apply basic risk assessment and safe fieldwork strategies as they apply to rural or remote field work.",
+        "Develop field plans and testable hypotheses for investigating geological field problems using existing scientific literature and remote sensing imagery.",
+        "Describe and interpret a range of geological features in rocks (such as sedimentary structures, folds, joints, faults, veins and tectonic fabrics) at the macro- and meso-scale and how these can be used to develop tectonic models",
+        "Interpret complex 3D geology in the field, such as that which might arise from folding, faulting, fluid flow, intrusions and other processes that influence the relative positions and characteristics of rocks",
+        "Use advanced skills in detailed geological mapping including documentation and interpretation of field geological relationships at different spatial scales",
+        "Construct geological maps and cross-sections from field and remote sensing imagery to express geological structures in map view and in three dimensions",
+        "Identify geohazards using geological mapping and inform decision-making related to environmental, engineering, and resource development industries and Earth sustainability concepts",
+        "Explain the geology and tectonic evolution of a specified region and interpret it in a global context through comparison with contemporary and ancient analogues"
+    ],
+    "generic_skills": [
+        "creative thinking in developing solutions to diverse geological problems",
+        "developing feasible operative plans and testable hypotheses in complex field and geological settings",
+        "working and communicating within a team environment",
+        "enhancing written and oral communication skills",
+        "thinking critically and conceptualising complex and abstract ideas",
+        "developing skills relevant to preparing technical written reports and maps",
+        "developing time management skills needed to meet assessment deadlines"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOL20002",
+                        "Name": "Investigating Earth's Structure",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC20008",
+                        "Name": "Earth's Surface Processes",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOL20003",
+                        "Name": "Building Earth: Rocks, Minerals, Magmas",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOL30002",
+                        "Name": "Tectonics and Geophysics",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Pre-field trip literature review",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Due prior to commencement of trip",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Iterative geological map and working base maps",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the field excursion",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Single day map",
+            "bullets": [
+                "400 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the field excursion",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Geological cross-section",
+            "bullets": [
+                "400 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the field excursion",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final geological map and report",
+            "bullets": [
+                "1600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July - Off Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "9 days of fieldwork (8 hours per day)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "8 July 2024 to 18 July 2024",
+            "last_self_enrol_date": "5 July 2024",
+            "census_date": "19 July 2024",
+            "last_date_to_withdraw_without_fail": "26 July 2024",
+            "assessment_period_ends": "2 August 2024",
+            "contact_name": null,
+            "contact_email": "ashleigh.hood@unimelb.edu.au"
+        }
+    ]
+}

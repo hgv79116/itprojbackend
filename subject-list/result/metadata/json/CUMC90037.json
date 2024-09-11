@@ -1,0 +1,107 @@
+{
+    "overview": [
+        "<p>This subject aims to build students\u2019 capacity in working within an organisation in ways that: </p>",
+        "<ul><li>Offer an extended opportunity to build a repertoire of industry relevant skills and articulate the conservation experience in an outward- facing forum</li><li>Foster a deeper understanding of and ability to support organisational aims</li><li>Align professional development with industry needs</li><li>Incorporate an increased peer review and peer development process.</li></ul>",
+        "<p>This subject offers students the opportunity to undertake an extended placement in the cultural heritage industry beyond the three-week full time (or part-time equivalent) placement offered in the compulsory internship subject CUMC90006, allowing students to complete a longer placement at the same host organisation as their compulsory internship. Students develop further skills in conservation treatment, research or other projects, alongside demonstrating advanced skills in communicating about their work with broader community stakeholders.</p>"
+    ],
+    "ilo": [
+        "Incorporate relevant theoretical grounding from guiding documents such as the AICCM Code of Ethics and Practice and the AIATSIS Code of Ethics for Aboriginal and Torres Strait Islander Research into conservation practice in a professional context",
+        "Effectively execute and communicate a conservation project in an industry setting",
+        "Integrate technical conservation understanding and stakeholder relations to effectively communicate a conservation project to a broad audience",
+        "Build an expanded professional network including for peer review, incorporating an understanding of the responsibilities and accountabilities of representing an organisation to a professional and a public audience."
+    ],
+    "generic_skills": [
+        "Communicate a conservation project to distinct audiences, including industry, early career peers and the general public",
+        "Carry out a mentored conservation project in the workplace",
+        "Identify skills, competencies and areas for further development in a professional conservation context."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CUMC90006",
+                        "Name": "Conservation Industry Internship",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Host-directed public communication task",
+            "bullets": [
+                "5 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Workshop presentation to subject cohort",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.\n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Off Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "Industry Internship Placement of 110 - 120 hours and \n\n3-hour dual-delivery summative learning workshop will be held in week 12",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "paula.dredge@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - Off Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "Industry Internship Placement of 110 - 120 hours and 3-hour dual-delivery summative learning workshop in week 12",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "paula.dredge@unimelb.edu.au"
+        }
+    ]
+}

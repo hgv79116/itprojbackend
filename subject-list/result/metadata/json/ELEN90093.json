@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>Students in this subject will be introduced to computer architectures, microprocessors, microcontrollers, operating systems, compilers and software design. The proposed course will cover a broad range of topics necessary to make students knowledgeable in the art of microprocessor design including advanced concepts such as in line and out of order execution and execution unit resource optimisation. Students in this course will learn to design execution units, arithmetic logic units, memory hierarchies and learn strategies for cache sizing. As part of this, students will become proficient in microcode and instruction set design, multi-processor and multi core theory and design, including new design methodologies such as chiplet design. Upon completion, students will be familiar with the specification and synthesis of microprocessor systems using high level generator languages such as Chisel and Scala. The course will also introduce students to compiler and linker design, enhancements to instruction sets, c-language and the theory of operating systems.</p>"
+    ],
+    "ilo": [
+        "ILO 1 - Demonstrate a depth of knowledge in microprocessor operation;",
+        "ILO 2 - Articulate the differences in RISC versus CISC systems;",
+        "ILO 3 - Apply knowledge of execution accelerator units to specify requirements to meet system objectives;",
+        "ILO 4 - Design a microprocessor using high level descriptor languages;",
+        "ILO 5 - Evaluate the functionality of the major components of a microprocessor and evaluate performance and design choices in the design of a microprocessor;",
+        "ILO 6 - Critically evaluate the interdependencies between processor instruction sets, compilers, and operating systems and apply subject knowledge;",
+        "ILO 7 - Articulate the major components of an operating system such as Linux and be able to target the operating system so that it can be deployed to a target microprocessor;",
+        "ILO 8 - Critically evaluate design decisions and provide analytical and simulation results to support design decisions."
+    ],
+    "generic_skills": [
+        "Ability to realistically assess the scope and dimensions of a project or task, and employ appropriate planning and time management skills to achieve a substantial outcome;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry, creativity, innovation, and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large;",
+        "Ability to work effectively in a team environment in order to produce a satisfactory project outcome."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90066",
+                        "Name": "Embedded System Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsELEN20006Digital SystemsSemester 1 (On Campus - Parkville)12.5ELEN30014Analog and Digital Electronics ConceptsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20006",
+                        "Name": "Digital Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30014",
+                        "Name": "Analog and Digital Electronics Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One-hour mid-semester test. Intended Learning Outcomes (ILOs) 1-3 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group design/brief report for group of 2-3 students, not exceeding 5 pages, approximately  5 hours of work per student. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group design report for group of 2-3 students, not exceeding 30 pages, approximately 40 hours of work per group. ILOs 3-8 are addressed in this assessment.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Oral presentation (individually assessed), 1 hour (per group of 2-3 students) approximately 20-30 minutes per student. ILOs 1-8 are addressed in this assessment",
+            "bullets": [
+                "20-30 minutes (each)"
+            ],
+            "hurdle": "Oral presentation must be passed to pass the subject.",
+            "timing": "Week 14",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "45 hours (9 hours lectures; 36 hours workshops)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Stan Skafidas",
+            "contact_email": "sskaf@unimelb.edu.au"
+        }
+    ]
+}

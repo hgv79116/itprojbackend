@@ -1,0 +1,66 @@
+{
+    "overview": [
+        "<p><strong>AIMS<br/></strong></p>",
+        "<p>The subject introduces students to the concepts and applications of Business-to-Business Electronic Commerce (B2B EC), which involves the use of digital technologies to streamline the sourcing, acquisition, delivery and remittance of materials and services between companies. Students will understand the implications of B2B EC technologies on supply chain processes and the organisational issues related to the adoption of B2B EC technologies.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>1. B2B EC in Context</p>",
+        "<ul><li>Information exchanges and key business processes involved in the exchange of goods and services between trading partners;</li><li>B2B EC technologies and initiatives: the Internet, Collaborative Planning Forecasting and Replenishment (CPFR); standardization of product and shipment numbering including automatic identification; Electronic Data Interchange (EDI); Electronic Funds Transfer (EFT); Vendor Managed Inventory (VMI); Evaluated Receipts Settlement (ERS); cross docking and other distribution techniques</li><li>B2B EC business values</li><li>Competitive advantage</li></ul>",
+        "<p>2. B2B E-Market</p>",
+        "<ul><li>B2B Electronic Market concept and framework</li><li>Electronic market hypothesis</li><li>B2B Electronic Market case studies and analysis</li></ul>",
+        "<p>3. B2B EC-enabled Supply Chain</p>",
+        "<ul><li>Supply chain management concepts and issues</li><li>Inventory and replenishment concepts and initiatives including Just-In-Time (JIT) and Efficient Consumer Response (ECR)</li><li>Supply chain B2B technologies</li><li>Supply chain reengineering</li></ul>",
+        "<p>4. B2B EC Adoption</p>",
+        "<ul><li>Organisational issues with B2B EC adoption</li><li>Requirements for B2B EC adoption</li><li>B2B EC adoption frameworks</li></ul>"
+    ],
+    "ilo": [
+        "Be familiar with the technologies of B2B EC",
+        "Develop an appreciation of the implications of new technologies in the restructuring of supply and demand chains",
+        "Apply the main concepts underlying the transformation of B2B processes using EC technologies"
+    ],
+    "generic_skills": [
+        "Develop analytical skills through examination of case studies",
+        "Improve research and academic writing skills",
+        "Enhance collaborative skills through group work and discussion"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: One group based project with 4 group members, consisting of one assignment and a  presentation of approximately 10 minutes duration,  requiring approximately 25-30 hours of work per student. Intended Learning Outcomes (ILO's) 2 and 3 are addressed in the group based project.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "This assignment is a hurdle and must be passed to pass the subject. ",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 2: One individual research paper, requiring approximately 40-45 hours of work. ILO's 1 to 3 are addressed in the research paper.",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": "This assignment is a hurdle and must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One written 2 hour closed book end of semester examination (50%). ILO's 2 and 3 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

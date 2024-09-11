@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an opportunity for students to work in teams to integrate concepts, principles, models and theories related to engineering and/or project management principles and practice, contract and procurement strategies, finance and management strategy. It will make use of business cases, or simulation of business cases that are relevant to decision making and practice in the engineering management profession.</p>"
+    ],
+    "ilo": [
+        "Work in teams to formulate business cases and proposals for engineering projects to the senior levels of organisations such as the Board of Directors",
+        "Identify key issues encountered in engineering management and/or engineering projects, evaluate among alternative engineering solutions and make recommendations based on best possible project",
+        "Devise and apply decision criteria to economic and financial analysis outcomes, and use them to make informed decisions as well as to make estimates in budgets",
+        "Analyse information and organise tasks to create a complete project management plan which may include but not limited to scoping, task definition, cost modelling, budgeting, risk management, procurement, schedule, sequencing of tasks and control measures",
+        "Demonstrate the ability to comply with legal and other compliance frameworks in the engineering management process"
+    ],
+    "generic_skills": [
+        "Analytical skills",
+        "Working in teams",
+        "Formulate problems, develop and provide solutions to these problems.",
+        "Leadership skills and the abilities to work in a cohesive team environment",
+        "Communication skills",
+        "Management skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Progress reports for group project equivalent. 2 group reports equivalent to 200 words each.  (8 hours for each report) ILOs 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "8 hours"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 6 and 9",
+            "percentage": "5%"
+        },
+        {
+            "brief": "20 minute presentation with 5 minutes for questions and answers with a workload equivalent to 750 words. ILOs 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual Assignment, report with a workload equivalent to 1500 words. ILOs 2, 3 and 4 are addressed in this assignment.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group Project (Case or Simulation) groups of 4 with a workload equivalent to 1500 words per student. (40-45 hours per student) ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "40-45 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Individual reflection on the group project (750 words). ILOs 1-3 are addressed in this assessment",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Felix Hui",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (36 hours workshops per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Felix Hui",
+            "contact_email": "kin.hui@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Felix Hui",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (36 hours workshops per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Felix Hui",
+            "contact_email": "kin.hui@unimelb.edu.au"
+        }
+    ]
+}

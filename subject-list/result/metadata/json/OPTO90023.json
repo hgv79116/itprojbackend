@@ -1,0 +1,134 @@
+{
+    "overview": [
+        "<p>Note: This subject is only available to students enrolled in the Doctor of Optometry.</p>",
+        "<p>In this subject, students will develop knowledge in the basic and clinical vision sciences in the areas of pharmacology, microbiology/immunology, evidence-based practice, anterior eye disease, clinical neuroscience, and binocular vision and paediatrics. To complement this, students will learn the theory of advanced clinical diagnostic tests and corrective devices, such as contact lenses and spectacle lenses, thus equipping them to both assess and manage patients in clinical practice. Throughout this subject, students will be required to integrate their learning, firstly through consolidation of their clinical routine and the practice of advanced clinical techniques, and then through application of these skills in the examination and management of patients in a clinical setting. Integration will also occur through the exploration of case studies that link key topics of basic sciences to clinical practice.</p>"
+    ],
+    "ilo": [
+        "apply knowledge in the basic sciences and the principles of evidence-based practice in the management and diagnosis of patients;",
+        "explain and apply the principles of microbiology, immunology, and pharmacology to the safe and effective topical and systemic therapeutic management of anterior eye disease;",
+        "assess the health and visual performance of a patient using current, best-practice methods that form part of an eye examination;",
+        "describe how to advise patients regarding the most appropriate refractive correction modality (including spectacles and contact lenses), document and verify the relevant prescription parameters, and assess their suitability for the patient; and",
+        "describe the key indicators of normal child development, and the differences and specific needs of children, to the clinical management of children (and interaction with their parents/guardians)."
+    ],
+    "generic_skills": [
+        "apply critical thinking and problem-solving skills to new problems;",
+        "demonstrate developed written and oral communication skills;",
+        "work as part of a team to address a common goal;",
+        "manage competing demands on time;",
+        "demonstrate a profound respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "integrate knowledge from different domains ;",
+        "value the collection and recording of accurate and complete data; and",
+        "reflect upon and identify deficiencies in knowledge and develop strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "OPTO90024",
+                        "Name": "Preclinical Optometry",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "OPTO90027",
+                        "Name": "Integrated Ophthalmic Sciences",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "OPTO90025",
+                        "Name": "Research Studies in Vision and Optometry",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two x 3-hour written examinations, Semester 1 examination period",
+            "bullets": [
+                "6 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Two x 3-hour written examinations, Semester 2 examination period",
+            "bullets": [
+                "6 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Two x 40-minute group seminar presentations, throughout the year",
+            "bullets": [
+                "80 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Clinical performance, throughout the year",
+            "bullets": [
+                "4 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Satisfactory performance in competency assessments, typically stream-specific written examinations and clinical proficiency examinations throughout the year.",
+            "bullets": [
+                "10.5 hours"
+            ],
+            "hurdle": "Satisfactory performance in competency assessments, typically stream-specific written examinations and clinical proficiency examinations throughout the year.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "100% attendance at preclinical duties and clinical placements",
+            "bullets": null,
+            "hurdle": "100% attendance at preclinical duties and clinical placements",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Michael Pianta",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Sem 1: 9 x 1-hour lectures/seminars per week, 10 hours of clinical work, practicals, tutorials and computer-assisted tasks per week. Sem 2: 10 x 1-hour lectures/seminars per week, 9 hours of clinical work, practicals, tutorials and computer-assisted tasks per week. Plus attendance at the Doctor of Optometry Student Conference",
+            "total_time_commitment": "900 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "mjp@unimelb.edu.au"
+        }
+    ]
+}

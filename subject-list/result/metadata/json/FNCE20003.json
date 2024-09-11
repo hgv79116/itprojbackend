@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the management of personal finances as well as consumer financial products and services. It discusses the notion of financial wellbeing and its relation to other aspects of wellbeing. It then describes the typical financial problems people encounter in their lives and the key financial products and services used to address them, including investing in financial securities, purchasing real estate and funding retirement. The subject also discusses relevant aspects of taxation, government incentives as well as human decision-making. This subject is aimed at students envisaging a career in consumer financial services, as a financial adviser or in the public service (e.g., regulation). It also provides a basis for personal financial decision making</p>"
+    ],
+    "ilo": [
+        "Explain the concept of financial wellbeing, its key dimensions and its relation with other aspects of wellbeing;",
+        "Analyse the main financial problems people face in their lives and explain key financial products and services and apply them to those problems;",
+        "Describe important aspects of human decision-making relevant to the management of personal finances;",
+        "Describe the financial planning process in Australia, including key legal and regulatory aspects."
+    ],
+    "generic_skills": [
+        "High level of development:application of theory to practice;evaluation of data and other information;synthesis of data and other information; problem-solving; critical thinking;",
+        "Moderate level of development: written communication; collaborative learning; interpretation and analysis;",
+        "Some level of development: oral communication; use of computer software; accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE10002",
+                        "Name": "Principles of Finance",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two individual homework assignments (not more than 600 words each)",
+            "bullets": [
+                "1200 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Antony Cusack",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "antony.cusack@unimelb.edu.au"
+        }
+    ]
+}

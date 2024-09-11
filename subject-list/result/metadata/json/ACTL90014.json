@@ -1,0 +1,82 @@
+{
+    "overview": [
+        "<p>Topics considered in this subject include premium principles, including variance principle, Esscher principle, risk adjusted principle; applications of utility theory, premium calculation and optimal reinsurance retention levels; reinsurance problems; ruin theory, Lundberg's inequality, explicit solutions for the probability of ultimate ruin, application of Panjer's recursion formula, the probability and severity of ruin, the effect of reinsurance on ruin probabilities.</p>"
+    ],
+    "ilo": [
+        "Apply relevant pre-requisite knowledge of mathematics, probability theory and statistics in the solution of a range of practical problems;",
+        "Describe the basic concepts of utility theory and apply them to insurance problems;",
+        "Explain the concepts of a premium calculation principle and show whether a premium calculation principle satisfies certain properties;",
+        "Derive Lundberg&#39;s inequality;",
+        "Describe the effect of simple reinsurance arrangements on ruin probabilities;",
+        "Derive explicit solutions for the ruin probability in the classical risk model;",
+        "Calculate approximations to ruin probabilities, explaining the rationale behind each approach."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; statistical reasoning; application of theory to practice; interpretation and analysis."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL90004",
+                        "Name": "Insurance Risk Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL40003",
+                        "Name": "Risk Theory II",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

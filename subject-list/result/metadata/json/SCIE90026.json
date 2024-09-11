@@ -1,0 +1,83 @@
+{
+    "overview": [
+        "<p>This subject provides an in-depth look into the methods, algorithms and techniques behind biomolecular structure determination. In particular, students will be exposed to prominent techniques in the field for example: X-ray Crystallography, Nuclear Magnetic Resonance (NMR) and cryogenic-Electron Microscopy (cryo-EM). As part of a general introduction into measurement techniques students will visit state-of-the-art NMR, cryo-EM and X-ray facilities at the Bio21 Institute and the Australian Synchrotron. Using industry standard software packages, students will learn to input and handle data to reconstruct biomolecular structure and dynamics across the range of techniques. The computer based laboratories will be overseen by practitioners in the field. This multi-disciplinary subject is co-taught by staff in the School of Physics, Chemistry and Biomedical sciences. There is particular emphasis on integration of these disciplines with students receiving both theoretical and practical knowledge of fundamental and frontier research and development in biomolecular structure determination.</p>"
+    ],
+    "ilo": [
+        "Explain the measurement principles used to perform bio-molecular structure determination.",
+        "Demonstrate high level computer based skills that can be used to study a range of biomolecular structural problems in biology.",
+        "Compare and contrast the strengths and weakness of each technique and explain how they can be applied to advance how these techniques may be applied both in advanced scientific research and biotechnology development.",
+        "Understand and articulate advances in biomolecular imaging and structure determination."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise computer based systems to solve complex problems;",
+        "Ability to manage information and documentation;",
+        "Capacity for creativity and innovation;",
+        "Ability to communicate effectively within an interdisciplinary environment."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Students must possess behavioural and social attributes that enable them to participate in a complex learning environment. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students. Students who feel their disability will impact on meeting this requirement are encouraged to discuss this matter with the relevant Subject Coordinator and Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Computer programming assignment 1 (1000-1500 words), contributing 25%. Addressing Intended Learning Outcomes  2&3.",
+            "bullets": [
+                "1 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Computer programming assignment 2 (1000-1500 words), contributing 25%. Addressing Intended Learning Outcomes  2&3.",
+            "bullets": [
+                "1 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Computer programming assignment 3 (1000-1500 words), contributing 25%. Addressing Intended Learning Outcomes  2&3.",
+            "bullets": [
+                "1 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Exam - End of Semester (1 hour), contributing 25%. Addressing Intended Learning Outcomes 1&4.",
+            "bullets": [
+                "1 minutes"
+            ],
+            "hurdle": "To pass the subject students must obtain at least: 50% overall",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "9 x 1 hr lectures - Total 9 hours\n\n3 x 3 hour field trips - Total 9 hours\n\n18 x 2 hr computer based practical/tutorial - Total 36 hours\n\n\n\nTotal contact hours - 54 hrs",
+            "total_time_commitment": "160 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ivanhoe.leung@unimelb.edu.au"
+        }
+    ]
+}

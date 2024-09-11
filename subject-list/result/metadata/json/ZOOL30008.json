@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>This subject explores the techniques and methods of undertaking marine biological research, including experimental and sampling design, data collection, statistical analysis of data, presentation of the research results and peer review. Students will participate in a group project, in which they will design, execute, analyse and interpret observational and experimental studies of marine animals, plants and algae in field and laboratory settings. </p>"
+    ],
+    "ilo": [
+        "translate a general question in marine biology to a specific testable hypothesis;",
+        "develop an experimental sampling design;",
+        "generate and analyse data;",
+        "compose and revise a scientific paper;",
+        "compile new knowledge from observation and the literature; and",
+        "critically review other's written work."
+    ],
+    "generic_skills": [
+        "the ability to approach and assimilate new knowledge from observation and the literature;",
+        "the ability to use that knowledge to evaluate and communicate results;",
+        "the ability to pose testable hypotheses;",
+        "the ability to devise appropriate sampling procedures and experimental designs;",
+        "the ability to work in field situations;",
+        "experience accessing information from the primary scientific literature, through both electronic and traditional sources; and",
+        "experience in writing scientific reports and essays."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC20004",
+                        "Name": "Blue Planet - Intro to Marine Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Report abstract and introduction",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "3 - 4 weeks post fieldwork",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Report methods, results and discussion (drafted and revised based on assessor comments on abstract and introduction)",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "8-9 weeks post fieldwork",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Completion of peer review assessment form, providing feedback for two complete student reports (200 words each)",
+            "bullets": [
+                "400 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "6 - 8 weeks post fieldwork",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Before and after field work, 1 day each of lectures and tutorial work undertaken on-campus (2 x 6 hrs = 12 hours); and 5 days of practical field work undertaken at marine labs in Queenscliff (5 x 8 hours = 40 hours) in early to mid-February.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "31 January 2024 to 14 February 2024",
+            "last_self_enrol_date": "15 December 2023",
+            "census_date": "9 February 2024",
+            "last_date_to_withdraw_without_fail": "15 March 2024",
+            "assessment_period_ends": "19 April 2024",
+            "contact_name": null,
+            "contact_email": "ZOOL30008@zoology.unimelb.edu.au"
+        }
+    ]
+}

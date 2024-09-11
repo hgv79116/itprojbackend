@@ -1,0 +1,204 @@
+{
+    "overview": [
+        "<p>This subject equips students with the foundations and tools needed for a career in business analytics. The subject has five distinct components discussed below.</p>",
+        "<p><strong>Machine Learning </strong><br/>This component builds on the material in Statistical Learning 1 and covers advanced analytic methods. It extends the statistical learning component of Business Analytics Foundations in three ways. First, new techniques such as tree based methods and neural networks are introduced. Second, students will be introduced to unsupervised statistical learning techniques and third, students will learn how to combine models and techniques to produce ensembles with better predictive capabilities.</p>",
+        "<p><strong>Causal Analytics</strong> <br/>Data Analytics models can be used to predict a performance variable. But many business decisions are not about predicting performance per se. They are about choosing the values of key inputs, such as price or advertising spend, to optimise performance. This requires that the effects of the inputs, as coded by the model, are causal. This typically requires further assumptions about how the data was generated.</p>",
+        "<p>The gold standard for establishing causality is a randomised experiment, which is becoming more common in business contacts. The course covers basic principles and practice of experimentation from A-B testing to randomised incomplete block designs. All these methods give rise to estimates of causal effects.</p>",
+        "<p>When data is not from an experiment, associations may be entirely spurious. There are several methods that can identify causal effects, such as controlling for known confounders or identifying instrumental variables. When data is collected over time, the so-called error correction model can be used to support the case for causality.</p>",
+        "<p><strong>Predictive Analytics</strong> <br/>Predicting key business and economic variables is increasingly important, as it drives both objective decision-making and improved profitability. This component aims to cover the main methods used to predict business and economic variables, based on historical data. These include traditional regression, time series, multivariate and econometric models, as well as emerging methods such as ensemble forecasts. Both point and density prediction will be considered, along with metrics for the quality of both. Throughout, the focus will be on introducing methods in the context of substantive business and economic problems, using a wide range of prediction methods. The importance of benchmarking different methodologies, and the use of prediction in decision-making frameworks, will also be stressed.</p>",
+        "<p><strong>Text and Web Analytics</strong><br/>This component helps students develop an understanding of the key algorithms used in natural language processing and text retrieval, for use in a diverse range of applications including search engines, cross-language information retrieval, machine translation, text mining, question answering, summarisation, and grammar correction. Topics to be covered include text normalisation, sentence boundary detection, part-of-speech tagging, n-gram language modelling, sentiment analysis, web mining and analysis, network analysis (including social network analysis), and text classification.</p>",
+        "<p><br/><strong>Personal Effectiveness 2 </strong></p>",
+        "<p>This component builds upon Personal Effectiveness 1 and Personal Effectiveness 2 and will be partially integrated into the other components of Analytics Applications. This component is designed to help students develop the skills and knowledge required to effectively manage the early stages of their career. The \u201cPersonal Effectiveness Program\u201d runs across the course and identifies specific needs of each individual student and then provides ongoing support, training, and opportunities to practice and perfect these skills. The program focuses on three core areas:</p>",
+        "<ol><li><em>Communication skills</em>: These skills include effective presentations, verbal communication, written communication, public speaking, and communicating technical material to non-technical audiences.</li><li><em>Career development skills</em>: These skills include case practice, interview skills including data presentation skills (i.e. data visualisation), CV writing, networking, business etiquette, and data visualisation techniques and systems.</li><li><em>Team skills</em>: These skills include managing conflict, cultural awareness, giving and receiving feedback, and resilience.</li></ol>",
+        "<p><br/></p>"
+    ],
+    "ilo": [
+        "Demonstrate how to quantitatively analyse large datasets and convert raw data into relevant information for management decisions, using a wide variety of parametric and non-parametric techniques.",
+        "Understand the difference between supervised and unsupervised statistical learning.",
+        "Determine which techniques to apply to different types of data.",
+        "Understand how to perform model averaging."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90500",
+                        "Name": "Business Analytics Foundations",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "37.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Machine Learning: 5 \u00d7 Individual in-class quizzes, equivalent to 150 words each, weekly (beginning week 3)",
+            "bullets": [
+                "150 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Machine Learning: Syndicate assignment and presentation",
+            "bullets": [
+                "900 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Machine Learning: Final individual assessment problem",
+            "bullets": [
+                "1750 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the assignment to pass the subject.",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Causal Analytics: Syndicate\u00a0assignment, week 5 & 7",
+            "bullets": [
+                "900 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Causal Analytics: Final individual assessment problem",
+            "bullets": [
+                "1750 words"
+            ],
+            "hurdle": "Students are required to pass the assignment to pass the subject.",
+            "timing": "Week 9",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Predictive Analytics: Individual assignment",
+            "bullets": [
+                "900 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Predictive Analytics: Syndicate assignment",
+            "bullets": [
+                "900 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Predictive Analytics: Final exam, equivalent to 1750 words",
+            "bullets": [
+                "2 hours (of work required)"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject.",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Text and Web Analytics: Individual quiz, equivalent to\u00a0350 words",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Text and Web Analytics: Syndicate project 1",
+            "bullets": [
+                "900 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Text and Web Analytics: Syndicate project 2",
+            "bullets": [
+                "900 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Text and Web Analytics: Final individual assessment problem",
+            "bullets": [
+                "1750 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the assignment to pass the subject.",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Personal Effectiveness 2: Class participation (attendance at skills workshops, peer and instructor evaluation of contribution to class learning), during all classes",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Personal Effectiveness 2: Individual presentations (as part of group presentations), weekly",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Personal Effectiveness 2: Syndicate project (as part of business communications/data visualisation)",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Personal Effectiveness 2: Individual technical report",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass the assignment to pass the subject.",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "29 July 2024 to 20 September 2024",
+            "last_self_enrol_date": "8 August 2024",
+            "census_date": "16 August 2024",
+            "last_date_to_withdraw_without_fail": "6 September 2024",
+            "assessment_period_ends": "27 September 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

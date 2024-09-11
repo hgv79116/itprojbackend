@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>This unit will focus on advanced issues in the management of speech, language and swallowing disorders from childhood to adulthood. In particular, clients with complex co-morbid conditions will be presented. There will be an emphasis on presenting and supporting students to problem solve real-world clinical dilemmas. The subject will also cover the importance of, and processes for, working with other health professional colleagues in the measurement and interpretation of evidence to guide their diagnosis and management of people with conditions impacting speech, language and swallowing.</p>"
+    ],
+    "ilo": [
+        "Apply the principles and processes of diagnosis in complex disorders that impact speech, language, communication and swallowing, including multi-modal assessment and differential diagnosis;",
+        "Differentiate a range of complex and co-morbid speech and language disorders across the lifespan, including any associated swallowing difficulties/disorder;",
+        "Interpret clinical data from clients with complex speech and language disorders across the lifespan;",
+        "Relate personal and environmental issues to the management of clients' complex speech and language disorders;",
+        "Determine diagnostic and intervention strategies suitable to complex speech and language disorders across the lifespan, including high and low technology resources (AAC);",
+        "Explain the interprofessional processes in differential diagnosis for complex speech and language disorders."
+    ],
+    "generic_skills": [
+        "an ability to evaluate and synthesise information in a flexible manner",
+        "a capacity to articulate their knowledge in both oral and written formats"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90028",
+                        "Name": "Swallowing and Voice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90029",
+                        "Name": "Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90030",
+                        "Name": "Language Disorders Across the Lifespan",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90031",
+                        "Name": "Speech Disorders Across the Lifespan",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90032",
+                        "Name": "Speech Pathology Practice 1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90033",
+                        "Name": "Speech Pathology Practice 2",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90036",
+                        "Name": "Disorders of Fluency",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Clinical Case Based Report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A two hour written examination - end of semester 1 during examination period",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Clinical Case Based Report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

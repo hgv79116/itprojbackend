@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>This two-part subject provides students with the opportunity to learn the essential skills needed to undertake research. In addition, students will gain first-hand experience in experimental design, and in data collection, analysis, and presentation. Students will undertake a literature review, a research report and an oral presentation.</p>",
+        "<p>This subject must be taken in conjunction with DENT90110 Research Project B in consecutive years.</p>"
+    ],
+    "ilo": [
+        "Conduct research in biomedical, dental and health sciences.",
+        "Design experiments.",
+        "Prepare and give oral and written presentation of the results.",
+        "Express intellectual, scientific arguments; and",
+        "Assimilate and critically evaluate existing knowledge within a scientific paradigm."
+    ],
+    "generic_skills": [
+        "Articulating the breadth of knowledge gained in a particular discipline;",
+        "Critical appraisal of draft documents; developing the ability to exercise critical judgement;",
+        "Expressing persuasive intellectual arguments;",
+        "High level written report presentations;",
+        "Managing a research project;",
+        "Oral communication and presentation;",
+        "Rigorous and independent thinking; and",
+        "Time management and self-management skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DENT90108",
+                        "Name": "Research Proposal",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": "Students must meet satisfactory requirements. Re-assessment will be permitted with a fail of 40-49. Maximum grade on re-assessment is 50.",
+            "timing": "Towards the end of the Research Project A",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Towards the end of Research Project A",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Research report",
+            "bullets": [
+                "13000 words"
+            ],
+            "hurdle": null,
+            "timing": "Towards the end of Research Project B",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Towards the end of Research Project B",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "20 November 2023 to 20 October 2024",
+            "last_self_enrol_date": "1 December 2023",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

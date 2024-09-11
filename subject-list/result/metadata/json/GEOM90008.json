@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>This subject combines practical spatial data management with the underpinning theories of spatial and spatiotemporal data representation and handling from Geographic Information Science. Spatial information is answering \u2018where\u2019 and \u2018when\u2019 questions \u2013 which are fundamental in decision making in complex systems, be it in urban planning, traffic and infrastructure management, environmental management, public health and sustainability, or any other social, economic, and environmental context.</p>",
+        "<p>The subject introduces foundations of effective, efficient, and large-scale spatial data management. This subject will cover the concepts, methods, and approaches that allow for efficient representation, querying, and retrieval of spatial data, in a modern ecosystem of spatial databases interfacing a geographic information system.</p>",
+        "<p>The knowledge acquired is fundamental for subsequent studies in spatial data analytics and visualisation, and is of particular relevance to people wishing to establish a career in the spatial information, the environmental, or the planning industry. It is also suited for every postgraduate student who is looking for solid skills with Geographic Information Systems.</p>",
+        "<p>In this subject, we will discuss the intricacies of computational representation and management of spatial information. The subject takes a spatial database perspective to management of extensive spatial datasets. The subject will cover the modelling, loading, transformation, analysis, and retrieval of spatial data in spatial databases. The subject covers data representations (vector, raster, and network data); spatial operations, including geometric, topological, set-oriented, and network operations; spatial indexes and access methods, including quadtrees and R-trees. The subject exposes the students to the whole lifecycle of spatial data management in a team-based project.</p>"
+    ],
+    "ilo": [
+        "Associate the value of spatial information to digital infrastructure management;",
+        "Evaluate fundamental data structures and analysis procedures associated with spatial information;",
+        "Apply the database design process to manage information about infrastructure data;",
+        "Combine advanced skills in the design and use of a spatial database supported by a Geographic Information System on a complex infrastructure project;",
+        "Demonstrate professional skills in ethics and sustainability, communication, and teamwork."
+    ],
+    "generic_skills": [
+        "The ability totransfer domainknowledgetofundamentalchallenges in society",
+        "The ability to undertake problem identification, formulation, and solution",
+        "The ability to communicate effectively, with a project team and with the community at large",
+        "The ability to effectively manage information and documentation",
+        "An understanding of professional and ethical responsibilities, and a commitment to them",
+        "A capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "An applied knowledge of GIS (e.g., GEOM20013) is also an asset. Students will be provided with self-learning resources to complement their training and knowledge if necessary, before the semester."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Documentation of a training experience of the interaction with non-spatial relational databases, and of basic GIS interaction. Addressing  Intended Learning Outcome (ILO) 4.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": "Students must submit documentation to pass the subject.",
+            "timing": "Week 4",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Data Management project design proposal. Deliverable is a report of a maximum of 5 pages (per group) (25%), and in the appendix of the report a 1-page reflection per individual student (10%).  ILOs 1, 2, 3 and 5 are addressed in this assessment.",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "35%"
+        },
+        {
+            "brief": "One individual assessment, targeting spatial data querying (Week 8), worth 10%.  ILO 4 is addressed in this assessment.",
+            "bullets": [
+                "15 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group project presentation requiring a 3-minute recorded video (10%), with an additional 1 minute recorded video of individual reflection (5%). ILOs 3 and 5 are addressed in this assessment.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Realisation of the spatial database previously designed in the project design proposal. Deliverable is a report of a maximum of 15 pages (per group) (30%), the realised implementation passing acceptance criteria and in the appendix of the report a 1-page reflection per individual student (10%).  ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 2 hours per week; Practicals 2 hours per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Martin Tomko",
+            "contact_email": "tomkom@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 2 hours per week; Practicals 2 hours per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Alan Thomas",
+            "contact_email": "alan.thomas@unimelb.edu.au"
+        }
+    ]
+}

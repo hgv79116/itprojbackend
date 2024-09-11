@@ -1,0 +1,188 @@
+{
+    "overview": [
+        "<p>Students undertake a research investigation under the supervision of members in the School of Computing and Information Systems academic staff.</p>",
+        "<p>The subject continues over three consecutive study periods with students enrolling in a 'Part 1' component, a 'Part 2' component and a 'Part 3' component, for a combined total enrolment of 75 credit points. A mark for the subject/s will not be awarded until the entire 75 points of enrolment has been completed.</p>",
+        "<p><strong>Information provided on this page applies to all 'parts' of the subject:</strong></p>",
+        "<p>Computer Science Research Project Pt 1</p>",
+        "<ul><li>COMP90060 (12.5 points)</li><li>COMP90061 (25 points)</li><li>COMP90062 (37.5 points)</li><li>COMP90063 (50 points)</li></ul>",
+        "<p>Computer Science Research Project Pt 2</p>",
+        "<ul><li>COMP90064 (12.5 points)</li><li>COMP90065 (25 points)</li><li>COMP90066 (37.5 points)</li><li>COMP90067 (50 points)</li></ul>",
+        "<p>Computer Science Research Project Pt 3</p>",
+        "<ul><li>COMP90068 (12.5 points)</li><li>COMP90069 (25 points)</li><li>COMP90070 (37.5 points)</li><li>COMP90071 (50 points)</li></ul>"
+    ],
+    "ilo": [
+        "Have attained research maturity, including the ability to independently carry out a research survey, and plan, execute, interpret and report on a computational experiment OR demonstrate mastery of the mathematical and logical techniques required for research in theoretical computer science",
+        "Have the ability to communicate computer science research."
+    ],
+    "generic_skills": [
+        "Have the ability to demonstrate advanced independent critical enquiry, analysis and reflection",
+        "Have a strong sense of intellectual integrity and the ethics of scholarship",
+        "Have in-depth knowledge of their specialist discipline(s)",
+        "Reach a high level of achievement in writing, project activities, problem-solving and communication",
+        "Be critical and creative thinkers, with an aptitude for continued self-directed learning",
+        "Be able to examine critically, synthesise and evaluate knowledge across a broad range of disciplines",
+        "Have a set of flexible and transferable skills for different types of employment."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90049",
+                        "Name": "Introduction to Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90015",
+                        "Name": "Distributed Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP90048Declarative ProgrammingSemester 1 (On Campus - Parkville)12.5COMP30020Declarative ProgrammingSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90048",
+                        "Name": "Declarative Programming",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP30020",
+                        "Name": "Declarative Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsCOMP90044Research MethodsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90044",
+                        "Name": "Research Methods",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90060",
+                        "Name": "Computer Science Research Project Pt1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90061",
+                        "Name": "Computer Science Research Project Pt1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "COMP90062",
+                        "Name": "Computer Science Research Project Pt1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "37.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP60001 Computer Science Research Project"
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP60002 Computer Science Research Project"
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP60003 Computer Science Research Project"
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP60004 Computer Science Research Project"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written thesis",
+            "bullets": [
+                "25,000"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "90%"
+        },
+        {
+            "brief": "An oral presentation of their project work. The thesis will be examined internally within the Department of Computing and Information Systems.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Prior to submission of the thesis",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Students are required to attend regular meetings with their supervisor, and to participate in the academic activities of the Department of Computing and Information Systems.",
+            "total_time_commitment": "800 hours",
+            "teaching_period": "26 February 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "jeyhan.lau@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Students are required to attend regular meetings with their supervisor, and to participate in the academic activities of the Department of Computing and Information Systems.",
+            "total_time_commitment": "800 hours",
+            "teaching_period": "22 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "jeyhan.lau@unimelb.edu.au"
+        }
+    ]
+}

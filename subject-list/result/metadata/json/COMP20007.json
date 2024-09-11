@@ -1,0 +1,185 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Programmers can choose between several representations of data. These will have different strengths and weaknesses, and each will require its own set of algorithms. This subject will cover some of the most frequently used data structures and their associated algorithms. The emphasis will be on justification of algorithm correctness, on analysis of algorithm performance, and on choosing the right data structure for the problem at hand.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Sample projects are: approximate string matching for a translation memory, involving sorting and comparison of dynamic programming, branch-and-bound search and brute-force search using a variety of data structures (e.g. arrays, hash tables, tries); speech synthesis based on a pronouncing dictionary and pre-prepared grapheme-phoneme alignment data, based on parsing of the alignment data, hashing of variable length n-grams, and a variety of models for predicting the phoneme(s) associated with a given phoneme sequence (e.g. a simple unigram baseline or a hidden Markov model).</p>",
+        "<p>Please view this video for further information: <a href=\"https://www.youtube.com/watch?v=43y9ZsAul_w\">Design of Algorithms</a></p>"
+    ],
+    "ilo": [
+        "Read, write and debug graph algorithms, advanced sorting algorithms, dynamic programs and greedy algorithms",
+        "Read, write and debug code using intermediate data structures",
+        "Choose between different algorithms for intermediate problems by analysing their complexity",
+        "Read, write and debug typical multi-module programs in a system programming language such as C"
+    ],
+    "generic_skills": [
+        "An ability to apply knowledge of basic science and engineering fundamentals",
+        "An ability to undertake problem identification, formulation and solution",
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The capacity for critical and independent thought and reflection",
+        "An expectation of the need to undertake lifelong learning, and the capacity to do so."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "A minimum of 25 credit points ofUniversity-level Mathematics subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsECON10005Quantitative Methods 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5COMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON10005",
+                        "Name": "Quantitative Methods 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "A minimum of 12.5 credit points ofUniversity-level Mathematics subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": "Please note, this rule is exclusive of MAST10012"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-SOFTENG Master of Software Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "433-253 Algorithms and Data Structures"
+            },
+            {
+                "type": "paragraph",
+                "content": "433 298 Algorithms and Data Structures"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two projects during semester, with the first (worth 10%) due at the start of week 6 and the second (worth 20%) due at the start of week 12. Intended Learning Outcomes, (ILOs) 1 to 4 are addressed by the project.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One mid-semester test. ILOs 1 and 3 are addressed in the test.",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": "Please see below",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written examination. ILOs 1 to 3 are addressed in the exam.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tawfiq Islam",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising of two 1-hour lectures and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Lars Kulik",
+            "contact_email": "lkulik@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>In this subject, students will learn about the principles, concepts and design strategies used in the development of spatial data infrastructures (SDI) and common data environments (CDE) as an enabling platform to facilitate integration, use, discovery and access of multi-sourced infrastructure data. Emphasis will be placed on both technological and institutional factors that facilitate the data integration. Students will examine related disciplines such as construction, land administration and civil engineering as well as technical areas such as digital twins and interoperability.</p>",
+        "<p>The subject delivers SDI and CDE concepts and theory, current SDI and CDE initiatives, SDI, CDE development strategies and development models; SDI, CDE as an enabling platform, SDI and CDE and partnership approaches, financing and capacity building, challenges for developed and developing countries, capacity building, policy and privacy issues , metadata, standards and clearinghouses, SDI, CDE application areas, and SDI, CDE implementation and benchmarking.</p>",
+        "<p>The subject is of particular relevance to students wishing to establish a career in infrastructure engineering, civil engineering, property management, surveying, spatial information and urban planning but is also relevant to a range of disciplines where imaging should be considered.</p>"
+    ],
+    "ilo": [
+        "ILO 1. Describe the core principles of data integration and sharing for infrastructure engineering, delivery and operation",
+        "ILO 2. Identify the necessary components required for the development of data sharing and integration platforms for infrastructures including technical and institutional arrangements",
+        "ILO 3.  Apply a range of technologies for developing data integration and sharing platforms",
+        "ILO 4.  Analyse and evaluate data integration and sharing platforms."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution.",
+        "Understanding of social, cultural, global, and environmental responsibilities and the need to employ principles of sustainable development.",
+        "Ability to communicate effectively with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsGEOM20013Applying Digital InfrastructureSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOM20013",
+                        "Name": "Applying Digital Infrastructure",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group major assignment of 3000 words per student member and a team presentation (15 min). (80 hours per team member).  Addressing Intended Learning Outcomes (ILOs), 1-4. Due at the end of week 2 of the examination period.",
+            "bullets": [
+                "80 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Individual assessment: One selected topic oral presentation (10 minutes). ILOs' 1, 2 & 4.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A schedule of five online quizzes to be delivered during class-time over the course.\n\nILO's 2 & 3.",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (24 hours lecture and 24 hours practical)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Abbas Rajabifard",
+            "contact_email": "abbas.r@Unimelb.edu.au"
+        }
+    ]
+}

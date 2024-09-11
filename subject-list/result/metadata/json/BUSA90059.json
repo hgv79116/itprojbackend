@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>Contemporary organisations are awash in data, whether it be about their customers, internal operating processes or financial activities. Harnessing this data allows managers to better understand their organisation, and thus make more informed decisions. This subject addresses fundamental data analytic skills necessary to extract information from data that then can be used to make better managerial decisions. In addition to becoming familiar with tools of quantitative analysis, students develop skills necessary for analytical thinking and a quantitative mind set. The fundamental analytical skills from this subject provide students frameworks for addressing managerial problems throughtout their careers.</p>"
+    ],
+    "ilo": [
+        "Apply the principles of statistical variation in data analysis.",
+        "Select appropriate performance metrics, and compare and combine multiple performance metrics based on statistical principles",
+        "Distinguish between correlation and causation in statistical analyses\n\nTranslate business issues into appropriate statistical models (e.g. regression analysis) to quantify relationships between variables",
+        "Relate model outputs to the business issues to inform optimal decision strategies",
+        "Evaluate the robustness of data analyses, and appreciate their limitations"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90556",
+                        "Name": "Business Foundations for Managers",
+                        "Teaching period": "September (Online)March (Online)October (Online)May (Online)July (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90552",
+                        "Name": "Business Essentials",
+                        "Teaching period": "September (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)Summer Term (Online)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who are not enrolled in the Business Administration or Marketing courses at MBS must seek approval from their home institution and the Academic Director MBA course before enrolling in the subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to learning",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "5 x individual quizzes",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 5",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Final project part A",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final project part B",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": "Students are required to pass this assignment to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "15 January 2024 to 23 February 2024",
+            "last_self_enrol_date": "15 January 2024",
+            "census_date": "25 January 2024",
+            "last_date_to_withdraw_without_fail": "9 February 2024",
+            "assessment_period_ends": "1 March 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "September - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 September 2024 to 11 October 2024",
+            "last_self_enrol_date": "2 September 2024",
+            "census_date": "12 September 2024",
+            "last_date_to_withdraw_without_fail": "4 October 2024",
+            "assessment_period_ends": "18 October 2024",
+            "contact_name": "Melbourne Business School",
+            "contact_email": "studentservices@mbs.edu"
+        }
+    ]
+}

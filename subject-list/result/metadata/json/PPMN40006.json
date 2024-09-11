@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p>A supervised thesis embodying the results of a student's own research.</p>"
+    ],
+    "ilo": [
+        "Be able to show a capacity for an advanced level of analysis in relation to issues being studied",
+        "Be able to show an awareness of the latest research directions in the subject",
+        "Have shown a capacity for independent research."
+    ],
+    "generic_skills": [
+        "Be able to conceptualise and plan a substantial project of original research",
+        "Be able to present material in draft form and engage productively with a supervisor",
+        "Be able to consolidate and enhance established skills in engaging creatively with a critical field",
+        "Be able to synthesise critical arguments and debates",
+        "Be able to test and develop new research methods in relation to ongoing debates",
+        "Be able to enhance drafting and writing skills, in both a critical and creative manner",
+        "Be able to manage time and study resources over a sustained period of time."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POLS40013",
+                        "Name": "Social Science Research Seminar",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A thesis, due at the end of the second semester of enrolment.",
+            "bullets": [
+                "12,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due at the end of the second semester of enrolment.",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students are required to attend regular supervision meetings.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": " Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.\n\n",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration.",
+            "total_time_commitment": "680 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "mppm-director@unimelb.edu.au"
+        }
+    ]
+}

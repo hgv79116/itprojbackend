@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p>Through the study of multiculturalism in Australian society, this subject develops students' ability to use academic English language. The subject is specifically designed for students who require intensive attention to their academic writing development. Its primary focus is on developing students' ability to structure an academic paper. The subject targets sentence structure, use of linking devices, paragraph development and effective use of citations. A range of other academic abilities are also developed such as effective reading, participation in small group work and oral presentations.</p>"
+    ],
+    "ilo": [
+        "Write academic assignments fluently, accurately and appropriately",
+        "Evaluate sources\u00a0and critically\u00a0analyse academic texts",
+        "Speak effectively in academic settings",
+        "Actively engage in team work with other students enrolled in the subject",
+        "Understand, discuss and analyse the development of Australia as a multicultural society",
+        "Synthesise and organise material from spoken and written sources."
+    ],
+    "generic_skills": [
+        "Be able to synthesise and organise material from spoken and written sources",
+        "Be more independent learners."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ESLA10004",
+                        "Name": "Academic English 2",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Please note: Native or near-native speakers of English students are not eligible to enrol."
+            },
+            {
+                "type": "paragraph",
+                "content": "Non-native speakers of English may enrol without sitting for a placement test but may be recommended to other subjects during the first two weeks of the semester depending on their English language proficiency."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 - summary",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2 - summary and synthesis",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 3 - oral presentation",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 4 - weekly\n\nquiz",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 5 - final research essay",
+            "bullets": [
+                "1400 words"
+            ],
+            "hurdle": "It is a hurdle requirement to upload your final research essay drafts after the writing activities conducted with your tutors in class during weeks 8, 9, 10 and 11. A shared folder will be made available to students in each of the weeks when writing activities are planned. ",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 10 University business days from the original assessment due date without written approval. ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 1 x 1 hour lecture, 1 x 1 hour tutorial and 1 x 2 hour tutorial per week, throughout the semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "giuseppe.dorazzi@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 1 x 1 hour lecture, 1 x 1 hour tutorial and 1 x 2 hour tutorial per week, throughout the semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "carrie.peng1@unimelb.edu.au"
+        }
+    ]
+}

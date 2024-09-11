@@ -1,0 +1,51 @@
+{
+    "overview": [
+        "<p>This subject comprises two units.</p>",
+        "<p><em>Introduction to Design and Analysis for Psychological Research:</em> covers basic experimental and survey design for psychological research and associated methods for data analysis. The unit is intended to develop students' capabilities in a range of exploratory and hypothesis-testing data analytic techniques, including skills in creating and interpreting graphical displays, and an understanding of a range of descriptive and inferential statistics. Methods of statistical inference, interval estimation and hypothesis testing are introduced, and emphasis is given to the interpretation of data analysis. The practical classes introduce students to computer-based data analysis using the statistical package SPSS.</p>",
+        "<p><em>Introduction to Psychological Measurement:</em> is an introduction to the process and purpose of psychological testing at the level of the individual. The unit covers basic concepts in psychological testing and measurement to show how individual differences are quantified. Quantitative measurement of individual behaviour serves a fundamental purpose in psychology including, for example, obtaining data for theoretical investigations, identification of abnormal behaviour in clinical settings, and identification of special skills or attributes in personnel selection or workplace settings. All applications of psychological measurement may involve evaluation of the quality or reliability and validity of measurement. Topics include the history of psychological measurement and testing; methods for new test development; evaluating the reliability and validity of measurement; validity of professional decisions; contemporary approaches to evaluating psychological measurement; and an introduction to psychological tests and testing applications.</p>"
+    ],
+    "ilo": [
+        "develop skills in exploratory and hypothesis-testing data analytic techniques",
+        "create and interpret graphical displays",
+        "understand a range of descriptive and inferential statistics",
+        "be introduced to the process of psychological testing at the level of the individual"
+    ],
+    "generic_skills": [
+        "3 hours"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at 80% or more of the laboratory classes is a hurdle requirement. In case of failure to meet the hurdle requirement, additional work will be required before a passing grade can be awarded.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

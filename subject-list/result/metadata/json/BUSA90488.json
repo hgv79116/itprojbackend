@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>This subject is intended as an \u2018integrative\u2019 capstone course, and as such does not introduce to the students substantial new material; but rather, provides them with a vehicle for applying and integrating the knowledge and skills they have already acquired. In particular, groups of students will be asked to undertake an exercise that simulates the management of a firm in preparation for their transition back into the workplace. They will also be asked to reflect on an integrative activity they have undertaken during their degree.</p>"
+    ],
+    "ilo": [
+        "use existing financial, accounting, production and marketing data in order to develop a forward looking business plan,",
+        "evaluate the inflow of information to adapt and change their operating plans in response to changing circumstances.",
+        "use the available financial, accounting, production and marketing information to assess and diagnose the results of their decisions, and",
+        "cogently explain and defend their decisions."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90482",
+                        "Name": "General Management 1",
+                        "Teaching period": "September (On Campus - Parkville)",
+                        "Credit Points": "62.5"
+                    },
+                    {
+                        "Code": "BUSA90483",
+                        "Name": "General Management 2",
+                        "Teaching period": "January (On Campus - Parkville)",
+                        "Credit Points": "43.75"
+                    },
+                    {
+                        "Code": "BUSA90487",
+                        "Name": "General Management 3",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "37.5"
+                    },
+                    {
+                        "Code": "IBUS90005",
+                        "Name": "Business in Asia",
+                        "Teaching period": "March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Pre-course work completion",
+            "bullets": null,
+            "hurdle": "",
+            "timing": "To be submitted prior to the week of intensive classes",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Syndicate assignment, success measures",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Syndicate-based initial plan for the project, equivalent to 1000 words for an individual",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Mid-way through the subject",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Collective research report and presentation plus a component for syndicate performance in the simulation, report equivalent to 1,500 words for an individual",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Individual assessment, CompXm individual competition",
+            "bullets": null,
+            "hurdle": "Students are required to pass the assessment to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": null,
+            "teaching_period": "11 March 2024 to 15 March 2024",
+            "last_self_enrol_date": "12 March 2024",
+            "census_date": "12 March 2024",
+            "last_date_to_withdraw_without_fail": "14 March 2024",
+            "assessment_period_ends": "15 March 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

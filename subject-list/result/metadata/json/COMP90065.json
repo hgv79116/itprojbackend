@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p>This subject is available as the second part of a three-subject sequence: the subject continues over three consecutive study periods, with students first enrolling in a 'Part 1', then a 'Part 2' and finally a 'Part 3' for a total enrolment of 75 credit points. Students will receive an overall result for the subject following completion of the three-subject sequence.</p>",
+        "<p><strong>For full information on the subject, please refer to one of the 'Part 1' Handbook pages:</strong></p>",
+        "<ul><li>COMP90060</li><li>COMP90061</li><li>COMP90062</li><li>COMP90063</li></ul>"
+    ],
+    "ilo": [
+        "Have attained research maturity, including the ability to independently carry out a research survey, and plan, execute, interpret and report on a computational experiment OR demonstrate mastery of the mathematical and logical techniques required for research in theoretical computer science",
+        "Have the ability to communicate computer science research"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90060",
+                        "Name": "Computer Science Research Project Pt1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90061",
+                        "Name": "Computer Science Research Project Pt1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "COMP90062",
+                        "Name": "Computer Science Research Project Pt1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "37.5"
+                    },
+                    {
+                        "Code": "COMP90063",
+                        "Name": "Computer Science Research Project Pt1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90064",
+                        "Name": "Computer Science Research Project Pt2",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90066",
+                        "Name": "Computer Science Research Project Pt2",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "37.5"
+                    },
+                    {
+                        "Code": "COMP90067",
+                        "Name": "Computer Science Research Project Pt2",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Students are required to attend regular meetings with their supervisor, and to participate in the academic activities of the Department of Computing and Information Systems.",
+            "total_time_commitment": "800 hours",
+            "teaching_period": "2 January 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "jeyhan.lau@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Students are required to attend regular meetings with their supervisor, and to participate in the academic activities of the Department of Computing and Information Systems.",
+            "total_time_commitment": "800 hours",
+            "teaching_period": "1 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "jeyhan.lau@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p>This subject provides an overview of the field of political economics. Political economics extends the scope of standard economic analysis by assuming that individuals follow their own agenda and maximize their own utility not only in the economic, but also in the political sphere. The following broad areas will be covered: Determinants of institutional quality and its effect on economic performance; models of political competition and (re-)elections; various (so-called) political and institutional failures, including corruption and rent seeking, and delays in welfare-increasing reforms.</p>"
+    ],
+    "ilo": [
+        "Reflect on determinants and effects of institutional quality;",
+        "Explain different models of political competition;",
+        "Understand when re-elections can discipline an incumbent government and when they can lead to inefficient policies;",
+        "Apply models of political competition to understand observed policies;",
+        "Discuss the main causes and effects of corruption;",
+        "Apply lobbying and rent seeking models to understand observed policies;",
+        "Understand why welfare-increasing reforms are often delayed; and",
+        "Critically evaluate real-world policies from a political economics perspective."
+    ],
+    "generic_skills": [
+        "Written communication",
+        "Problem solving",
+        "Interpretation and analysis",
+        "Critical thinking",
+        "Receptiveness to alternative ideas"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECON40002Advanced MacroeconomicsSemester 1 (On Campus - Parkville)12.5ECON90003MacroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40002",
+                        "Name": "Advanced Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90003",
+                        "Name": "Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40009",
+                        "Name": "Positive Political Economics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Eik Leong Swee",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "eswee@unimelb.edu.au"
+        }
+    ]
+}

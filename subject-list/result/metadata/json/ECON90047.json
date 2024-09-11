@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>This subject develops the analytical skills routinely used by practicing macroeconomists. These may include: theories of long-run economic growth; the flexible and sticky price macroeconomic models; open economy macroeconomic models; and the analysis of macroeconomic policy making.</p>"
+    ],
+    "ilo": [
+        "Use a range of macroeconomic models to explain macroeconomic issues;",
+        "Evaluate the merits of competing approaches to macroeconomics;",
+        "Formulate key ideas in macroeconomics using models such as the AD-AS and IS-LM models;",
+        "Explain the role of expectations in modern macroeconomics."
+    ],
+    "generic_skills": [
+        "High level of development:written communication; collaborative learning; problem solving; team work; application of theory to practice; critical thinking; synthesis of data and other information; evaluation of data and other information.",
+        "Moderate level of development:oral communication; interpretation and analysis; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development:statistical reasoning; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON90032Macroeconomics for ManagersSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90032",
+                        "Name": "Macroeconomics for Managers",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20001",
+                        "Name": "Intermediate Macroeconomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Class assignment",
+            "bullets": [
+                "10-20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Class assignment",
+            "bullets": [
+                "10-20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Class assignment",
+            "bullets": [
+                "10-20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Class assignment",
+            "bullets": [
+                "10-20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "5%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

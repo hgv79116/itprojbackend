@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>This subject provides an overview of selected topics in industrial organization with applications in antitrust and innovation policy. Industrial organization deals with the structure, management, and performance of firms and markets. It is concerned with firm behaviour and strategy, the implications of firm behaviour for economic efficiency, and the role public policy plays in promoting efficiency. The main emphasis will be on theoretical principles although there will be some discussion of empirical approaches. The selection of topics will be organized around key questions in antitrust and innovation policy. The discussion will be guided by practical examples and case studies.</p>"
+    ],
+    "ilo": [
+        "Explain how firms acquire market power and how they use this market power once acquired;",
+        "Analyse how competing firms interact strategically;",
+        "Evaluate the welfare effects of various aspects of firm behaviour;",
+        "Evaluate the welfare effects of various types of public policy, such as antitrust policy, patent policy, and regulatory policy;",
+        "Describe the current state of knowledge in the field of industrial organization."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: use of computer software; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; collaborative learning; team work; statistical reasoning; synthesis of data and other information; evaluation of data and other information."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON40001Advanced MicroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90005",
+                        "Name": "Industrial Organisation",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class assignments totalling not more than 4000 words due fortnightly",
+            "bullets": [
+                "4000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

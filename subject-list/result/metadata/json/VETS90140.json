@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>During placements in animal production industry, animal welfare and zoo settings, students acquire skills in animal handling and observe and participate in a range of animal management practices. Integrating knowledge and understanding derived from other subjects in their course, students evaluate issues relating to animal health, welfare and production (and conduct critical analysis of data provided to them). Using case studies and experience in placements, students will develop skills analysing and interpreting problems relating to productivity, profitability, and sustainability in these systems, and will link theory to practice by analysing observed practices with critical appraisal of the literature.</p>"
+    ],
+    "ilo": [
+        "Apply an understanding of the principal determinants of animal health in reflective and critical analysis of personal industry-based experiences in order to evaluate the relevant animal production system",
+        "Explain the roles of veterinarians in contributing to public health through their involvement in animal production and management, food safety management, humane slaughter of livestock for food, and disease outbreak investigations",
+        "Apply principles of animal behaviour and risk assessment in order to recommend how to safely handle and restrain the common domesticated animal species and determine where suboptimal handling could result in reduced health or welfare",
+        "Interpret data acquired from animal production industry case scenarios, and apply understanding of the determinants of productivity, probability, and sustainability in order to analyse and interpret problems related to these systems"
+    ],
+    "generic_skills": [
+        "Have a broad knowledge of science across a range of fields, with an in-depth understanding in one scientific discipline",
+        "Understand the scientific method, and the history and evolution of scientific concepts",
+        "Be intellectually curious and apply a rigorous, critical and logical approach to enquiry",
+        "Be able to communicate ideas effectively in both written and verbal formats to both specialists and non-specialists",
+        "Reach a high level of achievement in writing, generic research activities, problem-solving and communication",
+        "Be efficient managers of information",
+        "Be able to apply technology to the analysis of biological problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90133",
+                        "Name": "Animal Production Systems: Epidemiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsVETS90135Vet Bioscience: ReproductionSemester 2 (On Campus - Parkville)6.25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90135",
+                        "Name": "Vet Bioscience: Reproduction",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 8 online quizzes (each equally weighted) 15 minutes (each) 2 hours (total) (2,000 words equivalence)",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Written exam (1,000 words equivalence)",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Extramural placements, to be completed during non-teaching periods over the first and second years of the course",
+            "bullets": [
+                "60 days (placement)"
+            ],
+            "hurdle": "Students must complete the 11 weeks of approved extramural placements including a minimum 4 weeks in Category A (extensive production industries), minimum 2 weeks in Category B (intensive production industries)and 1 to 4 weeks in Category C (educational farms, welfare/small animal shelters and zoos) by the end of this subject. Approved placements may be local, regional, interstate or international.",
+            "timing": "By the end of Week 12",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written extramural placement reports (500 words each - Up to 6,000 words equivalence) (total)",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": "Students must complete a brief written summary of each extramural placement.",
+            "timing": "By the end of Week 12",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Aggregate Mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jennifer Carter",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "73 hours of lectures, workshops, practical classes and case studies + 11 weeks of extramural placements to be completed during non-teaching periods over the first two years of the DVM course",
+            "total_time_commitment": "204 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jennifer.carter@unimelb.edu.au"
+        }
+    ]
+}

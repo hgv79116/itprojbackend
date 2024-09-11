@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>Excitons lie at the heart of many important natural and technological processes including photosynthesis, vision, energy efficient lighting and solar energy conversion. An exciton is a coulombically bound electron-hole pair that is generated in a material either by light absorption or electrical charge injection. Because of the strong coulomb interactions, excitonic materials are very efficient absorbers of light, possess excellent light emission properties, and can exhibit a variety of unique phenomena, such as up- or down- conversion, that can enable us to move beyond the efficiency limits of existing materials. This Masters course provides an overview of exciton science. Advanced topics include techniques to probe excitons, the properties of various materials classes that involve excitonic interactions and applications in photosynthesis, solar cells and light emitting technologies.</p>"
+    ],
+    "ilo": [
+        "explain what an exciton is",
+        "explain the relaxation processes of excitons",
+        "discuss the role of excitons in solar cell and display technologies",
+        "explain the origins of quantum confinement in excitonic systems",
+        "describe the photosynthetic process and understand the involvement of excitons",
+        "discuss light harvesting in natural and artificial systems"
+    ],
+    "generic_skills": [
+        "advanced problem-solving and critical thinking skills",
+        "an ability to evaluate the professional literature",
+        "an understanding of the changing knowledge base",
+        "a capacity to apply concepts developed in one area to a different context",
+        "the ability to use conceptual models to rationalize experimental observations"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent subject"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SCICHE Master of Science (Chemistry)",
+                    "MR-IRCHEM Master of Industrial Research (Chemistry)",
+                    "Chemistry informal specialisation in the BH-SCI Bachelor of Science (Degree with Honours)",
+                    "Chemistry informal specialisation in the GDA-SCI Graduate Diploma in Science (Advanced)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "At the 9-lecture mark each subject will be assessed by a written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination after completion of the subject (this is seen as equivalent to 1500 words)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": []
+}

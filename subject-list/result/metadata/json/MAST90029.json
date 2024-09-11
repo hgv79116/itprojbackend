@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>This subject extends the methods of calculus and linear algebra to study the topology of higher dimensional spaces.  The ideas introduced are of great importance throughout mathematics, physics and engineering.  This subject will cover basic material on the differential topology of manifolds.  Topics include: smooth manifolds, tangent spaces, inverse and implicit function theorems; differential forms, integration on manifolds and de Rham cohomology; submersions and fibre bundles; immersions and transversality; examples coming from Lie groups and homogeneous spaces.  Additional topics may include: Morse theory; intersection theory; characteristic classes and Chern-Weil theory; the Thom isomorphism; bordism theory.</p>",
+        "<p class=\"MsoNormal\"> </p>"
+    ],
+    "ilo": [
+        "Demonstrate understanding of the basic notions of Differential Topology, including smooth manifolds, vector bundles, differential forms and integration on manifolds;",
+        "Calculate with smooth manifolds, smooth maps, and differential forms in local coordinates;",
+        "Compute global invariants of manifolds;",
+        "Explain and apply major foundational results in differential topology;",
+        "Demonstrate knowledge of important examples of Lie groups and homogeneous spaces; and",
+        "Pursue further studies in differential topology and related areas."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team; and",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30026Metric and Hilbert SpacesSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30026",
+                        "Name": "Metric and Hilbert Spaces",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written assignment",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written assignment",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

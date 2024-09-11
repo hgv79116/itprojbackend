@@ -1,0 +1,126 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the audiological evaluation of adult and paediatric populations. Through a combination of weekly self-directed learning activities, on campus lectures, workshops and practical sessions, students will become familiar with the standard audiological diagnostic clinical encounter. This subject also focuses on professionalism and clinical communication. Students will be supported to develop both verbal and non-verbal clinical communication skills through workshops, role-play and group activities.</p>"
+    ],
+    "ilo": [
+        "Select and justify the appropriate clinical audiological assessment(s) for adult and paediatric client groups.",
+        "Apply diagnostic assessments to adult and paediatric client groups in simulation settings.",
+        "Implement clinical reasoning skills for the integration and interpretation of  simple case scenarios.",
+        "Communicate simple clinical information professionally using verbal, non-verbal, and written formats."
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90055",
+                        "Name": "Professionalism and Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Early in the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7-9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "OSCE: comprising 2 x 10 minute stations.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "Must be passed overall, including a pass in at least one station.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": "Examination must be passed",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance of at least a minimum of 80% of the weekly skill practical sessions across the semester.",
+            "timing": "Throughout the semester",
+            "percentage": "0%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Grace Nixon",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures  (2 hours), Tutorials (1 hour), and Practical sessions  (3 hours) per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "nixon.g@unimelb.edu.au"
+        }
+    ]
+}

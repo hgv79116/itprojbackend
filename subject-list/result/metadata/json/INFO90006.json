@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the theories and methods used to understand people and settings for designing technical systems. The subject will equip students with the knowledge and skills needed to gather information about people and activities, to understand the intended users of the systems, and to use the insights gained from this process to identify design requirements. This subject is for students interested in a career in user experience (UX) design, interaction design, service design, usability engineering, and human-computer interaction research. It will be of value to students aiming to work in all areas of information technology development and implementation.</p>"
+    ],
+    "ilo": [
+        "Critique the common approaches used in fieldwork for design and identify the benefits and limitations of these approaches",
+        "Conduct field studies using appropriate methods for understanding intended users",
+        "Apply qualitative data analysis techniques to analyse data collected from field studies",
+        "Interpret findings from field studies to identify design requirements, develop design prototypes, and propose use case scenarios",
+        "Describe and apply ethical and social considerations in relation to conducting fieldwork and designing and deploying digital technologies in society"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90088",
+                        "Name": "Introduction to Application Development",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ORAdmission into one of the following courses:"
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-IT Master of Information Technology, 100 or 150 pt program in Human-Computer InteractionMC-CS Master of Computer Science"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Group project. This is a group project in which 3-4 students work together to undertake extensive fieldwork. The assignment has four parts and requires approximately 55-60 hours of student work involving 4000 word and a short presentation.",
+            "bullets": [
+                "55-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assignment 2: Critical review. Students submit an individual short essay (approx. 1000 words) that critiques published example(s) of fieldwork for design.\u00a0 Requiring approximately 20-25 hours of work. Addressing Intended Learning Outcome (ILO's) 1 and 5.",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 3: Reflective blog. Students will keep a personal learning journal throughout the semester and edit a selection of blog posts. Total contribution is approximately 1500 words requiring approximately 35-40 hours of work. Due in week 1 of the examination period.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jenny Waycott",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lecture per week and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Jenny Waycott",
+            "contact_email": "jwaycott@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "overview": [
+        "<p>The research project option within the Master of Computational Biology will be available for students who have demonstrated a strong aptitude for research to perform a short research project under the direction of a supervisor. The research project will build on the skills obtained in the course. Students will determine the structure they follow in consultation with the project coordinator.</p>"
+    ],
+    "ilo": [
+        "The ability to apply existing or new techniques to perform research under general direction;",
+        "The ability to produce a research report containing results that could lead to publication;",
+        "The ability to present results in oral form at a career-ready level;",
+        "A sound preparation for future research in Computational Biology."
+    ],
+    "generic_skills": [
+        "problem-solving skills including the ability to engage with unfamiliar problems, identify relevant solution strategies and conduct research;",
+        "analytical skills through the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "presentation skills, both written and oral; and",
+        "time management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-COMPBIO Master of Computational Biology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "An average of at least 80% in associated coursework in the Master of Computational Biology; and agreement of a supervisor."
+            },
+            {
+                "type": "paragraph",
+                "content": "Enrolment in second semester of this subject is dependent on successful completion of first semester."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional detailsFor assessment details, please refer to SCIE90019 Research Project in Comp Biology Pt1"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular meetings with supervisor, one hour weekly or fortnightly. Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 10 hours per week is expected (per 12.5 loading)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jennifer.flegg@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular meetings with supervisor, one hour weekly or fortnightly. Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 10 hours per week is expected (per 12.5 loading)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jennifer.flegg@unimelb.edu.au"
+        }
+    ]
+}

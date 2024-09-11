@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>This subject builds on students\u2019 prior knowledge of biology and will investigate five core concepts in biology: evolution, structure &amp; function, regulation, transmission of information and interconnectedness. These concepts will be studied at the level of the individual, population, community, ecosystem and biome. Topics include evolution of the diversity of life, and evolution in response to natural and human-induced environmental changes (from antibiotic resistance to climate change); the structure, function and behaviour of organisms and how these change across environmental gradients; energy flow and material cycling through organisms and ecosystems; transmission of genetic, social and cultural information between organisms in a population or community; relationships between individuals, populations, species and their environment, and the processes that shape populations, ecological communities and ecosystems.</p>"
+    ],
+    "ilo": [
+        "demonstrate an understanding of evolution and the underlying processes that have resulted in the diversity and complexity of life on earth;",
+        "describe the structural and functional complexity that results from the aggregation of cells into organised organs and systems;",
+        "explain metabolic and physiological regulation as it relates to the maintenance of homeostasis in individual organisms;",
+        "identify communication and information flows between organisms and within and between populations;",
+        "describe energy flow and material cycling through individual organisms, ecosystems and biomes;",
+        "explain the interconnectedness in living systems including that between parents and offspring, and ecological interactions of organisms;",
+        "identify biology as an evolving science based on concepts developed from observations, experiments and data analysis;",
+        "identify connections between major concepts in biology; and",
+        "design and perform an inquiry-based project and interpret the data."
+    ],
+    "generic_skills": [
+        "demonstrate an understanding of and apply the scientific process in a theoretical and practical setting;",
+        "use appropriate protocols for making observations and recording data;",
+        "competently use appropriate equipment;",
+        "use quantitative reasoning and analysis;",
+        "collaborate effectively in a team;",
+        "demonstrate well developed information literacy and communication skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Please see the subject notes below for information on how to submit your transcripts if you did not study the Victorian Certificate in Education (VCE)."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10010",
+                        "Name": "Foundational Biology: Life's Complexity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            },
+            {
+                "type": "paragraph",
+                "content": "If you did not study the Victorian Certificate in Education (VCE) please submit a copy of all your relevant transcripts via an Enrolment Variationform. You will then be enrolled in the correct Biology subject(s). There is no need to contact the subject coordinator directly. The Enrolments team will refer you to the Subject Coordinator if required."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 tests (Test 1 and 3 are 30 minutes; Test 2 is a 1 hour MST)",
+            "bullets": [
+                "120 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Fortnightly throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Laboratory practical attendance and completion of in class activities",
+            "bullets": null,
+            "hurdle": "Student participation in practical activities for at least 80% of the practical classes as demonstrated by submission of practical notes and activities completed before and during class. For the purposes of meeting this hurdle requirement, each submission must be submitted during or immediately after  the scheduled practical class and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "A written report",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

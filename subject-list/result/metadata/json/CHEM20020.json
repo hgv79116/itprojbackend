@@ -1,0 +1,126 @@
+{
+    "overview": [
+        "<p class=\"SSPBodyText\">This subject covers key concepts related to the stereochemical and electronic properties of molecules and the methods central to their study. Important elements of the subject include the spectroscopic characterisation and quantification of materials by a range of spectroscopic techniques, molecular orbital techniques and the application of approaches based on molecular symmetry and group theory to the understanding of molecular properties, stereo-selective reactions, bonding and spectroscopy. These topics have applications to advanced materials, light emitting polymers, chemical analysis and catalysis in biological and industrial systems.</p>"
+    ],
+    "ilo": [
+        "be able to classify molecules according to their symmetry and to relate their physical properties (e.g. dipole moment, isomerism) to the molecular symmetry;",
+        "have a basic knowledge of the basis and application of spectroscopic techniques that are conducted in the presence (NMR, EPR) or absence (IR, Raman, UV-Vis.) of an applied magnetic field;",
+        "be able to apply molecular orbital theory to simple homo- and heteronuclear diatomic molecules and polyatomic molecules;",
+        "be able to apply simple Huckel approaches to arrays of atoms having orbitals of pi symmetry;",
+        "be able to identify systems that are aromatic or antiaromatic in character and to have a knowledge of their basic reactions;",
+        "be able to describe the changes in bonding that occur to small molecules (e.g. CO) on binding to a transition metal and to be able to apply these concepts to the catalysis of reactions of those species."
+    ],
+    "generic_skills": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the scientific community and in a manner accessible to the wider community;",
+        "the ability to analyse and solve abstract technical problems;",
+        "the ability to connect and apply the learnt concepts to a broad range of scientific problems beyond the scope of this subject;",
+        "an awareness of advanced technologies;",
+        "the ability to think and reason logically;",
+        "the ability to think critically and independently."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10004",
+                        "Name": "Chemistry 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who have only successfully completed CHEM10006 Chemistry for Biomedicine or CHEM10009 Chemistry for BioSciences are required to contact the coordinator for approval."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CHEM20014 Organic and Physical Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20021 Physical Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20022 Organic Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20023 Inorganic Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20024 Organic and Inorganic Chemistry 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEM20025 Physical and Inorganic Chemistry 2"
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEM20018Chemistry: Reactions and SynthesisSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM20018",
+                        "Name": "Chemistry: Reactions and Synthesis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Five short tests each of up to 60 minutes duration conducted on-line using the learning management system (LMS); the tests will run in weeks 2, 4, 7, 10 and 12 and each test will contribute equally to this component of the assessment",
+            "bullets": [
+                "60 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week; 1 x one hour tutorial per week; 3 x one hour seminars during the semester. Total 51 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "pjackson@unimelb.edu.au"
+        }
+    ]
+}

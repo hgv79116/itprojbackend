@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>Computing techniques and data mining methods are indispensable in modern statistical research and data science applications, where \"Big Data\" problems are often involved. This subject will introduce a number of recently developed methods and applications in computational statistics and data science that are scalable to large datasets and high-performance computing. The data mining methods to be introduced include general model diagnostic and assessment techniques, kernel and local polynomial nonparametric regression, basis expansion and nonparametric spline regression, and generalised additive models. Important statistical computing algorithms and techniques used in data science will be explained in detail. These include unsupervised learning of meaningful components, bootstrap resampling and inference, cross-validation, the EM algorithm and variational approximation, and Markov chain Monte Carlo methods including adaptive rejection and squeeze sampling, sequential importance sampling, slice sampling, Gibbs samplers and the Metropolis--Hastings algorithm.</p>"
+    ],
+    "ilo": [
+        "Explain the role of theory and computing in modern statistics and data science, and how they are implemented in applications;",
+        "Apply nonparametric and Monte Carlo methods in statistics and data science; and",
+        "Develop key knowledge to pursue further studies in this discipline and related areas, or to be work ready as an applied statistician or a data scientist."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30025",
+                        "Name": "Linear Statistical Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time):"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST30027Modern Applied StatisticsSemester 2 (On Campus - Parkville)12.5MAST90104A First Course In Statistical LearningSemester 2 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30027",
+                        "Name": "Modern Applied Statistics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90104",
+                        "Name": "A First Course In Statistical Learning",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022 Master of Data Science (MC-DATASC)- Statistics Background Stream"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022 Master of Data Science (MC-DATASC) - Data Science Background Stream"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two written assignments, up to a total of 1000 words each (each written assignment is worth 20%, approx. 20 hours time commitment) due mid and late semester (40%)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must receive a mark of 50% or more for the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Karim Seghouane",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Contact Hours: 36 hours comprising 2 one-hour lectures per week and 1 one-hour practice class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "abd-krim.seghouane@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "overview": [
+        "<p>This subject uses case studies to build student competencies in working with complex, multifaceted clinical cases. The content will focus on a range of issues across the lifespan including, diverse cultural backgrounds, mental health, behavioural difficulties, and neurological issues. Students will be required to integrate information from a variety of sources and use evidence-based practice to establish and implement client-focused intervention and education programs. Students will also need to address professional issues and communicate their ideas clearly and effectively in both written and oral format.</p>"
+    ],
+    "ilo": [
+        "Weigh-up evidence-based methodology to differentially diagnose, plan, consult on, and implement intervention and education plans.",
+        "Adapt to solve problems in complex case management, considering all external and internal factors that impact on client care (e.g., disability, cultural, financial, time, resources, other health providers).",
+        "Communicate complex clinical audiological information clearly for diverse audiences and client groups.",
+        "Critically evaluate and appraise evidence to inform clinical practice and to ensure management is client-centred and best practice"
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show a respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90053",
+                        "Name": "Audiology Practice A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90054",
+                        "Name": "Audiology Practice B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90055",
+                        "Name": "Professionalism and Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90056",
+                        "Name": "Professionalism and Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90058",
+                        "Name": "Sound and Innovative Solutions B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90060",
+                        "Name": "Evidence-Based Practice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90062",
+                        "Name": "Advanced Solutions in Hearing Care",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AUDI90064",
+                        "Name": "Transition to Practice",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AUDI90063",
+                        "Name": "Audiology Research Project",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3-5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Clinical exam",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "Clinical examination must be passed",
+            "timing": "During the semester 1 examination period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the Semester 1 examination period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Group case study presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Early in semester 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral exam",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the Semester 2 examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

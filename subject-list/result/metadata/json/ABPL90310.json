@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>This subject aims to develop an understanding and awareness of the life cycle environmental effects of building design and construction, including the approaches that can be used to assess and minimise them, with a particular emphasise on life cycle assessment.</p>",
+        "<p>Through an introduction to environmental assessment, including \u2018input-output analysis\u2019, this subject articulates the many linkages connecting construction to the rest of the national economy, the production underlying it, and the resources consumed in the process.</p>",
+        "<p>Organised as an advanced seminar, the subject will expose students to the latest developments in environmental assessment techniques and their application within the built environment.</p>"
+    ],
+    "ilo": [
+        "To develop an awareness of the current techniques for quantifying and assessing environmental effects.",
+        "To teach students how to use environmental assessment techniques to improve the environmental performance of the construction industry.",
+        "To provide a theoretical framework for macro-scale examinations of the construction industry.",
+        "To build an appreciation for the position of construction within natural and economic environments.",
+        "To supply analytical and critical tools for the evaluation of construction strategies at industry and project level."
+    ],
+    "generic_skills": [
+        "Ability to capture and analyse data to make informed decisions;",
+        "Ability to map or imagine construction-related connections within the economy;",
+        "Ability to present environmental performance information in a range of formats;",
+        "Ability to appreciate the indirect consequences of construction activity;",
+        "Ability to critically evaluate the work of others and provide constructive feedback."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ARCH Master of Architecture",
+                    "MC-LARCH Master of Landscape Architecture",
+                    "MC-CM Master of Construction Management",
+                    "MC-PROP Master of Property",
+                    "MC-ARCHCM Master of Architecture/Master of Construction Management",
+                    "MC-CMPROP Master of Construction Management/Master of Property"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the subject coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four in-class quizzes (week 3, 5, 7 and 9) to demonstrate an understanding of environmental issues and the use of life cycle assessment in construction",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Environmental Assessment Report, analysing the environmental performance of a construction project",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Peer review, critically analysing the work of others, providing constructive feedback and demonstrating an understanding of life cycle assessment",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Environmental Improvement Report (combining the Environmental Assessment Report), identifying solutions and making recommendations for the improvement to the environmental performance of a construction project",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Class presentation, communicating the major findings of the Environmental Improvement Report and highlighting improvements to the environmental performance of a construction project",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "",
+            "timing": "Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

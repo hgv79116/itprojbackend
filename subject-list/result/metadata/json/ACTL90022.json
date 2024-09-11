@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>This subject introduces core economic principles and how these can be used in a business environment to help decision making and behaviour. It provides the fundamental concepts of microeconomics that explain how economic agents make decisions and how these decisions interact. It explores the principles underlying macroeconomics that explain how the economic system works, where it fails and how decisions taken by economic agents affect the economic system.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Discuss the workings of competitive markets.",
+        "Discuss consumer demand and behaviour.",
+        "Explain the effects of advertising on sales and demand.",
+        "Discuss the product function, costs of production, revenue and profit to understand firm's price and output decisions.",
+        "Discuss profit maximisation under perfect competition, imperfect completion, and monopoly.",
+        "Assess various pricing strategies that firms can adopt.",
+        "Describe the roles of money, financial markets and central banks, and explain how interest rates are determined in financial markets.",
+        "Develop models to understand fluctuations in aggregate economic activity and assess how macroeconomic policies (monetary policy and fiscal policy) affect output, inflation and interest rates.",
+        "Discuss labour market fluctuations, provide a model of unemployment and explain labour market dynamics.",
+        "Describe the key economic growth facts and explore models of economic growth to identify the factors that drive long run growth.",
+        "Introduce basic concepts in open economy macroeconomics and develop models to understand exchange rate determination; Describe different exchange rate regimes."
+    ],
+    "generic_skills": [
+        "Written and oral communications",
+        "Problem solving",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Critical thinking",
+        "Strategic thinking",
+        "Synthesis of data and other information",
+        "Receptiveness of alternative ideas"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ACTSC Master of Actuarial Science",
+                    "MC-ACTSCEN Master of Actuarial Science (Enhanced)",
+                    "MC-ACTSCEX Master of Actuarial Science (Extended)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Assignment (Week 10 or 11)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid-Semester Test (Week 7 or 8)",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "final exam must be passed",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jonathan Thong",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jonathan.thong@unimelb.edu.au"
+        }
+    ]
+}

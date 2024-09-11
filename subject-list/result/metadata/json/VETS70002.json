@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>This is a subject for the practicum component of the Master of Veterinary Science (Clinical). For most students, the practicum will consist primarily of case studies in the Veterinary Hospital. Students will be provided with advanced clinical training in diagnostic, therapeutic, and technical skills associated with veterinary clinical sciences.</p>",
+        "<p>Students enrolled in the MVSc (Clinical) on a part-time basis will enrol in this subject.</p>"
+    ],
+    "ilo": [
+        "achieve a breadth and depth of knowledge and understanding in a particular field or set of related fields in veterinary science;",
+        "apply scientific methods to the definition and solution of problems by research;",
+        "acquire advanced technical skills relevant to the field of research."
+    ],
+    "generic_skills": [
+        "Approaching scientific research in a critical, perceptive and constructive way;",
+        "Developing interpersonal skills to work as part of a team;",
+        "Observing the appropriate research codes of practice;",
+        "Acquiring skills in the searching and manipulation of scientific literature and other relevant data bases; and",
+        "Communicating effectively through both the spoken and written medium and to both professional colleagues and the wider community."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90027",
+                        "Name": "Master Thesis in Vet Science (Clinical)",
+                        "Teaching period": "Time-based Research (On Campus - Werribee)",
+                        "Credit Points": "0"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Part-time students in the MVSc (Clinical) will be enrolled in both the thesis component (VETS90027) and this practicum component for the length of their candidature."
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "",
+                        "Name": "No longer available",
+                        "Teaching period": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students enrolled in the practicum component subject will enrol in the thesis subject VETS90027 (weighted at 75%). They will not be allowed to enrol in thesis subject VETS90013 (weighted at 100%)."
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "list",
+                "content": [
+                    "build the skills and knowledge necessary to carry out the proposed research program,",
+                    "acquire an understanding of the standards and requirements for a master by research awarded by the University, and",
+                    "make use of support programs and facilities provided by the Faculty of Science and the University throughout the period of candidature."
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "At the end of period of candidature",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sebastien Bauquier",
+            "mode_of_delivery": "On Campus (Werribee)",
+            "contact_hours": "It is envisaged that the majority of the students enrolled in this subject will be in the Residency Training Program, working an average of 40 hours per week.",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Faculty of ScienceUniversity of Melbourne, Victoria, 3010",
+            "contact_email": "science-gr@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sebastien Bauquier",
+            "mode_of_delivery": "On Campus (Werribee)",
+            "contact_hours": "It is envisaged that the majority of the students enrolled in this subject will be in the Residency Training Program, working an average of 40 hours per week.",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Faculty of ScienceUniversity of Melbourne, Victoria, 3010",
+            "contact_email": "science-gr@unimelb.edu.au"
+        }
+    ]
+}

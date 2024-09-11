@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>This subject will provide a comprehensive overview of the major psychosocial interventions that have demonstrated evidence of effectiveness in young people. Subject content includes:</p>",
+        "<ul><li>General principles of psychosocial interventions</li><li>Cognitive Behavioural Therapy for a range of presentations</li><li>A variety of evidence-based psychosocial interventions for young people</li><li>Working with families and groups in therapeutic contexts</li><li>Developing treatment plans</li></ul>"
+    ],
+    "ilo": [
+        "Articulate the rationale and principles that underlie the therapeutic context",
+        "Describe the application of cognitive-behavioural interventions in the treatment of mental ill-health in young people",
+        "Describe a range of evidence-based psychosocial interventions for young people",
+        "Develop a treatment plan that incorporates a range of psychosocial interventions for working with young people"
+    ],
+    "generic_skills": [
+        "Capacity to translate knowledge into practice",
+        "Critical and analytical thinking skills",
+        "Problem solving skills",
+        "Written communication skills",
+        "Time management skills",
+        "Ability to find, evaluate and use relevant information",
+        "Capacity for logical and independent thought"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYT90096",
+                        "Name": "Foundations of Youth Mental Health",
+                        "Teaching period": "February (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYT90097",
+                        "Name": "Engaging and Assessing Young People",
+                        "Teaching period": "April (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYT90098",
+                        "Name": "Development in Young People",
+                        "Teaching period": "July (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYT90099",
+                        "Name": "Mental Ill-health in Young People 1",
+                        "Teaching period": "September (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online Quizzes of learning content \u2013 two multiple choice quizzes with 10 questions each = 20 questions in total (1% per question)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3 and Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Graded discussion board \u2013 posting fortnightly reflections on learning content and responding to fellow students, with a minimum of 7 posts in total",
+            "bullets": [
+                "1500-1975 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July - Online",
+            "principal_coordinator": "Stefanie De Silva",
+            "mode_of_delivery": "Online",
+            "contact_hours": "Online equivalent to 20 contact hours is made up of 10 hours of lectures and live consultation sessions, and 10 hours of asynchronous discussions and structured online tasks.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 30 August 2024",
+            "last_self_enrol_date": "30 July 2024",
+            "census_date": "2 August 2024",
+            "last_date_to_withdraw_without_fail": "23 August 2024",
+            "assessment_period_ends": "8 September 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

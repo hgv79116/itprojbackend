@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>This subject explores the fundamentals of structure determination as applied to organic and biological molecules, with a focus on mass spectrometry based ion chemistry and instrumentation. The combination of background theory and range of examples will enhance students\u2019 ability to acquire and analyse experimental data.</p>"
+    ],
+    "ilo": [
+        "understand the fundamentals of experimental techniques for the determination of the structure of organic and biological molecules, with emphasis on mass spectrometry based ion chemistry and instrumentation",
+        "develop the process and practice of chemical research, and increase their knowledge and understanding of chemical science"
+    ],
+    "generic_skills": [
+        "Advanced problem-solving and critical thinking skills",
+        "An ability to evaluate the professional literature",
+        "An understanding of the changing knowledge base",
+        "A capacity to apply concepts developed in one area to a different context",
+        "The ability to use conceptual models to rationalize experimental observations."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent subject"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SCICHE Master of Science (Chemistry)",
+                    "Chemistry informal specialisation in the BH-SCI Bachelor of Science (Degree with Honours)",
+                    "Chemistry informal specialisation in the GDA-SCI Graduate Diploma in Science (Advanced)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "At the 9-lecture mark each subject will be assessed by a written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination after completion of the subject (this is seen as equivalent to 1500 words)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": "Colette Boskovic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "4 March 2024 to 29 March 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "15 March 2024",
+            "last_date_to_withdraw_without_fail": "5 April 2024",
+            "assessment_period_ends": "19 April 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

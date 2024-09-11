@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>This subject takes students through a process of identifying, planning, managing, analysing and reporting on a project relating to a problem or issue in either urban or forested ecosystem. Selection of the problem or issue is led by students and is structured to explore ecological, environmental, social, spatial, temporal and economic related topics.</p>",
+        "<p>Activities include developing a project proposal and objectives, project planning and timelines, scientific methods of analysis, evaluation and synthesis of data and/or information and the preparation and presentation of results, findings or outcomes. Students will also work in groups drawing upon their prior degree studies to develop recommendations, provide solutions, or outline further insights for their problem or issue.</p>",
+        "<p>In collaboration with industry representatives and academic staff, this subject enables students to explore projects based on real world problems through a work integrated learning and relevant capstone experience.</p>"
+    ],
+    "ilo": [
+        "Identify, analyse and evaluate a problem or issue related to ecosystem management",
+        "Select relevant and appropriate disciplinary approaches, methods or techniques and collect, analyse, synthesise and present data and/or information relating to a problem or issue in ecosystems management.",
+        "Integrate data and/or information and ideas to provide recommendations, solutions, pathways or insights to a problem or issue.",
+        "Communicate key elements of the project outcomes effectively to a target audience, including external stakeholders."
+    ],
+    "generic_skills": [
+        "Analysis of complex problems;",
+        "Written and oral communication;",
+        "Ability to work as a team member;",
+        "Synthesis of data with other information;",
+        "Critical thinking;",
+        "Application of theory to practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EVSC20005",
+                        "Name": "Contested Resources",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ENST20001",
+                        "Name": "Human Behaviour and Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Disciplinary backgrounds in urban planning, landscape architecture, environmental engineering, biological sciences or similar are also relevant to the subject."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group project proposal: Written proposal (500 words per group member) + oral presentation (5 minutes per group member),",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Group final project seminar  (10 minutes per group member equivalent),",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Group final project report (1500 words per group member)",
+            "bullets": [
+                "1500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Individual evaluation report (500 words)",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the first week of the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x two-hour workshop (weeks 1, 7, 12); 7 x four-hour workshop/practicals (week 3-6, 8-10); 1 x eight-hour practical field trip (week 2); 1 x six hour workshop (week 11)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

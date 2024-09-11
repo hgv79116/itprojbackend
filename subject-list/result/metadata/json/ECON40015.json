@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>This subject examines the economics of financial markets and financial institutions, including a substantial component of financial economic theory and some important current issues in the management of financial institutions and the evolution of financial markets. Topics include the theory of choice under certainty and uncertainty, asset and option pricing models, efficient markets theory, risk management and the theory of the term structure of interest rates.</p>"
+    ],
+    "ilo": [
+        "Evaluate the main theories used in the study of financial economics;",
+        "Analyse the usefulness and the limitations of financial economic theory;",
+        "Critically evaluate contemporary policy debates in the area of financial economics."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence;",
+        "Synthesis of ideas, views and evidence;",
+        "Strategic thinking;",
+        "Critical thinking;",
+        "Application of theory to economic policy and business decision making;",
+        "Accessing economic and other information;",
+        "Summary and interpretation of information;",
+        "Application of Windows software;",
+        "Using computer programs;",
+        "Statistical reasoning;",
+        "Problem solving skills;",
+        "Collaborative learning and teamwork;",
+        "Written and oral communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON40001Advanced MicroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90024",
+                        "Name": "Financial Economics",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class assignments",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

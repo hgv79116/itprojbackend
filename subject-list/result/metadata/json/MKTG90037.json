@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p>This marketing subject exposes students to an integrated perspective of the firm, how it interfaces with its environment, and how it creates and sustains value. Value creation occurs through interactions of a firm with its stakeholders (including its customers) and is central to marketing. The subject builds a conceptual framework to examine the choices (marketing) managers face in determining how best to create value, and how these choices may be shaped by key stakeholders including government, society, trading partners, customers, employees and competitors. A key focus of this subject is on value creation as a cross disciplinary and cross firm activity. As such, the focus is on value creation from multiple disciplinary perspectives including marketing, strategy, entrepreneurship, HRM, supply chain management and organisational design.</p>"
+    ],
+    "ilo": [
+        "Explain the major factors driving effective value creation practices;",
+        "Connect all value creation activities undertaken by firms and articulate the extent to which they are mutually reinforcing;",
+        "Appreciate the importance and role of new product / service development in determining overall value creation performance;",
+        "Describe (marketing) theory relevant to the value creation process;",
+        "Explain the issues and challenges facing organisations managing activities involving value creation in an international context;",
+        "Describe the role and importance of emerging technologies and business models in creating and sustaining value;",
+        "Explain the need for coordinated product and process design within the firm, and between members of the value chain;",
+        "Identify a range of strategies for positioning the firm to maximize value potential in dynamic competitive environments."
+    ],
+    "generic_skills": [
+        "Critical evaluation of evidence in support of an argument or proposition;",
+        "Problem solving in management through the ability to define, structure, and prioritise issues; and collect and analyse data to test ideas;",
+        "Communication of business-related ideas, theories and solutions to peers and the wider community;",
+        "Ability to synthesize ideas, theories and data in developing solutions to business problems;",
+        "Ethical practice through a knowledge of corporate governance processes and implementation;",
+        "Research skills including the retrieval of information from a variety of sources;",
+        "Teamwork through collaborative exercises in workshops and assessment."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MKTG90038",
+                        "Name": "Value Creation Strategies",
+                        "Teaching period": "Term 2 (Online)Term 4 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group presentation (groups of 3-4)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group assignment (groups of 3-4) comprising 20 minute presentation and 1000 word written summary",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group assignment (groups of 3-4)",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End of semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Bernadette van Lunenburg",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (two 3 hour seminars per week for 6 weeks)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 12 February 2024",
+            "last_self_enrol_date": "6 January 2024",
+            "census_date": "12 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "19 February 2024",
+            "contact_name": null,
+            "contact_email": "bernadette.van@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Fang-Chi Lu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36hrs (one 3-hour seminar per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "fangchi.lu@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36hrs (one 3-hour seminar per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "kanika.meshram@unimelb.edu.au"
+        }
+    ]
+}

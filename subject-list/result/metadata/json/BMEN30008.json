@@ -1,0 +1,204 @@
+{
+    "overview": [
+        "<p>Biosystems Design involves undertaking design group projects from concept to implementation in a team-based project. The emphasis of each of the projects is associated with a well-defined project description. The subject is taught in a flipped classroom format and comprises, pre-tutorial reading, discussion forums requiring student participation, guided workshops on using biosensors and transducers and self-paced project work performed in teams. Biosystems Design will help students consider the nature of team diversity when working in health and medical technology design and development. The open-ended nature of the self-paced project work in this subject will expose students to requirements for design and development of medical devices including ethics, safety and risk assessment, common sensors to detect medically relevant biomedical signals, and acquisition, amplification and processing of biomedical sensor signals. The subject will provide an integrated capstone experience in the Bioengineering Systems major.</p>",
+        "<p>Please view this video for further information: <a href=\"https://www.youtube.com/watch?v=f84Nlo-K0pA\">Biosystems Design</a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Apply fundamental concepts of engineering design into practise.",
+        "Demonstrate awareness of the integrative nature of engineering design.",
+        "Design engineering components to desired performance specifications.",
+        "Work as part of a team to complete a technical project.",
+        "Undertake technical computations required to justify a design solution.",
+        "Demonstrate clear technical written and oral communication skills."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution.",
+        "Understanding of social, cultural, global and environmental responsibilities and the need to employ principles of sustainable development.",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance.",
+        "Proficiency in engineering design.",
+        "Ability to conduct an engineering project.",
+        "Understanding of the business environment.",
+        "Ability to communicate effectively, with the engineering team and with the community at large.",
+        "Ability to manage information and documentation.",
+        "Capacity for creativity and innovation.",
+        "Understanding of professional and ethical responsibilities, and commitment to them.",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member.",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-BIOMENG Master of Biomedical Engineering",
+                    "Biomedical Engineering Systems major in the B-SCI Bachelor of Science",
+                    "Biomedical Engineering Systems major in the B-BMED Bachelor of Biomedicine"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBMEN30006Circuits and SystemsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30006",
+                        "Name": "Circuits and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBMEN20003Applied Computation in BioengineeringSemester 1 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN20003",
+                        "Name": "Applied Computation in Bioengineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN20001 - Biomechanical Physics and Computation"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Completion of prescribed reading and reflections on workshops (individual).  5 hours (total 1000 words equivalent). Weekly from Week 2 to 10. Intended Learning Outcomes (ILOs) 1, 2 and 6 are addressed in this assessment.",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Team design specification report (Teams of 3-5 students; 400 words each student). Intended Learning Outcomes (ILOs) 1 -6 are addressed in this assessment.",
+            "bullets": [
+                "400 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Team written design journal (Teams of 3-5 students; 1200 words per student). Intended Learning Outcomes (ILOs) 1-6 are addressed in this assessment.",
+            "bullets": [
+                "1200 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Team final design verification report (Teams of 3-5 students; 400 words per student). Intended Learning Outcomes (ILOs) 1, 2, 4, 5 and 6 are addressed in this assessment.",
+            "bullets": [
+                "400 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual Oral Exam. 15 minutes (1000 words equivalent). Intended Learning Outcomes (ILOs) 1, 2 and 6 are addressed in this assessment.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": "Student must pass this oral exam to pass the subject. ",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sam John",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "15 hours of interactive discussion forums (weeks 1-5: 2 hours p/w; weeks 6-9: 1 hour p/w; week 10-11: 30 minutes per week);  16 hours of workshops (weeks 2-9: 2 hours p/w)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Yasmin Blunck",
+            "contact_email": "bluncky@unimelb.edu.au"
+        }
+    ]
+}

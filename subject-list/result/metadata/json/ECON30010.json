@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>The objectives of the subject are to introduce new techniques of microeconomic analysis; and to study applications of microeconomic theory to a range of situations involving behaviour of consumers and firms, and market interaction. Topics include game theory and oligopoly, economics of information, behaviour under uncertainty and general equilibrium analysis.</p>"
+    ],
+    "ilo": [
+        "Distinguish between positive and normative issues;",
+        "Appreciate the purpose of models and the inevitable limitation of every model;",
+        "Apply formal models to analyse positive problems and answer normative questions;",
+        "Identify the conditions under which markets can be expected to work satisfactorily, and the conditions under which they cannot;",
+        "Apply thorough economic reasoning to shed light on ongoing policy debates;",
+        "Identify and analyse problems that arise from imperfect information including the phenomenon of adverse selection and the principle-agent problem;",
+        "Apply game theory techniques to analyse situations with strategic interactions, such as competition between firms with market power, provision of public goods, or between generals at war;",
+        "Apply advanced economic tools and reasoning to inform policy debates;",
+        "Identify the properties of standard competitive markets (consumer theory, producer theory, welfare theorems, decision making under uncertainty);",
+        "Understand Coase Theorem and its implications, which include transaction costs economics, for environmental policy, and market design."
+    ],
+    "generic_skills": [
+        "Highlevel of development: Economic reasoning; appreciation of the use of models; purpose and limitations of models; evaluate models; use models to analyse positive questions and to make normative evaluation of alternative policies;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20001",
+                        "Name": "Intermediate Macroeconomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Five Assignments",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Georgy Artemov",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "gartemov@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "overview": [
+        "<p>The aim of this subject is to provide students with an introduction to urban traffic engineering and transport planning principles. General theory as well as analytical techniques for solving common transport engineering and modelling problems are presented. The key theme in this subject is how to improve the efficiency and sustainability of transport systems. This includes basics of traffic flow theory, simulation, and operation models, and understanding and predicting travel demand in urban transport networks. Behavioural choice modelling methods are used with real data from the Melbourne Metropolitan Area to predict demand for all modes of transport including public transport and non-motorised transport modes. The concepts of accessibility, efficiency and sustainability are introduced in the context of urban transport systems, and transport safety measures and best practices are also introduced.</p>"
+    ],
+    "ilo": [
+        "ILO1 - Demonstrate knowledge of traffic flow theory",
+        "ILO2. -Use software and simulate traffic flow operations for urban roads",
+        "ILO3 - Use software and simulate signalised intersection and optimise signal timing",
+        "ILO4 - Develop and evaluate travel demand forecasting models",
+        "ILO5 - Conceptualise, develop and estimate travel mode choice models with real data",
+        "ILO6 - Evaluate performance of transport projects with respect to sustainability, accessibility, and safety criteria."
+    ],
+    "generic_skills": [
+        "20 hours (of work required)"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly reports on individual assignments of 2 hours each (x10), and 100 words each (x10), for 1.5% each (x10). Intended Learning Outcomes 1-6 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group Project (group project with software, and programming models). Report from each group, with a workload per student equivalent to 2000 words, 45 hours per student. ILOs 2-5 are addressed in this assessment.",
+            "bullets": [
+                "45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Final examination. ILOs 1-6 are addressed in this examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 2 hours per week; Tutorials: 2 hours per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Neema Nassir",
+            "contact_email": "neema.nassir@unimelb.edu.au"
+        }
+    ]
+}

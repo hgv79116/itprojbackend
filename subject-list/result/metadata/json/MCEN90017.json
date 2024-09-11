@@ -1,0 +1,68 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject is intended to give students an overview of the present state-of-the-art in industrial motion control and the likely future trends in control design. Students will be exposed to and have practical experience in the design and implementation of advanced controllers for various motion control problems.</p>",
+        "<p>Advanced modelling and control topics will include system identification, modelling and compensation of friction and other disturbances, industrial servo loops, model-based and model-free controller design, and adaptive control. Applications will be drawn from industrial, medical and transport automation (eg robots, machine tools, production machines, laboratory automation, automotive and aerospace by-wire systems).</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Advanced modelling and control topics will include system identification, modelling and compensation of friction and other disturbances, industrial servo loops, model-based and model-free controller design, and adaptive control. Applications will be drawn from industrial, medical and transport automation (eg robots, machine tools, production machines, laboratory automation, automotive and aerospace by-wire systems).</p>"
+    ],
+    "ilo": [
+        "Apply control theory in complex automated systems drawn from industrial, medical and transport automation",
+        "Design and implement advanced control systems using state-of-the-art development tools."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "In-depth technical competence in at least one engineering discipline",
+        "Ability to undertake problem identification, formulation and solutions",
+        "Ability to use a systems approach to design and operational performance",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Openness to new ideas and unconventional critiques of received wisdom",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Ability to communicate effectively with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90064",
+                        "Name": "Advanced Control Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three assignments of up to 5000 words each due in weeks 4, 8 and 12 of the semester, approximately 15 to 20 hours of work each, assesses ILOs 1 and 2.",
+            "bullets": [
+                "45-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "One examination. Assesses ILOs 1 and 2.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the exam to pass the subject",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

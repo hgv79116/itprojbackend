@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>As manufacturers compete in the global market, their success largely depends on the ability to reduce time in the product development process, improve product quality and productivity, lower cost in the manufacturing process, fulfil customer's requirements and address environmental concerns.  Therefore, this subject aims to equip students with a systematic approach to undertake abstract and concrete design tasks, considering the broader engineering environment and the ability to select suitable manufacturing processes to realize their designs. </p>",
+        "<p>Topics include an overview of the theory of design and concurrent engineering, conceptual and detailed design based on customer requirements, design for manufacturing and assembly, cost-effective design and environmentally conscious design.  This project-based subject allows students to work individually and in a team environment to design and manufacture a functional product.</p>",
+        "<p>Please view this video for further information: <a href=\"https://youtu.be/s8KAAphbWD8?feature=shared\">Design and Manufacturing Practice</a></p>"
+    ],
+    "ilo": [
+        "ILO1. Distinguish between different manufacturing systems and apply the most appropriate manufacturing system to suit the product and facility.",
+        "ILO2. Design simple engineering components for structural integrity.",
+        "ILO3. Synthesize solutions to open-ended design problems;",
+        "ILO4. Explain and apply the principles of concurrent engineering;",
+        "ILO5. Formulate a path for engineering solutions of well-delineated problems for dealing with complex and/or vaguely defined design tasks;",
+        "ILO6. Describe in detail information based techniques for the management of engineering design;",
+        "ILO7. Apply methods of designing for quality, of managing variability and of integrating design with downstream manufacturing operations."
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals.",
+        "The ability to undertake problem idenification, formulation and solutions.",
+        "The ability to use a systems approach to complex problems and to design an operational performance.",
+        "Proficiency in engineering design.",
+        "Capacity for creativity and innovation.",
+        "The ability to communicate effectively with the engineering team and the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN30021",
+                        "Name": "Mechanical Systems Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsMCEN90055Manufacturing Processes and TechnologySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90055",
+                        "Name": "Manufacturing Processes and Technology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90012",
+                        "Name": "Design for Manufacture",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual design report. Intended Learning Outcomes (ILOs) 2-4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual Manufacturing Report. ILOs 1, 4-7 are addressed in this assessment.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group Lab Test. 20-25 minutes for a group of 4-5 students. ILOs 2 - 5 are addressed in this assessment.",
+            "bullets": [
+                "20-25 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Final Report. Maximum of 4000 words for a group of 4 - 5 students. ILOs 1 - 7 are addressed in this assessment.",
+            "bullets": [
+                "4000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures and 36 hours of tutorials and lab activities.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Kevin Otto",
+            "contact_email": "kevin.otto@unimelb.edu.au"
+        }
+    ]
+}

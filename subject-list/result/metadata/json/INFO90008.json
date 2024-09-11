@@ -1,0 +1,141 @@
+{
+    "overview": [
+        "<p>This subject involves in-depth investigation of a significant problem related to Human-Computer Interaction or a related discipline. The subject also provides students with skills and knowledge for analysing and solving problems, and enhanced written and oral communication skills. Under the supervision and guidance of an academic researcher, students are required to design and conduct a research investigation. This would typically involve a literature review, experimentation and data collection, and data analysis. The results will be reported as a thesis and in a public presentation. In some instances, it is expected that the results will also be submitted for publication in a conference or journal.</p>"
+    ],
+    "ilo": [
+        "Independently investigate topic areas relating to Human Computer Interaction",
+        "Synthesise work related to the topic of study",
+        "Write and present a proposal and report"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO90003",
+                        "Name": "Designing Novel Interactions",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "INFO90004",
+                        "Name": "Evaluating the User Experience",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "INFO90006",
+                        "Name": "Fieldwork for Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "A weighted average mark of 75 or above, and no more than 75 points short of degree completion. Students who meet this criteria will need to complete an Enrolment Assistance form. Coordinator approval is required before enrolment."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Enrolment Assistance form"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO90009",
+                        "Name": "User Experience Design Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 - \u00a0A project proposal of 800-1000 words, submitted to project supervisor. \u00a0Addressing Intended Learning Outcomes (ILO's) 1, 2 and 3.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": "Must pass to pass the subject.",
+            "timing": "Week 3",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Assignment 2 - A 3-minute video that summarises the project objectives and outcomes. \u00a0Addressing ILO 3.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 3 - A project report of 6000-8000 words.\u00a0Due in the\u00a0first week of the examination period. Addressing ILO's 1, 2 and 3.",
+            "bullets": [
+                "290 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "arzoo.atiq@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "arzoo.atiq@unimelb.edu.au"
+        }
+    ]
+}

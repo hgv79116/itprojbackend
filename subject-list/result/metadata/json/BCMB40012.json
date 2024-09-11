@@ -1,0 +1,70 @@
+{
+    "overview": [
+        "<p>Please refer to Part 1 - <a href=\"/view/current/BCMB40011\">BCMB40011</a> for details</p>"
+    ],
+    "ilo": [
+        "Please refer to Part 1 - BCMB40011 for details"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB40011",
+                        "Name": "Biochemistry & Pharmacology Research 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BCMB40002",
+                        "Name": "Biochemistry & Pharmacology Coursework",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional detailsPlease refer to Part 1 - BCMB40011 for details"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Graham Mackay",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Please refer to Part 1 - BCMB40011 for details",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>The aim of this subject is to help students develop capability to effectively summarise environmental variables met in the course of research and design, to select appropriate statistical models describing the data structure, and to conduct statistical inference on underlying processes. Students will apply a variety of models from a conventional or Bayesian approach to solve the problems at hand and derive deterministic or stochastic inferences from them.<br/><br/>The subject is composed of four wide-ranging topics from exploratory data analysis to spatial modelling. At the beginning of each topic, students are provided with a set of data from environmental research, and a number of analysis tools are conveyed in the lectures. The mathematical aspects of the subject build on concepts developed in fundamental engineering mathematics and statistics courses from undergraduate courses. It supports student learning in the capstone design and research projects where data analysis skills are assumed.<br/><br/>The subject provides a fundamental skill for a career in environmental engineering where the ability to analyse and communicate the meaning of time series and spatial data sets are expected.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong><br/><br/>Specific topics include:</p>",
+        "<p>1. Exploratory Data Analysis</p>",
+        "<ul><li>Summary statistics and probability models</li><li>Analysis of variability and hypothesis test</li><li>Linear regression and verification/validation.</li></ul>",
+        "<p>2. Time Series Analysis</p>",
+        "<ul><li>Introduction to multivariate analysis</li><li>Principle component analysis</li><li>Stochastic forecast and verification.</li></ul>",
+        "<p>3. Methods for Multivariate Data</p>",
+        "<ul><li>Multivariate linear regression</li><li>Principle component analysis.</li></ul>",
+        "<p>4. Analysis of Spatial Data</p>",
+        "<ul><li>Simple spatial interpolations</li><li>Analysis of spatial variability</li><li>Spatial models and Kriging.</li></ul>"
+    ],
+    "ilo": [
+        "Effectively summarise their analysis and design outputs",
+        "Use stochastic approach to make statistical inference about random environmental variables",
+        "Define and evaluate objective functions for their design target",
+        "Quantitatively test their hypothesis",
+        "Select the most appropriate statistical model describing the data at hand",
+        "Generate both deterministic and stochastic realisations of environmental variables."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Proficiency in engineering design",
+        "Ability to conduct an engineering project."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into or selection of one of the following:MC-ENVENG Master of Environmental EngineeringMC-ENG Master of Engineering206EC Master of Environmental EngineeringMC-ENSYSEN Master of Environmental Systems EngineeringMC-DINFENG Master of Digital Infrastructure Engineering",
+                    "MC-ENVENG Master of Environmental Engineering",
+                    "MC-ENG Master of Engineering",
+                    "206EC Master of Environmental Engineering",
+                    "MC-ENSYSEN Master of Environmental Systems Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ENVENG Master of Environmental Engineering",
+                    "MC-ENG Master of Engineering",
+                    "206EC Master of Environmental Engineering",
+                    "MC-ENSYSEN Master of Environmental Systems Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMAST10005Calculus 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN30008Engineering Risk ManagementSemester 1 (On Campus - Parkville)12.5CVEN30010Geotechnical Modelling and DesignSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN30008",
+                        "Name": "Engineering Risk Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CVEN30010",
+                        "Name": "Geotechnical Modelling and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two 2500-word reports due mid-semester and week 12, each assignment will require approximately 55 hours of work. Intended Learning Outcomes (ILOs) 1 to 6 are addressed in these reports",
+            "bullets": [
+                "110 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "90%"
+        },
+        {
+            "brief": "Four 20-minute quizzes held every three weeks throughout the semester. ILOs 1 to 6 are addressed in the quizzes",
+            "bullets": [
+                "80 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Dongryeol Ryu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 2 hours per week; Tutorials: 2 hours per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "dryu@unimelb.edu.au"
+        }
+    ]
+}

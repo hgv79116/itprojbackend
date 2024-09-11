@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>This subject introduces Jazz &amp; Improvisation students to advanced rhythmic concepts and techniques.</p>",
+        "<p>Through practical performance activities, deep listening exercises and transcription, students learn to creatively navigate complex rhythmic environments as players and listeners.</p>",
+        "<p><strong>This subject is only available to students enrolled in the <em>Jazz and Improvisation</em> major of the B-MUS Bachelor of Music.</strong></p>"
+    ],
+    "ilo": [
+        "perform complex rhythms, rhythmic structures, and polyrhythms;",
+        "transcribe complex rhythms, rhythmic structures and polyrhythms;",
+        "aurally distinguish rhythms, polyrhythms and complex meters within rhythmically complex performance contexts."
+    ],
+    "generic_skills": [
+        "apply critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "be adept at learning in a range of ways, including through information and communication technologies;",
+        "expand their analytical and cognitive skills through learning experiences in diverse subjects;",
+        "sustain the capacity to participate fully in collaborative learning and to confront unfamiliar problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMUSI20180Contextual Studies 4Semester 2 (On Campus - Southbank)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI20180",
+                        "Name": "Contextual Studies 4",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One 3-minute viva voce practical test on complex rhythms and rhythmic structures",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Transcribe a 2 to 3-minute piece of music (800 words equivalent)",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One 6-minute viva voce practical examination on complex rhythms, rhythmic structures, and polyrhythms",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 80% of all scheduled classes and performances as directed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "12 hours, comprising one 1-hour practical class per week",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "dylan.vanderschyff@unimelb.edu.au"
+        }
+    ]
+}

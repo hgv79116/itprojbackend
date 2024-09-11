@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>This subject describes how medically important viruses interact with their hosts to cause infection.</p>",
+        "<p>The subject will cover the strategies that different groups of viruses employ to replicate in host cells, and their mechanisms for manipulating cellular biochemistry for their own ends. The different outcomes possible for both the virus and the host cell, including clearance, persistence, carcinogenesis and immunodeficiency will be discussed. Also covered will be how viruses may be transmitted and detected, and the pathogenic process. The host immune response to infection and the various mechanisms used by viruses to evade the host\u2019s defences will also be explored. Chemotherapeutic and vaccine strategies to control viral infection, as well as the exploitation of viruses as vectors for vaccine and gene therapy applications, will also be examined. These topics will be further illustrated by discussing the features of a range of medically important viruses.</p>"
+    ],
+    "ilo": [
+        "explain fundamental concepts of how viruses interact with host target cells and replicate within them;",
+        "describe the diverse range of viruses, and the ways in which they interact with their hosts and the environment;",
+        "describe the way in which the immune system responds to defend the body against virus infection and how viruses evade these responses;",
+        "explain the molecular basis of various viruses to cause disease, together with strategies to interrupt this process, including the development of new antivirals;",
+        "apply relevant knowledge of replication, pathogenesis, immunity and epidemiology of viruses to the determination of appropriate control strategies;",
+        "explain how viruses can be harnessed in research and to improve medical health outcomes;",
+        "understand the most suitable techniques and tools to investigate a viral outbreak;",
+        "demonstrate an understanding of viral disease in a local and global context;",
+        "formulate scientific ideas and findings and communicate these in written form;",
+        "describe the principles and procedures involved in the identification and characterisation of viruses."
+    ],
+    "generic_skills": [
+        "the ability to interpret scientific literature and interpret data from electronic databases.",
+        "the capacity to integrate knowledge across disciplines.",
+        "the ability to comprehend a question, evaluate the relevant information and communicate an answer."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "MIIM20001",
+                        "Name": "Principles of Microbiology & Immunology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students are strongly encouraged to complete MIIM20002 Microbes, Infections and Responses prior to commencing this subject, in addition to the pre-requisite subjects listed above."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "526-333 Viruses and Other Parasites (pre 2010)"
+            },
+            {
+                "type": "paragraph",
+                "content": "MIIM30014 Viruses and Other Parasites (pre 2011)"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional details\n2 x 45 minute written examination held around weeks 5 and 10 of semester (2 x 20%).\nA 2 hour written examination held in the examination period (60%)\n\n "
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Damian Purcell",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week (total contact hours: 36)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

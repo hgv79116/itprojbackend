@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>The production of plant food and fibre involves the manipulation of plant growth and development to achieve desired levels of yield and quality. This subject considers how crop and pasture canopies grow by acquiring resources from the environment, how plants allocate resources to different growth processes, and how management and environment (including climate change) affect plant production in Australia and worldwide. Plant processes will be presented at the plant, canopy and community level, touching on the wider implications for water and nutrient management as they influence landscape processes such as salinity and soil acidification.</p>"
+    ],
+    "ilo": [
+        "Be able to describe root growth and function, nutrient uptake, nitrogen fixation and explain the importance of plant nutrition in managing crops, as well as implications for nutrient run-off and water quality",
+        "Be able to describe water uptake, transpiration, xylem flow, stomatal control and explain the implications of these processes for managing crop transpiration and soil evaporation in dryland cropping and under irrigation",
+        "Be able to analyse biomass assimilation, translocation and storage from first principles of photosynthesis and light interception at the plant and canopy level, as well as the role of the phloem and carbon sinks in the partitioning of photoassimilates",
+        "Know the critical steps and processes in plant development, and explain the pivotal role of flowering time (and the factors affecting it) in adaptation to stressful environments",
+        "Better understand the abiotic factors affecting plant productivity and plant adaptations to these factors"
+    ],
+    "generic_skills": [
+        "Ability to apply physiological knowledge to the analysis of crop production problems",
+        "Capacity to conduct an experiment, analyse and interpret a large dataset, including simple statistical analysis",
+        "Capacity to write scientific reports, including the use of scientific literature to discuss results"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BOTA20001",
+                        "Name": "Green Planet: Plants and the Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Practical report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sigfredo Augusto Fuentes Jara",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "sfuentes@unimelb.edu.au"
+        }
+    ]
+}

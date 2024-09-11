@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject is compulsory for students enrolled in the Master of Public Health, Master of Epidemiology and the Master of Science (Epidemiology). Students should enrol in this subject early in their program of study.<br/><br/>The subject introduces the fundamental concepts of statistics and the essential methods required to equip students to perform basic statistical analyses and interpret research findings in the public health setting.</p>"
+    ],
+    "ilo": [
+        "Explain the key principles of statistical inference including demonstrating an understanding of sampling variability",
+        "Prepare and present data to communicate key features, including statistical summaries and simple relationships, using tables and graphs",
+        "Calculate and interpret confidence intervals for key target parameters such as mean values and average causal effects",
+        "Demonstrate a critical understanding of the concepts of hypothesis testing, p-values and statistical significance",
+        "Outline the principles underlying choice of sample size for research studies including the concept of statistical power",
+        "Explain key concepts, in particular that of confounding, that need to be addressed to avoid bias in statistical analysis",
+        "Perform simple statistical analyses using appropriate software"
+    ],
+    "generic_skills": [
+        "Critical thinking and analysis,",
+        "Finding, evaluating and using relevant information,",
+        "Problem-solving,",
+        "Written communication,",
+        "Using computers."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment of not more than 8 pages",
+            "bullets": [
+                "8 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written assignment of not more than 8 pages",
+            "bullets": [
+                "8 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "2 Short Quizzes (2 x 4 pages)",
+            "bullets": [
+                "8 pages"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Anurika De Silva",
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "anurika.de@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Future Students:",
+            "contact_email": "nadia.kaunein@unimelb.edu.au"
+        }
+    ]
+}

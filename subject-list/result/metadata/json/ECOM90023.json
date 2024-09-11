@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p>This subject aims to familiarize students with the tools commonly used for identifying and estimating treatment effects and evaluating programs and policies. Topics to be covered include the use and interpretation of Difference in Difference, Instrumental Variables, and Regression Discontinuity Design Estimators. The main theoretical ideas are illustrated with examples drawn from recent applications in the literature. Computer software such as Stata will be used. This subject also provides students with the experience of carrying out a research-based project on a specific topic in applied econometrics.</p>"
+    ],
+    "ilo": [
+        "Identify the problem of causal treatment effects using observational data",
+        "Identify the circumstances under which randomized control trials can be used to overcome the problem of identification of causal treatment effects",
+        "Evaluate the assumptions under which the microeconometric estimators studied are able to identify causal treatment effects",
+        "Evaluate the assumptions underlying the identification strategy for each estimator studied including their benefits and limitations",
+        "Be able to choose amongst alternative estimators of causal treatment effects and apply them to the analysis of real-world data",
+        "Know how to interpret the results from estimation using the various microeconometric estimators studied and to derive appropriate conclusions regarding the treatment effect of a policy",
+        "Be able to critically evaluate program evaluations and be able to effectively present and discuss research findings",
+        "Orally present the results of an independent piece of research",
+        "Complete a written research report"
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; statistical reasoning; interpretation and analysis; use of computer software; accessing data and other information from a range of sources.",
+        "Moderate level of development: written communication; application of theory to practice; critical thinking; synthesis of data and other information; evaluation of data and other information; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; collaborative learning; team work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM30001",
+                        "Name": "Basic Econometrics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM90002",
+                        "Name": "Econometrics 2",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Research Project (including Oral Presentation)",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Michael Coelli",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours' recorded lectures, 1 hour live online tutorial.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mcoelli@unimelb.edu.au"
+        }
+    ]
+}

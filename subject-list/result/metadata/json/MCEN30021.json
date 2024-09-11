@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>The subject introduces students to the conceptual engineering design process, with an associated emphasis on realising autonomous mechanical systems. This includes clarifying the problem, ideation, concept evaluation, embodiment and prototyping. The design process incorporates concept evaluation against associated environmental, socio-economic and human factors, and safety. </p>",
+        "<p>In addition, to support the design of autonomous mechanical systems, the subject will cover how machines work including basics on relevant mechanical and electro-mechanical machine elements.</p>"
+    ],
+    "ilo": [
+        "Describe engineering design methods that can assist the creation of mechanical systems and artefacts;",
+        "Construct well-reasoned engineering requirements for a given problem or need;",
+        "Apply the key concepts in designing and selecting basic machine elements.",
+        "Apply the key concepts in the integration of motors, sensors and independent control to achieve autonomous mechanical / physical systems;",
+        "Manage relatively complex engineering design projects."
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals.",
+        "The ability to undertake problem identification, formulation, and solution.",
+        "The capacity for creativity and innovation.",
+        "The ability to utilise a systems approach to complex problems and to design and operational performance.",
+        "Proficiency in engineering design.",
+        "The ability to conduct an engineering project"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20005",
+                        "Name": "Foundations of Electrical Networks",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR20004",
+                        "Name": "Engineering Mechanics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 Individual assessment. Intended Learning Outcomes (ILOS) 1, 3 and 4 are addressed in this assessment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 2 -cumulatively developed written report project. ILOS 1-5 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 3 - cumulatively developed written report project. ILOs 1-5 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written exam. ILOs 3 and 4 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must receive 50% for this assessment task to pass the hurdle.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 4. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": "Students must receive at least 50% for this assessment to pass the hurdle.",
+            "timing": "Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours of lectures, workshops and design lab sessions.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "katja.holttaotto@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Katja Holtta-Otto",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours of lectures, workshops and design lab sessions.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "katja.holttaotto@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p>Students will acquire a theoretical understanding and knowledge required to understand the production of clinical ultrasound images, including ultrasound physics, transducer and machine componentry, image optimisation, artefacts, and probe manipulation.  This will enable safe application of focused ultrasound to improve patient clinical diagnosis and management, including the indications, contraindications, pitfalls and limitations of clinical ultrasound (both generally and in a specific (chosen) health care specialty).  </p>",
+        "<p>Students will also be able to evaluate the requirements for training, competence and certification in focused ultrasound.</p>"
+    ],
+    "ilo": [
+        "Describe the role of clinical ultrasound as a core pillar of clinical assessment and management in health care",
+        "Comprehend and demonstrate the understanding of the physics, transducer and machine componentry, image optimisation pertaining to ultrasound image generation and biosafety for clinical applications of ultrasound",
+        "Comprehend and demonstrate the understanding of common pitfalls and limitations of clinical ultrasound and how these impact on the clinical utility of clinical ultrasound",
+        "Comprehend and demonstrate the understanding of evaluate how to optimise ultrasound images for a variety of types of clinical ultrasound",
+        "Comprehend and demonstrate the understanding of requirements for focused ultrasound reporting, image archiving, infection control, and machine care",
+        "Comprehend and demonstrate the understanding of the requirements for training, competence and credentialing in focused and procedural ultrasound in general"
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Improved procedural skills for students who select a practical subject",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMEDI90049Principles of Ultrasound Heart ScanSemester 1 (Online)Semester 2 (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90049",
+                        "Name": "Principles of Ultrasound Heart Scan",
+                        "Teaching period": "Semester 1 (Online)Semester 2 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to perform and interpret clinical ultrasound. A  student is expected to demonstrate: Sufficient visual acuity to perform the required range of skills, including reading ultrasound monitors across a bed and interpreting ultrasound images on standard commercially available ultrasound machines."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills"
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills are required in performing clinical ultrasound. A student is expected to demonstrate adequate gross and fine motor skills to perform focused ultrasound whilst avoiding injury to patients, colleagues and self."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple-choice questions following each tutorial (25 MCQ)",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Interpretation of 10 case studies assessed by structured questions pertaining to each case (25 MCQ)",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Self-reflective e-portfolio of cases that the student has managed or been involved\u2013 2 cases",
+            "bullets": null,
+            "hurdle": "Students must submit e-portfolio of cases that the student has managed or been involved\u2013 2 cases to pass this subject",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Open-book summative multiple-choice examination of 25 questions",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

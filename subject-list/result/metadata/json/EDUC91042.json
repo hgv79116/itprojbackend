@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>This subject examines a range of positive psychological approaches that can be delivered to individuals, groups and communities across a variety of mediums. Students are introduced to the theory and research underlying different approaches, and through experiential learning approaches, beginning with self-experimentation and extending to others, students critically evaluate the contextual relevance of different approaches. A particular emphasis is given to intersections between research and practice, with implications for working with different populations, as well as novel interventions.</p>"
+    ],
+    "ilo": [
+        "Evaluate a variety of positive psychological approaches personally and professionally.",
+        "Translate research on positive interventions according to the needs of different groups and communities.",
+        "Identify contextual factors that impact efficacy and effectiveness of positive psychological approaches.",
+        "Demonstrate reflective practice regarding learning and professional application of positive psychological approaches."
+    ],
+    "generic_skills": [
+        "Problem solving skills that are creative, innovative and solution focused.",
+        "Collaborative and teamwork skills through working with fellow students.",
+        "Ability to critically investigate, revise and review new ideas and approaches.",
+        "Application of behaviour change methods."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91041",
+                        "Name": "Principles of Positive Psychology",
+                        "Teaching period": "July (Online)March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-APP students that commenced prior to 2022 may have completed EDUC90787 Principles of Positive Psychology."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Presentation on positive psychological approaches (5 minutes)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Reflection on positive psychological approaches",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written essay on positive psychological approaches",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at a minimum of 75% at all synchronous sessions",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours: Comprising 12 hours of on-campus sessions and 12 hours of asynchronous online sessions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 March 2024 to 17 May 2024",
+            "last_self_enrol_date": "26 February 2024",
+            "census_date": "22 March 2024",
+            "last_date_to_withdraw_without_fail": "26 April 2024",
+            "assessment_period_ends": "3 June 2024",
+            "contact_name": null,
+            "contact_email": "becky.black@unimelb.edu.au"
+        },
+        {
+            "semester": "July - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours:  Comprising 12 hours synchronous sessions and 12 hours of asynchronous online sessions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "30 July 2024 to  8 October 2024",
+            "last_self_enrol_date": "23 July 2024",
+            "census_date": "16 August 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "28 October 2024",
+            "contact_name": null,
+            "contact_email": "becky.black@unimelb.edu.au"
+        }
+    ]
+}

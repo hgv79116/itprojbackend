@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>This subject provides in depth training in the technique of X-ray crystallography for the determination of chemical and macromolecular structures. Students will be exposed to the theory that underpins this technique, its practical application and the interpretation and validation of its results. Students will apply current software packages to real data to determine the structures of chemical complexes and proteins. Cutting-edge techniques, particularly those accessible through the Australian Synchrotron that provide complementary structural information will also be discussed.</p>"
+    ],
+    "ilo": [
+        "understand the principles of X-ray diffraction as applied to molecular structure determination;",
+        "apply the technique of X-ray crystallography to analyse experimental data to determine the structures of chemical complexes and proteins;",
+        "critically analyse crystal structures reported in peer reviewed literature."
+    ],
+    "generic_skills": [
+        "Advanced problem-solving and critical thinking skills",
+        "An ability to evaluate the professional literature",
+        "An understanding of the changing knowledge base",
+        "A capacity to apply concepts developed in one area to a different context"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students must complete the following subject or equivalent:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEM30016Reactivity and MechanismSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SCICHE Master of Science (Chemistry)",
+                    "MR-IRCHEM Master of Industrial Research (Chemistry)",
+                    "Chemistry informal specialisation in the BH-SCI Bachelor of Science (Degree with Honours)",
+                    "Chemistry informal specialisation in the GDA-SCI Graduate Diploma in Science (Advanced)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment, due after week 2",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

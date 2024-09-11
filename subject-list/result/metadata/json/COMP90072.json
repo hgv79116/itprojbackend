@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>The physical, social and engineering sciences make widespread use of numerical simulations and graphical representations that link underlying their theoretical foundations with experimental or empirical data. These approaches are routinely designed and conducted by researchers with little or no formal training in computation, assembling instead the necessary skills from a variety of sources. There is an art to assembling computational tools that both achieve their goals and make good effective use of the available computational resources.</p>",
+        "<p>This subject introduces students to a wide range of skills that are commonly encountered in the design and construction of computational tools in research applications:</p>",
+        "<ul><li>Formulation of the task as a sequence of operations or procedures that express the context of the assigned problem in a form accessible to digital computing (Mathematica).</li><li>Implementation of this formulation using computer languages appropriate for numerically intensive computation (C, C++, Fortran)</li><li>Modularization of computationally intensive tasks, either as user-written procedures or existing libraries (for example BLAS, lapack)</li><li>Documentation of the code to explain both its design, operation and limitations (LaTeX)</li><li>Instrumentation of the code to verify its correct operation and monitor its performance (gprof)</li><li>Optimization of the code, including the use of parallelization (OpenMPI)</li><li>Visualization of data using graphical packages or rendering engines (Geomview, OpenGL)</li><li>Interaction with the code through a graphical user interface (Python, Matlab)</li></ul>",
+        "<p>These skills are introduced to the student by undertaking a short project that is selected in consultation with the Subject Coordinator.</p>"
+    ],
+    "ilo": [
+        "to plan and execute a short computational research project that includes conception, implementation and application of appropriate computational methods,",
+        "to understand the effective use and limitations of the numerical algorithms that are used in completing the project,",
+        "to communicate the results obtained from the project using graphical output and computer typesetting software,",
+        "to make efficient use of the available computational resources through the use of tools to profile, optimize and parallelize the code generated in the project,",
+        "to document the project with sufficient detail and clarity that it could be used as the basis of further development by others."
+    ],
+    "generic_skills": [
+        "Time management: the ability to plan and manage an independent project involving a number of different tasks to a deadline",
+        "Computational skills: the ability to adapt existing computational methods and tools to a target application"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "MC-ENG Master of Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-SCICMP Master of Science (Computer Science)"
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-DATASC Master of Data Science"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "The software tools that are written by the student and submitted will be assessed on the basis of their accuracy in achieving the goals of the project and the computational efficiency with which these goals are met (60% of total assessment).",
+            "bullets": [
+                "100 hours"
+            ],
+            "hurdle": "The software developed by the student must be submitted electronically in a form that it can be (if necessary) compiled and executed and must include sample input and output files.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "A document that describes the design of the software tools, the context of the project (which may be in any branch of physical, social or engineering science) and specimen applications of the software will contribute the remaining 40% of the assessment.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": "A document formatted using LaTeX must be submitted that describes the design and operation of the computer code produced by the student",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Roger Rassool",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Roger Rassool",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

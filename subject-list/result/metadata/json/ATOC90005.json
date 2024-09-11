@@ -1,0 +1,70 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This course aims to introduce the student to processes of atmosphere-ocean interaction, their importance in the climate system and its variability, with a particular emphasis on tropical meteorology. Specific topics will include: wind and buoyancy driven ocean circulation, atmospheric convection, atmospheric and oceanic wave phenomena, SST and atmospheric circulation, El Nino Southern Oscillation (ENSO), decadal to centennial scale variability and large scale modelling.</p>"
+    ],
+    "ilo": [
+        "explain fundamental processes of atmosphere-ocean interaction;",
+        "describe the importance of these processes in the climate system and its variability, with a particular emphasis on tropical meteorology;",
+        "review and synthesise the current literature, making judgements in cases of conflicting hypotheses."
+    ],
+    "generic_skills": [
+        "developing the ability to exercise critical judgement;",
+        "rigorous and independent thinking;",
+        "adopting a problem-solving approach to new or unfamiliar tasks;",
+        "high-level written report presentation skills;",
+        "oral communication and presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ATOC30004",
+                        "Name": "Dynamical Meteorology and Oceanography",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three practical exercises totalling not more than 2000 words",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A critical review of a journal article not exceeding 1,000 words with a 15 minute class presentation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": []
+}

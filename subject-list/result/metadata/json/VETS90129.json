@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This subject continues the integrated and inter-disciplinary approach to the study of body system function and dysfunction in animals that was introduced in year one of the DVM course. Building on students\u2019 prior knowledge of body system function and dysfunction and their experience of scientific and clinical reasoning, this subject introduces students to the structure and normal functioning of those body systems that contribute to locomotion. Dysfunction and the consequences of dysfunction will also be explored. Studies will encompass the structure and function of the musculoskeletal system and those elements of the integumentary system that contribute to locomotion. The development and organisation of the nervous system will be introduced in this unit, and the focus will then turn to those elements of the spinal cord and peripheral nervous system essential for locomotory control. Students will be introduced to the clinical disciplines of gait analysis and lameness assessment, orthopaedics, diagnostic imaging and anatomic pathology as they relate to these systems. Using case-based teaching approaches, they will apply their understanding of system structure, function and dysfunction to authentic situations that enhance the development of integrative clinical reasoning abilities.</p>"
+    ],
+    "ilo": [
+        "Apply knowledge of microscopic, developmental and gross anatomy of the structures that contribute to locomotion in order to explain how the locomotory structures enable animals to stand and move",
+        "Apply knowledge of locomotory anatomy to the identification of normal structures in animals, tissues and diagnostic images, and to differentiate between abnormal and normal structures",
+        "Apply an understanding of pathological changes in the locomotory apparatus to predict the clinical manifestations of locomotory diseases, and to distinguish between the commonly caused diseases of bones, muscles, joints, spinal cord and peripheral nerves",
+        "Work collaboratively, communicate effectively, and apply an understanding of locomotory structure and function in order to analyse and interpret clinical problems related to this system in animals"
+    ],
+    "generic_skills": [
+        "30 minutes (each)"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90132",
+                        "Name": "Veterinary Professional Practice 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90064",
+                        "Name": "Veterinary Bioscience 2A",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2x written tests, equally weighted",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Aggregate mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Christina Murray",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "43 hours of lectures, practical classes and case studies",
+            "total_time_commitment": "100 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "cmmurray@unimelb.edu.au"
+        }
+    ]
+}

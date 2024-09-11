@@ -1,0 +1,206 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Many applications require reliability in access to data, and data should not be lost even in the presence of hardware failures. The ability to retrieve and process the data very efficiently is also paramount even when multiple users access the data from remote sites simultaneously. With the increasing size of data used in these applications, advanced techniques for data management have emerged to make many such advanced requirements for access to data a reality. The subject covers the technologies used in advanced database systems that use these techniques. Topics covered will include: transactions, concurrency control, reliability, ACID properties, performance, indexing of both structured and unstructured data, query processing, and further topics on different database types and database architectures. </p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics covered include:</p>",
+        "<ul><li>Introduction to High Performance Database Systems</li><li>Issues of Performance and Reliability</li><li>Transaction Processing</li><li>Recovery from Failures</li><li>Map Reduce Models</li></ul>"
+    ],
+    "ilo": [
+        "Evaluate performance and reliability in building applications involving large-scale database systems",
+        "Investigate and analyse database technologies used in large-scale applications such as search engines",
+        "Apply the concepts and technologies underpinning new forms of Web data to database systems",
+        "Understand algorithms associated with transaction processing and recovery from failures and concepts employed in modern database systems"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsINFO20003Database SystemsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5INFO90002Database Systems & Information ModellingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO20003",
+                        "Name": "Database Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "INFO90002",
+                        "Name": "Database Systems & Information Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of 50 points of third year computing study or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: MC-CS Master of Computer Science, MC-SCICMP Master of Science (Computer Science)"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Both of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of one of the following: Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology, Artificial Intelligence specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Both of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Computing specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022 Master of Data Science (MC-DATASC) - Data Science Background Stream"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022 Master of Data Science (MC-DATASC) - Computer Science Background Stream"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Five quizzes worth 2% each, run in weeks 3, 5, 7, 9, 11,   during the semester.  ILOs 1~4 are addressed in this assessment.",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written group assignment, due in approximately week 12, approximately 3600 words long, requiring approximately 50 - 55 hours and approximately 1200 words per student. \n\n\n\nThe assignment is an extensive survey of a research topic related to database technologies and requires an oral presentation of 25-30 minutes to the class, worth 15%. The assignment is designed to address Intended Learning Outcomes (ILOs) 1-4 and all general skills",
+            "bullets": [
+                "50-55 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination. This test assesses all topics covered in the subject.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Egemen Tanin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, made up of 24 one-hour lectures (two per week) and 12 one-hour tutorials (one per week). Some computer lab classes will require you to bring your own device (capable of running MySQL community edition).",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "etanin@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Farhana Choudhury",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, made up of 24 one-hour lectures (two per week) and 12 one-hour tutorials (one per week). Some computer lab classes will require you to bring your own device (capable of running MySQL community edition).",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "farhana.choudhury@unimelb.edu.au"
+        }
+    ]
+}

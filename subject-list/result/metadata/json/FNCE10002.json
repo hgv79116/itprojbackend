@@ -1,0 +1,142 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the key concepts of finance. Topics include: time-value-of-money, risk and return, present value, capital budgeting, diversification, asset allocation, capital asset pricing model, leverage, risk management and the types and sources of financing. This subject is the first in the sequence of finance subjects offered within the faculty and has a coverage and treatment of material which is suitable not only for students wishing to pursue further studies in finance but also for students from other disciplines who are interested in a single course in finance.</p>"
+    ],
+    "ilo": [
+        "Use financial mathematics to solve basic financial problems",
+        "Apply alternative capital budgeting techniques for project evaluation purposes",
+        "Explain the role of risk and return in the asset allocation decision and the pricing of risky assets",
+        "Distinguish between the different sources of financing including short term debt, long term debt and equity",
+        "Discuss the issues and choices involved in a firm\u2019s capital structure decision",
+        "Discuss the issues and choices involved in a firm\u2019s distribution decision",
+        "Explain how options can be used to manage basic financial risks"
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; interpretation and analysis; critical thinking.",
+        "Moderate level of development: oral communication; written communication; collaborative learning; statistical reasoning; application of theory to practice; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources.",
+        "Some level of development: team work; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "B-COM Bachelor of Commerce",
+                    "B-SCI Bachelor of Science"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10012Introduction to MathematicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10012",
+                        "Name": "Introduction to Mathematics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four short sets of peer-review tasks (750 words equivalent)",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Mid-semester Test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Rob Brown",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "6 hours of lectures per week, 3 hours of tutorials per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 11 February 2024",
+            "last_self_enrol_date": "8 January 2024",
+            "census_date": "12 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "19 February 2024",
+            "contact_name": null,
+            "contact_email": "rlbrown@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Asjeet S. Lamba",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Semesters 1 & 2: two hours of lecture and one hour of tutorial per week. Summer Semester: 24 hours of lectures and 12 hours of tutorials.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "asjeet@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sean Pinder",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Semesters 1 & 2: two hours of lecture and one hour of tutorial per week. Summer Semester: 24 hours of lectures and 12 hours of tutorials.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "spinder@unimelb.edu.au"
+        }
+    ]
+}

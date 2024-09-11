@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p>Students will nominate a research topic from a list provided by the subject coordinator. The student will be introduced to ethical considerations, how to complete a literature review and scientific writing styles, methods for the analysis and appraisal of other published work, and scientific Levels of Evidence. Students will learn to summarise their aims, hypotheses and methods. All students are required to produce a manuscript in the form of a scientific paper suitable for submission to an international peer-reviewed publication.</p>"
+    ],
+    "ilo": [
+        "Analyse and critically interpret research evidence",
+        "Apply a high standard of scientific reasoning",
+        "Devise and implement a research program that investigates specific hypotheses.",
+        "Select the basic statistical tests relevant to the research project and apply these accordingly",
+        "Demonstrate the skills to communicate scientific evidence in the form of a scientific manuscript and oral presentation"
+    ],
+    "generic_skills": [
+        "an ability to evaluate and synthesise information in a flexible manner",
+        "a capacity to articulate their knowledge in both oral and written formats",
+        "ability to enter and analyse data using Excel and MINITAB"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90012",
+                        "Name": "Electrophysiological Assessment A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90021",
+                        "Name": "Clinical Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90022",
+                        "Name": "Paediatric Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90023",
+                        "Name": "Hearing Devices and Rehabilitation A",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual 3 minute thesis presentation",
+            "bullets": [
+                "3 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due end of semester 2",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A draft scientific paper of no more than 6,000 words, comprised of two components; a literature review is due in week 10 of Semester 1 (25% of subject grade, and expected time commitment of about 80 hours) and a final full manuscript is due in week 10 of Sem 2 (55% of subject grade, and expected time commitment of about 240 hours);  (25% literature review 55% final full manuscript)",
+            "bullets": [
+                "6000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Literature Review is\u00a0due in week 10 of Semester 1 and final full draft is due in week 10 Semester 2",
+            "percentage": "80%"
+        },
+        {
+            "brief": "Supervisor's mark on research conduct (for example: time management, initiative, ethical conduct, professionalism",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Gary Rance",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "grance@unimelb.edu.au"
+        }
+    ]
+}

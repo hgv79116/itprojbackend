@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>Mind, Brain &amp; Behaviour 1 provides an introduction to how we uniquely sense and perceive our world to construct our own internal psychological experience. The subject explores how we learn, think, remember, and operate within our constructed worlds; and explains the neural mechanisms that underpin psychological processes and experiences. </p>",
+        "<p>The subject is designed to raise significant questions, prompting students to think about their own individual experiences and the experience of others. Students are introduced to the tools used in psychology to find answers to these questions. A common research-centred framework is adopted, and the methodological and statistical tools that support this framework are introduced and developed as an integral part of the subject.</p>",
+        "<p>The subject comprises 4 topic areas: Behavioural Neuroscience; Sensation and Perception; Learning and Cognition; and Psychological Research Methods.</p>"
+    ],
+    "ilo": [
+        "The fundamental principles of behavioural neuroscience, including the structure and function of the nervous system;",
+        "The mechanisms underpinning human sensation and perception;",
+        "Cognitive processes of learning and memory;",
+        "Psychological research methods;",
+        "Psychologically informed approaches to maintaining wellbeing and mental health in the context of tertiary study."
+    ],
+    "generic_skills": [
+        "Give and receive constructive feedback;",
+        "Work effectively in teams;",
+        "Promote and maintain the wellbeing of self and others;",
+        "Apply research and analytical skills to investigate and evaluate new issues."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC10003",
+                        "Name": "Mind, Brain & Behaviour 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC10006",
+                        "Name": "Mind, Brain and Behaviour A",
+                        "Teaching period": "July (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "The week following the lectures for the relevant section.",
+            "percentage": "25%"
+        },
+        {
+            "brief": "3 multiple choice answer tests (25% each)",
+            "bullets": [
+                "40 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "The week following the lectures for the relevant section.",
+            "percentage": "75%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance of at least 80% of laboratory classes.  In case of failure  to meet the attendance requirement, additional work related to the missed class activities (e.g., short 500 word essay on missed topic) will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Simon Cropper",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 19 January 2024",
+            "last_self_enrol_date": "4 January 2024",
+            "census_date": "12 January 2024",
+            "last_date_to_withdraw_without_fail": "19 January 2024",
+            "assessment_period_ends": "24 January 2024",
+            "contact_name": "Dr Simon Cropper",
+            "contact_email": "scropper@unimelb.edu.au"
+        }
+    ]
+}

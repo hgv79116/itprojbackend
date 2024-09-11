@@ -1,0 +1,83 @@
+{
+    "overview": [
+        "<p>This subject describes how bacteria have evolved specialized structures and proteins that allow them to adapt and survive in a range of environments. In particular this subject will examine the contribution of processes such as protein secretion and gene regulation to bacterial survival during infection of humans (i.e. pathogenesis). From an understanding of the molecular basis of host-pathogen interactions, students will be able to understand the diverse mechanisms bacteria use to cause disease, and how infectious diseases are spread. A range of medically important bacteria will be discussed, with an emphasis on their ecology, pathogenesis and the pathobiology of the disease. The subject will also describe techniques and strategies such as mutant construction and molecular cloning that are used to dissect microbial function, and cover applied aspects of medical microbiology, such as the diagnosis of infections, the mechanisms of action of antimicrobial agents, as well as resistance to these agents. Students should be able to apply this knowledge to the determination of strategies for prevention, control and recognition of disease, including the design of vaccines and other therapeutics.</p>"
+    ],
+    "ilo": [
+        "describe the fundamental concepts of bacterial pathogenesis including the transfer of proteins across the bacterial cell wall, the regulation of protein expression and strategies for survival;",
+        "explain the ways in which microbes interact with their hosts, the environment and each other;",
+        "illustrate and interpret how molecular adaptations contribute to bacterial pathogenesis;",
+        "evaluate and interpret scientific literature and research findings to explain the pathogenesis of medically important bacteria;",
+        "interpret current knowledge of how bacteria cause disease and formulate scientifically sound strategies to address issues in the diagnosis, treatment and/or prevention of bacterial infections."
+    ],
+    "generic_skills": [
+        "the capacity to integrate knowledge across disciplines",
+        "the ability to comprehend a question, evaluate the relevant information and communicate an answer",
+        "the ability to interpret scientific literature and interpret data from electronic databases"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "526-330 Molecular and Medical Microbiology (pre 2010)"
+            },
+            {
+                "type": "paragraph",
+                "content": "MIIM30011 Molecular and Medical Microbiology (pre 2011)"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10 on-line quizzes (1 per week)",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "2 x written examination held around week 5 and 10 (2 x 20%)",
+            "bullets": [
+                "45 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sacha Pidot",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week (total contact hours: 36)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

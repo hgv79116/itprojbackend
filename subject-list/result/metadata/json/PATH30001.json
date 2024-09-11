@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>This subject extends the concepts and examination of disease covered in second year Pathology (PATH20001, BIOM20001) with a focus on the cellular and molecular features underlying fundamental mechanisms in organ specific pathologies.</p>",
+        "<p>This subject is available to both Bachelor of Science and Bachelor of Biomedicine students.</p>",
+        "<p>Science and Biomedicine students intending to take a major in Pathology are required to enrol in PATH30001 (this subject), PATH30002 and PATH30003.</p>"
+    ],
+    "ilo": [
+        "Identify cellular and molecular factors that are important for disease initiation, progression and resolution",
+        "Demonstrate how disease specific injury affects the normal structure and function of cells, tissues and organs",
+        "Explain the disease specific molecular mechanisms that affect the structure and function of cells; lead to changes in tissues and organs and affect human health",
+        "Explain how understanding the pathogenesis of specific diseases improves diagnosis, treatment and prevention",
+        "Illustrate the demographic and geographic profiles of specific diseases",
+        "Compare and contrast the relationship between specific pathogenetic mechanisms within and across diseases"
+    ],
+    "generic_skills": [
+        "The ability to understand and link complex overlapping and related concepts.",
+        "The ability to source, organise, read and understand reference material which covers a wide range of related and diverse topics."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "B. Science students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsBCMB20002Biochemistry and Molecular BiologySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5PATH20001Exploring Human DiseaseSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PATH20001",
+                        "Name": "Exploring Human Disease",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "B. Biomedicine students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM20001Molecular and Cellular BiomedicineSemester 1 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "MST 1",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "MST 2",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Theo Mantamadiotis",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 lectures (3 per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

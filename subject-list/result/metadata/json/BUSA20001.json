@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to the essential skills for the management of business data to enable the application of analytics and evidence-based decision-making in business. It entails the study of the principles and tools for business data management and modelling. The focus of the subject is enabling business decision-making, and includes consideration of effective presentation and reporting of business data. Data sets will be drawn from multiple industries and business disciplines.</p>"
+    ],
+    "ilo": [
+        "Manage common issues in the manipulation of business data of different types (e.g., timestamp, textual data)",
+        "Collect and compile business data from multiple sources",
+        "Define appropriate business metrics and variables for a given data set",
+        "Explain the principles and issues involved in the effective presentation of business data for decision-making purposes"
+    ],
+    "generic_skills": [
+        "Collaborative learning",
+        "Problem solving",
+        "Team work",
+        "Interpretation and analysis",
+        "Critical thinking",
+        "Evaluation of data and other information",
+        "Use of computer software",
+        "Application of theory to practice",
+        "Oral communication",
+        "Written communication",
+        "Synthesis of data and other information",
+        "Accessing data and other information from a range of sources"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT10001",
+                        "Name": "Accounting Reports and Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECON20003Quantitative Methods 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ECOM20001Econometrics 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MGMT20005Business Decision AnalysisSemester 2 (On Campus - Parkville)12.5MKTG20004Market and Business ResearchSemester 1 (On Campus - Parkville)12.5MAST20005StatisticsSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20003",
+                        "Name": "Quantitative Methods 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM20001",
+                        "Name": "Econometrics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MGMT20005",
+                        "Name": "Business Decision Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MKTG20004",
+                        "Name": "Market and Business Research",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual data assignment",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Two data projects (in groups of 3-4 students). Each student will contribute the equivalent of 2000 words for both projects",
+            "bullets": [
+                "2000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Derick Lyle",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1-hour lecture and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "derick.lyle@unimelb.edu.au"
+        }
+    ]
+}

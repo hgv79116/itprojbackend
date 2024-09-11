@@ -1,0 +1,83 @@
+{
+    "overview": [
+        "<p>Students will have the opportunity to learn the foundational knowledge, skills and attitudes necessary to becoming a physiotherapist. The focus of the subject will be on preparing students to work with patients in a variety of contexts including as first contact practitioners and as practitioners working within health care teams. The subject will emphasize topics such as professional identity formation, ethical decision making, clinical reasoning, collaborative practice and effective communication.The development of professional knowledge and skills that underpin assessment, diagnosis and education in physiotherapy practice will be included. Students will focus on developing skills of physical assessment such as observation, palpation and analysis of movement and function. Particular attention will be given to the analysis of normal movement and function as a basis for identifying variations from normal. Students will build on their understanding of the World Health Organization, (WHO) International Classification of Functioning, Disability and Health, (ICF) model and will explicitly link this model of classification to physiotherapy assessment using patient profiles. Students will be introduced to a variety of outcome measures commonly used in physiotherapy practice.</p>"
+    ],
+    "ilo": [
+        "the ability to identify and address their own learning needs;",
+        "the ability to give effective feedback to colleagues in order to help them improve their performances;",
+        "an understanding of the factors that might disturb normal structure, function and developement;",
+        "the ability to construct with the patient an accurate, thorough, organsied, physiotherapy history and examination."
+    ],
+    "generic_skills": [
+        "the ability to identify and address their own learning needs;",
+        "the ability to give effective feedback to colleagues in order to help them improve their performances;",
+        "an understanding of the factors that might disturb normal structure, function and developement;",
+        "the ability to construct with the patient an accurate, thorough, organsied, physiotherapy history and examination."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment (case study) - due approximately week 7",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online quiz: with short answer questions - due approximately week 10",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignment (Critical perspectives in physiotherapy) - due approximately week 14",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written exam paper",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "OSCE: exam on practical skills",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at practical classes is mandatory and attendance at 95% of classes is a hurdle requirement for passing this subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

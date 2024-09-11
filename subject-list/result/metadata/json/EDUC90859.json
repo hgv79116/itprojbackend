@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This subject will consider how professionals can better understand ways in which people with autism and those identifying as Autistic interact with and experience the world, and how that impacts on engagement and learning. The subject unifies research from neuroscience, psychology and pedagogy to create a multidisciplinary evidence-base that reflects the science of learning. This will be used by students in conjunction with an intervention model of tiered response supported by the Ziggurat Model for Autism Intervention. Educators will combine this foundation with their expertise to develop a sustainable intervention framework tailored to a community of learners that is both responsive and rigorous.</p>"
+    ],
+    "ilo": [
+        "Review, contrast and synthesise perspectives on learning, assessment and applied theory that support people with autism spectrum conditions (ASCs)",
+        "Review, contrast and critically evaluate major theoretical constructs of behaviour in relation to autism",
+        "Select, implement and monitor evidence-based intervention based on systematic decision making and stakeholder voice",
+        "Investigate functional relationships between environment, learning and behaviour from standpoint of persons with autism and those identifying as Autistic",
+        "Develop a repertoire of evidence-based instructional strategies to implement through the use of the Ziggurat Model for Autism Intervention."
+    ],
+    "generic_skills": [
+        "Understanding of the relativity of discipline knowledge and the value of bringing different perspectives to bear on the field of inquiry.",
+        "Confidence tackling professional problems utilising multiple disciplinary perspectives.",
+        "Highly developed independent learning.",
+        "Ability to read critically and present material concisely and coherently in written and oral presentations",
+        "Commitment to professional and academic ethics and excellence."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91200",
+                        "Name": "Neurodiversity and Learning",
+                        "Teaching period": "August (On Campus - Parkville)August (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid-teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A research, action and reflection project",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "Equivalent to 24 hours (inclusive of 4x1 hour 'live' webinars and asynchronous & synchronous use of online communication platforms).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 January 2024 to 24 March 2024",
+            "last_self_enrol_date": "23 January 2024",
+            "census_date": "9 February 2024",
+            "last_date_to_withdraw_without_fail": "8 March 2024",
+            "assessment_period_ends": "31 March 2024",
+            "contact_name": null,
+            "contact_email": "matthew.harrison@unimelb.edu.au"
+        },
+        {
+            "semester": "July - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "Equivalent to 24 hours (inclusive of 4x1 hour 'live' webinars and asynchronous & synchronous use of online communication platforms).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "15 July 2024 to  8 September 2024",
+            "last_self_enrol_date": "9 July 2024",
+            "census_date": "26 July 2024",
+            "last_date_to_withdraw_without_fail": "23 August 2024",
+            "assessment_period_ends": "15 September 2024",
+            "contact_name": null,
+            "contact_email": "anthea.naylor@unimelb.edu.au"
+        }
+    ]
+}

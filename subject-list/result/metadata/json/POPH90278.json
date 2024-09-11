@@ -1,0 +1,193 @@
+{
+    "overview": [
+        "<p>This subject provides students with the opportunity to plan and execute substantial research-based projects under supervision. Specific research projects will depend upon the availability of appropriate expertise, but may address a broad range of epidemiological issues.</p>",
+        "<p>Students will be required to undertake two projects from two of the following categories: (i) a systematic literature review, (ii) a protocol design, (iii) an analysis of an existing data set, and (iv) a meta-analysis. They can complete these in any order. Students will give two oral presentations, one for each of their projects describing their findings and analyses.</p>",
+        "<p>Students enrolled in the Master of Science (Epidemiology program) are required to complete a major 50-point Research Project. Students will need to discuss and receive approval for their proposed combination of Research Project subjects (as indicated below) with the course coordinator to ensure they will have completed a total of 50 points by the end of their course.</p>"
+    ],
+    "ilo": [
+        "Plan and execute a substantial research-based project;",
+        "Critically appraise a body of epidemiological literature;",
+        "Design epidemiological studies;",
+        "Analyse and interpret data from epidemiological studies;",
+        "Write scientific reports; and",
+        "Present results of epidemiological investigations to a non-expert audience."
+    ],
+    "generic_skills": [
+        "articulating the breadth of knowledge gained in a particular discipline;",
+        "critically appraising draft documents;",
+        "developing the ability to exercise critical judgement;",
+        "expressing persuasive intellectual arguments;",
+        "writing research reports and scientific papers;",
+        "giving oral presentations;",
+        "rigorous and independent thinking; and",
+        "managing time and competing deadlines"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90013",
+                        "Name": "Biostatistics",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90144",
+                        "Name": "Regression Methods in Health Research",
+                        "Teaching period": "July (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90242",
+                        "Name": "Epidemiology 2",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsPOPH90243Epidemiology in PracticeFebruary (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90243",
+                        "Name": "Epidemiology in Practice",
+                        "Teaching period": "February (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90214",
+                        "Name": "Epidemiology Research Project",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "POPH90215",
+                        "Name": "Epidemiology Research Project",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "POPH90216",
+                        "Name": "Epidemiology Research Project",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research Project Progress Review",
+            "bullets": null,
+            "hurdle": "Pass/Fail",
+            "timing": "Due late in the first semester of this subject",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Supervisor's Evaluation based on: \n\n-\tResearch skills\n\n-\tCommitment\n\n-\tInteractions",
+            "bullets": [
+                "1 pages"
+            ],
+            "hurdle": null,
+            "timing": "Due late in the first semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Other - Due late in the second semester of this subject",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Supervisor's Evaluation based on:\n\n-\tResearch skills\n\n-\tCommitment\n\n-\tInteractions",
+            "bullets": [
+                "1 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period of the second semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written Assignment 1 - written report for the project",
+            "bullets": [
+                "10000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due late in the second semester of this subject",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written Assignment 2 \u2013 based on draft journal article approved by supervisor",
+            "bullets": [
+                "3500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Due in the assessment period of the second semester of this subject",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "44 hours over 2 consecutive semesters: attendance at a half-day research training skills workshop (week 1 of semester), attendance at 2 full-day sessions for student oral presentations (week 11: of each semester) and fortnightly supervisor meetings",
+            "total_time_commitment": "680 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "andrew.lau@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "44 hours over 2 consecutive semesters: attendance at a half-day research training skills workshop (week 1 of semester), attendance at 2 full-day sessions for student oral presentations (week 11: of each semester) and fortnightly supervisor meetings",
+            "total_time_commitment": "680 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "andrew.lau@unimelb.edu.au"
+        }
+    ]
+}

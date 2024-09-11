@@ -1,0 +1,97 @@
+{
+    "overview": [],
+    "ilo": [
+        "LO1. Design a basic pile foundation considering the potential bearing capacity and settlement failures in a single pile and pile group.",
+        "LO2. Apply the basic pile design knowledge for more complicated load application and ground conditions: Rock socketed piles, laterally loaded piles and micro piles.",
+        "LO3. Understand  the basic rock mechanics principles.",
+        "LO4. Apply the fundamental knowledge of rock mechanics on field applications: Rock slope stability assessment and site investigation",
+        "LO5. Evaluate the critical aspects of earth dam design and handle practical issues",
+        "LO6. Evaluate the fundamentals of tunnelling  and key aspects of a tunnelling project"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to manage information and documentation",
+        "Understanding environmental responsibilities and the need for sustainable development",
+        "Critical thinking and judgement",
+        "Ability to communicate effectively",
+        "Ability to function effectively as an individual with the capacity to be an effective team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN90050",
+                        "Name": "Geotechnical Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One open book examination. Intended Learning Outcomes (ILOs) 1 , 2, 3, 5 and 6 are addressed in the examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Written report 1 on geotechnical engineering design, with workload equivalent to 750  words. ILO 1 is addressed in this assessment.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written report 2 on geotechnical engineering design, with workload equivalent to 500 words.  ILO 2 is addressed in this assessment.",
+            "bullets": [
+                "10 - 15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written report 3 on geotechnical engineering design,  equivalent to 750 words. ILOs 3-4 are addressed in this assessment.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Samintha Perera",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours of lectures (tutorials have been integrated into the lectures)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Samintha Perera",
+            "contact_email": "samintha.perera@unimelb.edu.au"
+        }
+    ]
+}

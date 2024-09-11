@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p>AIMS</p>",
+        "<p>This subject aims to develop students' knowledge and capabilities in experimental and computational biomechanics of cells and soft-tissues. Students will apply fundamental mathematical theory of nonlinear continuum mechanics and computational approaches to solve stress-equilibrium equations. Students will learn fundamentals in cell signalling and how cell- and sub-cellular-level processes affect cell and tissue mechanical properties. These concepts will be put to practice in project-based and examination assessments.</p>",
+        "<p>INDICATIVE CONTENT</p>",
+        "<ul><li>Nonlinear continuum mechanics theory</li><li>Computational techniques for solving nonlinear mechanics problems</li><li>Soft-tissue mechanical properties</li><li>Cytoskeletal networks and mechanics</li><li>Signalling pathtways and systems-biology related to mechanics of cells and tissues</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Describe the fundamental mathematical principles behind nonlinear continuum mechanics",
+        "Describe and construct biochemical models of cell signalling pathways that affect cell and tissue mechanics",
+        "Construct computational models of the mechanics of soft-tissues and cells",
+        "Describe how the mechanical behaviour of cells and tissues in the body are regulated by chemical and mechanical signals",
+        "Construct multi-scale models of mechanics and signalling in cells and tissues",
+        "Demonstrate skills in communicating results from engineering research in written form."
+    ],
+    "generic_skills": [
+        "The ability to undertake problem identification, formulation and solution",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "An ability to apply knowledge of basic science and engineering fundamentals"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30005",
+                        "Name": "Introduction to Biomechanics",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "BMEN90038",
+                        "Name": "Biomechanics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30030",
+                        "Name": "Applied Mathematical Modelling",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN30017",
+                        "Name": "Mechanics & Materials",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test. Intended Learning Outcomes (ILOs) 1 and 4 will be addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment requiring 20-35 hours work. ILOs 1 and 3 will be assessed in this assignment.",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Project-based assignment requiring 20-35 hours work. ILOs 1-6 will be assessed in this assignment.",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "2-hours end-of-semester examination. ILOs 1, 2 and 4 will be assessed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students will need a mark of at least 50% in the end-of-semester exam to pass this subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Vijay Rajagopal",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours including 3 hours of lectures and 2 hours of workshops per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p>This subject introduces the concept of microstructure and explores its relationship with processing and properties in the context of basic types of engineering materials and their applications. Topics covered include: diffusion, phase equilibrium and diagrams, phase transformation, metallic alloys, ceramics, polymers, composites, surface and other selected non-mechanical properties.</p>",
+        "<p><strong><br/></strong>The topics covered in this subject include diffusion, phase equilibrium and diagrams, phase transformation, metallic alloys, ceramics, polymers, composites, surface and other selected non-mechanical properties.</p>",
+        "<p><br/></p>",
+        "<p><br/></p>"
+    ],
+    "ilo": [
+        "Perform analysis of equilibrium phase diagrams and use transformation diagrams to deduce microstructures resulting from specific heat treatments",
+        "Relate processing, microstructure and properties",
+        "Describe various engineering materials and their application."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals.",
+        "Ability to undertake problem identification, formulation, and solution.",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance.",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90043",
+                        "Name": "High Performance Materials",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN30017",
+                        "Name": "Mechanics & Materials",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        },
+        {
+            "brief": "2 laboratory sessions during the semester with reports (totalling not more than 4000 words)",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": "Attendance at the labs and submission of written lab reports as required are compulsory.",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Kenong Xia",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures, 9 hours of tutorials, and 4 hours of laboratory work",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "k.xia@unimelb.edu.au"
+        }
+    ]
+}

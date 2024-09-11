@@ -1,0 +1,80 @@
+{
+    "overview": [
+        "<p>This subject aims to develop an understanding of the unique nature of financial institutions and their role in the financial system. Topics covered include measuring performance, products and pricing, regulation, the existence or non-existence of economics of scale and scope, the risks faced by financial institutions and risk management techniques used. Topical issues such as mergers between banks are discussed.</p>"
+    ],
+    "ilo": [
+        "Recognize the special nature of financial intermediaries and the implications for managers;",
+        "Explain the products and services offered by financial intermediaries;",
+        "Explain the major risks faced by deposit-taking institutions;",
+        "Apply specific risk management techniques;",
+        "Discuss the various regulatory systems used in the global banking environment and apply capital adequacy requirements;",
+        "Reflect upon the changing nature of the financial system and consider future directions."
+    ],
+    "generic_skills": [
+        "High level of development: application of theory to practice; interpretation and analysis; critical thinking; evaluation of data and other information.",
+        "Moderate level of development: written communication; problem solving; statistical reasoning; accessing data and other information from a range of sources.",
+        "Some level of development: collaborative learning; team work; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE10002",
+                        "Name": "Principles of Finance",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "FNCE20001  Business Finance"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "306-305 Management of Financial Institutions"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Mid-semester test.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

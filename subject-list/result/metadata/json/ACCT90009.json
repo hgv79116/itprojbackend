@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>Strategic Cost Management examines the interface of cost accounting and managerial decision making.  Students are introduced to the concepts and processes that underpin the development of cost accounting systems and are taught a range of techniques to analyse and evaluate the cost information captured by these systems.  Students investigate the role of cost accounting information in managerial decisions that relate to the efficient and effective management of organisational resources and the creation of customer and shareholder value. </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Define costs according to different classification schemes, describe a range of cost behaviour patterns, and calculate and interpret cost estimates derived using a range of techniques",
+        "Design cost allocation systems to meet internal accountability requirements, and interpret the impact of cost allocations on internal performance reports",
+        "Analyse resource flows in different organisation settings and design costing systems to capture critical resource flows",
+        "Calculate product and service costs using a variety of costing systems and cost allocation techniques",
+        "Analyse the impact of costing system choices and cost allocations on pricing, competition, and management decision making",
+        "Explain techniques for the management of costs, time, and quality, to facilitate the effective use of organisational resources",
+        "Analyse and evaluate cost information for the purposes of making a variety of value-based decisions"
+    ],
+    "generic_skills": [
+        "Evaluation of data",
+        "Synthesis of data and theory",
+        "Using computer programs, including web-based software",
+        "Problem solving",
+        "Oral and written communication",
+        "Listening to other students with tolerance and engaging in discussion when appropriate"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsACCT90004Accounting for Decision MakingSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90004",
+                        "Name": "Accounting for Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3-hour end-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Group assignment (normally in groups of 3-4 students), 3000 words, due late in the semester (25%)",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Online tests, throughout the semester (5 x 2% each, 10% total), first half of semester and second half of semester",
+            "bullets": [
+                "2.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Class participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Chung-Yu Hung",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture in week one and week twelve, one 90-minute lecture in weeks two to eleven and a 90-minute seminar in week three to twelve",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "chung-yu.hung@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Chung-Yu Hung",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture in week one and week twelve, one 90-minute lecture in weeks two to eleven and a 90-minute seminar in week three to twelve",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "chung-yu.hung@unimelb.edu.au"
+        }
+    ]
+}

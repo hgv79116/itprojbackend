@@ -1,0 +1,142 @@
+[
+    {
+        "code": "COMP30013",
+        "name": "Advanced Studies in Computing",
+        "availability": "Offered Semester 1, Semester 2, 2024",
+        "level": "Undergraduate Level 3",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP30019",
+        "name": "Graphics and Interaction",
+        "availability": "Offered Semester 2, 2024",
+        "level": "Undergraduate Level 3",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP30020",
+        "name": "Declarative Programming",
+        "availability": "Offered Semester 2, 2024",
+        "level": "Undergraduate Level 3",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP30022",
+        "name": "IT Project",
+        "availability": "Offered Semester 2, 2024",
+        "level": "Undergraduate Level 3",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP30023",
+        "name": "Computer Systems",
+        "availability": "Offered Semester 1, 2024",
+        "level": "Undergraduate Level 3",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP30024",
+        "name": "Artificial Intelligence",
+        "availability": "Offered Semester 1, 2024",
+        "level": "Undergraduate Level 3",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP30026",
+        "name": "Models of Computation",
+        "availability": "Offered Semester 2, 2024",
+        "level": "Undergraduate Level 3",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP30027",
+        "name": "Machine Learning",
+        "availability": "Offered Semester 1, 2024",
+        "level": "Undergraduate Level 3",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP80001",
+        "name": "PhD Research",
+        "availability": "Offered Time-based Research, 2024",
+        "level": "Doctorate time-based research",
+        "credit": "0 credit points"
+    },
+    {
+        "code": "COMP90005",
+        "name": "Advanced Studies in Computing",
+        "availability": "Offered Semester 1, Semester 2, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90007",
+        "name": "Internet Technologies",
+        "availability": "Offered Semester 1, Semester 2, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90014",
+        "name": "Algorithms for Bioinformatics",
+        "availability": "Offered Semester 2, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90015",
+        "name": "Distributed Systems",
+        "availability": "Offered Semester 1, Semester 2, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90016",
+        "name": "Computational Genomics",
+        "availability": "Offered Semester 1, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90017",
+        "name": "Sensor Networks and Applications",
+        "availability": "Not offered in 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90018",
+        "name": "Mobile Computing Systems Programming",
+        "availability": "Offered Semester 2, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90020",
+        "name": "Distributed Algorithms",
+        "availability": "Offered Semester 1, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90024",
+        "name": "Cluster and Cloud Computing",
+        "availability": "Offered Semester 1, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90025",
+        "name": "Parallel and Multicore Computing",
+        "availability": "Offered Semester 2, 2024",
+        "level": "Graduate coursework",
+        "credit": "12.5 credit points"
+    },
+    {
+        "code": "COMP90037",
+        "name": "MPhil Research",
+        "availability": "Offered Time-based Research, 2024",
+        "level": "Masters time-based research",
+        "credit": "0 credit points"
+    }
+]

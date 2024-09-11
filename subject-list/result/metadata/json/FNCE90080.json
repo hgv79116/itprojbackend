@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>This subject examines the application of modern portfolio theory, capital asset pricing models, equity valuation models and interest rate theory in managing various types of investment portfolios containing cash, fixed interest securities and equities. Topics include: index funds, exchange-traded funds, factor investing, smart betas and international portfolio considerations. Students use investment software to solve practical problems.</p>"
+    ],
+    "ilo": [
+        "Describe an investment process that is consistent with a given set of beliefs about the efficiency or inefficiency of financial markets",
+        "Use advanced applications of modern portfolio theory to design portfolios that are well aligned with investors' objectives",
+        "Apply different types of commercially available factor models to structure portfolios with desirable risk characteristics",
+        "Critically evaluate factor-based investing and the role of smart betas in portfolio choice"
+    ],
+    "generic_skills": [
+        "Oral and written communication",
+        "Problem solving",
+        "Application of theory to practice",
+        "Team work",
+        "Critical thinking",
+        "Evaluation of data",
+        "Using Computer Programs",
+        "Statistical Reasoning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-FINANCE Master of Finance",
+                    "MC-FINENH Master of Finance (Enhanced)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time):"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsACCT90002Financial Statement AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ECON90033Quantitative Analysis of Finance ISemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ECON90034Economics of FinanceSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5FNCE90047Financial Markets and InstrumentsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90002",
+                        "Name": "Financial Statement Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90033",
+                        "Name": "Quantitative Analysis of Finance I",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90034",
+                        "Name": "Economics of Finance",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE90047",
+                        "Name": "Financial Markets and Instruments",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Major Group Project (3-5 students)",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Zhuo Zhong",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

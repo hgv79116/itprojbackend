@@ -1,0 +1,170 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject introduces the fundamental concepts of computing programming, and how to solve simple problems using high-level procedural language, with a specific emphasis on data manipulation, transformation, and visualisation of data.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving; use of modules.</p>",
+        "<p>The subject assumes no prior knowledge of computer programming and is not suitable for students with prior programming experience. </p>"
+    ],
+    "ilo": [
+        "Develop programs that can manipulate static, structured large data using the Phython programming language",
+        "Identify the kind of data and algorithm most appropriate for solving a given problem",
+        "Employ basic algorithmic problem-solving techniques",
+        "Engage in communication involving programming concepts"
+    ],
+    "generic_skills": [
+        "Exercise critical judgement; undertake rigorous and independent thinking",
+        "Adopt a problem-solving approach to new and unfamiliar tasks"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "list",
+                "content": [
+                    "Master of Information Technology",
+                    "Master of Science (Computer Science)",
+                    "Master of Software Engineering",
+                    "Master of Electrical Engineering",
+                    "Master of Mechatronics Engineering",
+                    "Master of Spatial Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students enrolled in any of the following specialisations of the Master of Engineering are not permitted to take this subject:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Software with Business",
+                    "Electrical",
+                    "Electrical with Business",
+                    "Mechatronics",
+                    "Software",
+                    "Spatial"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who have completed or have been exempted from any of the following subjects are not permitted to take this subject:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5No longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "",
+                        "Name": "No longer available",
+                        "Teaching period": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10 weekly formative programming tasks to be done online (worth up to 1% each). The best 5 will contribute towards assessment %.   Addressing Intended Learning Outcomes (ILO's) 1, 2, 3 and 4.",
+            "bullets": [
+                "10-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 11",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One programming-based assignment, requiring approximately 8-16 hours of work. Addressing Intended Learning Outcomes (ILO's) 1 and 3.",
+            "bullets": [
+                "8-16 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid-semester test. Addressing Intended Learning Outcomes (ILO's) 1, 2 and 3.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One programming-based assignment, requiring approximately 12-20 hours of work. Addressing Intended Learning Outcomes ( ILO's) 1, 2, 3 and 4.",
+            "bullets": [
+                "12-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One 3 hour written exam. Addresses Intende Learning Outcomes (ILOs) 1, 3 and 4.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "30/60 for the end-of-semester written examination.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Simon D'Alfonso",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "dalfonso@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Simon D'Alfonso",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "dalfonso@unimelb.edu.au"
+        }
+    ]
+}

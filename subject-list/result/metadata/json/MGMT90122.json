@@ -1,0 +1,55 @@
+{
+    "overview": [
+        "<p>This subject will introduce students to analytical tools that can be used to solve supply chain problems. These problems will relate to the major drivers of supply chain performance, these being location of facilities, levels of inventory, transportation networks and information exchanges. Typical examples of problems will include: designing the supply chain distribution network; planning demand and supply in a supply chain; and, planning and managing inventories in a supply chain. The analytical tools used to solve each of the problems will be illustrated with their application in computer software packages such as Microsoft Excel. In the discussion of these tools, the managerial context in which they are used and the managerial levers for improvement that they support will be stressed. The design of supply networks, transport optimisation systems and distribution centres will be considered from an analytic perspective.</p>"
+    ],
+    "ilo": [
+        "Ability to analyse supply chain characteristics",
+        "Knowledge of how inventory dynamics impact on supply chain effectiveness",
+        "Understanding of cost factors and drivers such as warehouse location",
+        "Knowledge of transport planning and routing methods and ability to apply these"
+    ],
+    "generic_skills": [
+        "1000 words (equivalent)"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Take-home exam",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due Tuesday after course delivery",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Field project",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "8 Weeks after the end of teaching",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

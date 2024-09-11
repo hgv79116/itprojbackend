@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p><span>R_Lab: Made by Robots</span><span class=\"apple-converted-space\"><span> </span></span><span class=\"apple-converted-space\"><span>is part of the Digital Design and Fabrication Electives, which offer students the opportunity to build and demonstrate expertise and competence in the understanding and application of contemporary design tools that inform and shape students\u2019 design process and thinking. Digital Design and Fabrication Electives are based on a culture of experimenting and making \u2013 applying contemporary design and making tools to create advanced physical and digital artefacts and environments. <span>For more detailed information concerning the respective tutors, design approaches and previous examples as well as other offerings in the Digital Design and Fabrication Electives suite please check on the ADD+F Research Hub website under teaching and learning: </span><a href=\"https://msd.unimelb.edu.au/addf\">https://msd.unimelb.edu.au/addf</a> </span></span></p>",
+        "<p> </p>",
+        "<p><span>R_Lab</span><span> introduces students to the use of robots in the design and construction of buildings and structures, which provides a new set of opportunities for architects, engineers, and designers. Robots and the processes developed, enable the design of architectures and constructions while controlling uncertainties of complex systems in ways that humans cannot.<span class=\"apple-converted-space\"> </span>Allowing students to develop non-standard objects and structures of infinite variability creates novel design possibilities.</span><span> </span></p>",
+        "<p> </p>",
+        "<p><span>R_Lab</span><span> students learn robotic related skills and an understanding of the fabrication process to produce prototypes while developing an understanding of an established robotic fabrication workflow. Students demonstrate the capability to design structures for robotic fabrication, program robots to construct, and apply the workflow to an architectural application. The process will include iterative prototyping through fabrication. In their final project students will demonstrate an understanding of the robotic fabrication process and its architectural application, while creating an aesthetic object with a high level of formal complexity \u2013 generated through the use of parametric design principles.</span></p>",
+        "<p> </p>",
+        "<p><strong><span>NOTE : </span></strong>This subject has a quota of 16.  See \u201cAdditional delivery details\u201d under \u201cDates and Times\u201d for more information.</p>"
+    ],
+    "ilo": [
+        "Develop a design agenda and concept for an architectural outcome utilising the robotic fabrication process.",
+        "Demonstrate an understanding of the applied fabrication process.",
+        "Demonstrate an understanding of application of robotic fabrication to architectural design and construction.",
+        "Apply critical thinking to the assessment of design proposals and make changes based on the assessment."
+    ],
+    "generic_skills": [
+        "Critical design thinking and analysis;",
+        "Basic Robotic Fabrication Techniques.",
+        "Basic Industrial Robot Programming.",
+        "Physical and Digital Prototyping.",
+        "Time and project management",
+        "Ability to integrate digital tools and physical prototyping in the design process."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ARCH Master of Architecture",
+                    "MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                    "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                    "MC-ARCHUD Master of Architecture/Master of Urban Design",
+                    "MC-LARCH Master of Landscape Architecture"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "A high level of technical support will be provided by subject tutors and Robotics Lab technical staff. Resources for students to improve their Grasshopper capabilities will be provided."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "No knowledge of coding or computer programming is required."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Design Review 1",
+            "bullets": [
+                "18- 20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Design Review 2",
+            "bullets": [
+                "18- 20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final Design Review with verbal presentation",
+            "bullets": [
+                "62-66 hours (of work required)"
+            ],
+            "hurdle": "Final submission needs to be verbally presented and final design be passed in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Design Journal",
+            "bullets": [
+                "25-27 hours (of work required)"
+            ],
+            "hurdle": "For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "22 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

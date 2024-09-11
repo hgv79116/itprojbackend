@@ -1,0 +1,73 @@
+{
+    "overview": [
+        "<p>This subject will examine the fundamental dynamics controlling the behaviour of atmospheric processes on the mesoscale, including convection, atmospheric waves, mountain meteorology, and frontal systems. In addition, the two-way interactions between mesoscale and larger scale processes will be discussed. These discussions will be augmented by a detailed presentation of methodologies used to develop models of the atmosphere that are used for research and operational weather prediction.</p>"
+    ],
+    "ilo": [
+        "the physical processes that govern a range of mesoscale atmospheric phenomena;",
+        "the two-way interactions between these phenomena and larger scale processes; and",
+        "the necessary skills to build simple models of the atmosphere."
+    ],
+    "generic_skills": [
+        "interpret complex phenomena;",
+        "provide you with the ability to interrogate parameters and discriminate between important and negligible influences;",
+        "develop the skills to build your own models;",
+        "critically examine the simulations provided by more complicated modelling systems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ATOC30004",
+                        "Name": "Dynamical Meteorology and Oceanography",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two assignments involving programming and written exercises (not exceeding 1000 words each) (25% each)",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "50%"
+        },
+        {
+            "brief": "One essay (not exceeding 1000 words)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One oral examination (not more than 1/2 hour)",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

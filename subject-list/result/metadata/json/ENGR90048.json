@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>This subject presents nuclear reactor theory and its applications to reactor operation. It examines reactor response to control actions, feedback effects, and the intermediate and long-term effects on reactivity due to fission product poisoning and fuel burnup. Furthermore, it covers the fundamentals of thermal and hydraulic analysis of pressurised-water reactors.</p>",
+        "<p><strong>Indicative content:</strong></p>",
+        "<ul><li>Nuclear reactor theory and engineering</li><li>Reactor dynamics and control</li><li>Effects of fuel burnup and the long-term evolution of the reactor core properties</li><li>Heat generation and heat transfer from fuel to coolant</li><li>Thermal design of nuclear reactors</li></ul>"
+    ],
+    "ilo": [
+        "Describe the design features of pressurised-water reactors.",
+        "Analyse the dynamic behaviour of a nuclear reactor in different operating states.",
+        "Explain long-term changes in the reactor core composition and properties over the reactor lifetime.",
+        "Determine the steady-state temperature distributions in the fuel and coolant."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to communicate effectively with the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90046",
+                        "Name": "Nuclear Engineering",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEN90032Process Simulation and ControlSemester 1 (On Campus - Parkville)12.5ELEN90055Control SystemsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90032",
+                        "Name": "Process Simulation and Control",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90055",
+                        "Name": "Control Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment 1",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 6-7 of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Assignment 2",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 11-12 of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

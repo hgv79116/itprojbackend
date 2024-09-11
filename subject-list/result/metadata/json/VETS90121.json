@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>This subject takes a multi-disciplinary approach to the investigation of health and disease in domestic animals. Students will be introduced to the structural and functional organisational units of the body and to the fundamental principles of veterinary anatomy, physiology, biochemistry, pharmacology, general pathology and immunology. Students will gain theoretical knowledge and practical laboratory skills that are fundamental to an appraisal of the health of domestic animals.</p>"
+    ],
+    "ilo": [
+        "Explain how the structural and functional organisation of the cells, tissues, organs and body systems enable maintenance of homeostasis",
+        "Communicate anatomical and microscopic features of animal tissues using scientific terminology",
+        "Explain how homeostasis is maintained through normal hormonal, electrical and pharmacological communication",
+        "Describe the major components of the immune system and the clinical manifestations of an activated immune response",
+        "Apply the principles of common inflammatory and non-inflammatory pathological processes to explain the clinical features of disease",
+        "Work collaboratively, communicate effectively, and apply an understanding of cellular and organ structure and function in order to analyse and interpret clinical problems in animals"
+    ],
+    "generic_skills": [
+        "Have the capacity to examine critically, synthesise and evaluate knowledge across a range of disciplines",
+        "Have enhanced analytical and cognitive skills",
+        "Have the capacity to participate fully in collaborative learning and to find solutions to unfamiliar problems",
+        "Be able to seek solutions to problems through the application of knowledge, the ability to initiate and integrate new ideas, an appreciation of the broad picture of science, and an understanding of the importance and application of scientific method"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsVETS90120Vet Bioscience: Digestive SystemSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90120",
+                        "Name": "Vet Bioscience: Digestive System",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90115",
+                        "Name": "Veterinary Bioscience 1A",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "VETS90119",
+                        "Name": "Veterinary Principles: Digestive System",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous within-class assessment of the practical component:  Up to 14 pre- and post- laboratory multiple choice quizzes, each taking approximately 2 minutes to complete and each equally weighted",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group assignment",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in semester 1 (approximately Weeks 9\u201012)",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Aggregate mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Smitha Georgy",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours of lectures, case studies and practical classes",
+            "total_time_commitment": "180 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "s.georgy@unimelb.edu.au"
+        }
+    ]
+}

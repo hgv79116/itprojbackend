@@ -1,0 +1,174 @@
+{
+    "overview": [
+        "<p>This subject provides Master of Surgical Education students with an opportunity to integrate learning from the Graduate Certificate and Graduate Diploma courses. It is a capstone activity in which students develop a surgical curriculum relevant to their surgical education practice. This activity enables students to apply theoretical knowledge gained through earlier course content.</p>",
+        "<p>The subject has two parts. First, the student conducts a needs assessment of stakeholders to establish the conditions and scope of the proposed curriculum. Second, students develop the curriculum considering all essential components. This must include program goals and outcomes, educational methods, target learners and their requisites, program content, faculty requirements, settings, equipment and other resources, assessment and an evaluation strategy. Depending on the nature of the curriculum, students may also include recruitment, selection, governance and other considerations.</p>",
+        "<p>Students will be expected to demonstrate effective academic writing skills in the presentation of their curriculum and high level communication skills in an oral presentation. Students will also be expected to reflect on their advanced educational practice through reflective writing.</p>"
+    ],
+    "ilo": [
+        "Conduct a needs assessment with appropriate stakeholders for a new surgical curriculum",
+        "Design a new surgical curriculum for the student's practice",
+        "Apply theoretical concepts in the design of a new surgical curriculum",
+        "Critically evaluate educational methods for use in a new curriculum (e.g. problem-based learning, simulator-based skills development etc.)",
+        "Demonstrate application of specific curriculum components in a new surgical curriculum offering justification for decisions such as learning outcomes, lesson plans, assessment and evaluation strategies, governance etc.",
+        "Demonstrate documentation and oral presentation of a curriculum"
+    ],
+    "generic_skills": [
+        "The course will promote excellence in teaching and learning as a core skill in its students."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS90006",
+                        "Name": "Context of Surgical Education",
+                        "Teaching period": "Semester 1 (Early-Start) (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90007",
+                        "Name": "Learning & Teaching in Surgical Practice",
+                        "Teaching period": "Semester 1 (Early-Start) (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90008",
+                        "Name": "Educational Theory for Surgical Training",
+                        "Teaching period": "Semester 2 (Early-Start) (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90009",
+                        "Name": "Curriculum Design in Surgical Education",
+                        "Teaching period": "Semester 2 (Early-Start) (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90011",
+                        "Name": "Research Methods in Surgical Education",
+                        "Teaching period": "Semester 1 (Early-Start) (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Five ofCodeNameTeaching periodCredit PointsMEDS90012Recruitment and Selection in SurgerySemester 1 (Early-Start) (Online)12.5MEDS90013Teaching Professionalism in SurgeryNot available in 202412.5MEDS90014Managing Underperforming TraineesNot available in 202412.5MEDS90015Simulation in Surgical EducationNot available in 202412.5MEDS90016Teaching Surgical ScienceNot available in 202412.5MEDS90017Educational Leadership in SurgerySemester 1 (Early-Start) (Online)12.5MEDS90018Assessment and Evaluation in SurgerySemester 2 (Early-Start) (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS90012",
+                        "Name": "Recruitment and Selection in Surgery",
+                        "Teaching period": "Semester 1 (Early-Start) (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90013",
+                        "Name": "Teaching Professionalism in Surgery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90014",
+                        "Name": "Managing Underperforming Trainees",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90015",
+                        "Name": "Simulation in Surgical Education",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90016",
+                        "Name": "Teaching Surgical Science",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90017",
+                        "Name": "Educational Leadership in Surgery",
+                        "Teaching period": "Semester 1 (Early-Start) (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MEDS90018",
+                        "Name": "Assessment and Evaluation in Surgery",
+                        "Teaching period": "Semester 2 (Early-Start) (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written report on needs assessment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral presentation of curriculum",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written presentation of curriculum",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Written reflection on the development of the curriculum",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Early-Start) - Online",
+            "principal_coordinator": "Debra Nestel",
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "8 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

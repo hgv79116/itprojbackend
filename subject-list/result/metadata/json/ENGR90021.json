@@ -1,0 +1,184 @@
+{
+    "overview": [
+        "<p>Critical Communication for Engineers (CCE) addresses the skills vital for professional success. Problem analysis skills and being able to present solutions effectively to your engineering peers, leaders and the broader community are a powerful combination. These are the focus of CCE.</p>",
+        "<p>They are challenging skills to learn\u2014and you will likely work to improve them throughout your career. Effective communication is not merely about how to write a report or to give a formal presentation. Developing a strong argument\u2014having something insightful to communicate\u2014is essential for capturing the attention of an audience. This requires developing good interpersonal skills for gathering information and testing ideas.</p>",
+        "<p>The subject is divided into four \u2018topics\u2019 presented in sequence through the semester. Each topic is self-contained and dedicated to a different engineering issue. There is an assessment for each topic, meaning that you will be able to apply what you have learned from one topic to the following topics. This way, you will have a lot of opportunities to practise and develop your analytical and communication skills.</p>"
+    ],
+    "ilo": [
+        "Work effectively in a small team, including evaluating peer and team performance",
+        "Identify and define a challenge in engineering",
+        "Research solutions to an engineering problem",
+        "Evaluate solutions against agreed criteria",
+        "Argue for appropriate action in an engineering controversy",
+        "Present information orally and in writing."
+    ],
+    "generic_skills": [
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Understanding of social, cultural, global and environmental responsibilities and the need to employ principles of sustainable development",
+        "Ability to manage information and documentation",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-BIOMENG Master of Biomedical Engineering",
+                    "MC-CHEMENG Master of Chemical Engineering",
+                    "MC-CIVENG Master of Civil Engineering",
+                    "MC-ELECENG Master of Electrical Engineering",
+                    "MC-MECHENG Master of Mechanical Engineering",
+                    "MC-MTRNENG Master of Mechatronics Engineering",
+                    "MC-SOFTENG Master of Software Engineering",
+                    "MC-SPATENG Master of Spatial Engineering",
+                    "MC-ENG Master of Engineering",
+                    "761EM Master of Engineering Management",
+                    "532PM Master of Engineering Project Management",
+                    "MC-INDENG Master of Industrial Engineering",
+                    "MC-ARCHENG Master of Architectural Engineering",
+                    "MC-ENVENG Master of Environmental Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 200 credit points of undergraduate study"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: written report (individual). Intended learning outcomes (ILOs) 1, 5 and 6 are addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2: written report (individual). Intended learning outcomes (ILOs) 1, 2, 3, 5 and 6 are addressed in this assessment.",
+            "bullets": [
+                "19 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 3: written report (individual). Intended learning outcomes (ILOs) 1,2, 3 and 6 are addressed in this assessment.",
+            "bullets": [
+                "26 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 4: written report (individual). Intended learning outcomes (ILOs) 1, 2, 3, 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "26 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Journal (4 entries of which two will be assessed at 5% each) (individual). Intended learning outcomes (ILOs) 1, 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "10-minute oral presentation (team of four students). Intended learning outcomes (ILOs) 1, 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "7 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "5%"
+        },
+        {
+            "brief": "20-minute oral presentation (team of four students). Intended learning outcomes (ILOs) 1,4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Peer review of team presentation (written and oral) (individual). Intended learning outcomes (ILOs) 1,4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Four lectures of up to 2-hour duration (lectures are proposed for Weeks 1, 3, 6 and 9) and 12 workshops of 2-3 hours' duration each",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "bharats@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Four lectures of up to 2-hour duration (lectures are proposed for Weeks 1, 3, 6 and 9) and 12 workshops of 2-3 hours' duration each",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "bharats@unimelb.edu.au"
+        }
+    ]
+}

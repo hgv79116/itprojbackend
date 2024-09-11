@@ -1,0 +1,177 @@
+{
+    "overview": [
+        "<p>The aim of this subject is to give students of animal science a fundamental understanding of both applied reproductive biology and genetics. This will enable students to develop the skills necessary for management of reproductive performance and to implement genetic improvement of domestic animals. The content includes comparative structure and function of reproductive organs; endocrinology and neuro-endocrinology of reproductive cycles; environmental and genetic influences on reproduction, interventions to manipulate reproduction; reproductive biotechnologies; breeding values and selection indices; inbreeding and crossbreeding; applied animal genomics.</p>"
+    ],
+    "ilo": [
+        "Describe the comparative structure and function, as well as endocrine and neuroendocrine control of the reproductive systems",
+        "Identify factors affecting reproduction and define management strategies to optimise reproductive performance",
+        "Critically evaluate new and emerging technologies for modifying reproductive performance",
+        "Express how genetic parameters influence animal improvement programs",
+        "Contrast potential negative effects of inbreeding with potential advantages of crossbreeding",
+        "Evaluate the impact of manipulating reproduction to optimise breed improvement programs"
+    ],
+    "generic_skills": [
+        "Critical thinking, analysis and problem solving skills",
+        "Enhanced ability to communicate their ideas effectively in different written formats",
+        "An appreciation of how modern science can be applied",
+        "Sense of intellectual curiosity",
+        "Capacity for creativity and innovation, through the application of skills and knowledge"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10051",
+                        "Name": "Genetics for Agriculture",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL30001",
+                        "Name": "Reproductive Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANSC20001",
+                        "Name": "Animal Physiology and Growth",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC20002",
+                        "Name": "Comparative Nutrition and Digestion",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC20005",
+                        "Name": "Companion Animal Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject involves the use of animals. Students should be aware that this is an essential part of the subject and exemption from this component is not possible."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online quizzes at end of week 3, 6, 9 and 12 worth 5% each",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "53 hours. 24 hours of lectures, 5 hours of tutorials, 24 hours of practical work to be undertaken at Parkville and off-site",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "53 hours. 24 hours of lectures, 5 hours of tutorials, 24 hours of practical work to be undertaken at Dookie and off-site",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

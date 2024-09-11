@@ -1,0 +1,142 @@
+{
+    "overview": [
+        "<p>This is an advanced subject in labour economics. Topics to be covered will include: Overview of labour market outcomes in Australia; Labour supply (including labour force participation, hours of work, and the effects of public policy); Labour demand; Human capital; Labour market discrimination; Unemployment; Wage determination; Earnings distributions; Impact of unions. Other topics may include labour market flows (including the analysis of quits and layoffs), immigration, and employment structures within firms. In each topic relevant theory and empirical research (especially relevant Australian studies) will be examined.</p>"
+    ],
+    "ilo": [
+        "Describe the fundamental features of a labour market, its operation, and role in the economy;",
+        "Apply relevant microeconomic and macroeconomic theory to explain the main potential determinants of labour market outcomes;",
+        "Critically evaluate empirical evidence on the operation of labour markets, and on the main determinants of labour market outcomes;",
+        "Formulate simple theoretical models of the operation of the labour market, and design strategies for empirically testing theories."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision-making",
+        "Summarise and interpretation of information",
+        "Statistical reasoning",
+        "Problem solving skills",
+        "Oral communication",
+        "Written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM40006Econometrics 3Semester 1 (On Campus - Parkville)12.5ECOM90013Econometrics 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM40006",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM90013",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40008",
+                        "Name": "Labour Economics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual essay",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual in class presentation (individual)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 11",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Three group completed problem sets no more than 6 pages each (due in weeks 5, 8 and 11)",
+            "bullets": [
+                "18 pages"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Lawrence Uren",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "170 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

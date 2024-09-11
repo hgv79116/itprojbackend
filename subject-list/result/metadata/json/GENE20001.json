@@ -1,0 +1,179 @@
+{
+    "overview": [
+        "<p>This subject will describe the fundamental characteristics of a genome, its structure and how genetic information contained within the genome is expressed and transmitted. The subject will integrate the molecular basis of genetic variation with the principles of Mendelian, quantitative and population genetics to explain patterns of genetic variation. A core aspect of this subject will be the development of analytical skills associated with solving genetic-based problems and interpreting data from genetic experiments.</p>"
+    ],
+    "ilo": [
+        "describe the molecular characteristics of a genome and the processes that shape it;",
+        "explain how the information within a genome is expressed and influences the characteristics of an individual;",
+        "discuss the nature of genetic variation and its transmission; and",
+        "analyse and interpret experimental data relevant to genetics and genomics;"
+    ],
+    "generic_skills": [
+        "the capacity to synthesize knowledge gained from participation in lectures, workshops and problem classes;",
+        "the ability to think critically about data and experimental approaches; and",
+        "the ability to work collaboratively in groups to solve problems and communicate answers."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Undergraduate Students"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Students must complete:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5BIOL10002Biomolecules and CellsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10010Foundational Biology: Life's ComplexitySemester 2 (On Campus - Parkville)12.5BIOL10011Biology: Life's ComplexityNot available in 202412.5BIOM10002Exploring BiomedicineSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10010",
+                        "Name": "Foundational Biology: Life's Complexity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10011",
+                        "Name": "Biology: Life's Complexity",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM10002",
+                        "Name": "Exploring Biomedicine",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Postgraduate students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SCIBIF Master of Science (Bioinformatics)",
+                    "MC-COMPBIO Master of Computational Biology"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "For subjects taken pre-2021, please contact the subject coordinators for further information."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5 in-class or online multiple-choice/short-answer quizzes related to workshops (each quiz requires approximately 4 hours of work, best 4 out of 5 tests worth 5% each) in weeks 3, 5, 7, 9, 11",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "In-class or online mid-semester test  (requiring approximately 10 hours of work)",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A written assignment and optional peer reviews (requiring approximately 20 hours of work)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A 2-hour written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "A pass grade (minimum of 50%) on the exam is required to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of seminars (2 x one hour per week); 12 hours of workshops (1 x 2 hour per fortnight); Up to 36 hours (approx. 2-3 hours per week) of independent online activities including watching videos and instant feedback activities",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "h.bugeja@unimelb.edu.au"
+        }
+    ]
+}

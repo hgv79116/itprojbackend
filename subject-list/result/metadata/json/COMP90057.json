@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>At the heart of theoretical computer science are questions of both philosophical and practical importance. What does it mean for a problem to be solvable by computer? What are the limits of computability? Which types of problems can be solved efficiently? What are our options in the face of intractability? This subject covers such questions in the content of a wide-ranging exploration of the nexus between logic, complexity and algorithms, and examines many important (and sometimes surprising) results about the nature of computing.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<ul><li>Turing machines</li><li>The Church-Turing Thesis</li><li>Decidable languages</li><li>Reducability</li><li>Time Complexity: The classes P and NP, NP-complete problems</li><li>Space complexity: including sub-linear space</li><li>Circuit complexity</li><li>Approximation algorithms</li><li>Probabilistic complexity classes</li><li>Additional topics may include descriptive complexity, interactive proofs, communication complexity, complexity as applied to cryptography</li><li>Space complexity, including sub-linear space</li><li>Finite state automata, pushdown automata, regular languages, context-free languages to the Recommended Background Knowledge.</li></ul>",
+        "<p> </p>",
+        "<p>Example of assignment</p>",
+        "<ul><li>Proving the equivalence of a variant of a standard machine to the original version</li><li>Describing an NP-hardness reduction</li><li>Designing an approximation algorithm for an NP-hard problem.</li></ul>"
+    ],
+    "ilo": [
+        "Design, manipulate, and reason about Turing machines",
+        "Account for the inherent complexity of many computational problems of practical importance",
+        "Conduct formal reasoning about machines, circuits, problems and algorithms, including reduction-based proof",
+        "Design approximation algorithms for intractable problems",
+        "Apply complexity arguments to related fundamental computational problems, such as randomized computations, interactive proof systems and cryptographic pseudorandom generators"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Capacity for lifelong learning and professional development",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30026",
+                        "Name": "Models of Computation",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent (COMP20004 Discrete Structures prior to 2014)"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "100pt Program course entry point in the MC-IT Master of Information Technology",
+                    "MC-CS Master of Computer Science",
+                    "MC-SCICMP Master of Science (Computer Science)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "COMP30025 Theory of Computation"
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP30021 Theoretical Computer Science"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quiz (30 min). Week 4.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Assignment 1. 15%. Week 8.",
+            "bullets": [
+                "18 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 2. 5%. Week 12.",
+            "bullets": [
+                "6 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Weekly pre-tutorial activity (weeks 3 \u2013 12). 15%",
+            "bullets": [
+                "18 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Two-hour exam. 60%",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Hurdle 30/60.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

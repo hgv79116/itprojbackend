@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>This subject focuses on the application of economics to the analysis of policy issues facing governments in Australia and overseas. The subject begins with a general introduction on the application of principles of microeconomics for guiding the formulation of policy options and their interpretation. It then explores in detail specific topics drawn from health economics, microeconomic reform, income distribution, poverty or other relevant policy areas. For each specific topic the subject presents and evaluates results in the literature and analyses future policy options and their effects.</p>"
+    ],
+    "ilo": [
+        "Explain the principles of microeconomics in relation to policy development.",
+        "Explain how these principles guide policy in product markets.",
+        "Analyse the main ways concern about equity is manifest in economic policy.",
+        "Evaluate the measurement of social welfare, inequality and poverty.",
+        "Describe the means of and rationale for redistribution in an economy.",
+        "Evaluate the structure of the tax-transfer system in the economy.",
+        "Identify the main characteristics of the industries of education and health services.",
+        "Analyse the main ways economic theory is used to explain family formation and function.",
+        "Critically evaluate contemporary policy debates with reference to economic principles as applied to education, health, and families."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information.",
+        "Moderate level of development: oral communication; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: collaborative learning; problem solving; team work; statistical reasoning; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly online quiz",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Team Project:\n\nPart 1 (500 words; equivalent to 250 words per student)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Team Project:\n\nPart 2 (750 words; equivalent to 375 words per student)",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Team Project:\n\nPart 3 (1750 words; equivalent to 875 words per student)",
+            "bullets": [
+                "1750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jeff Borland",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two  1-hour lectures and one 1-hour tutorial per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jib@unimelb.edu.au"
+        }
+    ]
+}

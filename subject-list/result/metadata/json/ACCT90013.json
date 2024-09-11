@@ -1,0 +1,122 @@
+{
+    "overview": [
+        "<p>Analysis of contemporary accounting issues within the frameworks of agency theory, capital markets theory and human judgement theory. The aim is to develop a critical understanding of established theories and assumptions underpinning financial accounting.</p>"
+    ],
+    "ilo": [
+        "Analyse the role of theory development in explaining accounting behaviour",
+        "Evaluate the principal existing theories that explain the production and/or usage of financial accounting reports",
+        "Understand the development of accounting standards",
+        "Synthesise the range of emerging issues in financial accounting",
+        "Understand the role of accounting information in firm valuation",
+        "Understand firm's disclosure practice and related regulations",
+        "Be able to communicate coherently, concisely and effectively in writing",
+        "Demonstrate a capacity to successfully engage in collaborative activities such as group based work and activities"
+    ],
+    "generic_skills": [
+        "Critical thinking, particularly in respect of the body of knowledge of the accounting discipline",
+        "Explanation of how a body of knowledge is created and disseminated",
+        "Application of theory to practice",
+        "Analysis of accounting problems and issues by applying conceptual frameworks",
+        "Oral and written communication, particularly in relation to the presentation of a logical, authoritative argument",
+        "Collaborative learning and teamwork"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90012",
+                        "Name": "Corporate Reporting",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Seminar preparation",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "12%"
+        },
+        {
+            "brief": "Engagement assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "18%"
+        },
+        {
+            "brief": "Group assignment (normally in groups of 3-4 students)",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Xue Jia",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 hour pre-recorded lecture and 2 hour seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "xue.jia@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Flora Kuang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 hour pre-recorded lecture and 2 hour seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "flora.kuang@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>This subject will allow select Master of Applied Psychology (MAP) students to take part in an industry internship. The internship will allow students to experience real-world application of their coursework topics. The organizations offering placement positions include advertising agencies, communication/PR agencies, research agencies, large corporate firms, and government departments. Tasks will vary as a function of industry/organization, but may include literature reviews, design of communications, evaluation of communications, data analysis, and research.</p>",
+        "<p>Entry to the internship positions will be competitive with selection based on a mix of previous grades from other MAP subjects and stated suitability for the position.</p>",
+        "<p>MAP students must complete either this internship subject or the research project subject (PSYCH90106)</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Experience a real-world application of an industry related to the MAP course",
+        "Reflect on learnings from the internship and how they apply to the theoretical content of the course."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90106",
+                        "Name": "Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An Internship Plan",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "1 week before the internship begins",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A Progress Report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid-way through the internship placement",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An Internship Experience Report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "1 week after the internship concludes",
+            "percentage": "50%"
+        },
+        {
+            "brief": "An Internship Experience Presentation (Individual presentation)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must satisfy the hurdle requirement of at least 80% attendance at the Internship. Students who do not satisfy this requirement\u00a0will not\u00a0pass the subject.\u00a0",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Isla Carboon",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "isla.carboon@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rebekah Anderson",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "20 internship days to be arranged by the course coordinator and one day of attendance in Week 12 of semester for the Internship Experience Presentations.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rebekah.anderson@unimelb.edu.au"
+        }
+    ]
+}

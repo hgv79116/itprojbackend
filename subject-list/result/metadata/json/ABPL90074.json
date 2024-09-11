@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p><strong>This subject was formerly called Advanced Landscape Technology.</strong></p>",
+        "<p>This subject links the creative, practical and technical aspects of landscape architecture design process to construction by developing knowledge and skills that translate and communicate design into the language of construction documentation emphasising the materiality and assemblage of hard scapes. The subject also introduces CAD as the graphic medium for documentation. Knowledge and skills are developed through a series of assessment components:</p>",
+        "<p>A group assignment to critically review real documentation packages, conduct site visits and interview designers and present findings to their peers; and the main assignment of a landscape detail design and documentation project that utilises and synthesises skills and knowledge gained in the first two assignments and prerequisite subjects.</p>",
+        "<p>The assessment criteria encourage the integration of ESD technologies in the detail design process and the development of CAD skills. The subject is delivered through a series of lectures, CAD intensives, and weekly design documentation tutorials, readings, site visits, interviews with designers and presentations.</p>",
+        "<p><strong>Prescribed software tools </strong><br/>Drafting software (e.g. Autodesk AutoCAD)<br/>Modelling software (e.g.McNeel Rhino, Autodesk 3Ds Max)<br/>Layout software (e.g. Affinity Publisher) </p>",
+        "<p>Details of software availability and pricing are captured at  <a href=\"https://edsc.unimelb.edu.au/student-experience/it-support\">https://edsc.unimelb.edu.au/student-experience/it-support</a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Understand landscape detail design and construction as an integral part of the design process;",
+        "Synthesise and integrate practical and technical knowledge with creative design;",
+        "Develop detail design skills focusing on materiality and construction;",
+        "Translate landscape architecture detail design into construction documentation at a basic levelutilising CAD."
+    ],
+    "generic_skills": [
+        "Design skills at the scale of landscape construction details.",
+        "Literacyin technical writing, drawing and communication.",
+        "Ability to workin groups as a means to enhance teaching and learning experiences.",
+        "Familiarity with typical construction documentation methods required in landscape architectural offices."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "200pt Program course entry point in the MC-LARCH Master of Landscape Architecture",
+                    "300pt Program course entry point in the MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                    "300pt Program course entry point in the MC-LARCHUD Master of Landscape Architecture/Master of Urban Design",
+                    "300pt Program course entry point in the MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsABPL90078Contemporary Landscape TheorySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90078",
+                        "Name": "Contemporary Landscape Theory",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Documentation review (group work) equivalent to 1000 words per student",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Landscape detail design and documentation, with 20% to assess weekly progress in tutorials from week 4 to 12, (equivalent to 4000 words per student)",
+            "bullets": [
+                "4000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sidh Sintusingha",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours: 1 x 1 hour lecture per week; 1 x 4 hour studio per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

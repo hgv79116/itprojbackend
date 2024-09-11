@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>This subject provides lectures in human structure and function for communication. An introduction to the auditory, respiratory, laryngeal and swallowing systems is provided, in addition to neuroanatomy. Students attend  laboratory sessions for guided observation and anatomical dissection classes, and attend lectures, workshops and/or tutorial sessions.</p>"
+    ],
+    "ilo": [
+        "Show an understanding of the structure and function of the following human body systems: hearing, balance, respiration, larynx, speech articulators, swallowing as well as an understanding of the structure and function of the human brain for sound perception, speech, language and swallowing",
+        "Begin to apply learning of anatomy and physiology to problem solving and understanding communication and swallowing function and dysfunction."
+    ],
+    "generic_skills": [
+        "an ability to evaluate and synthesise information in a flexible manner",
+        "a capacity to articulate their knowledge in both oral and written formats"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90025",
+                        "Name": "Communication Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90027",
+                        "Name": "Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LING90033",
+                        "Name": "Linguistics for Speech Pathology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "4\u00a0x multiple choice (open book) online tests (10% each)",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Wet Lab peer-learning, written reflection",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final exam",
+            "bullets": [
+                "2.5 hours"
+            ],
+            "hurdle": "Students must pass the final exam in order to pass the subject overall.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Bryony Nayagam",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "b.nayagam@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject examines the complex relationship between music and politics through a series of historical and cross-cultural case studies.</p>",
+        "<p>Students explore diverse interdisciplinary topics such as the use of music by political regimes, the role of music in international diplomacy, and the function of music in social movements.</p>"
+    ],
+    "ilo": [
+        "identify the relationship between music and politics using perspectives from musicology, ethnomusicology, sociology, and history;",
+        "identify the uses of music in political processes;",
+        "evaluate the relationship between nation-states and their arts programs;",
+        "engage with literature in the field."
+    ],
+    "generic_skills": [
+        "a receptive attitude to new ideas about music-making;",
+        "the capacity for independent and critical reflection on music-making;",
+        "knowledge, skills and practices required for independent critical inquiry and research-based writing about music-making and the arts."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI10047",
+                        "Name": "Music History 1: 17th & 18th Centuries",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUSI10227",
+                        "Name": "Musics of the World",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI40099",
+                        "Name": "Music and Politics",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10 written responses to weekly readings. 200 words each.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Research essay proposal",
+            "bullets": [
+                "250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Research essay",
+            "bullets": [
+                "1750 words"
+            ],
+            "hurdle": "Assessment task must be attempted.",
+            "timing": "Week 12",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "24 hours, comprising one 2-hour lecture per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "mplesch@unimelb.edu.au"
+        }
+    ]
+}

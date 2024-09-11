@@ -1,0 +1,245 @@
+{
+    "overview": [
+        "<p>An introduction to macroeconomic theory and policy. Topics will include economic aggregates such as production and employment, the general level of prices and inflation, the exchange rate, interest rates, monetary and fiscal policies, the balance of payments and economic growth. Analysis is particularly directed to current macroeconomic problems and policy issues.</p>"
+    ],
+    "ilo": [
+        "Explain the importance of the circular flow of income to macroeconomics;",
+        "Interpret the meaning and measurement of macroeconomic aggregates such as Gross Domestic Product;",
+        "Explain and use the Keynesian model of national income determination;",
+        "Describe the roles of money and the financial system in the macroeconomy;",
+        "Critically analyse macroeconomic policies appropriate to the achievement of the macroeconomic objectives;",
+        "Explain and apply the aggregate demand/aggregate supply model;",
+        "Explain the key features of the neoclassical model of growth; and",
+        "Analyse the factors influencing the balance of payments and the exchange rate."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; collaborative learning; critical thinking; synthesis of data and other information; application of theory to practice.",
+        "Moderate level of development: oral communication; problem solving; team work; interpretation and analysis; evaluation of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: statistical reasoning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON10004",
+                        "Name": "Introductory Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One of the following prerequisite options"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "B-COM Bachelor of Commerce",
+                    "B-SCI Bachelor of Science"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10012Introduction to MathematicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10012",
+                        "Name": "Introduction to Mathematics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "A study score of at least 25 in VCE Mathematical Methods (Units 3 and 4) or Specialist Mathematics (Units 3 and 4), or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 4"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMAST10014Foundation Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10015Foundation Mathematics 2Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10014",
+                        "Name": "Foundation Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10015",
+                        "Name": "Foundation Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple choice test, end of week 4",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Multiple choice test, end of week 11",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Assignment 1: Group short answer article review assignment with groups of up to three students with a total word limit of 1000 words or less for the group submission",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2: Group short answer written response assignment with groups of up to three students with a total word limit of 1000 words or less for the group submission",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Tutorial attendance and participation, weekly",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Nahid Khan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Six hours of lectures, tutorials and workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 11 February 2024",
+            "last_self_enrol_date": "9 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "25 February 2024",
+            "contact_name": null,
+            "contact_email": "n.khan@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hr Lectures and one 1-hr Tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "daniel.minutillo@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hr Lectures and one 1-hr Tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "daniel.minutillo@unimelb.edu.au"
+        }
+    ]
+}

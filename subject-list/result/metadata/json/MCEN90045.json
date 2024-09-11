@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>This subject introduces performance, stability and control of a range of aerospace vehicles. It will cover the modelling of aerospace physical systems as ordinary differential equations, and then introduce mathematical techniques to analyse and control their behaviour.</p>",
+        "<p> <br/>The topics covered in this subject include:</p>",
+        "<p>\u2022 The fundamentals of flight dynamics for flight vehicles in the atmosphere. This will describe the flight dynamic models and stability of flight vehicles.<br/>\u2022 The fundamentals of spacecraft dynamics for six degree of freedom space vehicles. This will describe basic orbital mechanics and the translation and rotation of rigid bodies.<br/>\u2022 Other key topics that will be considered are control and estimation methods to stabilize flight and orbital vehicles, an introduction to inertial navigation systems and vertical take-off and landing aircraft models.</p>",
+        "<p>MATLAB will be used throughout the course to complement the presented concepts.</p>"
+    ],
+    "ilo": [
+        "Apply fundamental mathematical tools to model, analyse and design aerospace dynamic systems",
+        "Recognise the broad applicability of the mathematics of systems theory, particularly within aerospace engineering",
+        "Demonstrate the ability to control continuous-time aerospace systems",
+        "Simulate and design the behaviour of aerospace systems using MATLAB"
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals.",
+        "The ability to undertake problem identification, formulation, and solution.",
+        "The ability to utilise a systems approach to complex problems and to design and operational performance.",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90055",
+                        "Name": "Control Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN90038",
+                        "Name": "Dynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three assignments worth 10% each, not exceeding 40 pages in total\n\n(approximately 30-35 hours of work)",
+            "bullets": [
+                "40 pages"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One mid semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Airlie Chapman",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours - 3 x 1 hr lectures in week 1 to week 8, one 2 hr tutorial per week.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Airlie Chapman",
+            "contact_email": "airlie.chapman@unimelb.edu.au"
+        }
+    ]
+}

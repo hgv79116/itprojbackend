@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>This subject examines capital budgeting techniques, the capital structure decision, the distribution decision and corporate risk management at a more advanced level to that covered in FNCE10002 Principles of Finance. Topics include: the Modigliani-Miller theorems, the impact of taxes under a classical tax system, the impact of taxes under an imputation tax system, corporate acquisitions and restructuring, hybrid securities as a source of finance, techniques in raising capital.</p>"
+    ],
+    "ilo": [
+        "Explain the different techniques used by firms to raise equity and debt capital.",
+        "Apply alternative capital budgeting techniques in the presence of taxes and differing project lives.",
+        "Discuss the impact of market imperfections on a firm\u2019s capital structure decision.",
+        "Discuss the impact of market imperfections on a firm\u2019s distribution decision.",
+        "Evaluate the advantages and disadvantages of hybrid securities as a source of finance.",
+        "Assess the economic consequences of corporate acquisition and restructuring activities.",
+        "Explain the option-theoretic interpretation of debt and equity."
+    ],
+    "generic_skills": [
+        "High level of development: oral communication; written communication; problem solving; interpretation and analysis; evaluation of data and other information.",
+        "Moderate level of development: collaborative learning; statistical reasoning; application of theory to practice; synthesis of data and other information; accessing data and other information from a range of sources.",
+        "Some level of development: critical thinking; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE10002",
+                        "Name": "Principles of Finance",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Tutorial participation \u2013 each scheduled tutorial during the entire semester",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online assessment",
+            "bullets": [
+                "100 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 5",
+            "percentage": "5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Bob Li",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 11 February 2024",
+            "last_self_enrol_date": "10 January 2024",
+            "census_date": "12 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "19 February 2024",
+            "contact_name": null,
+            "contact_email": "bob.li2@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Chander Shekhar",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "c.shekhar@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Hoonsuk Park",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "hoonsuk.park@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "overview": [
+        "<p>The Honours program in the Department of Pathology provides an introduction to the challenging area of investigation of disease processes at the cellular and molecular level. This program involves candidates undertaking a full-time research project based in a laboratory within the Department of Microbiology &amp; Immunology or at one of our affiliated institutions. A student undertaking the Pathology Honours Research Project will have an interest in understanding the mechanisms of disease.</p>",
+        "<p><strong> </strong></p>"
+    ],
+    "ilo": [
+        "Demonstrate the ability to formulate a title, hypothesis and relevant aims for a project.",
+        "Demonstrate the ability to plan, design and execute scientific experiments.",
+        "Demonstrate skills in data acquisition and critical analysis of data.",
+        "Demonstrate skills in reporting of experimental data in a concise and scientific manner through the preparation of a thesis that is consistent with that published in scientific manuscripts.",
+        "Demonstrate skills in oral communication of results via presentations to a scientific audience."
+    ],
+    "generic_skills": [
+        "20 pages"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PATH40002",
+                        "Name": "Critical Analysis of Pathology Research",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPATH30004Advanced Investigation of Human DiseaseSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PATH30004",
+                        "Name": "Advanced Investigation of Human Disease",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": "Satisfactory progress of review assessed by coordinator ",
+            "timing": "Week 11 of semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Introductory oral presentation (10 minutes presentation plus 5 minutes questions)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the semester 1 examination period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Research thesis, includes final literature review",
+            "bullets": [
+                "60 pages"
+            ],
+            "hurdle": "Must achieve a pass",
+            "timing": "Week 12 of semester 2",
+            "percentage": "80%"
+        },
+        {
+            "brief": "Final oral presentation (20 minutes presentation plus 5 minutes questions)",
+            "bullets": [
+                "25 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the semester 2 examination period",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Theo Mantamadiotis",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "BiomedSci-AcademicServices@unimelb.edu.au"
+        }
+    ]
+}

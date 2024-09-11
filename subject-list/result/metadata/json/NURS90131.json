@@ -1,0 +1,178 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the concepts of acute and chronic illness in individuals across the life-span. The subject focuses on the <em>National Health Priorities, </em>giving<em> s</em>tudents the opportunity to examine the principles and practices underpinning the sociocultural context of patient care. Knowledge is developed in relation to high risk groups, including patients experiencing cardiovascular disorders, asthma and diabetes. Content includes strategies for injury prevention and control, risk reduction and early detection of key health issues, peri-operative care, admission and discharge planning, self-care management, community health and support services and models of collaborative care. Students will continue to refine and expand their knowledge and competency in patient assessment, problem identification, clinical decision making, nursing intervention selection, medication administration and practice evaluation in the context of acute and chronic illness. Knowledge and skills related to fundamental nursing practices will be consolidated and extended. Concepts are patient focused, evidence based and designed to give students the skills to deliver safe, effective high quality care to individuals with acute and chronic health issues.</p>",
+        "<p>In the <em><strong>simulated learning laboratory</strong></em> students will develop skills relating to specific medical/surgical nursing interventions.</p>",
+        "<p>During the <strong><em>professional experience placement,</em></strong> under the guidance of clinical educators and clinical preceptors, students will gain experience in settings that enable them to meet the learning outcomes specific to this subject. The major focus for the professional experience placement component of this subject is the integration of the principles of medical/surgical nursing, clinical decision making, and more complex nursing interventions. On completion of the subject it is expected that students, while providing therapeutic interventions, are able to incorporate the further collection of health assessment data and adjust care accordingly for 2 to 3 patients.</p>"
+    ],
+    "ilo": [
+        "identify and be cognisant of the National Health Priorities and integrate clinical practices guidelines where relevant;",
+        "identify ethical and legal principles of autonomy, confidentiality and informed consent as they apply to nurse-patient interactions;",
+        "utilise strategies that facilitate a therapeutic nurse patient relationship, refine patient assessment by using a comprehensive nursing framework and utilise assessment data to develop nursing care plans for patients experiencing acute or chronic illness including Aboriginal and Torres Strait Islander and other vulnerable populations;",
+        "plan, implement and evaluate evidence based care for patients, inclusive of Aboriginal and Torres Strait Islander and other vulnerable populations, across the lifespan",
+        "demonstrate analytical skills by incorporating the theoretical principles of clinical decision making into patient care plans;",
+        "implement appropriate nursing assessment and care for patients requiring pre, peri and post-operative management;",
+        "demonstrate competence in selected nursing skills including administration of selected subcutaneous, intramuscular, intravenous and enteral medications;",
+        "communicate verbally, and in writing, in a professional manner with the patient, their families and other members of the health care team;",
+        "Demonstrate safe and appropriate use of emerging technologies including digital health records, and medical equipment"
+    ],
+    "generic_skills": [
+        "the capacity for information seeking, retrieval and evaluation",
+        "critical thinking and analytical skills",
+        "an openness to new ideas",
+        "consideration of cultural variations",
+        "planning and time management skills",
+        "the ability to work effectively in a team",
+        "the ability to communicate knowledge through classroom and web-based discussions and written material"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "HLTH90019",
+                        "Name": "Indigenous Health and Nursing",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "NURS90066",
+                        "Name": "Foundations of Nursing",
+                        "Teaching period": "Semester 1 (Early-Start) (Dual-Delivery - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "NURS90129",
+                        "Name": "Nursing Science 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NURS90130",
+                        "Name": "Nursing Assessment & Care",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a Level 2 First Aid Certificate prior to clinical placement."
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90125",
+                        "Name": "Nursing Science 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Case Study Analysis 1, Online Activity",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Theoretical Component: Case Study Analysis 2, Online Activity",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Theoretical Component: Exam",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Professional Experience Component: Attendance at all simulated learning laboratory sessions",
+            "bullets": [
+                "18 hours"
+            ],
+            "hurdle": "Pass/ Fail\n\nAttendance at all simulated learning laboratory sessions is a hurdle requirement to undertake the OSCE.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Professional Experience Component: Objective Structured Clinical Examination (OSCE)\u00a0\u00a0 (On completion of all simulated laboratory sessions)  (1000 words)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "Pass/Fail",
+            "timing": "Prior to professional placement experience.",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Professional Experience Component: Attendance at  all Professional Experience Placement (PEP) days",
+            "bullets": [
+                "120 hours"
+            ],
+            "hurdle": "Pass/Fail\n\n",
+            "timing": "During the assigned professional experience placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Professional Experience Component: Professional Experience Placement Appraisal (PEP)  \n\n(Australian Nursing Standards Assessment Tool (ANSAT))",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": "Pass/Fail",
+            "timing": "End of 120 hours of Professional Experience Practice",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Professional Experience Component: \n\nClinical E-portfolio\n\nPart A: Clinical case- note entries to Electronic Medical Records (EMR).\n\nPart B: Professional Experience Analysis",
+            "bullets": [
+                "2500-3000 words"
+            ],
+            "hurdle": "A pass is required to pass the subject. The subject assessment weighting of each part of this assessment is :  Part A - 10%, Part B - 20%.  (30% in total) . ",
+            "timing": "Part A: 4 EMR entries, one per week, entered during simulation.\n\nPart B: Due within one week of completion of Professional Experience Placement (PEP)",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours lectures, 18 hours clinical laboratory sessions, 120 hours clinical practicum",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p><strong>This subject has been designed and developed for online delivery and assessment only.</strong></p>",
+        "<p>This <em>online</em> subject introduces and develops techniques for composing and arranging for small and medium-sized ensembles.</p>",
+        "<p>In weekly online workshops directed by experienced practitioners in the field of contemporary jazz, students present in-progress, original composition for feedback, discussion and development. Discussions examine topics related to originality and creativity, the process of revision and development, and musical elements and techniques.</p>",
+        "<p><strong>This subject is only available to students enrolled in the <em>Jazz and Improvisation</em> major of the B-MUS Bachelor of Music.</strong></p>"
+    ],
+    "ilo": [
+        "compose and arrange an original work for a small to medium-sized ensemble;",
+        "critique composition and arrangement development during the creative process;",
+        "apply feedback in response to compositional problems."
+    ],
+    "generic_skills": [
+        "demonstrate in-depth knowledge of their specialist discipline;",
+        "display a high level of achievement in creative artistic practice, problem-solving and communication;",
+        "engage in constructive critical discussions;",
+        "apply critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "sustain the capacity to participate fully in collaborative learning and to confront unfamiliar problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMUSI10192Ensemble Studies 2Semester 2 (On Campus - Southbank)Semester 1 (On Campus - Southbank)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI10192",
+                        "Name": "Ensemble Studies 2",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2-minute in-class presentation of initial sketch original composition, followed by group discussion",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "2-minute in-class presentation of developing sketch original composition, followed by group discussion",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "2-minute in-class presentation of complete original composition, followed by group discussion",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "5-minute original composition, scored for small jazz ensemble",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 80% of all scheduled classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

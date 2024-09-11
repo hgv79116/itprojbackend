@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>This subject provides a series of specialised modules in the areas of organic, inorganic and physical chemistry</p>",
+        "<p>Students choose three modules from the following selection of topics. Each module consists of 12 lectures:</p>",
+        "<ul><li>Green Chemistry</li><li>Spectroscopy \u2013 Identification of Organic Molecules</li><li>Photomolecular Science</li><li>Polymer Chemistry</li><li>Metal chemistry: Principles and applications.</li></ul>"
+    ],
+    "ilo": [
+        "develop an advanced perspective on theory and applications across the disciplines of Chemistry",
+        "obtain problem-solving skills and training in chemistry sufficient to allow them to pursue careers in applied chemistry and chemicals-based research",
+        "In the latter case, students should obtain the chemical knowledge needed to be able to complete successfully the honours/masters coursework"
+    ],
+    "generic_skills": [
+        "the ability to comprehend complex concepts and to communicate this understanding;",
+        "the ability to analyse and solve abstract and technical problems;",
+        "an awareness of advanced technologies in the discipline of chemistry;",
+        "the ability to think and reason logically;",
+        "the ability to think critically and independently."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEM30016Reactivity and MechanismSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsCHEM20018Chemistry: Reactions and SynthesisSemester 1 (On Campus - Parkville)12.5CHEM20020Chemistry: Structure and PropertiesSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM20018",
+                        "Name": "Chemistry: Reactions and Synthesis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM20020",
+                        "Name": "Chemistry: Structure and Properties",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Note:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Exchange students are required to contact the subject coordinator prior to enrolment."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One 60 minute exam at the end of the semester (80%) and one or two assignments during the semester which will run concurrently with each of the modules (20%).",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "brief": "Several assignments (written and/or oral) conducted during the semester. The assignments will run concurrently with the module.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Trevor Smith",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three modules comprising twelve one hour lectures each throughout the semester; up to two one-hour tutorials per module. Only two modules run simultaneously in 4 week blocks, resulting in a maximum of 8 contact hours in any given week. Total 42 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "trevoras@unimelb.edu.au"
+        }
+    ]
+}

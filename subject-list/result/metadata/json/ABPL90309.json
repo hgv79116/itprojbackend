@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject provides an insight into the issues currently facing the construction industry. It aims to develop an understanding and awareness of the complex nature of construction supply chains and how they may be better managed to improve productivity, value, efficiency and client satisfaction within the construction industry. The network of organisations involved, through upstream and downstream linkages, in the different processes and activities that contribute to the production of construction artifacts is explored. The subject provides an introduction to supply chain management and provides the skills and knowledge needed to map construction supply chains, identify critical nodes and suggest possible solutions for improving existing construction practices. Case studies, site visits and industry guests are used to demonstrate current local and international industry practices and provide examples of the application of supply chain management-related initiatives in real-world projects.</p>"
+    ],
+    "ilo": [
+        "Recognise and describe the complex nature of construction supply chains",
+        "Define and map the socio-technical organisation of construction including information and material flows",
+        "Identify and analyse strategies for improving the performance of the construction industry",
+        "Present a convincing argument for adapting current construction industry practices using supply chain management to improve the performance of individual construction firms."
+    ],
+    "generic_skills": [
+        "Apply theories and principles to specific disciplinary contexts",
+        "Interpret and analyse information",
+        "Demonstrate an ability to think critically, solve problems and make informed decisions",
+        "Critically evaluate the work of others and provide constructive formative feedback",
+        "Communicate in verbal, written and graphic forms appropriate to particular contexts."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "200pt Program course entry point in the MC-CM Master of Construction Management",
+                    "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                    "300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsABPL90313Management of ConstructionSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90313",
+                        "Name": "Management of Construction",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four\u00a0 in-class quizzes (fortnightly) to demonstrate an understanding of supply chain management concepts and other relevant subject content",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Draft Supply Chain Report due in week 6, describing the current performance of a construction firm and supply chain management-related initiatives that may be used to improve its overall performance,",
+            "bullets": null,
+            "hurdle": "Completion of this assessment task",
+            "timing": "Week 6",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Peer review, critically analysing the work of a peer, providing constructive feedback, and demonstrating an understanding of construction supply chains and how supply chain management-related initiatives can be used to improve their performance",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final Supply Chain Report, describing the current performance of a construction firm and supply chain management-related initiatives that may be used to improve its overall performance",
+            "bullets": [
+                "2750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Class presentation, communicating recommendations for improving the performance of a construction firm based on an analysis of current performance and a detailed understanding of supply chain management-related initiatives",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": "Completion of this assessment task is a Hurdle requirement",
+            "timing": "Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

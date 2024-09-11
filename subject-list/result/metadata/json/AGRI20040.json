@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p>This subject will be integrated with and support the other Semester 2 Subjects offered at the Dookie Campus. This subject will build on students\u2019 knowledge of production systems gained in first year and develop their ability to make management decisions relating to a variety of enterprises.</p>"
+    ],
+    "ilo": [
+        "Establish production objectives",
+        "Identify inputs and resources required for the project enterprise",
+        "Coordinate resources to achieve production objectives",
+        "Plan implement and evaluate activities of the project enterprise",
+        "Monitor project enterprise performance by keeping relevant accurate records",
+        "Perform skills specific to the enterprise",
+        "Recognise the scientific environmental and social implications of management decisions",
+        "Identify possibilities for changes to enterprises",
+        "Develop report writing skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10047",
+                        "Name": "Agriculture in Australia",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI10048",
+                        "Name": "Plant Production Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI10049",
+                        "Name": "Animal Production Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20035",
+                        "Name": "Applied Crop Production and Horticulture",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20036",
+                        "Name": "Ecology and Grazing Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20038",
+                        "Name": "Principles of Soil Science",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Progress Report generated from the online farm management platform",
+            "bullets": null,
+            "hurdle": "Submission of progress report",
+            "timing": "Week 6",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Written assignment based on farm enterprise visits",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group Oral Presentation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Field Trips Journal with final submission due in week 12",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final report generated from online farm management platform",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Ros Gall",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "70 hours. 2 hours seminar workshops per week, 3 hour weekly practical activities, 2 hours of field trips.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rosgall@unimelb.edu.au"
+        }
+    ]
+}

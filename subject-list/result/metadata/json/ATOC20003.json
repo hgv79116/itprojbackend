@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>In this subject students will use computational techniques to explore atmospheric processes and phenomena, including storms, atmospheric circulation, and climate feedbacks. The subject will develop skills in modelling the atmosphere, using modern computational and numerical frameworks and mathematical and physical reasoning. Mathematical techniques including differential equations and finite differencing will be used along with application of fundamental physical principles to real world problems in meteorology and climate science. Students will also analyse and map real-world atmospheric datasets, including satellite data and numerical models of the atmosphere.</p>"
+    ],
+    "ilo": [
+        "Apply appropriate numerical methods for solving simple models of the weather and climate system.",
+        "Explain the purpose, applications and limitations of different classes of models of the weather and climate system",
+        "Analyse diverse datasets of atmospheric data from satellites and models.",
+        "Effectively use a modern programming language to model, analyse, graph and map atmospheric data.",
+        "Critique and explain modelling results through clear scientific oral and written communication.",
+        "Evaluate the role of modelling systems in understanding the real weather and climate system, including for assessing climate change impacts and prediction.",
+        "Apply simple models to understand key processes in the atmosphere, including radiation, wind systems and storms."
+    ],
+    "generic_skills": [
+        "Time Management skills: The ability to plan and complete a multi-part data-science project, including design, coding, plotting and oral and written communication;",
+        "Numerical skills: The ability to apply theoretical knowledge for real-world quantitative problem solving.",
+        "Communication skills: The ability to present scientific results graphically, through scientific writing and oral communication;",
+        "Problem-solving skills: The ability to solve unfamiliar scientific problems by breaking them into manageable pieces and making reasonable assumptions."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Study score of 30 or more in VCE Specialist Mathematics 3/4 or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Extended modelling project",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": "Students must achieve a passing grade. ",
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual oral presentation",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Tutorial style worksheet",
+            "bullets": [
+                "250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Coding practical",
+            "bullets": [
+                "250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mapping practical",
+            "bullets": [
+                "300 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": "Students must achieve a passing grade. ",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 2 x 1hr lectures and 1 x 2hr practical class each week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "claire.vincent@unimelb.edu.au"
+        }
+    ]
+}

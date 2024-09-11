@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>This subject will introduce topics in Theoretical Physics, including:</p>",
+        "<ul><li>Classical Field Theory: Action Principles and Noether\u2019s Theorem. Electrodynamics and wave equations from action principle. Applications selected from: waves in media, dispersion relations, solitons, Kramers-Kronig relations, the Optical Theorem.</li><li>Fluid Mechanics: Euler\u2019s equation, the continuity equation and the Navier-Stokes equation. Rotational and irrotational flows. Turbulence and Reynolds\u2019 numbers, and the onset of chaos. The Rayleigh-Taylor and other instabilities. Shock waves. The Kutta-Joukowski theorem and aerodynamics.</li><li>Symmetry: Crystallography, point groups and space groups. Quasicrystals. Vibrational modes of molecules and molecular electronic structure. Crystal field theory. The uses of SU(2) in quantum mechanics. The SO(4) solution of the hydrogen atom. Relativistic invariance: the Lorentz and Poincare groups.</li></ul>"
+    ],
+    "ilo": [
+        "apply action principles to the physics of the fields involved in electrodynamics and continuous media.",
+        "solve the basic equations of fluid flow, turbulence and aerodynamics.",
+        "apply symmetry principles to problems involving  a diverse range of physical systems and describe their connection to  conservation laws."
+    ],
+    "generic_skills": [
+        "analyse how to solve a problem by applying fundamental laws to more complicated situations",
+        "apply abstract concepts to real world situations",
+        "solve relatively complicated problems using approximations",
+        "participate effectively in group discussions",
+        "manage time effectively in order to be prepared for group discussions and to undertake written assignments and examinations."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC20014",
+                        "Name": "Theoretical Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC30016",
+                        "Name": "Electrodynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC30018",
+                        "Name": "Quantum Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment requiring approximately 20 hours of preparation, study and writing to complete.",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written Assignment requiring approximately 20 hours of preparation, study and writing to complete.",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 to 4 hours per week, 36 in total, lectures and problem-solving classes",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "PHYC30022@unimelb.edu.au"
+        }
+    ]
+}

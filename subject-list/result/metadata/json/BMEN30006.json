@@ -1,0 +1,261 @@
+{
+    "overview": [
+        "<p><strong><span>AIMS</span></strong></p>",
+        "<p><span>This subject covers fundamental principles of electronic circuits, including how to design and analyse simple circuits, with example applications to biomedical problems. Also covered is biosignal analysis, in which students are taught the fundamentals of signal processing, including how to build simple signal models of a biological system, and how to measure and analyse system performance.  </span></p>",
+        "<p><span> </span></p>",
+        "<p><span>In the laboratories, students will learn how to build and analyse simple electronic circuits, as well as how to simulate and measure biosignals. Students will learn about laboratory safety, team-work and measurement safety in an integrated way. </span></p>",
+        "<p><span> </span></p>",
+        "<p><span>This subject is one of the subjects that define the Bioengineering Systems Major in the Bachelor of Science and Bachelor of Biomedicine, and it is a core requirement for the Master of Biomedical Engineering. It provides a foundation for various subsequent subjects, including BMEN90002 Neural Information Processing and BMEN90021 Medical Imaging.</span></p>",
+        "<p><strong><span>INDICATIVE CONTENT</span></strong></p>",
+        "<p><span>Topics include:</span></p>",
+        "<p><span>Basic principles of charge, current, Coulomb's law, electric fields and electrical energy, Kirchhoff's current law, Kirchhoff's voltage law, voltage and current division, node voltage analysis, mesh current analysis, Th\u00e9venin and Norton equivalent circuits, transient analysis of RC and RL circuits, steady-state analysis of RLC circuits, phasors and impedance, frequency domain models for signals and frequency response for systems, continuous-time and discrete-time Fourier transforms, frequency response, filtering, transfer functions, Z-transforms, Laplace transforms, poles and zeros, Bode plots, and the relationship to state-space representations.</span></p>",
+        "<p><span>This material is complemented using software tools (e.g., MATLAB) for computation and simulation, and practical experience with circuits and systems in the laboratory.</span> <br/><br/></p>",
+        "<p><span>Please view this video for further information: <a href=\"https://youtu.be/PK_oPR7HP6c\">Circuits and Systems</a></span></p>"
+    ],
+    "ilo": [
+        "Apply physical principles, fundamental abstractions and modelling techniques in the analysis of electrical systems",
+        "Develop and demonstrate basic biosignals laboratory skills through implementing, testing and debugging simple circuits on prototyping breadboards",
+        "Apply fundamental mathematical analysis and modelling techniques to understand signals and systems in both time-domain and frequency-domain",
+        "Analyse continuous-time and discrete-time signals and systems."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals.",
+        "Ability to undertake problem identification, formulation and solution.",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance.",
+        "Proficiency in engineering design.",
+        "Ability to communicate effectively, with the engineering team and with the community at large.",
+        "Capacity for creativity and innovation.",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member.",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBMEN20003Applied Computation in BioengineeringSemester 1 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN20003",
+                        "Name": "Applied Computation in Bioengineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN20001 - Biomechanical Physics and Computation"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBMEN20003Applied Computation in BioengineeringSemester 1 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN20003",
+                        "Name": "Applied Computation in Bioengineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN20001 - Biomechanical Physics and Computation"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "NOTE: For students admitted into the MC-BIOMENG Master of Biomedical Engineering, BMEN30006 - Circuits and Systems may be taken concurrently with BMEN20003 - Applied Computation in Bioengineering and MAST20029 - Engineering Mathematics. Please complete an enrolment assistance form if you wish to enrol concurrently, Subject Coordinator approval is not required."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Six workshop group reports (students work in group of 2 or 3) not exceeding 30 pages in total each spread from week 2 to week 12, requiring 20 hours of work in total per student. ILOs 1-4 are assessed in the submitted workshop reports.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One online mid-semester test. ILO 1 is assessed.",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One final written examination. ILOs 1, 3 and 4 are assessed.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the end of semester examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x 1 hour lectures per week, 1 x 1 hour tutorial per week, and 6 x 3 hour workshops per semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "catherine.davey@unimelb.edu.au"
+        }
+    ]
+}

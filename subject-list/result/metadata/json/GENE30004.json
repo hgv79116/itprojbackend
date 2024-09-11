@@ -1,0 +1,178 @@
+{
+    "overview": [
+        "<p>The subject provides a capstone experience for students majoring in Genetics. It involves lectures and practical exercises which demonstrate advanced principles and techniques of genetic analysis from classical and population genetics to modern molecular technology. An emphasis is placed on student participation in experimental design and data analysis. Tutorials will be used to illustrate modern aspects of Genetics by the in-depth consideration of current publications in the field.</p>"
+    ],
+    "ilo": [
+        "Discuss the application of genetic principles and different experimental designs in classical, molecular, and genetic analyses;",
+        "Evaluate the advantages and disadvantages of different experimental designs and the techniques associated with them;",
+        "Design and perform a range of laboratory techniques and analytical approaches used in different areas of genetics;",
+        "Analyse and interpret data derived from their own experimentation and that of others;",
+        "Communicate their analyses of scientific data in written and oral presentations; and",
+        "Appraise and critique the scientific literature."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: ability to read and interpret complex literature in order to answer detailed questions on both theory and methodology;",
+        "Analytical skills: the ability to understand how complex new data is acquired and applied to old and new problems;",
+        "Collaborative skills: capacity to understand how modern science is informed by cross-disciplinary studies and apply it across different fields;",
+        "Technology skills: the ability to use information technology to acquire relevant knowledge and statistically analyse data.",
+        "Time management skills: the ability to design and plan work schedules to accomplish laboratory tasks;",
+        "Communication skills: ability to communicate information both verbally and in writing;",
+        "Lab-based skills: ability to use laboratory equipment safely and to perform common techniques associated with genetic analysis."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Bachelor of Science students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsGENE30001Evolutionary Genetics and GenomicsSemester 1 (On Campus - Parkville)12.5GENE30002Genes: Organisation and FunctionSemester 1 (On Campus - Parkville)12.5GENE20004Applications of Genetics and GenomicsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE30001",
+                        "Name": "Evolutionary Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE30002",
+                        "Name": "Genes: Organisation and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE20004",
+                        "Name": "Applications of Genetics and Genomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Bachelor of Biomedicine students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsGENE30001Evolutionary Genetics and GenomicsSemester 1 (On Campus - Parkville)12.5GENE30002Genes: Organisation and FunctionSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE30001",
+                        "Name": "Evolutionary Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE30002",
+                        "Name": "Genes: Organisation and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBCMB20005Techniques in Molecular ScienceSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5GENE20004Applications of Genetics and GenomicsSemester 2 (On Campus - Parkville)12.5MIIM20002Microbes, Infections and ResponsesSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20005",
+                        "Name": "Techniques in Molecular Science",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE20004",
+                        "Name": "Applications of Genetics and Genomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MIIM20002",
+                        "Name": "Microbes, Infections and Responses",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "GENE20003  Experiments in Genetics"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Five equally weighted individual assessments based on the practicals. Two before midsemester break and two after, and one in the exam period.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester and during the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Individual oral presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "Students must pass (by obtaining 50% pass mark) for this presentation. ",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual written report on a journal paper",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Charles Robin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x one hour lecture per week; 1 x one hour tutorial per week; 1 x three hour practical per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "crobin@unimelb.edu.au"
+        }
+    ]
+}

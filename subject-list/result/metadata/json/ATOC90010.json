@@ -1,0 +1,35 @@
+{
+    "overview": [
+        "<p>The subject will discuss some basic statistical methods for analysing climate dynamics with the aim of understanding the physical mechanisms driving the observed structures (statistics). The subject will emphasise how these methods can be applied and will explore the potential pitfalls in interpreting statistical results. The subject will start with a discussion on the basics of probability theory, time series analysis, stochastic models and multivariate data (pattern) analysis. It will then focus on the principles of decision making in statistical analysis (significance tests), which is followed by a discussion of the pitfalls and general strategies in statistical analysis.</p>"
+    ],
+    "ilo": [
+        "Complete statistical analysis on probability distributions, time series, and multi-variate data;",
+        "Apply standard statistical methods in climate dynamics data analysis;",
+        "Interpret the outcomes of the statistical analysis in the context of climate dynamics; and",
+        "Read, understand and critically analyse the scientific literature on data analysis in climate dynamics."
+    ],
+    "generic_skills": [
+        "The ability to exercise critical judgement;",
+        "Rigorous and independent thinking;",
+        "Adopting a problem-solving approach to complex or ambiguous questions; and",
+        "High-level written report presentation skills; oral communication and presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional details\nFive assignments, weekly, due throughout weeks 2 - 7,  40% \nExamination (closed book; 3hrs): 60% to be held approximately 2 weeks after the end of the course. \n\nNote: The assignments should be solved in teams of two to three students. Most of the assignments involve computations with MATLAB."
+        }
+    ],
+    "date_times": []
+}

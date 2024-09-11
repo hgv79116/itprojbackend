@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p>This subject explores the major historical developments of persistent organic pollutants (POPs) and the role of analytical chemistry in environmental monitoring, assessment and regulation. This subject provides an overview of trace level pollutant measurement using isotope surrogate dilution with measurement performed on LCMS and GCMS instrumental techniques. Organochlorine pesticides (OCPs), polychlorinated biphenyls (PCBs), brominated flame retardants and per and poly fluoroalkyl substances (PFAS) will be used as case studies to explain the relationship between chemical properties with analytical measurements as well as environmental fate, behaviour and ecological impact.</p>"
+    ],
+    "ilo": [
+        "Define persistent organic pollutants (POPs) and explain historical developments for these chemicals in the environment using appropriate examples;",
+        "Explain the environmental fate, behaviour and impact of a range of persistent organic pollutants (POPs) with varying chemical properties;",
+        "Explain the principles of LCMS and GCMS analytical chemistry for environmental monitoring and the association between measurement techniques and environmental regulation;",
+        "Apply investigative skills and critical thought to evaluate information to provide defensible assessments of risks from chemicals to public health and the environment."
+    ],
+    "generic_skills": [
+        "Advanced problem-solving and critical thinking skills",
+        "An ability to evaluate the professional literature",
+        "An understanding of the changing knowledge base",
+        "A capacity to apply concepts developed in one area to a different context",
+        "The ability to use conceptual models to rationalize experimental observations"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30012",
+                        "Name": "Analytical & Environmental Chemistry",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tMaster of Science (Chemistry) (MC-SCICHE)"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tMaster of Industrial Research (Chemistry) (MR-IRCHEM)"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tMaster of Environmental Science (MC-ENVSC)"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tBachelor of Science (Degree with Honours) - Chemistry Specialisation (BH-SCI)"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tGraduate Diploma in Science (Advanced) - Chemistry Specialisation (GDA-SCI)"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due after the lecture 9",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Class presentation based upon written report",
+            "bullets": [
+                "120 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 16 August 2024",
+            "last_self_enrol_date": "26 July 2024",
+            "census_date": "2 August 2024",
+            "last_date_to_withdraw_without_fail": "16 August 2024",
+            "assessment_period_ends": "6 September 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

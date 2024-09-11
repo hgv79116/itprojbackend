@@ -1,0 +1,176 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This unit requires the students to undertake a major design task utilising the knowledge gained throughout the Biochemical engineering course. This comprises the following tasks: design of a process to meet a specified requirement; feasibility study of alternative processes which meet the specification; determination of sequence for investigation of a chemical manufacturing project and preparation of a report; consideration of environmental impacts and sustainability issues; preparation of flowsheets; confirmation of effects of market forecasts; economic evaluation; preparation of estimates for the minimisation of capital and production costs; specification of equipment; selection of construction materials; and specification of instrumentation location, staff and labour requirements and safety precautions. The HYSYS simulation package will be utilised where appropriate. There will also be a series of lectures on various aspects of design.</p>",
+        "<p>This subject forms the major capstone design project for the Chemical engineering Discipline and closely simulates the design procedures the graduate students will undertake in chemical industry process and design engineers. The pre-requisites ensure that the students bring together all of the undergraduate knowledge and skills imparted in earlier years of the degree program. All aspects of the safe and environmentally responsible design of a chemical process plant are covered in this unit through project based learning. Through a careful sequential approach, the students develop a feasibility study, an initial process scoping and development report, and finally, a detailed design report. Team work is emphasized throughout to mimic the typical team environment the students will encounter in the work place.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>No new topics of a technical nature are introduced into this unit. The unit requires the students to integrate their skills and knowledge from earlier units into a single, design project executed in a team environment. The content therefore includes:</p>",
+        "<ul><li>A feasibility study which includes market analysis, plant location and health and safety assessment and preliminary economic evaluation of the proposal</li><li>A process development report which includes the assessment of technology options to produce the required product, a mass and energy balance of the proposed process, as evaluation of the environmental impact of the process, a safety analysis, and a detailed process flow diagram of the proposed process</li><li>A detailed design report including the detailed process and mechanical design of a unit operation with the process, the full process control and operation as well as process and instrumentation diagram of the process, specification of all minor equipment items in the process, a full HAZOP of a section of the plant, a full economic analysis and sensitivity study of the proposed plant.</li></ul>",
+        "<p>This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH).</p>"
+    ],
+    "ilo": [
+        "Complete a chemical engineering feasibility study for a proposed product/process",
+        "Conduct a process development assessment and mass and energy balances to determine the overall scope and intent of the project",
+        "Carry out the integrated process and equipment design for an industrial chemical process, which is initially poorly-defined and for which much of the design data is not available",
+        "Function as part of a team and manage their time effectively",
+        "Apply all of the hard and soft skills acquired in earlier units in an integrated way to develop a full chemical plant design package"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to apply principles of chemical engineering to the design and specification of equipment and/or processes which have not previously been encountered",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Understanding of the principles of sustainable design and development",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Openness to new ideas and conventional critiques of received wisdom."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEN90012Design and Construction of EquipmentSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90012",
+                        "Name": "Design and Construction of Equipment",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEN40005 Process Equipment Design (prior to 2010)"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEN90013Process EngineeringSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90013",
+                        "Name": "Process Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEN40007 Process Engineering (Prior to 2010)"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEN90007Chemical Engineering ThermodynamicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90007",
+                        "Name": "Chemical Engineering Thermodynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN90022",
+                        "Name": "Chemical Engineering Design Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEN40009 Design Project"
+            },
+            {
+                "type": "paragraph",
+                "content": "BIEN40002 Biomolecular Engineering Design Project"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Part A: Group Assessment / Project- First Report: Team report submission of a feasibility study of up to 30 pages. Peer assessment is required and considered in the marking of these reports. Due approximately one third of the way through the semester (on or around week 4). Part B: An Individual closed-book proctored questionnaire (in class, in-person) where students are asked about the content of their report. Intended Learning Outcomes (ILOs) 1, 4 and 5 are addressed.",
+            "bullets": [
+                "30-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Part A in Week 4, and Part B in Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Part A: Group Assessment / Project- Second Report: Team report submission of up to 100 pages (not including supporting material such as appendices, diagrams, tables, computations and computer output). Peer assessment is required and considered in the marking of these reports. Due approximately two thirds of the way through the semester (on or around week 8). Part B: An Individual closed-book proctored questionnaire (in class, in-person) where students are asked about the content of their report. ILOs 2, 4 and 5 are addressed.",
+            "bullets": [
+                "70-80 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Part A in Week 8, and Part B in Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Part A: Practical Assessment / Project- Final Report: Individual report submission of up to 100 pages (not including supporting material such as appendices, diagrams, tables, computations and computer output). Report includes components generated as a team. Part B: An Individual closed-book proctored questionnaire (in class, in-person) where students are asked about the content of their report. ILOs 3-5 are addressed.",
+            "bullets": [
+                "170-180 hours (of work required)"
+            ],
+            "hurdle": "A mark of 50% or more in the final report is required to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "55%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": " An aggregate mark of 50% or more is required to pass the subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Christopher Honig",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 2 hour lecture + 1 x 3 hour consultation session per week",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Christopher Honig",
+            "contact_email": "christopher.honig@unimelb.edu.au"
+        }
+    ]
+}

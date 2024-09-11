@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject covers analysis of investment portfolios and asset classes from the perspective of an appointed actuary, with a view to identifying assets that suit the requirements of a variety of general insurance, life insurance, superannuation and other defined benefit liabilities.</p>"
+    ],
+    "ilo": [
+        "Appraise the investment requirements of a variety of types of insurance companies, superannuation funds and similar institutional investors.",
+        "Explain these requirements in terms of realistic and achievable objectives.",
+        "Analyse the characteristics of different asset classes in sufficient depth to establish a suitable strategy for achieving these objectives, using stochastic asset models and other techniques, as appropriate.",
+        "Monitor investment portfolios, and their performance, in relation to stated objectives and the liabilities against which they are held."
+    ],
+    "generic_skills": [
+        "2000 words (total)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL30003",
+                        "Name": "Contingencies",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACTL30004",
+                        "Name": "Actuarial Statistics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACTL30006",
+                        "Name": "Intermediate Financial Mathematics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL90009",
+                        "Name": "Actuarial Practice and Control III",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsACTL40006Actuarial Practice and Control ISemester 1 (On Campus - Parkville)12.5ACTL40007Actuarial Practice and Control IISemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL40006",
+                        "Name": "Actuarial Practice and Control I",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACTL40007",
+                        "Name": "Actuarial Practice and Control II",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One assignment or essay",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

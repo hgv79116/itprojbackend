@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an introduction to the fundamental theory of time domain and frequency domain representation of discrete time signals and linear time invariant dynamical systems, and how this theory is used to analyse and design digital signal processing systems and algorithms. Topics include:</p>",
+        "<ul><li>Applications of signal processing techniques;</li><li>Sampling of analog signals, anti-aliasing filters;</li><li>Frequency-domain analysis of signals and systems, Discrete Time Fourier Transform, Discrete Fourier Transform, Fast Fourier Transform;</li><li>Digital filters, low-pass, high-pass, band-pass, stop-band and all pass filters. Phase and group delay, FIR and IIR filters;</li><li>Design of digital FIR and IIR filters;</li><li>Multi-rate signal processing, with a focus on up-sampling, down-sampling, and sampling rate conversion;</li><li>Simple non-parametric methods for spectral estimation.</li></ul>",
+        "<p>This fundamental material will be complemented by exposure to MATLAB tools for signal analysis and a DSP (Digital Signal Processor) based development platform for the implementation of signal processing algorithms in the laboratory.<strong><br/><br/>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Sampling of continuous time signals, Design of anti-aliasing filters, Time and frequency representation of discrete time signals and discrete time linear time invariant systems, Discrete Time Fourier Transform and z-transform and their properties, Low order lowpass, highpass, bandpass, bandstop filters, All-pass filter, Design of IIR filters using the bilinear transformation, Design of FIR filters with linear phase using windowing techniques and the Parks McClelland method, Discrete Time Fourier transform and its properties, Fast Fourier Transform, The use of the DFT in implementation of linear filtering algorithms, Up-sampling and down-sampling, multistage and computationally efficient implementations of up-samplers and down-samplers, Energy and power spectra for deterministic signals.</p>"
+    ],
+    "ilo": [
+        "Apply fundamental mathematical tools, in particular frequency-domain techniques, in the analysis and design of signal processing systems",
+        "Design, implement and test simple digital filters according to given specifications",
+        "Use software such as MATLAB for the analysis and design of signal processing systems",
+        "Use DSP based prototyping platforms and associated software development tools to implement signal-processing algorithms"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Openness to new ideas and unconventional critiques of received wisdom;",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30006",
+                        "Name": "Circuits and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination, not exceeding three hours",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Continuous assessment of submitted workshop reports and MATLAB-based projects report completed in small groups (2-3 students), not exceeding 25 pages over the semester",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Erik Weyer",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 x one hour lectures per week) and  36 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ewey@unimelb.edu.au"
+        }
+    ]
+}

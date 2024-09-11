@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>This subject is designed for students with no previous knowledge of Ancient Greek language. It introduces students to the grammar of Ancient Greek through word formation, sentence formation, translation, and the reading of simple texts. The aim is for students to acquire the basic elements of the grammar, syntax and vocabulary of Ancient Greek, and attain reading skills, sufficient to begin reading literary and non-literary texts. Students who complete this subject may progress to Ancient Greek 2.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Attain reading skills sufficient to begin reading simple Ancient Greek texts",
+        "Acquire an understanding of the elements of the grammar, syntax and vocabulary of Ancient Greek",
+        "Develop critical thinking skills and be able to think in theoretical terms",
+        "Become familiar with the communication conventions of another culture."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS20035",
+                        "Name": "Intensive Ancient Greek 1",
+                        "Teaching period": "Winter Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLAS30045",
+                        "Name": "Intensive Ancient Greek 1",
+                        "Teaching period": "Winter Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CLAS10022 Intensive Ancient Greek 1"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short tests in lectures",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Weekly grammar exercises",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "An assessment test (50 minutes)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A final exam (1 hour)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours - 2 x 1 hour lectures and 1 x 2 hour tutorial per week for 12 weeks.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "gaetana.pellegrini@unimelb.edu.au"
+        },
+        {
+            "semester": "Winter Term",
+            "principal_coordinator": "Gaetana Pellegrini",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 2 hour seminar twice daily, 4 days per week, for 3 weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "24 June 2024 to 12 July 2024",
+            "last_self_enrol_date": "27 June 2024",
+            "census_date": "5 July 2024",
+            "last_date_to_withdraw_without_fail": "12 July 2024",
+            "assessment_period_ends": "19 July 2024",
+            "contact_name": "",
+            "contact_email": "gaetana.pellegrini@unimelb.edu.au"
+        }
+    ]
+}

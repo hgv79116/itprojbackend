@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>This subject assists participants to understand their professional and legal role in and beyond the classroom, as well as the changing social, policy and professional contexts in which students learn and teachers work. It will also examine the social, economic, cultural and locational factors that have an impact on student learning and educational outcomes. Key themes of equity, inclusion and social justice are addressed. These are examined in the light of system and school-level response, with a focus on the role of policy in guiding teacher practice, curriculum design, professional relationships and professional conduct.<br/><br/>This subject along with<em> EDUC90580 Evidence Based Learning and Teaching 1</em> and <em>EDUC90823 Language, Literacy and Numeracy</em>, requires participants to implement the Clinical Praxis Exam.</p>"
+    ],
+    "ilo": [
+        "demonstrate knowledge of key debates and theories concerning equity, social differences and human rights and their relevance to educational practice and policy (Graduate Standards 1.1, 1.2, 1.3, 4.1, 4.4)",
+        "critically consider system and school-based responses to addressing issues relating to equity, inclusion, social justice, student well being and safety relevance to educational practice and policy (Graduate Standards 1.3, 1.4, 4.1, 4.4)",
+        "develop a critical analysis of the wider social and global context of education systems, schools and classrooms relevance to educational practice and policy (Graduate Standards 1.1, 1.3, 7.1)",
+        "build an understanding of the socio-cultural factors that shape students' learning, their school experiences and educational outcomes relevance to educational practice and policy (Graduate Standards 1.4, 1.5, 1.6, 2.4, 4.4)",
+        "acquire/deepen knowledge of the diverse professional contexts of teachers' work in schools and other educational settings as well as understand professional codes of ethics and conduct. relevance to educational practice and policy (Graduate Standards 7.1, 7.2, 7.3, 7.4)"
+    ],
+    "generic_skills": [
+        "Critically reflect on their practice and professional role",
+        "Articulate the importance of equity, participation and democracy in education",
+        "Work collaboratively and productively in their school to meet community and system expectations."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90580",
+                        "Name": "Evidence Based Learning and Teaching 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90593",
+                        "Name": "Developing Clinical Practice 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "EDUC90823",
+                        "Name": "Language, Literacy and Numeracy",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group Scenario Presentation \u2013 Delivery of lesson based on a case study representing students of diverse backgrounds (equivalent to 1500 words per participant)",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "During Intensive 1",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Clinical Praxis Examination - Oral presentation (equivalent 1500 words) (This is a combined assessment task with EDUC90823 and EDUC90580)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "The Clinical Praxis Exam must be passed.",
+            "timing": "During Intensive 2",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Scenario Reflective Essay \u2013 Response to a social justice issue",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "October",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance at all scheduled lectures, tutorials, seminars and workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

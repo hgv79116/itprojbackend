@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p>This subject provides a detailed investigation of human visceral anatomy. The subject will cover the terminology of human topographic anatomy as it relates to the head and neck, thorax, abdomen and pelvis; the principles of viscera and visceral systems; the detailed regional anatomy of each area including the walls and contents of the thorax, abdomen and pelvis; applied and clinical anatomy; and the appearance of normal anatomical visceral structures via modern imaging techniques. Lectures on anatomy will be supplemented by specialist lectures by practitioners to demonstrate the disciplinary breadth achievable with anatomical knowledge. Cadaveric dissection will be used to complement learning, by exposing the boundaries and contents of important regions of the thorax, abdomen and pelvis; and anatomical models, computer programs, prosected specimens and modern imaging techniques will be used to appreciate anatomical structures.</p>"
+    ],
+    "ilo": [
+        "Comprehend the organisation of body cavities; the principles of viscera and visceral systems; the anatomy of the autonomic nervous system and cranial nerves that supply viscera; the detailed visceral anatomy of the head and neck, thorax, abdomen and pelvis; radiological anatomy of the thorax, abdomen and pelvis; and applied and clinical anatomy of the body's visceral systems",
+        "Develop observational and organisational skills to identify and interpret exposed anatomical structures and regions of the head and neck, thorax, abdomen and pelvis; communication skills (written and oral) to describe the normal structure of the human body; the use of dissecting instruments to expose visceral systems in the cadaver; the incidence of important anatomical variants and their clinical significance",
+        "Articulate the important clinical applications relevant to body regions and the approaches to imaging the thorax, abdomen and pelvis",
+        "Demonstrate observational and organisational skills to interpret exposed anatomical structures in the thorax, abdomen and pelvis",
+        "Demonstrate written and oral communication skills to describe normal and impaired anatomical structures of the human visceral systems"
+    ],
+    "generic_skills": [
+        "Capacity for independent study, rational enquiry and self-directed learning.",
+        "Ability to analyse problems.",
+        "Oral and written communication skills.",
+        "Time management skills.",
+        "Teamwork in interpretation and analysis of new information."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT20006",
+                        "Name": "Principles of Human Structure",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "(For Bachelor of Biomedicine students)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM20002Human Structure and FunctionSemester 2 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: 516-204 Anatomy 1 and 516-207 Anatomy 2 are alternative prerequisites for entry into this subject"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 MSTs on theory and practical work throughout the semester (10% each)",
+            "bullets": [
+                "35 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "First MST from weeks 6-8, second MST from weeks 10-12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written theory examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Practical examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jason Ivanusic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures + 1 x three hours practical per week (Total contact hours: 72)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

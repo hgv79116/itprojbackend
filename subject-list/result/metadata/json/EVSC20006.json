@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p>Modern human societies have developed an apparently insatiable appetite for the production and consumption of energy, which has brought with it far-reaching adverse consequences to the environment. Energy is a well-understood aspect of science; thermodynamics describes the fundamental principles that determine the efficiency with which energy can be harvested, stored, produced, transmitted or consumed. The environmental impacts of the production and consumption of energy are less fully understood and have to be balanced against the availability of key resources, the cost of managing those resources, the efficiency with which they may be utilised and the political and ethical consequences of obtaining them.</p>",
+        "<p>This subject provides a quantitative survey of the chemistry and physics behind conventional and alternative energy sources, including fossil fuels, bio-fuels, the capture of energy from solar, geothermal, hydro and wind sources and their storage, and the generation of energy from nuclear fission and fusion processes. Each energy source is assessed in terms of its environmental impacts, its dependence on critical or scarce resources and the social or political consequences of reliance on that energy source with respect to long-term sustainability.</p>"
+    ],
+    "ilo": [
+        "obtain quantitative estimates of the resources that would be required to satisfy the current and future energy demands of a modern city",
+        "discuss the physical and chemical princinples that determine the potential capacity and efficiency of energy sources and energy storage",
+        "identify the environmental, social and political impacts of these energy sources",
+        "discuss the issues involved in balancing the demand for energy production against the potential adverse consequences of adopting these sources"
+    ],
+    "generic_skills": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the general public;",
+        "the ability to critically analyse and solve abstract technical problems using data acquired through a range of technologies",
+        "the ability to assimilate and apply the learnt concepts to a broad range of scientific problems within a scientific paradigm",
+        "the ability to use conceptual and quantitative models to rationalise observations",
+        "project planning and delivery skills including, planning and time-management, report-writing and working in collaborative groups"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "VCE Maths Methods or equivalent (including admission into the Bachelor of Science)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "midsemester test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "group assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48-hours total: 3 lectures per week for 12 weeks, 1 tutorial per week for 12 weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kelvin.say@unimelb.edu.au"
+        }
+    ]
+}

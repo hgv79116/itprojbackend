@@ -1,0 +1,47 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject develops a rigorous foundation for pursuing research in nano-optics. The subject discusses recent developments in nano-optics together with its fundamental underpinnings. The coverage of this material is complemented by exposure to simulation tools. Students undertake a project on a topic of their choosing. <br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Coverage of selected topics from the following:</p>",
+        "<ul><li>Computational electromagnetics;</li><li>Photonic crystals;</li><li>Optical properties of metal nanostructures;</li><li>Meta-materials;</li><li>Optical tweezers;</li><li>Foundations of far-field and near-field optical microscopy.</li></ul>"
+    ],
+    "ilo": [
+        "Design micro- and nano-optical devices (in which the interaction between light and nanostructured materials plays an important role)",
+        "Analytically model micro- and nano- optical devices",
+        "Perform simulations of micro- and nano- optical devices",
+        "Conduct research in micro- and nano- optical devices."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment, including midterm examination and/or homework. This will not exceed 4 assessments, totaling 40 pages or fewer",
+            "bullets": [
+                "50-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final presentation and report. The final report will not exceed 5 pages, and the final presentation will not exceed 15 minutes.",
+            "bullets": [
+                "90 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

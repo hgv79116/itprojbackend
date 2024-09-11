@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>This subject is designed for students who have completed Ancient Egyptian 1 and 2 or the equivalent. In this subject, further work is undertaken on writing, grammar and syntax to revise, consolidate and extend students' knowledge of the language and its complex script, with the aim of enabling students to translate Egyptian hieroglyphic texts critically and independently. In particular, this subject focuses on a thorough overview of the Egyptian verbal system. Students are exposed to increasingly difficult texts (some now consisting of multiple sentences) from a variety of sources.</p>",
+        "<p>Background information on ancient Egyptian culture is woven into the subject matter throughout the semester. By the end of the subject, students should have a sufficient grasp of the language and script to read literary and non-literary Middle Egyptian hieroglyphic texts of moderate difficulty solely with the aid of a dictionary and reference-grammar. Students who successfully complete this subject may progress to Ancient Egyptian 4.</p>"
+    ],
+    "ilo": [
+        "Be familiar with the most important elements of the grammar, syntax, vocabulary and writing system of Middle Egyptian",
+        "Acquire an in-depth knowledge of the Egyptian verbal system",
+        "Acquire the ability to critically and independently translate literary and non-literary Middle Egyptian hieroglyphic texts of moderate difficulty solely with the aid of a dictionary and a reference-grammar",
+        "Continue to discover how reading original texts can enhance our understanding of ancient people."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANCW10007",
+                        "Name": "Ancient Egyptian 2",
+                        "Teaching period": "August (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Ancient Near Eastern Language: Egyptian"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5 in-class assessment exercises consisting of transliteration and translation of hieroglyphic texts, equivalent to 500 words each, in the 2nd tutorial of weeks 2, 4, 6, 8 and 10 of the semester (12% each)",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 10",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Written examination (90 minutes)",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Felicity Smith",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 1 x 1 hour lecture per week for 12 weeks and 2 x 1.5 hour tutorials per week for 12 weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "smith.f1@unimelb.edu.au"
+        }
+    ]
+}

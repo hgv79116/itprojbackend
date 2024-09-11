@@ -1,0 +1,171 @@
+{
+    "overview": [
+        "<p>The aim of this subject is to equip students with computational tools for solving common physical engineering problems. The focus of the lectures is on archetypical physical engineering problems and their solutions via the effective implementation of classical algorithms.</p>",
+        "<p>Indicative content: basic programming concepts and construction such as: arrays, loops, conditional statements and functions; numerical computation techniques such as: root finding, systems of linear algebraic equations, least squares, interpolation, differentiation, integration, numerical integration of ordinary differential equations and two-point boundary value problems, numerical stability and convergence, numerical schemes using Fourier analysis</p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "1. Gain a basic understanding of the computational representation of physical, linear and multi\u2010domain systems and the numerical approaches appropriate to the systems",
+        "2. Understand the numerical complexity of programs and its consequences in the resulting computational outcomes",
+        "3. Have the capability to numerically regress data",
+        "4. Gain basic understanding of the role of computational techniques in the practice of professional engineering, including in the design, analysis and validations of physical systems"
+    ],
+    "generic_skills": [
+        "Application of knowledge of basic science and engineering fundamentals.",
+        "Effective communication about computational efficiency",
+        "Capacity to reason and solve problems.",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship.",
+        "Ability to undertake problem identification, formulation and solution"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10005Calculus 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-MECHENG Master of Mechanical Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering",
+                    "Mechanical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Mechanical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Mechanical with Aerospace specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 - individual written report, including coding.",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2 - Individual written report including coding",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final exam - Closed Book",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Assigment 3 - individual written report, including coding.",
+            "bullets": [
+                "25 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "particiption in workshops",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hrs lectures and 24 hrs of workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "a.ooi@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hrs lectures and 24 hrs of workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "cat.vreugdenhil@unimelb.edu.au"
+        }
+    ]
+}

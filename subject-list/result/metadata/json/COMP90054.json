@@ -1,0 +1,208 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The key focus of this subject is the foundations of autonomous agents that reason about action, applying techniques such as automated planning, reinforcement learning, game theory, and their real-world applications. Autonomous agents are active entities that perceive their environment, reason, plan and execute appropriate actions to achieve their goals, in service of their users (the real world, human beings, or other agents). The subject focuses on the foundations that enable agents to reason autonomously about goals &amp; rewards, perception, actions, strategy, and the knowledge of other agents during collaborative task execution, and the ethical impacts of agents with this ability. <br/> <br/>The programming language used in this subject is Python. No lectures or workshops on Python will be delivered.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics are drawn from the field of advanced artificial intelligence including:</p>",
+        "<ul><li>Search algorithms and heuristic functions</li><li>Classical (AI) planning</li><li>Markov Decision Processes</li><li>Reinforcement learning</li><li>Game theory</li><li>Ethics in AI planning</li></ul>"
+    ],
+    "ilo": [
+        "Apply theoretical concepts of reasoning about actions to single and multi-agent problems",
+        "Be able to analyse, design, and implement automated planning, reinforcement learning, and game theoretic techniques to given problems",
+        "Understand the strengths, weaknesses, and ethical consequences of different approaches for reasoning about action",
+        "Be able to critically evaluate and choose the right technique for different problems in reasoning about action",
+        "Communicate technical solutions about automated planning, reinforcement learning, and game theory"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation ability to communicate effectively with both the engineering team and the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SCICMP Master of Science (Computer Science)",
+                    "MC-CS Master of Computer Science",
+                    "MC-DATASC Master of Data Science",
+                    "100pt Program course entry point in the MC-IT Master of Information Technology"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Cyber Security (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ENGR30004Numerical Algorithms in EngineeringSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR30004",
+                        "Name": "Numerical Algorithms in Engineering",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ENGR30003 Numerical Programming for Engineers"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "Basic understanding of logic and set theory. Basic understanding of introductory probability theory."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One team-based project, involving 2 to 3 team members, requiring approximately 30 - 40 hours of work per student. ILOs 1 to 5 are addressed in this assignment.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One team-based video presentation of approximately 3-5 minutes duration, involving 2 to 3 team members, each member contributing approximately 6 hours of work. ILOs 1 and 5 are addressed in this team-based assignment.",
+            "bullets": [
+                "6 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Two individual programming assignments due in weeks 5 and 8, taking approximately 13-15 hours of work each. ILOs 1 and 2 are addressed in these assignments. Each assignment is worth 10%.",
+            "bullets": [
+                "13-15 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A 20-minute online quiz in week 6.  ILOs 1 to 3 are addressed in this quiz.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One written 2-hour closed book end-of-semester examination. ILOs 1, 3, 4, and 5 are addressed in the exam.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "nir.lipovetzky@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "adrianrp@unimelb.edu.au"
+        }
+    ]
+}

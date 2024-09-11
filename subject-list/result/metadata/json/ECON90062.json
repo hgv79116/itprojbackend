@@ -1,0 +1,63 @@
+{
+    "overview": [
+        "<p>The subject informs students how behavioural economics extends traditional economics by incorporating insights into human behaviour derived from psychology, sociology and neuroscience and how these insights may be valuable for research into accounting.</p>"
+    ],
+    "ilo": [
+        "explain the behavioural patterns uncovered in behavioural economics;",
+        "explain some of the techniques used by behavioural economics to create knowledge;",
+        "evaluate the contribution of behavioural economics to accounting and finance research;",
+        "synthesise and contrast some of the recently created knowledge for accounting from behavioural economics with knowledge from more traditional accounting research;",
+        "write coherent accounts of issues in behavioural economics;"
+    ],
+    "generic_skills": [
+        "to explainan argument logically, such as how loss aversion and myopia implies a large premium of equity over bonds;",
+        "tosynthesize and contrastdifferent ideas and theories, such as the synthesis of two theories of saving, that is the rational agent theory and the multiple self theory;",
+        "to applytheories to the real world, for example the implications for portfolio choice of mental accounts;",
+        "to evaluatethe relevance of competing theories, in particular behavioural economics compared with traditional economics."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON30019",
+                        "Name": "Behavioural Economics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Essay due three weeks prior to the end of semester",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

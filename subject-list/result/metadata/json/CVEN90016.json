@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the structural design and analysis of prestressed concrete and timber structures with applications to multi-storey buildings and other infrastructures in compliance with the Standards. This subject will build on the knowledge from CVEN30009 Structural Theory and Design and CVEN90049 Structural Theory and Design 2, particularly on the fundamental behaviour of structural elements under flexural, shear and axial load.<br/>This subject will also expose students to emerging technology to achieve more sustainable structures. Students will also explore various techniques to evaluate a structural design from a sustainability perspective.<br/>Students who complete this subject are likely to find employment in design consultancy or concrete construction companies and work under the supervision of a senior engineer.</p>",
+        "<p>The subject covers topics such as design of partially prestressed concrete beams; High performance concrete; Design against physical and chemical attack of concrete structures; Design of engineered timber structures, Design for low carbon emission; and Life-cycle analysis and circular economy.</p>"
+    ],
+    "ilo": [
+        "ILO1 - Describe the behaviour of partially prestressed concrete beams, analyse and design these structures in accordance with Australian Standards",
+        "ILO2 - Describe the use of precast concrete, its advantages and aspects related to its design application",
+        "ILO3 - Design sustainable multi-storey timber building structures in accordance with Australian Standards",
+        "ILO4 - Describe the technology related to sustainable construction materials",
+        "ILO5 - Design against physical and chemical attack of concrete structures for sustainability and durability",
+        "ILO6 - Assess the environmental sustainability of a structural design project and implement measures for improvement."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake design problem identification, formulation, and solution",
+        "Capacity for creativity and innovation",
+        "Proficiency in engineering design",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN90049Structural Theory and Design 2Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN90049",
+                        "Name": "Structural Theory and Design 2",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group Design Assignment: one group design report (individual workload equivalent 1500 words). Intended Learning Outcomes (ILOs) 1 and 3 are addressed in this assessment.",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Group Laboratory Experiment and report (individual work load equivalent 300 words). ILOs 4 and 5 are addressed in this assessment.",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": "Participation is compulsory in order to pass the subject.",
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Individual sustainability assessment (equivalent 500 words) . ILO 6 is addressed in this assessment.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written, closed book examination. ILOs 1 to 6 are addressed in this examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the exam in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Xuemei Liu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 contact hours (24 hours of lecture, 24 hours of workshops/practicals)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "xuemei.liu@unimelb.edu.au"
+        }
+    ]
+}

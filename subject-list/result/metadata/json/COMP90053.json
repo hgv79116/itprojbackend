@@ -1,0 +1,142 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>In the 1930s, Alan Turing and Konrad Zuse independently proposed designs of computing machines based on the idea that storage used for data and storage used for instructions be indistinguishable. This \u201cstored-program\u201d model formed the blueprint for all modern computers. The ability to treat programs as data turned out to be very powerful, as it meant that a program could be designed to read, generate, analyse and/or transform other programs, and even modify itself while running. This subject is concerned with meta-programs - programs that work on other programs, possibly generating programs as output. People routinely read, generate, analyse, test, and transform programs. For example, a programmer may look through code for potential buffer overruns, and may add runtime tests to avoid the security problems that could result. It is preferable, however, to automate such activity as far as we can, partly because that makes programmers more productive, and partly because computers generally are better at these tasks, avoiding human oversights and mistakes. This subject introduces the main techniques and applications of program analysis and transformation, including methods used by modern optimizing compilers and allied tools.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/> </strong></p>",
+        "<ul><li>Syntax and semantics: Program representations, operational and denotational semantics.</li><li>Fixed point theory: Order, lattices, functions and fixed points</li><li>Program analysis: The monotone framework, constraint-based analysis, collecting semantics, abstract interpretation, widening, inter-procedural analysis, analysis of functional and logic programs</li><li>Meta-programming: Interpreters, meta-interpreters, program instrumentation, source-to-source program transformation, including fold/unfold and partial evaluation</li><li>Other topics may be covered via the project, for example, analysis for violations of safety and/or security policies, or analysis and transformation for finding and implementing parallelism.</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Describe standard approaches to program analysis and program transformation",
+        "Solve mathematical problems relevant to reasoning about program runtime properties",
+        "Design and build non-trivial program analysis/transformation tools",
+        "Adapt and apply existing program analysis tools to the needs of a project",
+        "Explain the limits of program analysis as applied to specific languages, and use this to inform decisions about which languages to use in programming projects"
+    ],
+    "generic_skills": [
+        "Analytical skills",
+        "Reasoning and problem-solving skills",
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Capacity for creativity and innovation",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to complex problems and to design for performance."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP30020Declarative ProgrammingSemester 2 (On Campus - Parkville)12.5COMP90048Declarative ProgrammingSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30020",
+                        "Name": "Declarative Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90048",
+                        "Name": "Declarative Programming",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Computing specialisation (formal) in the MC-IT Master of Information Technology"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A 45-minute mid-semester written test around Week 7, requiring approximately 13 - 15 hours of work, addressing Intended Learning Outcomes (ILO)s 1 and 2",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A programming project, requiring approximately 35 - 40 hours of work, addressing ILOs 3 and 4",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written examination, addressing ILOs 1, 2, and 5",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

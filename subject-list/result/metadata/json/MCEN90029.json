@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This course will expand on the basic principles established previously in Solid Mechanics.</p>",
+        "<p>Methods of three-dimensional stress and strain analysis will be extended to allow the student to obtain solutions using analytical and/or numerical methods. These will include the analyses of principal stresses and strains, three dimensional Mohr\u2019s circles, strain gauge experimentation and failure criteria. In addition, this unit will focus on plastic deformation of solids, including the analysis of residual stresses and the collapse load of structures. The responses of materials to fatigue and fracture, as well as their creep and viscoelastic behaviour, will also be explored. Finally, this unit will provide a number of examples of experimental applications of solid mechanics analysis based on modern research techniques.</p>",
+        "<p>The goal of Advanced Solid Mechanics is to consolidate the solid mechanics principles presented in the student\u2019s Engineering degree, and the equip students with skills required to solve a range of engineering problems they have not seen before. In addition, this subject seeks to teach a number of modern research methods, techniques and skills by drawing on biomechanical research in the field of solid mechanics, and the major challenges in the field.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/><br/></strong>The following topics, delivered through lectures, guest seminars, group problem solving activities, and tutorials, will be assessed:</p>",
+        "<ul><li>Three dimensional stress-strain analysis (weeks 1-2)</li><li>Strength theories and yield criteria (weeks 3-4)</li><li>Plastic behaviour of materials (weeks 5-6)</li><li>Fracture Mechanics(weeks 7-8)</li><li>Contact (weeks 9-10)</li><li>Creep and Viscoelasticity (week 11)</li><li>Biomechanics (week 12)</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Understand advanced stress/strain correlations",
+        "Obtain simple mathematical and physical relationships between mechanics and materials",
+        "Model the plastic behaviour, as well as the fatigue, fracture and creep response, of common engineering materials",
+        "Model an engineering structure without detailed instruction",
+        "Establish links between theoretical and practical applications; identify problems and formulate solution strategies",
+        "Expand their analytical and cognitive skills through learning experiences in a diverse range of solid mechanics topics",
+        "Develop skills in collaborative leaning through small-group problem solving and communication",
+        "Understand contemporary issues in solid mechanics research."
+    ],
+    "generic_skills": [
+        "Critical thinking and critical judgement of assumptions adopted",
+        "Interpretation and analysis of data",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to apply knowledge of science and engineering fundamentals."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90026",
+                        "Name": "Solid Mechanics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One small-group problem solving activity assessed in class. Assesses ILO 7.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two assignments of equal weight totalling no more than 1000 words, due in weeks 7 and 10 (2 x 20%), requiring approximately 25-30 hours work each. Assesses ILOs 4, 5, 6.",
+            "bullets": [
+                "50-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One written exam, assesses ILOs 1, 2, 3.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "students must pass the end of semester exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "David Ackland",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and workshops, and 12 hours of tutorials.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "dackland@unimelb.edu.au"
+        }
+    ]
+}

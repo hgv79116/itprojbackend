@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>This subject aims to provide students with basic training on modern data analytics methods, which include linear regression, classification, resampling methods, spline-based methods, generalised additive models and support vector machines. This subject focuses on applying the above methods to modelling non-life insurance claims frequency and severity.</p>"
+    ],
+    "ilo": [
+        "Recognise major types of non-life insurance data and their main characteristics.",
+        "Demonstrate a depth of knowledge in linear regression methods, regression splines and smoothing splines.",
+        "Demonstrate basic understanding in various statistical learning models that include classification methods, re-sampling methods, generalised additive models and support vector machines.",
+        "Use relevant computer software to apply various statistical learning models for insurance related applications.",
+        "Apply basic linear model selection and regularisation techniques when conducting linear regression analyses.",
+        "Interpret the results of data analytics conducted on real insurance data",
+        "Compare benefits/drawbacks of competing models and methods, relevant to real problems."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; logical problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; synthesis of data and other information; evaluation of data and other information; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30027",
+                        "Name": "Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 (Computer-Based) (Week 3-6)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 2 (Computer-Based) (Week 9-12)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end-of-semester exam",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Xueyuan Wu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour computer lab per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "xueyuanw@unimelb.edu.au"
+        }
+    ]
+}

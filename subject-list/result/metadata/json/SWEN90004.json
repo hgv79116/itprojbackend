@@ -1,0 +1,151 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>Mathematical modelling is important for understanding and engineering many facets of complex systems. The aim of this subject is for students to understand the range and use of mathematical theories and notations in the analysis of discrete systems, how to abstract the key aspects of a problem into a model to handle complexity, and how models can be employed to verify large-scale complex software systems.<br/><br/><strong>INDICATIVE CONTENT</strong><br/><br/>Topics covered will be selected from: deterministic and stochastic modelling; dynamical systems; cellular automata; agent-based modelling; complex networks; simulation and analysis of complex systems; concurrent systems modelling, analysis and implementation; process algebra; temporal logic and model checking.</p>"
+    ],
+    "ilo": [
+        "Identify and abstract the key features of a range of complex system",
+        "Apply the theoretical concepts underpinning the analysis of complex systems",
+        "Analyse models of discrete and concurrent systems using a range of modern techniques",
+        "Evaluate and select, amongst different modelling techniques, the most appropriate for analysing specific systems",
+        "Create mathematical/computational models to analyse and verify the behaviour of complex systems"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to analysing software properties",
+        "Capacity for independent critical analysis of models, and self-directed research for mathematical modelling approaches",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological ideas behind research in software systems analysis",
+        "Openness to new ideas and unconventional critiques of received wisdom"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP30026Models of ComputationSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30026",
+                        "Name": "Models of Computation",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CS Master of Computer Science"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "433-641 Systems Modelling and Analysis"
+            },
+            {
+                "type": "paragraph",
+                "content": "SWEN40004 Modelling Complex Software Systems"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One research project (involving a programming task and report writing) executed individually by each student, expected to take approximately 25 - 30 hours.   Intended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, the student must obtain: at least 50% overall,  and at least 50% (20/40) in project work.",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One research project (involving programming and report writing) executed in groups of up to three students. Requiring 25-30 hours of work for each student. ILOs 2-5 are addressed in this assessment.",
+            "bullets": [
+                "25 - 30 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, the student must obtain: at least 50% overall, and at least 50% (25/50) in project work.",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "A written examination. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, the student must obtain: at least 50% overall, and at least 50% (25/50) in the written examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Artem Polyvyanyy",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours consisting of two 1-hour lectures and one 1-hour tutorial per week. Some computer lab classes will require you to bring your own device.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "artem.polyvyanyy@unimelb.edu.au"
+        }
+    ]
+}

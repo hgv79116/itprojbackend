@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>The subject provides students with an opportunity to produce an ordered, critical exposition of autonomously gained knowledge, thus demonstrating proper understanding of the nature, development strategies and conventions of research work, with particular focus in their area of specialisation.</p>",
+        "<p>The subject concentrates on the middle to final stages of research: from implementation of a research plan, to effectively interpreting and presenting results of the research plan implemented. Seminar group and one-on-one meetings are held with the supervisor/coordinator, to allow students to exchange and/or obtain advice on their topics.</p>",
+        "<p>Knowledge and materials prepared in the ABPL90363 Property Research and Analysis are to inform the final research report.</p>"
+    ],
+    "ilo": [
+        "Taking a specific course of intellectual inquiry within those available in the property discipline;",
+        "Building on work previously developed to a specific research investigation end;",
+        "Subsequently implementing a research project;",
+        "Reporting about and reflecting upon the work carried out;",
+        "Synthesizing problems and results;",
+        "Organizing work accordingly."
+    ],
+    "generic_skills": [
+        "Write a scholarly document autonomously;",
+        "Evaluate the significance of its content;",
+        "Communicate strategically;",
+        "Manage time;",
+        "Behave ethically in situations where knowledge creation and/or usage are required."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90363",
+                        "Name": "Property Research and Analysis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research development and preliminary data discussion",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral presentation based upon research proposal. The oral seminar is not assessed but the final report will not be accepted for examination unless a presentation has been made",
+            "bullets": null,
+            "hurdle": "Satisfactory completion of oral presentation",
+            "timing": "Week 10",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Property practice thesis  based on research completed in the prerequisite subject, ABPL90363 Property Research and Analysis. The 4500 words required for this piece of assessment is additional to work completed for prerequisite subject ABPL90363 Property Research and Analysis. Writing submitted as part of the prerequisite subject may not be submitted as part of this subject",
+            "bullets": [
+                "4500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Raghu Dharmapuri Tirumala",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week (regular contact with supervisor to discuss progress)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Raghu Dharmapuri Tirumala",
+            "contact_email": "dtvraghu@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week (regular contact with supervisor to discuss progress)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Shuya Yang",
+            "contact_email": "shuya.yang3@unimelb.edu.au"
+        }
+    ]
+}

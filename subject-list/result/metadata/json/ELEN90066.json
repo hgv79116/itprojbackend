@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides a practical introduction to the basics of modelling, analysis, and design of microprocessor-based embedded systems. Students will learn how to integrate computation with physical processes to meet a desired specification within the context of a design project. The project work will expose students to the various stages in an engineering project (design, implementation, testing and documentation) and a range of embedded system concepts.<br/><br/><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics covered may include: digital computer and microprocessor architectures, modelling of dynamic behaviours, control, models of computation, operating systems concepts, multi-tasking, resource management and real-time behaviours, interfacing with the physical world, analysis and verification, safety, reliability, and security and privacy.<br/><br/>This material will be complemented by exposure to standard software tools including compilers and debuggers, finite state machine design and analysis software, and simulation tools. The subject will include a level of industry engagement, to provide broader examples of engineering projects, through guest lectures.</p>"
+    ],
+    "ilo": [
+        "1. Apply fundamental concepts to model and design the joint dynamics of software, networks, and physical processes that underpin embedded systems with an appreciation for the importance of using abstractions and how they can limit overall system performance, robustness and security",
+        "2.  Design, build and test the hardware components (microprocessor, sensors, actuators, peripheral interfacing) of an embedded system",
+        "3. Develop and test the low-level software components of an embedded system using software tools to simulate and verify its behaviour",
+        "4. Conduct a small embedded system design project"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20006",
+                        "Name": "Digital Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30010",
+                        "Name": "Digital System Design",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ELEN30014",
+                        "Name": "Analog and Digital Electronics Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of assignments and in-class workshop tasks (addressing ILOs 1-4)",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final project report and project outcome, not exceeding 20 pages (addressing ILOs 1-4)",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written examination, not exceeding three hours (addressing ILOs 1 and 2)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Gavin Buskes",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and 36 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "g.buskes@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Farhad Farokhi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and 36 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "farhad.farokhi@unimelb.edu.au"
+        }
+    ]
+}

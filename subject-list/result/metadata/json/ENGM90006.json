@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Students will learn how to structure and work with engineering contracts to deliver and procure engineering outcomes in this subject. Students will develop a working knowledge of contract administration and gain an understanding of commercial aspects of engineering. All engineers interface commercially with engineering contracts throughout their careers, and thus the application of the subject content is broad. Those seeking to work as a contractor and as a contract administrator will find a direct application of this subject\u2019s content. Students will learn how to use procurement and contracts to develop successful engineering projects. This includes administration of the contracts and understanding the business environment where these contracts are agreed. These skills will be useful to students in their future work and apply to a wide range of engineering disciplines.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Management of engineering projects. This includes the role and responsibilities of corporate managers, market analysis, structuring of procurement options, development of contractual terms and conditions and the pricing of work.</p>",
+        "<p>Estimating and tendering engineering works via work breakdown structures, work method statements, risk identification and tendering principles. The study material also covers contract administration and project control functions and techniques including time and money negotiations and cash flow management.</p>"
+    ],
+    "ilo": [
+        "Assess the commercial viability of engineering projects",
+        "Evaluate procurement strategies for a particular project",
+        "Choose appropriate contract documents for the delivery of engineering projects",
+        "Identify and manage risks and opportunities inherent in engineering projects",
+        "Apply  the fundamentals of contract law",
+        "Conduct first principles cost estimating and tendering processes from a contractor's perspective",
+        "Evaluate engineering  tenders",
+        "Apply contracts in respect to extensions of time, variations and quality",
+        "Choose appropriate dispute resolution mechanisms for engineering contracts"
+    ],
+    "generic_skills": [
+        "Ability to communicate effectively with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Understanding of professional and ethical responsibilities and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager, as well as an effective team member",
+        "Capacity for lifelong learning and professional development.",
+        "Understanding the relationships between engineers and their counterparties in engineering contracts."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN90045Engineering Project ImplementationSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN90045",
+                        "Name": "Engineering Project Implementation",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Concurrent examination Task 1 - A limited-time written assignment (1200 words \u2013 48 hours time for the written assignment \u2013 25%). Intended Learning Outcomes (ILOs) 1 to 9 are addressed in this examination.",
+            "bullets": [
+                "48 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Concurrent examination Task 2 \u2013 A 50-minute quiz (15%). \n\nThe first 50 minutes of the 48 hour exam period is allocated for this quiz.\n\nIntended Learning Outcomes (ILOs) 1 to 9 are addressed in this examination.",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written Assignment- a report of 1500 words (individual work)   Addressing ILOs 1, 2, 3, 4 and 6.",
+            "bullets": [
+                "30 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Participation and performance in a computer simulation exercise of running an engineering business. Addressing ILOs 1, 3, 4, 5 and 6.",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Six In class quizzes of 10 minutes.  Addressing  ILO's  1-8.",
+            "bullets": [
+                "12 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Perusall assignments (individual work).  \n\nAddressing ILO's 1-6.",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 10",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (Lectures/Tutorials: 3 hours per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Robert Moehler",
+            "contact_email": "robert.moehler@unimelb.edu.au"
+        }
+    ]
+}

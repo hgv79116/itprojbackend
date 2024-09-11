@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>Successful project development depends on pro-active cost management from feasibility through to design, tender and construction, to the completion and useful life of the project. This subject examines applications of economics, management, law and statistical techniques to construction cost economics and management.</p>",
+        "<p>Topics include: advanced cost modelling techniques with parametric and probabilistic cost estimating methods; cost-in-use studies and life-cost approach to building evaluation (LCC in practice); feasibility studies and financial decision-making; value management; tender analysis; construction claims, conflict and dispute management; professional practice in quantity surveying including professional ethics; the role of quantity surveyors during construction as it affects the valuation of preliminaries, fluctuations, change orders and accounts, provisional sums and prime cost sums, as well as the role of quantity surveyors in risk assessment.</p>",
+        "<p>Principles of professional liability in quantity surveying practice as well as the impact of advanced digital technology such as Building Information Modelling on Cost management are also examined.</p>"
+    ],
+    "ilo": [
+        "Evaluate a contractor\u2019s tender based on priced Bill of Quantities or Builders Quantities and prepare a tender evaluation report.",
+        "Apply parametric and probabilistic estimating methods to project cost estimation.",
+        "Develop, evaluate and interpret a life cycle cost model for a simple commercial building using Microsoft Excel spreadsheet.",
+        "Describe and analyse the role of quantity surveyors in risk assessment as well as the principles of professional liability in quantity surveying practice.",
+        "Identify and describe some of the emerging and future roles and responsibilities of quantity surveyors in the construction industry."
+    ],
+    "generic_skills": [
+        "decision making and analytical skills as applicable to cost management i.e. economic analysis of project and project components;",
+        "effective participation as a team member and communication;",
+        "project evaluation, monitoring and cost reporting;",
+        "information gathering, analysis and interpretation;",
+        "understanding and application of professional ethics and conduct in practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90208",
+                        "Name": "Construction Measurement and Estimating",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL90413",
+                        "Name": "Construction Cost Planning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group assignment equivalent to 1000 words per student focusing on a financial feasibility discounted cash-flow analysis and / or coupled with a life cycle cost assessment of a hypothetical project from the perspective of the developer. Students will submit feasibility and /or life cycle cost assessment report.",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual assignment equivalent to 2000 words focusing on Tender Evaluation for a building project. Students will submit a tender evaluation report.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Two hour examination,  focusing on advanced cost management theories and techniques covered during the semester.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "A minimum mark of 40% has to be achieved in the examination in order to pass this subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Peter Lawther",
+            "contact_email": "lawther.p@unimelb.edu.au"
+        }
+    ]
+}

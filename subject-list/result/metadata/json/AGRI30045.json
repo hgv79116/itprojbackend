@@ -1,0 +1,150 @@
+{
+    "overview": [
+        "<p>Precision Agriculture can be broadly defined as site-specific soil-crop or animal-specific management of agricultural production systems by leveraging on technology and data. This subject will build students\u2019 knowledge and skills in the key principles and practices of Precision Agriculture in a range of agricultural production contexts including broadacre cropping, horticulture and livestock farming. Frameworks and case studies of technological innovation, adoption and diffusion in the agricultural sector will be an integral component of the curriculum. Through a series of seminars, practicals, fieldwork excursion activities coupled with industry involvement, students will be equipped to work effectively in the increasingly networked, digital, automated and data-rich environment of primary production, and gain experience with Precision Agriculture equipment. Adopting a \u2018Big Data\u2019 perspective, students will acquire skills in agricultural/environmental data management and analysis, and their application to crops and animals</p>"
+    ],
+    "ilo": [
+        "Discuss the principles and processes of Precision Agriculture in the Australian and global context",
+        "Explain how Precision Agriculture operates in the broadacre, horticulture and livestock production contexts",
+        "Utilise selected software package(s) to apply Precision Agriculture principles for improved production efficiency and sustainability",
+        "Discuss key issues influencing Precision Agriculture innovation adoption in the context of theoretical frameworks and case studies"
+    ],
+    "generic_skills": [
+        "Respect for truth, intellectual and professional integrity",
+        "The capacity for independent critical thought, rational inquiry and self-directed learning and research",
+        "An ability to derive, interpret and analyse technical information from primary and other sources",
+        "An ability to integrate information to solve problems in applied situations",
+        "The ability to plan work, use time effectively and manage small projects",
+        "Ability to work effectively as part of a team"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20026",
+                        "Name": "Plant Growth Processes",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20035",
+                        "Name": "Applied Crop Production and Horticulture",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20036",
+                        "Name": "Ecology and Grazing Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20037",
+                        "Name": "Crop Production and Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI20038",
+                        "Name": "Principles of Soil Science",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC20001",
+                        "Name": "Animal Physiology and Growth",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BOTA20001",
+                        "Name": "Green Planet: Plants and the Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-ENVENG Master of Environmental Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quiz 1",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Practical report 1",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Quiz 2",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Practical report 2",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Case study report",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Weekly seminars (2 hours) x 12 sessions = 24 hours \n\nPracticals (2 hours) x 9 sessions = 18 hours \n\nTutorials (2 hours) x 3 sessions = 6 hours \n\n1 x one-day excursion (8 hours) = 8 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "alexis.pang@unimelb.edu.au"
+        }
+    ]
+}

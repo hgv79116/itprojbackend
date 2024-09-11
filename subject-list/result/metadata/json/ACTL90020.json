@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>Topics include loss distribution with and without risk sharing; collective risk model, calculation of moments and moment generating function of aggregate claims, recursion formulae, effect of reinsurance; individual risk model, recursion formulae and approximations; copulas; extreme value theorems; time series.</p>"
+    ],
+    "ilo": [
+        "Apply relevant pre-requisite knowledge of mathematics, probability theory and statistics in the solution of a range of practical problems.",
+        "Derive and calculate probabilities for, and moments of, loss distributions both with and without simple reinsurance arrangements.",
+        "Estimate the parameters of a loss distribution when data is complete or incomplete.",
+        "Fit a statistical distribution to a dataset and perform goodness-of-fit tests.",
+        "Construct risk models appropriate for short term insurance contracts and derive both moments and moment generating functions for aggregate claim amounts under these models with and without simple forms of proportional and excess of loss reinsurance.",
+        "Derive recursion formulae and apply approximation methods to calculate aggregate claims distributions.",
+        "Describe and apply copulas to model dependent risks.",
+        "Introduce extreme value theory and its applications in modelling the distribution of severity of loss.",
+        "Explain and concepts and general properties of several time series models."
+    ],
+    "generic_skills": [
+        "High level of development",
+        "Written skills",
+        "Problem solving",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Use of computer software"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-ACTSCEN Master of Actuarial Science (Enhanced)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Assignment 1",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Mid semester exam",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": " Final exam must be passed",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Benjamin Avanzi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours' recorded lectures, 1 hour live online tutorial, 1 hour live consultation hours.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

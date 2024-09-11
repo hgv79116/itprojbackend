@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The subject aims to introduce the students to the automation technologies, specifically: robotics and process automation. The use of robots and automated systems in carrying out various tasks will be discussed and the fundamental computational techniques associated with the operation of a robotic manipulator and a general automated system will be introduced. The subject will familiarise the students with the roles, strengths, and capabilities of robotics and automation technologies, as well as how to achieve the said capabilities.</p>",
+        "<p><strong> </strong></p>",
+        "<p><strong>INDICATIVE CONTENT<br/><br/></strong>Robotics: manipulator kinematics, including inverse and direct kinematics, manipulator velocity and static forces, trajectory planning, manipulator dynamics, linear control of manipulators and robot designs and robotic programming.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Possess the fundamental understanding of the design, kinematics and dynamics aspects of a serial manipulator",
+        "Demonstrate the understanding of the practical aspects of the implementation and deployment of a robotic automation system",
+        "Demonstrate the ability to numerically verify their robotic motion planning and control algorithm prior to physical experimentation",
+        "Gain the appreciation of the socio-economic role and impact of robotic and automation technology in the modern society."
+    ],
+    "generic_skills": [
+        "Critical thinking and critical judgement of assumptions adopted",
+        "Abstract mathematical reasoning",
+        "Interpretation and analysis of data",
+        "Application of theory to practice",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Able to clearly communicate the process and outcomes of a technical investigation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN90038",
+                        "Name": "Dynamics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination. Intended Learning Outcomes (ILOs) 1 - 3 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "This exam is a hurdle and students need to pass the exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Assignment 1 (group assessment). ILOs 1 - 3 are addressed in this assessment.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2 (group assessment). ILOs 1 - 3 are addressed in this assessment.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "8%"
+        },
+        {
+            "brief": "Assessment 3 (group assessment). ILOs 1 - 3 are addressed in this assessment.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "7%"
+        },
+        {
+            "brief": "Final group report. ILOs 1 - 4 are addressed in this assessment.",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Project demonstration (group assessment)  and oral assessment (individual assessment) during project demonstration. ILOs 1 - 4 are addressed in this assessment.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Denny Oetomo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 Hours; 24 hours of lectures, 12 hours of tutorial, 24 hours of laboratory workshop",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "doetomo@unimelb.edu.au"
+        }
+    ]
+}

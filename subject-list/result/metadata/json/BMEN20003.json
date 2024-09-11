@@ -1,0 +1,197 @@
+{
+    "overview": [
+        "<p>This subject aims to introduce students to the application of programming and computational methods to solve problems in the context of bioengineering research and industry. It introduces students to the fundamentals of software programming and computational methods via the use of programming languages. These techniques will be explored in the context of problems drawn from different aspects of bioengineering including, but not restricted to, fluid mechanics, image processing, electromagnetism, control systems, biomechanics, biomaterials, biosignals and clinical statistics.</p>"
+    ],
+    "ilo": [
+        "1. Read, write and debug small-scale numerical programs in a high-level programming language",
+        "2. Argue for the validity of such programs, from both logical and numeric-soundness perspectives",
+        "3. Translate bioengineering problems into mathematical models and numerical programs",
+        "4. Implement and utilise fundamental numerical methods to solve problems relevant to bioengineering",
+        "5. Undertake independent learning of new programming languages by appreciating and leveraging similarities in syntax and semantics"
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals",
+        "The ability to undertake problem identification, formulation and solution",
+        "A capacity for creativity and innovation",
+        "The ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "A capacity for lifelong learning and professional development"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10019: \t\n\nCalculus Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10018: \t\n\nLinear Algebra Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Biomedical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Biomedical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                    "MC-BIOMENG Master of Biomedical Engineering"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN20001 - Biomechanical Physics and Computation"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two individual programming assignments. 10% each, 10 hours per assignment. Intended Learning Outcomes (ILOs) 1 - 4 are addressed in this assessment.",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Online quizzes. 30 minutes per quiz, 3% each, 15% total.  10 quizzes held during weeks 2-11 (best 5 scores taken). ILOs 1 - 2 are addressed in this assessment.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One team-based programming project (in teams of 3 - 4) 25 hours per student. ILOs 1 - 5 are addressed in this assessment.",
+            "bullets": [
+                "25 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One 2-hour written examination. ILOs 1 - 5 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Lionel Lam",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x 1-hour lectures per week (total 36 hours)\n\n1 x 2-hour workshop per week (total 24 hours)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Lionel Lam",
+            "contact_email": "lionel.lam@unimelb.edu.au"
+        }
+    ]
+}

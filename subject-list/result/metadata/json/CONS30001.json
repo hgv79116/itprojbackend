@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>Building Information Modelling (BIM) and its associated technologies and processes can integrate the project team and facilitate high-quality and cost-efficient work. This subject will introduce BIM principles and break the jargons around BIM topic. During tutorials, students will learn about most popular BIM software in the industry and will work with the software to create and manage building project information throughout design, construction and operation phases. In other words, the subject will focus on creating 2D and 3D representations of a building information model using Autodesk Revit Software. Later, Autodesk Navisworks software will be used for 3D models checking and detecting clashes in 3D models, following by developing a 4D model (construction sequencing) and finally developing 5D model (quantity extraction) of the project. Throughout the process, students will use Autodesk Fusion Team to collaborate with their teammates and share projects documents and information.</p>",
+        "<p>This subject will involve the following software: Autodesk Revit, Autodesk Navisworks Manage.  Details of software availability and pricing are captured at <a href=\"https://msd.unimelb.edu.au/graduate-research/resources/it-support#software\">https://msd.unimelb.edu.au/graduate-research/resources/it-support#software</a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of BIM concept, its principles and challenges;",
+        "Demonstrate knowledge of BIM tools, i.e. Autodesk Revit, Navisworks, etc.",
+        "Develop 3D, 4D and 5D building information models;",
+        "Demonstrate the ability to detect clashes, construction scheduling and simulation;",
+        "Extract data from models using relevant tools;",
+        "Describe the benefits, risks, and barriers to the use of BIM applications."
+    ],
+    "generic_skills": [
+        "Correct use of technical terminology relating to BIM;",
+        "Develop 3D, 4D and 5D representations of building information;",
+        "Digital modelling skill;",
+        "Identification and familiarity with building components;",
+        "Understanding of construction documentation used in simple building type;",
+        "Effective participation as a team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "a minimum of 150 credit points ofcompleted study"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "Basic computer skills, basic knowledge of AutoCAD application skills,  basic knowledge of measurement of quantities and costing, basic knowledge of Scheduling applications (e.g. Microsoft Project)."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A report plus submission of 2D + 3D graphical representation of building information using BIM design software",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2 ( group work, 2- 3 students per group): \n\n A technical report plus submission of digital files including clash detection, construction simulation and quantity extraction, due week 11, (30%) \n\nAND \n\nIn-class presentation (10 minutes) due week 12 (10%),",
+            "bullets": [
+                "1600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An examination equivalent of 1200 words",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "A minimum mark of 40% must be achieved in the examination in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1X1 hour lecture  and 1X3 hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "mehran.oraee@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>This subject critically examines approaches to, criticisms of, and advances in interdisciplinary wellbeing-related research. Students are introduced to methodologies traditionally used within positive psychology research and related disciplines, developing skills in critically reading and engaging with the literature. Key critiques and debates in the field are examined, drawing on a range of disciplinary perspectives, with consideration around implications for applications of the science. With an eye towards the future, students are introduced to innovations in the field by leading practitioners and scholars, with collective consideration of implications for research and practice.</p>"
+    ],
+    "ilo": [
+        "Evaluate concepts, key works, scholars, and developments that have influenced the field of positive psychology.",
+        "Critique wellbeing-related research.",
+        "Analyse research and practices employed in positive psychology and wellbeing sciences.",
+        "Synthesise wellbeing-related claims clearly, critically and persuasively."
+    ],
+    "generic_skills": [
+        "Problem solving skills that are creative, innovative and solution focused.",
+        "Analytical skills and the ability to construct and articulate logical arguments.",
+        "Ability to critically investigate, revise and review new ideas and approaches.",
+        "Effective organisational and planning skills.",
+        "High level communication (oral and written) skills.",
+        "Ability to gather, interpret, and distinguish relevant supporting scientific evidence and data."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91041",
+                        "Name": "Principles of Positive Psychology",
+                        "Teaching period": "July (Online)March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written paper: Evaluating research in wellbeing science",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written essay: Critical analysis of wellbeing science",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 75% attendance at all synchronous sessions ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February - Online",
+            "principal_coordinator": "Becky Black",
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours: Comprising 12 hours of synchronous online sessions and 12 hours of asynchronous online sessions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "27 February 2024 to 30 April 2024",
+            "last_self_enrol_date": "26 February 2024",
+            "census_date": "22 March 2024",
+            "last_date_to_withdraw_without_fail": "26 April 2024",
+            "assessment_period_ends": "27 May 2024",
+            "contact_name": null,
+            "contact_email": "becky.black@unimelb.edu.au"
+        },
+        {
+            "semester": "July - On Campus",
+            "principal_coordinator": "Dan Loton",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours: Comprising 12 hours of on-campus sessions and 12 hours of asynchronous online sessions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 July 2024 to 11 October 2024",
+            "last_self_enrol_date": "22 July 2024",
+            "census_date": "16 August 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "21 October 2024",
+            "contact_name": null,
+            "contact_email": "d.loton@unimelb.edu.au"
+        }
+    ]
+}

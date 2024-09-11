@@ -1,0 +1,142 @@
+{
+    "overview": [
+        "<p>The capstone draws on theory, knowledge, and skills gained throughout the Master of Applied Positive Psychology program. Students reflect upon and further explore key learnings, identifying pathways beyond completion of the MAPP program. The subject further explores a variety of research-related approaches and issues affecting study validity.</p>",
+        "<p>Applied to the capstone project, students design a project grounded in the science of positive psychology, wellbeing, or related disciplines, within the context of their choice. Students will be expected to critically review relevant literature, document planning decisions, and consider methods for evaluating intervention/study outcomes. The subject culminates with students sharing their capstone project in written and verbal forms.</p>"
+    ],
+    "ilo": [
+        "Synthesise research employed in positive psychology and the wellbeing sciences",
+        "Translate wellbeing-related research into a context relevant to their professional or personal interests",
+        "Develop an ethically sensitive approach to study or impact upon wellbeing",
+        "Design a research-based project with clear real-world implications",
+        "Demonstrate a capacity to communicate positive psychology and wellbeing-related research clearly, critically and persuasively",
+        "Demonstrate reflective practice regarding learning and professional application"
+    ],
+    "generic_skills": [
+        "Problem solving skills which are creative, innovative and solution focused",
+        "Analytical skills and the ability to construct and articulate logical arguments",
+        "Ability to critically investigate, revise and review new ideas and approaches",
+        "Effective organisational and planning skills",
+        "High level communication (oral and written) skills",
+        "Ability to gather, interpret, and distinguish relevant supporting scientific evidence and data"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 50 credit points of study"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsEDUC91041Principles of Positive PsychologyJuly (Online)March (On Campus - Parkville)12.5EDUC90787Principles of Positive PsychologyNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91041",
+                        "Name": "Principles of Positive Psychology",
+                        "Teaching period": "July (Online)March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90787",
+                        "Name": "Principles of Positive Psychology",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Capstone project proposal",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Application insights portfolio",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Capstone oral presentation (1000 words equivalent)",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final capstone project",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "A minimum of 75% attendance at all synchronous sessions",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February - Online",
+            "principal_coordinator": "Gavin Slemp",
+            "mode_of_delivery": "Online",
+            "contact_hours": "48 hours: Comprising 24 hours of synchonous online sessions and 24 hours of asynchronous online sessions",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "29 February 2024 to 16 May 2024",
+            "last_self_enrol_date": "26 February 2024",
+            "census_date": "22 March 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "6 June 2024",
+            "contact_name": null,
+            "contact_email": "gavin.slemp@unimelb.edu.au"
+        },
+        {
+            "semester": "July - On Campus",
+            "principal_coordinator": "Gavin Slemp",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: Comprising 24 hours of on-campus sessions and 24 hours of asynchronous online sessions",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "27 July 2024 to 12 October 2024",
+            "last_self_enrol_date": "23 July 2024",
+            "census_date": "16 August 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "31 October 2024",
+            "contact_name": null,
+            "contact_email": "gavin.slemp@unimelb.edu.au"
+        }
+    ]
+}

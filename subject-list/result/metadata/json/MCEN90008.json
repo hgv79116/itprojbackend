@@ -1,0 +1,218 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject builds upon previous fluids subjects, providing students with the basic skills necessary to calculate fluid flows around bodies. Broadly speaking the subject is divided into two units; Unit 1: potential flow and Unit 2: compressible flow. These could equally be described as subsonic and supersonic aerodynamics respectively. Fluid flows have broad reaching applications in many engineering systems and examples as broad as building ventilation, mixing, as well as meteorological applications are considered in unit 1. The supersonic course is more firmly concentrated on aeronautical / astronautical applications.</p>",
+        "<p>Both units will start from the basic equations of motion governing fluid flow, and build a useable set of tools that enable the students to calculate flow fields in potential and supersonic flows. This approach will give students a clear sense of the origins of the tools that they use, and also a clear sense of the limitations. Such knowledge is necessary since these theories provided much of the backbone to early computational fluid dynamics packages used in industry.</p>",
+        "<p>The two units are strongly linked by the same goal. Throughout the potential flow unit, we build slowly from first principles, proving the utility of potential flow solutions, adding building block flows until eventually the course culminates with a demonstration of how these techniques can be used to calculate the flow (and lift coefficient) of subsonic airfoils. The supersonic unit follows a similar approach, building from first principles, until we eventually develop a set of tools that enables the calculation of the flow (and lift coefficient) of supersonic airfoils. In doing so, students will be introduced to many aspects of supersonic aircraft design.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject introduces students to analysis techniques used in subsonic and supersonic flows. Topics covered include (Unit 1) basic introduction to inviscid flow with and without vorticity; concepts and analysis using stream function and velocity potential; incompressible viscous flow past bodies with vortex shedding; magnus effect; complex velocity potential; (Unit 2) speed of sound; aerodynamic heating; normal and oblique shock waves; expansion fans; theories of thin airfoils; shock expansion theory; boundary layer and shock wave interactions; the `sound barrier\u2019; experimental techniques.</p>"
+    ],
+    "ilo": [
+        "Use complex velocity potential analysis to solve a variety of inviscid flow problems including incompressible flow past airfoils",
+        "Use Matlab to find numerical solutions of certain more complicated flow situations",
+        "Understand the basic features of subsonic airfoils, including lift, drag and stall",
+        "Apply shock expansion theory to the solution of flow in a variety of situations including prediction of lift and drag of two-dimensional bodies in supersonic flow",
+        "Apply Ackeret or linear theory to thin airfoils",
+        "Understand the basic features of supersonic airfoil designs and appreciate the differences between subsonic and supersonic airframe design."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR20005",
+                        "Name": "Numerical Methods in Engineering",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMCEN30018Thermodynamics and Fluid MechanicsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN30018",
+                        "Name": "Thermodynamics and Fluid Mechanics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Students must also meet one of the following prerequisite options:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "MCEN30005 Thermofluids 3"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two assignments of up to 2000 words each, (15% each)",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due before week 10 of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One practical laboratory report of up to 2000 words",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "students must pass the exam component to pass this subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Nicholas Hutchins",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures, 12 hours of tutorials and up to 10 hours of practical work.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "nhu@unimelb.edu.au"
+        }
+    ]
+}

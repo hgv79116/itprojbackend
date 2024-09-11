@@ -1,0 +1,147 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject is the capstone project for the Informatics major and the Computing and Software Systems major in the BSc. Students will work on a real life problem in a small team, supervised by a member of staff. Each team will analyse the information needs of users and develop working computational solutions. Students are expected to apply sound principles studied over the course of their degree to the formulation and solution of their problem.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Students will work in teams to analyse, design, implement and test a non-trivial IT system. A key part of the project is for students to develop and manage a project in order to deliver a quality IT product. Workshops will explore the application of theory to the project and include selected topics drawn from: ethics, project management, design frameworks, testing, technical reviews, and product evaluation.</p>"
+    ],
+    "ilo": [
+        "ILO 1 - Undertake problem identification, formulation and solution",
+        "ILO 2 - Communicate effectively, not only with other IT professionals, but also with the community at large",
+        "ILO 3 - Analyse, design, implement and test a system",
+        "ILO 4 - Apply IT principles to the development of non-trivial systems"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO20003",
+                        "Name": "Database Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsINFO30005Advanced Interface PrototypingSemester 1 (On Campus - Parkville)12.5SWEN30006Software Modelling and DesignSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO30005",
+                        "Name": "Advanced Interface Prototyping",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SWEN30006",
+                        "Name": "Software Modelling and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN30007",
+                        "Name": "Software Systems Project",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "SWEN30004  Software Engineering Project"
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP30016"
+            },
+            {
+                "type": "paragraph",
+                "content": "INFO30003"
+            },
+            {
+                "type": "paragraph",
+                "content": "ISYS30006"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-340"
+            },
+            {
+                "type": "paragraph",
+                "content": "615-373"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "The three major components of assessment are based on the student's ability to participate and contribute to a team-based information technology project. Students will be assessed on their ability to:\n\n\u2022 Work in small teams acting professionally and ethically\n\n\n\n\u2022 Analyse, design, implement, and test a system, following prescribed processes\n\n\n\n\u2022 Communicate effectively in written and oral presentations\n\n\n\n\u2022Contribute to team goals\n\n\n\nAssessment:\n\n\n\nThe first major component is the team's ability to conduct problem formulation and design, reporting, and to manage its processes, which includes regular reviews in workshops throughout the semester (50%). Associated work will require approximately 50-55 hours of work. This assessment addresses Intended Learning Outcomes (ILOs) 1, 2, 3 and 4",
+            "bullets": [
+                "55 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "The second major component is the team's final release of the product, 1000-2000 lines of code, submitted in week 12,   requiring approximately 30 - 35 hours of work, that assesses the team's ability to develop a non-trivial IT product using principles and techniques from computer science, software engineering, and informatics. This assessment addresses ILOs 1, 2 and 4",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "The third major component is based on the individual's contribution to the project over the course of the semester. This ongoing assessment addresses ILO 3.\n\nILOs 1, 2, and 4 are addressed by the assessment components 1 and 2 (management and project respectively)\n\n\n\nILO 3 is addressed via the project management component of item 1 the individual component of item 3.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Chris Ewin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 1-hour lecture and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "cewin@unimelb.edu.au"
+        }
+    ]
+}

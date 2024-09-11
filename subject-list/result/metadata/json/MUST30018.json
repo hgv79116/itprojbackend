@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>This subject continues to refine studio skills learned in acting, singing, and dancing to professional readiness. Students will further engage with the creation of a main stage musical production and an industry Showcase.</p>",
+        "<p>This subject is the final opportunity for students to hone their professional instrument as they prepare for entry into the musical theatre industry and as such, is a capstone experience for students. Through the development of two major performance pieces and reflection, students will deepen their performative skills at a pre-professional level.</p>"
+    ],
+    "ilo": [
+        "demonstrate advanced music theatre skills in performance;",
+        "combine skills in singing, acting and dance to professional readiness;",
+        "develop and demonstrate cooperative, collaborative skills with industry professionals in a production environment;",
+        "critically examine and reflect on the rehearsal process for a completed performance;",
+        "apply advanced studio skills to rehearsal and performance;",
+        "perform enhanced skills in developing a role, with consideration of character, style, period and their inherent vocal, acting and dance."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUST30014",
+                        "Name": "Music Theatre Studio 5",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUST30015",
+                        "Name": "Production Studio 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUST30009",
+                        "Name": "Performance Project B",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "MUST30010",
+                        "Name": "Music Theatre Combination Class 5B",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Performance Project 1 (Main Stage Musical) 40-50 minutes solo and group performance requiring approximately 80 hours of work to complete",
+            "bullets": [
+                "40-50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Reflection report",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Performance Project 2 (Showcase) 50-60 minutes solo and group performance requiring approximately 100 hours of work to complete",
+            "bullets": [
+                "50-60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "340 hours across the semester, including Development, Rehearsal and Production.",
+            "total_time_commitment": "408 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ross.hannaford@unimelb.edu.au"
+        }
+    ]
+}

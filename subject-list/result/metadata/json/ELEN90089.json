@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>Students work collaboratively in small groups to implement and optimize components in a modern communication system or network with the goal of supporting a targeted application. To meet this goal students will need to: determine system requirements based on the target application and additional constraints; propose and evaluate multiple solutions through theoretical analysis and detailed simulations; implement, integrate, verify, and iterate on their selected solutions. Lectures will cast content from prerequisite subjects into the context at hand and cover additional topics relevant to the task. Each student group is expected to demonstrate initiative and independence while pursuing the goal of designing and optimizing their communication system or network, with a key focus being that students learn through hands-on experience.</p>",
+        "<p>Students will receive early exposure to advanced topics critical to modern communication systems, such as: source and channel coding, multicarrier modulation, multiantenna transmission, and network architectures and protocols. Successful completion of the project will require the student to draw upon knowledge, understanding, and skills learned in prerequisite subjects, which may include:</p>",
+        "<ul><li>Communication Systems \u2013 analog-to-digital conversion, signal-to-noise ratio, modulation and demodulation, bandwidth/power trade-off, error probability calculations, distortion, inter-symbol interference, pulse shaping, equalization, sequence detection, and synchronization.</li><li>Signal Processing - design and implementation of digital filters (low-, high-, band-, all- pass filters); ARMA systems; up-sampling and down-sampling.</li><li>Embedded System Design \u2013 system-level programming, operating systems concepts, real-time issues, and standard software tools.</li></ul>",
+        "<p>Additional topics required for the assigned project may also be covered, such as: ideation, prototyping, and design practices; analog RF components; software packages for modelling and implementation; and the use of test &amp; measurement equipment.</p>"
+    ],
+    "ilo": [
+        "ILO1 - Apply established engineering design methodologies to assist in the design and implementation of communication systems and networks.",
+        "ILO2 - Analyse and devise solutions to communication systems and network design problems, drawing upon fundamental principles from areas such as embedded systems, signal processing, and communication systems.",
+        "ILO3 - Formulate appropriate models for predicting system performance and use to assess the relative merits of different communication techniques in achieving performance objectives.",
+        "ILO4 - Demonstrate competency with modern hardware and software frameworks for building communication systems and networks as well as an awareness of the broader context, implications and applications of such technologies in society.",
+        "ILO5 - Apply systematic approaches to the conduct and management of a relatively complex electrical engineering design project in a small team.",
+        "ILO6 - Communicate effectively with professionals across different engineering disciplines, through media such as concise technical reports and informational videos."
+    ],
+    "generic_skills": [
+        "Ability to realistically assess the scope and dimensions of a project or task, and employ appropriate planning and time management skills to achieve a substantial outcome;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry, creativity, innovation, and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large;",
+        "Ability to work effectively in a team environment in order to produce a satisfactory project outcome."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90057",
+                        "Name": "Communication Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90058",
+                        "Name": "Signal Processing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90066",
+                        "Name": "Embedded System Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "1-hour Mid-semester test. Intended Learning Outcomes (ILOs) 1-3 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of the mid-semester test and continuous individual project work assessment.  This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.  ",
+            "timing": "From Week 6 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Continuous individual assessment of project work, including peer assessment, not exceeding 40 pages per student over the semester. ILOs 2-5 are addressed in this assessment.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the total of the mid-semester test and continuous individual project work assessment.  This hurdle requirement will be set by the Board of Examiners and be no higher than 50%..",
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Submission of a final team report not exceeding 30 pages, including an individual contribution statement. Approximately 40 hours of work per team (3-4 students). ILOs 2, 3 and 6 are addressed in this assessment.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Team video presentation, 3 minutes per student. ILO 6 is addressed in this assessment.",
+            "bullets": [
+                "3 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Brian Krongold",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "16 hours of lectures, 36 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "bsk@unimelb.edu.au"
+        }
+    ]
+}

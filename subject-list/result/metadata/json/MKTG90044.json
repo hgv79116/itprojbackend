@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>It has become increasingly important to know how marketing actions translate into revenue and profit growth. The tools that enable this translation are part of a toolkit called \u201cMarketing Analytics.\u201d Marketing analytics is a technology-enabled and model-supported approach to harness customer and market data to enhance marketing decision-making. Within the big data phenomenon, new ways of analysing data (e.g. text mining), running social media experiments and gleaning insights on customers\u2019 digital behaviours have taken centre stage to inform business decision making. The methods that surround it, and the inferences derived from it have put marketing \u201con the map.\u201d Although these methods are here to stay, as big data becomes mainstream, it is fundamentally altering the way we collect and analyse data to demonstrate ROI.<br/>This course introduces new emerging analysis techniques and methods to deal with the analysing customer generated content (messaging, blogs, posts, reviews). This subject provides students with the basic understanding of methods and approaches to analyse digital marketing data to derive business and academic insights.</p>"
+    ],
+    "ilo": [
+        "Understand how to derive insights from new secondary data (e.g. text mining)",
+        "Use predictive analytics (e.g., online field experiments) to test the viability of different marketing actions",
+        "Understand how to predict the impact of marketing actions using count-, choice- at multi-level models",
+        "Segment markets of customers using a variety of segmentation methods and choose segments to target using a set of criteria",
+        "Conduct market structure analysis by mapping customers' perceptions of brands and products in a market and translate the maps into different positioning choices",
+        "Model the impact of alternative marketing mix combinations on sales, accounting for moderational shifts and interactions to optimise the mix"
+    ],
+    "generic_skills": [
+        "Critical evaluation of evidence in support of an argument or proposition",
+        "Problem solving in marketing through the application of appropriate marketing theories, principles and data",
+        "Communication of marketing and commerce related ideas, theories and solutions to peers and the wider community",
+        "Ability to synthesize ideas, theories and data in developing solutions to marketing problems",
+        "Ethical practice through a knowledge of corporate governance processes and implementation",
+        "Research skills including the retrieval of information from a variety of sources",
+        "Demonstrate a capacity to successfully engage in collaborative activities such as group-based work and activities",
+        "Interpret and communicate research results to specialist and non-specialist audiences"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-DMKTG Master of Digital Marketing"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MKTG90011",
+                        "Name": "Marketing Research",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group presentation (groups of 3\u20104 students)",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group assignment (groups of 3-4 students)",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End of semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Yilin Tsai",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36hrs (one 3-hour seminar per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "yilin.tsai@unimelb.edu.au"
+        }
+    ]
+}

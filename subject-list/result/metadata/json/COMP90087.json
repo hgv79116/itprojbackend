@@ -1,0 +1,180 @@
+{
+    "overview": [
+        "<p>This subject aims to provide students with the necessary tools to: identify social and ethical issues of digital technology particularly artificial intelligence and reason about these issues; communicate concerns, or discuss ideas, from differing points of view; and ultimately build technology with awareness of, and respect for, inclusion and the responsibility that comes with building powerful tools. Not contemplating ethical or social implications of AI and other technological tools may open up unintended consequences and risks. Ethical dilemmas can also cause additional personal stress for individuals who lack the skills to think about them reflectively. For these reasons, the growing societal and ethical problems raised by artificial intelligence and other technologies have become a major focus of many organisations, including for start-ups, government, defence, and many corporations.</p>",
+        "<p>Topics include:</p>",
+        "<ul><li>the history of artificial intelligence</li><li>established ethical theories and concepts and their relation to artificial intelligence and technology</li><li>fairness, equity, and discrimination in automated decision making</li><li>accountability, explainability, and transparency of AI</li><li>practical approaches and ethical frameworks for designing, developing and deploying technology responsibly</li></ul>"
+    ],
+    "ilo": [
+        "Understand and describe the social and ethical issues raised by technology in various contexts",
+        "Apply established ethical theories to reason about social and ethical issues related to technology",
+        "Critically examine, analyse, and apply ethical perspectives to design, develop and deploy of digital technologies responsibly",
+        "Communicate perspectives to other technical professionals and the community at large",
+        "Demonstrate a profound respect for that fact that just because you can, does not mean you should create a technology"
+    ],
+    "generic_skills": [
+        "Ability to analyse and interpretative complex information",
+        "Ability to undertake problem identification, formulation, and solution",
+        "High-level design skills, through proposing new uses of technology to support human activity",
+        "Ability to communicate ideas in oral and verbal forms to different audiences",
+        "Capacity for creativity and innovation ability to communicate effectively with both technical people and the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR30004",
+                        "Name": "Numerical Algorithms in Engineering",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent introductory programming and algorithms experience"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CS Master of Computer Science",
+                    "MC-SCICMP Master of Science (Computer Science)",
+                    "MC-DATASC Master of Data Science",
+                    "MC-SOFTENG Master of Software Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering",
+                    "Software specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Software with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                    "100pt Program course entry point in the MC-IT Master of Information Technology",
+                    "150pt Program course entry point in the MC-IT Master of Information Technology"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90051",
+                        "Name": "Digital Impacts on Business and Society",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ISYS90095",
+                        "Name": "Emerging Technologies in Organisations",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Tutorial participation  and contributions to online discussion. Two hours per week. Intended Learning Outcomes (ILO's) 1 to 4 are addressed by tutorial participation and contributions to online discussion.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Critical evaluation essay. ILO's 1 to 5 are addressed in the essay.",
+            "bullets": [
+                "35-45 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Research essay. Due first week of examination period.\n\nILO's 1 to 5 are addressed in the essay.",
+            "bullets": [
+                "35-45 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Exam. ILO's 1 and 2 are addressed in the exam.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Simon Coghlan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising one 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Simon Coghlan",
+            "contact_email": "simon.coghlan@unimelb.edu.au"
+        }
+    ]
+}

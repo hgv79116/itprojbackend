@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>Effective management of animal systems requires an appreciation of the context in which that management is carried out. This context may be predominantly social, environmental or commercial or combinations thereof. The application of scientific knowledge in conjunction with an appreciation of context, individual- or societal-goals is the domain of systems analysis and thinking. This subject aims to develop the skills required to analyse these interactions and support decision-making in animal enterprises. Students will examine real world situations, and align the scientific with the social. Assessment work will see students required to clearly identify problems to be solved, analyse options for solving the problems and then provide evidence based assessment to support their decisions. It is designed to enable students to work effectively with the owners and managers of animal businesses in bringing about change in their system.</p>"
+    ],
+    "ilo": [
+        "A basic understanding of animal systems theory and practice",
+        "Experience in practical situation analysis and skills in problem solving, in 'real world' settings",
+        "An understanding of the economic framework that underpins animal industries",
+        "The opportunity to apply knowledge gained earlier in their course to solving practical problems associated with animal industries"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills",
+        "Capacity to tackle unfamiliar and complex problems",
+        "Ability to think systemically and integrate knowledge from different disciplines",
+        "Communication skills, through written and oral presentations to a \u2018client\u2019",
+        "Quantitative analysis skills",
+        "Ability to plan work, be efficient in time management and deliver results within a prescribed time line"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI30030",
+                        "Name": "Livestock Production Systems",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ANSC30001",
+                        "Name": "Animal Disease Biotechnology 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC30003",
+                        "Name": "Applied Animal Behaviour",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC30004",
+                        "Name": "Applied Animal Reproduction & Genetics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 2 (On Campus - Dookie)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI30003",
+                        "Name": "Agricultural Systems Analysis",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Case study report due approximately in week 6",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written report and dissemination summary on industry problem (student choice)",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Case study report due approximately in week 12",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Peta Taylor",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours of lectures, and up to 30 hours practical/field work",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "peta.taylor@unimelb.edu.au"
+        }
+    ]
+}

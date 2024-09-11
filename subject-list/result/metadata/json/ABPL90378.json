@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p><em>DF_Lab: Designing Making </em>is part of the Digital Design and Fabrication Electives, which offer students the opportunity to build and demonstrate expertise and competence in the understanding and application of contemporary design tools that inform and shape students\u2019 design process and thinking. Digital Design and Fabrication Electives are based on a culture of experimenting and making \u2013 applying contemporary design and making tools to create advanced physical and digital artefacts and environments. For more detailed information concerning the respective tutors, design approaches and previous examples as well as other offerings in the Digital Design and Fabrication Electives suite please check on the ADD+F Research Hub website under teaching and learning: <a href=\"https://msd.unimelb.edu.au/addf\">https://msd.unimelb.edu.au/addf</a></p>",
+        "<p><em>DF_Lab</em> introduces students to the use of software and hardware components, which are used in leading design practices today and are becoming increasingly important tools for future practice in architecture, landscape architecture and construction. The design process may involve the development and design of bespoke machines for fabrication.</p>",
+        "<p>DF_Lab students learn and demonstrate the capability to prototype, using digital design and fabrication techniques, including e.g. laser cutters, 3d printers and CNC routers, combined with physical computing devices to augment existing fabrication techniques. Students will design and reimagine fundamental architectural elements and demonstrate how digital fabrication technologies are able to re-define and re-invent tectonic, aesthetic and performative qualities of fabricated building components.</p>",
+        "<p><strong>NOTE: </strong> This subject has a quota of 16.  See \u201cAdditional delivery details\u201d under \u201cDates and Times\u201d for more information.</p>"
+    ],
+    "ilo": [
+        "Identify emerging digital trends in practice",
+        "Develop design ideas through rapid prototyping",
+        "Demonstrate an understanding of design tools such as grasshopper, arduino and their direct application into a final design product.",
+        "Communicate design solutions by means of sketches, drawings and oral presentations."
+    ],
+    "generic_skills": [
+        "Written, verbal and visual presentation of ideas",
+        "Time management, including designing within specific time frames",
+        "Methods of documentation",
+        "Critical thinking and analysis",
+        "Ability to understand construction constraints and strategies using digital and physical modelling"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-ARCH Master of Architecture",
+                    "MC-LARCH Master of Landscape Architecture",
+                    "MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                    "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                    "MC-ARCHUD Master of Architecture/Master of Urban Design"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "No knowledge of coding or computer programming is required."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Design  review",
+            "bullets": [
+                "18- 20 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Design Review 2",
+            "bullets": [
+                "18-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final Design Review with verbal presentation",
+            "bullets": [
+                "62- 66 hours (of work required)"
+            ],
+            "hurdle": "Hurdle: Final submission needs to be verbally presented and final design be passed in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Design Journal",
+            "bullets": [
+                "25- 27 hours (of work required)"
+            ],
+            "hurdle": "",
+            "timing": "During the assessment period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "26 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "22 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "overview": [
+        "<p>This subject, conducted in the clinical, community and university setting, will provide students with an opportunity to develop their clinical skills and to integrate their theoretical knowledge in lifespan (paediatric and gerontology) physiotherapy clinical practice. The emphasis in this subject is the application of clinical reasoning and evidence-based practice in the safe and effective management of individuals across the lifespan in the clinical setting. This includes working within a team to provide person and family-centred care.</p>"
+    ],
+    "ilo": [
+        "Integrate prior knowledge of paediatric and geriatric physiotherapy, common paediatric and geriatric conditions, and the framework for clinical reasoning to the assessment and management of individuals across the lifespan.",
+        "Implement theoretical frameworks for clinical reasoning in paediatric and geriatric physiotherapy in selecting appropriate problems, goals, assessments, and approaches to treatment in the clinical setting",
+        "Safely and effectively demonstrate and interpret assessment techniques, including history taking, observational movement analysis, objective measures of impairment, activity limitations and participation restrictions across the lifespan.",
+        "Select, justify and demonstrate safe and effective physiotherapy interventions to address impairments, activity limitations and participation restrictions in collaboration with the patient and their family.",
+        "Use findings of high-quality clinical research to inform clinical decision-making in assessment and treatment of patients across the lifespan.",
+        "Demonstrate accurate and effective verbal, non-verbal and written communication skills within the clinical setting, including the ability to develop rapport and accommodate the cognitive, linguistic and cultural needs of the individual and their family/carers.",
+        "Demonstrate an understanding of the patients' rights, medicolegal requirements, and sociocultural preferences, and effectively engage in patient education and advocacy.",
+        "Identify the factors critical to effective time and resource management in the clinical setting and implement strategies addressing these factors within individual treatment sessions and caseload management.",
+        "Develop short-term and long-term treatment goals with the patient (or family/carers as appropriate) with discharge planning designed to meet these goals within existing constraints.",
+        "Articulate the role of the physiotherapist within the multidisciplinary team and demonstrate capacity to work effectively within the team in a clinical setting."
+    ],
+    "generic_skills": [
+        "Responding constructively to feedback",
+        "Accessing new knowledge from all sources, analysing and interpreting it in a critical manner, and applying it appropriately",
+        "Recognising and managing emotions in self and others",
+        "Recognising the role of teamwork and demonstrating the capacity to work effectively within the team",
+        "Communicating empathy, compassion, honesty, integrity and altruism"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHTY90117Integrated Professional Practice AFebruary (On Campus - Parkville)31.25PHTY90089Neurological PhysiotherapySemester 2 (Early-Start) (On Campus - Parkville)12.5PHTY90090Musculoskeletal PhysiotherapyJuly (On Campus - Parkville)12.5PHTY90091Cardiorespiratory PhysiotherapyJuly (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90117",
+                        "Name": "Integrated Professional Practice A",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "31.25"
+                    },
+                    {
+                        "Code": "PHTY90089",
+                        "Name": "Neurological Physiotherapy",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90090",
+                        "Name": "Musculoskeletal Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90091",
+                        "Name": "Cardiorespiratory Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90118",
+                        "Name": "Physiotherapy Clinical Practice A",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90119",
+                        "Name": "Physiotherapy Clinical Practice B",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90120",
+                        "Name": "Physiotherapy Clinical Practice C",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Paediatric Community Placement log",
+            "bullets": [
+                "16 hours"
+            ],
+            "hurdle": "Students must complete Paediatric Community Placement log to pass subject",
+            "timing": "On completion of community placement hours",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Experiential Paediatric Clinical Placement: Assessed using Professional Behaviour Grading Form",
+            "bullets": [
+                "92 hours"
+            ],
+            "hurdle": "Students must complete Experiential Paediatric Clinical Placement: to pass subject",
+            "timing": "End of paediatric clinical placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "ePortfolio task 1",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of paediatric clinical placement",
+            "percentage": "20%"
+        },
+        {
+            "brief": "ePortfolio task 2",
+            "bullets": [
+                "1125 words"
+            ],
+            "hurdle": null,
+            "timing": "Submitted on completion of both clinical & community placements",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Gerontology placement: continuous clinical assessment using Assessment of Physiotherapy (APP) tool",
+            "bullets": [
+                "122 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of gerontology clinical placement",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Gerontology Case Presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the last week of clinical placement",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "304 hours",
+            "teaching_period": "15 January 2024 to 15 November 2024",
+            "last_self_enrol_date": "26 January 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "overview": [
+        "<p>In this unit, speech production development and speech production disorders from infancy through childhood to adolescence and adulthood will be presented. In relation to disorder, Developmental, Syndromic/Genetic, Neurodegenerative/Movement and Acquired speech production disorders will be the focus of study. Traditional and current approaches to the investigation of speech disorders across the lifespan will be included. The unit will focus on the description, assessment, differential diagnosis and treatment of speech disorders. The course will also cover the impact of speech disorders on impairment, activity and participation (using the WHO International Classification of Functioning, Disability and Health framework) within the context of school achievement and peer, family, and work relationships.</p>"
+    ],
+    "ilo": [
+        "Describe approaches to assessment and treatment for speech disorders;",
+        "Recognise and suggest of a range of speech assessments appropriate for different age groups",
+        "Evaluate and interpret speech assessment data",
+        "Both describe and differentiate speech disorders across the lifespan",
+        "Discriminate intervention options, considering scientific evidence alongside client, family and service delivery (e.g. health promotion, prevention, tertiary service delivery) contexts",
+        "Apply methods for determining appropriate intervention goals for individuals in collaboration with clients and their caregivers",
+        "Identify methods for monitoring intervention progress and evaluating intervention outcomes."
+    ],
+    "generic_skills": [
+        "an ability to evaluate and synthesise information in a flexible manner",
+        "a capacity to articulate their knowledge in both oral and written formats"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT90011",
+                        "Name": "Anatomy and Physiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90025",
+                        "Name": "Communication Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90027",
+                        "Name": "Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LING90033",
+                        "Name": "Linguistics for Speech Pathology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90028",
+                        "Name": "Swallowing and Voice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90029",
+                        "Name": "Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90030",
+                        "Name": "Language Disorders Across the Lifespan",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90032",
+                        "Name": "Speech Pathology Practice 1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written  report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the written exam in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "miya.stjohn@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject will examine the roles of both genetic and environmental determinants in the expression of complex disease traits and cancer. Principles of genetic and genomic testing will be investigated and students will learn to apply these in clinical case-based scenarios.</p>",
+        "<p><em>This curriculum is based on the genetic knowledge requirements of the Human Genetics Society of Australasia (HGSA Board of Censors for Genetic Counselling, which governs the certification of genetic counsellors in Australia. The course will be delivered via a combination of on-line content and case-based face-to-face tutorials.</em></p>"
+    ],
+    "ilo": [
+        "Explain the normal stages of human embryo development and have an awareness of how this can be disrupted;",
+        "Explain the role of genetic & environmental determinants in complex human diseases;",
+        "Analyse patient & family history to assess inherited cancer predisposition;",
+        "Describe the difference between a variety of genetic and genomic tests, and the clinical context within which each is appropriate;",
+        "Interpret and apply genetic and genomic reports to develop sound clinical recommendations;",
+        "Explain the genetic screening and diagnostic testing options within the prenatal context, including the application of preimplantation genetic diagnosis within the IVF setting;",
+        "Explain the role of clinical assessment and genetic/genomic testing in the field of dysmorphology, intellectual disability and developmental delay."
+    ],
+    "generic_skills": [
+        "Understand the role of genetics as the underlying cause of various disorders of the human body",
+        "Understand the role of genetics in cancer",
+        "Have an appreciation for the role of the genetic counsellor in the context of the multidisciplinary approach to clinical genetic health care",
+        "Understand the principles of the legal and professional duties and responsibilities of genetic healthcare providers as health professionals",
+        "Have an appreciation for the approaches to treatment for specific genetic disorders"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE90001",
+                        "Name": "Human Genetics & Genomics in Healthcare",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "with a minimum grade of H2B (70%) or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written task",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written task",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written task",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Open Book Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

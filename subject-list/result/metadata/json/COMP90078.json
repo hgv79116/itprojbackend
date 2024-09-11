@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>Students undertake a year-long (full-time equivalent) research project under the supervision of academic staff from the School of Computing and Information Systems.</p>",
+        "<p>For a full-time enrolment, the subject continues over two consecutive study periods (full-time) with students enrolling in parts 1 and 2 in one study period, and then parts 3 and 4 in the consecutive study period, for a combined total enrolment of 100 credit points. To enable part-time study, part-time students may take one subject in a single semester. A mark for the subject/s will not be awarded until the entire 100 points of enrolment has been completed. All subjects are offered in both semester 1 and 2.</p>",
+        "<p>Satisfactory completion of the research proposal (in parts 1 and 2) is required to progress to parts 3 and 4.</p>",
+        "<p>Information provided on this page applies to all 'parts' of the subject:</p>",
+        "<ul><li>Computer Science Research Project Pt 1 (25 pts)</li><li>Computer Science Research Project Pt 2 (25 pts)</li><li>Computer Science Research Project Pt 3 (25 pts)</li><li>Computer Science Research Project Pt 4 (25 pts)</li></ul>"
+    ],
+    "ilo": [
+        "Demonstrate research maturity by independently carrying out a substantial research project, involving identification of an appropriate research question, planning and execution of experimental or theoretical research, and synthesis of research findings",
+        "Identify, interpret and critically evaluate relevant research and theory in computer science",
+        "Report research findings in both written and oral forms",
+        "Demonstrate an understanding of, and responsibly apply, ethical principles and procedures in research"
+    ],
+    "generic_skills": [
+        "Have the ability to demonstrate advanced independent critical enquiry, analysis and reflection",
+        "Have a strong sense of intellectual integrity and the ethics of scholarship",
+        "Have in-depth knowledge of their specialist discipline(s)",
+        "Reach a high level of achievement in writing, project activities, problem-solving and communication",
+        "Be critical and creative thinkers, with an aptitude for continued self-directed learning",
+        "Be able to examine critically, synthesise and evaluate knowledge across a broad range of disciplines",
+        "Have a set of flexible and transferable skills for different types of employment"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CS Master of Computer Science"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 100 credit points of study"
+            },
+            {
+                "type": "paragraph",
+                "content": "Computer Science Research Project Parts 1 and 2 are prerequisites to Computer Science Research Project Parts 3 and 4."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A research proposal, including research objectives, research plan, and literature review outlining state-of-the-art in the chosen research topic (4000-6000 words)\n\nThis is due in week 8 for full time students and due in week 16 for part time students. Intended Learning Outcomes (ILOs) 1-3 are addressed in this assessment.",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": "Must be passed in the subject parts 1 and 2 to proceed to parts 3 and 4.",
+            "timing": "Week 8 (full-time) \n\n\n\nWeek 16 (part-time)",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A 10-15-minute oral presentation outlining research objectives and research progress. This is due in week 11 (for full time students) or week 22 (for part time students). ILO 3 is addressed in this assessment.",
+            "bullets": [
+                "10-15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11 (full-time) \n\n\n\nWeek 22 (part-time)",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A written thesis of approximately 25,000-30,000 words. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "25,000-30,000 words"
+            ],
+            "hurdle": "This must be passed to pass the subject.",
+            "timing": "Final week of the project.",
+            "percentage": "65%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Students are required to undertake approximately 1600 hours of investigative work, over two study periods (full-time) or three-four study periods (part-time). This is the total time commitment over part 1-4 of this subject.",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "2 January 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "jeyhan.lau@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Students are required to undertake approximately 1600 hours of investigative work, over two study periods (full-time) or three-four study periods (part-time). This is the total time commitment over part 1-4 of this subject.",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "1 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "jeyhan.lau@unimelb.edu.au"
+        }
+    ]
+}

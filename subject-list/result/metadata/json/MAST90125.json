@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>Bayesian inference treats all unknowns as random variables, and the core task is to update the probability distribution for each unknown as new data is observed. After introducing Bayes\u2019 Theorem to transform prior probabilities into posterior probabilities, the first part of this subject introduces theory and methodological aspects underlying Bayesian statistical learning including credible regions, prior choice, comparisons of means and proportions, multi-model inference and model selection. The second part of the subject will cover practical implementations of Bayesian methods through Markov Chain Monte Carlo computing and real data applications, focusing on (generalised) linear models and concluding by exploring machine learning techniques such as Gaussian processes.</p>"
+    ],
+    "ilo": [
+        "An understanding of selected advanced topics in Bayesian statistics;",
+        "Developed the mathematical and computational skills needed for further research or applied work in statistics and data science;",
+        "Preparation for a research or industry career in statistics and data science;",
+        "Familiarity with several major texts in Bayesian statistics."
+    ],
+    "generic_skills": [
+        "In addition to learning specific skills that will assist students in their future careers in science, they will have the opportunity to develop generic skills that will assist them in any future career path. These include:\n\n- problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;\n\n- analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;\n\n- collaborative skills: the ability to work in a team;\n\n- time-management skills: the ability to meet regular deadlines while balancing competing commitments"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "12.5 credit points of level 3 subject in statistics or stochastic processes which could include one of the below:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST30001Stochastic ModellingSemester 2 (On Campus - Parkville)12.5MAST30025Linear Statistical ModelsSemester 1 (On Campus - Parkville)12.5MAST30027Modern Applied StatisticsSemester 2 (On Campus - Parkville)12.5MAST30020Probability for InferenceSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30001",
+                        "Name": "Stochastic Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30025",
+                        "Name": "Linear Statistical Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30027",
+                        "Name": "Modern Applied Statistics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30020",
+                        "Name": "Probability for Inference",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment, up to 15 pages (approx. 10 hours time commttiment)",
+            "bullets": [
+                "15 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignment, up to 20 pages (approx. 15 hours time commttiment)",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written assignment, up to 10 pages (approx. 5 hours time committment)",
+            "bullets": [
+                "10 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total of 36 contact hours: 2 x 1 hour lectures and 1 x 1 hour computer lab per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "qguoqi@unimelb.edu.au"
+        }
+    ]
+}

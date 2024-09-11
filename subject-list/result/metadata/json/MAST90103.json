@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p>Random matrix theory is a diverse mathematical tool. It draws together ideas from linear algebra, multivariate calculus, analysis, probability theory, group and representation theory, differential geometry, combinatorics and mathematical physics. It also enjoys a wide number of applications, ranging from wireless communication in engineering, to time series analysis in statistics, quantum chaos and quantum field theory in physics, to the Riemann zeta function zeros and prime numbers in number theory. A self contained development of random matrix theory will be undertaken in this course from various viewpoints.</p>",
+        "<p>Topics to be covered include:</p>",
+        "<ul><li>Gaussian random matrix models and their application in likelihood analysis and modelling covariance matrices in time series analysis;</li><li>eigenvalue densities and the concept of eigenvalue repulsion;</li><li>classification of random matrices ensembles;</li><li>derivation of Jacobians for matrix transformations such as diagonalisations;</li><li>joint eigenvalue densities and correlation functions;</li><li>orthogonal polynomials and the concept of determinantal point processes;</li><li>supersymmetry and non-linear sigma-models;</li><li>the log-gas picture;</li><li>free probability theory and its application to matrix sums and products.</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Identify the objectives of random matrix theory from the viewpoint of mathematical physics, and other areas of mathematics such as probability theory and mathematical statistics;",
+        "Compute matrix Jacobians, apply the concepts of joint eigenvalue probability density functions, correlation functions, and spacing distributions, and understand their relevance to random matrix theory;",
+        "Demonstrate comprehension of how the symmetry classification is related to matrix (Lie-)groups;",
+        "Explain the basic ideas of the techniques of orthogonal polynomials, supersymmetry, loop equations, moment method and free convolutions in the analysis of random matrices; and",
+        "Use integral transforms to study global and local statistical quantities."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30021Complex AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30031",
+                        "Name": "Methods of Mathematical Physics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 40 hours of assignments (four assignments worth 10% each, due at equally spaced intervals throughout the semester).",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "m.kieburg@unimelb.edu.au"
+        }
+    ]
+}

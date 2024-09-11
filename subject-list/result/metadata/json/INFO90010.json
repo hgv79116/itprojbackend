@@ -1,0 +1,156 @@
+{
+    "overview": [
+        "<h4>AIMS</h4>",
+        "<p>This subject involves an in-depth innovation investigation under the supervision of a member of the academic staff and in the context of the University's engagement initiatives. Students working in groups will be required to perform research, customer and problem discovery, ideation, concept creation and validation, and technical implementation for a real-world challenge. The subject also provides students with skills and knowledge for improving written and oral communication.</p>",
+        "<h4>INDICATIVE CONTENT</h4>",
+        "<p>Indicative content includes innovation methodology, customer &amp; problem discovery, customer &amp; problem validation, innovation experiments, and innovation presentations.</p>"
+    ],
+    "ilo": [
+        "Work independently as part of an interdisciplinary team to complete a technical innovation project",
+        "Collect and critically analyse a range of data about people and their problems, and create innovation hypotheses from this data",
+        "Validate innovation hypotheses",
+        "Conceptualise, design, and implement an innovative and technology-based solution to the identified problem",
+        "Present technical solutions to non-technical stakeholders in both written and oral forms"
+    ],
+    "generic_skills": [
+        "Be able to undertake customer & problem discovering, problem formulation and solution",
+        "Have a capacity for independent critical thought, innovative inquiry and self\u2010directed learning",
+        "Have a profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "Be able to present work in written form; and",
+        "Be able to present work orally and answer questions about it"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "with a Weighted Average Mark (WAM) of at least 70"
+            },
+            {
+                "type": "paragraph",
+                "content": "The 50 points excludes:\n COMP90007 Internet Technologies;\n COMP90038 Algorithms and Complexity;\n COMP90041 Programming and Software Development;\n SINF90001/INFO90002 Database Systems and Information Modelling."
+            },
+            {
+                "type": "paragraph",
+                "content": "If you meet this criteria please complete an Enrolment Variation form.  Subject Coordinator approval is NOT required."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90055",
+                        "Name": "Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "COMP90082",
+                        "Name": "Software Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "ISYS90082",
+                        "Name": "Industry Based IT Experience Project",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "SWEN90013",
+                        "Name": "Masters Advanced Software Project",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP90019 - Distributed Computing Project"
+            },
+            {
+                "type": "paragraph",
+                "content": "COMP90028 - Information Technology Research Project"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A group of four project proposal. Approximately 20 hours per student. Due end of week 1. Intended Learning Outcomes (ILOs) 1 - 5 are assessed as part of the proposal.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": "Students must pass the project proposal to pass the subject.",
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A 15 minute group of four presentation. Approximately 10-15 hours of preparation per student. ILOs 3, 4 and 5 are assessed in this presentation.",
+            "bullets": [
+                "10-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A group of four project progress report. Approximately 80 hours of work per student. ILOs 1 - 5 are assessed in this report.",
+            "bullets": [
+                "80 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A technology innovation solution. Approximately 50 hours of work per student. ILOs 3, 4 and 5 are assessed in this presentation.",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A 20 minute group of four presentation. Approximately 15-20 hours of preparation per student. ILOs 3, 4 and 5 are assessed in this presentation.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A final group project report, with an individual reflection for each student. Approximately 150 hours of work per student. ILOs 1 - 5 are assessed in this report.",
+            "bullets": [
+                "150 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 2 hour weekly lecture; 1 x 2 hour weekly workshop",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Jenny Waycott",
+            "contact_email": "jwaycott@unimelb.edu.au"
+        }
+    ]
+}

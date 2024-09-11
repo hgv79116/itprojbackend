@@ -1,0 +1,82 @@
+{
+    "overview": [
+        "<p>Data analytics have become an invaluable part of managing institutions, not only for profitability but also for safeguarding the organization against risk. In this component, students will study the data-based analytical models and methods used to manage risk in contemporary business. Topics include the modelling and computation of market risk, portfolio management, measuring credit risk and understanding operational risk. The focus of the component will be on both the theoretical development and the practical implementation using contemporary data in important scenarios.</p>"
+    ],
+    "ilo": [
+        "Apply data analytics skills to the context of measuring and managing risk both in financial and organizational contexts.",
+        "Understand the key challenges and appreciate the uncertainty that is inherent in risk management.",
+        "Possess literacy in the technical aspects of contemporary risk analytics."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBUSA90541Predictive Business AnalyticsMay (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90541",
+                        "Name": "Predictive Business Analytics",
+                        "Teaching period": "May (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "In-class quizzes",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Syndicate assignment",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students are required to pass the final exam to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "October",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "7 October 2024 to 29 November 2024",
+            "last_self_enrol_date": "17 October 2024",
+            "census_date": "25 October 2024",
+            "last_date_to_withdraw_without_fail": "15 November 2024",
+            "assessment_period_ends": "6 December 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

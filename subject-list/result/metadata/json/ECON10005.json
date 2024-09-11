@@ -1,0 +1,168 @@
+{
+    "overview": [
+        "<p>This subject covers the core concepts which underpin quantitative decision analysis in the various specialisations within the faculty. It provides a foundation for all second-year quantitative subjects in the commerce degree. The topics covered are drawn from financial mathematics; measures of location and dispersion; probability, random variables and expected values; sampling design; estimation and testing using the normal and t-distribution; and simple regression and correlation. Excel is used to illustrate applications in accounting, economics, finance, management and marketing.</p>"
+    ],
+    "ilo": [
+        "Graph economic data using methods that facilitate analysis.",
+        "Explain concepts relevant for summarising and interpreting data.",
+        "Explain how the concepts of random variables and probability distributions are useful for drawing inferences.",
+        "Explain the concepts of population, samples and sampling distributions.",
+        "Estimate unknown population quantities and test hypotheses about them.",
+        "Conduct simple regression analysis to model the relationship between variables and draw inferences about relationships.",
+        "Apply common analytical techniques relevant for financial decision making."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; synthesis of data and other information; evaluation of data and other information; use of computer software; accessing data and other information from a range of sources.",
+        "Moderate level of development: oral communication; written communication; critical thinking; receptiveness to alternative ideas.",
+        "Some level of development: collaborative learning; team work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the B-COM Bachelor of Commerce"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10012Introduction to MathematicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10012",
+                        "Name": "Introduction to Mathematics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10010",
+                        "Name": "Data Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10011",
+                        "Name": "Experimental Design and Data Analysis",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students intending to major in Actuarial Studies should not enrol in this subject."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 (Individual Assignment)",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "3%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2 (Group Assignment)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "7%"
+        },
+        {
+            "brief": "Weekly online quiz",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Tutorial attendance",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "lakminik@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jenny.williams@unimelb.edu.au"
+        }
+    ]
+}

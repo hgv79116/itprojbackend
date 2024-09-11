@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>The purpose of this subject is to enable students who have completed voluntary external programming, systems/software or schools-based work during their course, that has not received credit elsewhere, to receive credit for this volunteer experience through the development of a retrospective and reflective portfolio of the experience and their work outcomes. This is to encourage students to take on volunteer work and for students to reflect on their experience, such as in open source projects or school volunteering. <br/><br/>Students must seek subject coordinator approval to enrol in the subject and must contact subject coordinator before week 1 to discuss enrolment. <br/><br/>Students must identify their own volunteer experience and have completed this experience before the semester begins. <br/><br/>Students who have completed significant volunteer experience or open-source contributions, in an information technology or information systems capacity, not undertaken within an MSE organised internship, cannot receive credit for this subject. <br/><br/>To participate in this subject, a student must first demonstrate completion of one of the following: <br/><br/>1. Software: Unpaid development of publicly available, open source, based on an extracurricular or independent activity, including working on a volunteer basis with a non-profit organisation </p>",
+        "<p><br/>2. Industry-based Work: Unpaid industry-based information technology/systems work that had a specific outcome</p>",
+        "<p><br/>3. School-based Activity: Unpaid Engagement with a school and activities that are based in problem solving for programming or other technology-based engagement activities</p>",
+        "<p><br/>The nature of the activity is not prescribed but is assessed based on the volume of work and the outcomes of the project. Through use of a reflective portfolio, the student will provide evidence that typically includes: <br/><br/>1. Software: The student must provide information about the application or other relevant artefact, and temporal information about release updates, codebase size, server logs, app store statistics, etc.</p>",
+        "<p><br/>2. Industry-based work: The student must demonstrate understanding of the industry processes and show how they have been involved in these processes </p>",
+        "<p><br/>3. School-based activity: The student must demonstrate engagement with a school and activities that are based in problem solving activity for programming, programming itself, or other     technology-based engagement activities <br/><br/>The portfolio will include a reflective component to enable students to consider the completed project both from the point of view of the project itself, as well as the volunteer experience. <br/><br/>All work must be verifiable as that of the student, and that the work was unpaid/voluntary and not part of any paid work or internship. Evidence of the student contribution is required. <br/>The module accredits volunteer work that has been completed during the time that the student is enrolled in their course, and students can only enrol with the approval of the subject coordinator, after delivery of a draft portfolio in the first two weeks of the semester.</p>"
+    ],
+    "ilo": [
+        "Understand the value of industry networks and their importance on life skills such as reflection, self-reliance and critical thinking",
+        "Identify and articulate the knowledge and skills acquired from the relevant internship context and work setting",
+        "Demonstrate links to the specific area and project undertaken to professional and educational pathways",
+        "Reflect on the experience and outcomes and articulate the academic and career development outcomes",
+        "Apply established IT/IS methods to IT/IS problem solving"
+    ],
+    "generic_skills": [
+        "Demonstrated flexibility, adaptability, time management and organisational skills as a result of participation in the workplace",
+        "Communicating effectively in a professional workplace",
+        "Academic writing",
+        "Working with and interact with a wide range of people inside and outside the host organisations, including working in teams",
+        "Understanding of organisational culture and ethics, work practices, and workplace diversity",
+        "Demonstrated report writing skills",
+        "Capacity for reflection, critical thinking, working in groups",
+        "Time management skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Subject coordinator approval is required to enrol."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90033",
+                        "Name": "Internship",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)Summer Term (Dual-Delivery - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Portfolio Development Planning Document. Intended Learning Outcome (ILO) 1 is addressed in the planning document.",
+            "bullets": [
+                "10-15 hours (of work required)"
+            ],
+            "hurdle": "A draft planning document for preliminary assessment must be submitted and approved. ",
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Portfolio Structure with reflective outline. ILO's 2, 3 and 4 are addressed in the portfolio structure.",
+            "bullets": [
+                "10-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Portfolio with reflective component. ILO's 2, 3, 4 and 5 are addressed in the portfolio.",
+            "bullets": [
+                "3500-4000 words"
+            ],
+            "hurdle": "The portfolio is a hurdle and must be passed to pass the subject.",
+            "timing": "Week 14",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

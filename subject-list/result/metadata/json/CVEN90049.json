@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p>This subject introduces more advanced methods of structural analysis and design, and their applications to the engineering of reinforced concrete and structural steel in compliance with the standards. Students will be given the opportunity to integrate the use of different materials into the design of contemporary structures through design projects. This subject would typically be that final subject in the sequence of structural engineering subjects for civil engineering students who do not want to specialise in structural engineering.</p>",
+        "<p>Topics covered include: structural analyses of beams and frames by the stiffness matrix method; finite element analyses; computer analysis using commercial software package; structural design of reinforced concrete beams, slabs and columns; structural design of steel beams, columns and connections; consideration of sustainability in structural design.</p>"
+    ],
+    "ilo": [
+        "ILO1 - Apply direct stiffness methodology to the analysis of indeterminate structures, such as continuous beams, moment-resisting frames and trusses",
+        "ILO2 - Apply finite element methodology to analyse structural elements",
+        "ILO3 - Use commercial structural analysis packages to analyse structures",
+        "ILO4 - Assess structural elements by applying structural principles in accordance with Australian Standards",
+        "ILO5 - Describe the behaviour of prestressed concrete beams under serviceability and ultimate conditions",
+        "ILO6 - Design complex structures using a combination of materials in accordance with Australian Standards",
+        "ILO7 - Identify opportunities for greener and more resilient approaches to structural solutions."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to complex problems and to design for operational performance",
+        "Proficiency in engineering design",
+        "Ability to conduct an engineering project",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN30009",
+                        "Name": "Structural Theory and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10 Weekly quizzes worth 1% each of 5 min  (10 x 5 mins). Intended Learning Outcomes (ILOs) 1, 2 and 4-6 are addressed in this assessment.",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Seven continuous group assessments to be completed by a group of 5 students during the workshop, contributing towards the design project. ILOs 1, 3 \u2013 7 are addressed in these assessments",
+            "bullets": [
+                "1 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "7%"
+        },
+        {
+            "brief": "Design project - Conceptual design report to be completed by a group of 5 students. Workload equivalent to 400 words per student. ILOs 1, 3 \u2013 7 are addressed in this assessment.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "8%"
+        },
+        {
+            "brief": "Design project \u2013 Detailed design report to be completed by a group of 5 students. Workload equivalent to 750 words per student, ILOs 1, 3 \u2013 7 are addressed in this assessment.",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Design project- 5 minutes oral presentation on the detailed design, individual assessment. Workload equivalent to 500 words, ILOs 1, 3 \u2013 7 are addressed in this assessment",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written assignment - 500 words literature review, individual assessment. ILO 7 is addressed in this assessment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written test, 10%, ILOs 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "40 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written test, 15%, ILOs 4 to 6 are addressed in this assessment.",
+            "bullets": [
+                "40 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written test, 15%, ILOs 4 to 6 are addressed in this assessment.",
+            "bullets": [
+                "40 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Elisa Lumantarna",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 12 hours per semester; Workshops: 36 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "elu@unimelb.edu.au"
+        }
+    ]
+}

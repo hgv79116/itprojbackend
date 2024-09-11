@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>This subject focuses on statistical models of the distribution of species and ecophysiological models of species niches. These two areas of environmental modelling have grown substantially in the last decade or two, and have become core parts of ecology. They are closely related, but they differ philosophically and practically. They are both used for understanding and predicting the distributions of species. The statistical models (also known as habitat suitability models, bioclimatic envelopes or ecological niche models) use observed geographical distributions to characterise relationships between a species and its environment and can be considered \u2018top-down\u2019 in approach. Ecophysiological (or mechanistic) models take a \u2018bottom-up\u2019 approach by characterising the physiological processes influencing a species\u2019 distribution and integrate models of microclimates, energy balance, heat balance, and water balance.</p>",
+        "<p>You will learn about both approaches from lecturers who are world experts in these topics. The subject will help you to understand the merits and drawbacks of the two approaches to species modelling and equip you with important skills that are in high demand in ecology and conservation. The subject includes the following topics: compilation, processing and management of data, fitting models by statistical estimation and empirical measurement, spatial prediction of distributions (mapping), and model evaluation.</p>"
+    ],
+    "ilo": [
+        "understand theory about niches and distributions, and how this links to statistical and mechanistic modelling methods;",
+        "select a modelling method appropriate for a given question and dataset;",
+        "source appropriate data and prepare it for fitting models;",
+        "fit statistical models with traditional regression methods and machine learning methods;",
+        "develop mechanistic models using biophysical techniques for microclimates and organisms;",
+        "use both models to predict spatial distributions;",
+        "evaluate the models and predictions; and",
+        "gain experience using the free statistical program, R, for modelling and for working with spatial data."
+    ],
+    "generic_skills": [
+        "analytic skills \u2013 the course will improve students analytical abilities because they will deal with data and models and program in R;",
+        "problem-solving skills \u2013 both through lectures and practical work the students will learn to think about the aim of modelling and the available data and choosing the correct way to analyse it;",
+        "written communication \u2013 assignments and feedback from them will improve written communication; and",
+        "skills in planning a work flow \u2013 the two assignments require work flow planning; the pracs will teach the necessary skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL90002",
+                        "Name": "Applied Statistics for Biologists",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC90020",
+                        "Name": "Environmental Modelling",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90044",
+                        "Name": "Thinking and Reasoning with Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent statistical knowledge"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Several (4-7)\u00a0short answer exercises or quizzes testing aspects of modelling \u2013 equivalent to a combined total of 1250 words",
+            "bullets": [
+                "1250 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Develop and interpret a model of the niche of a species and write a report, due early-mid semester",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Fit and evaluate a species distribution model and write a report, due mid-late semester",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Write a report comparing mechanistic and correlative species distribution models",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

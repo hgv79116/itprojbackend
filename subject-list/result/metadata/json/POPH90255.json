@@ -1,0 +1,138 @@
+{
+    "overview": [
+        "<p>The Research Project is a capstone option within the Master of Public Health. Within the Research Project students will work in their chosen area of study with an appointed supervisor. Students will have the opportunity to undertake a literature review, develop research questions and undertake the research activities required to answer their research question. Activities include analysis of data, policy analysis, a small evaluation of a health program, a small qualitative research study, a systematic or narrative review of the literature, or the development of a research protocol. Some activities are only available in specific specialisations of the course.</p>"
+    ],
+    "ilo": [
+        "critically review, appraise and synthesise existing literature in a specific area;",
+        "formulate a research question, to identify and articulate the public health problem, and the gaps in the existing research evidence base;",
+        "conduct or evaluate research in a specific area and summarise, analyse and interpret research findings;",
+        "design and justify an appropriate research method to answer the research question;",
+        "communicate research findings effectively and appropriately in oral and written form to an audience;",
+        "articulate ethical issues / considerations within their chosen research topic, even if they do not need to get ethics approval; and",
+        "reflect on the research process undertaken and the opportunity for future improvements."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students must achieve an aggregate result of at least 75% for:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsPOPH90013BiostatisticsSemester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)12.5POPH90014Epidemiology 1Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)12.5POPH90231Qualitative Research in Public HealthSemester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90013",
+                        "Name": "Biostatistics",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90231",
+                        "Name": "Qualitative Research in Public Health",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Additionally, specialisation-specific elective subjects must be completed prior to undertaking a research project in specific public health specialisations. The type of research project students would be able to undertake would depend on the subjects they have completed and plan to do."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students are encouraged to seek advice from the Research Project Coordinator about their proposed research project the pre-requisite subjects and the specialisation-specific elective subjects."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A research project progress report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "Students must pass the Research Project Progress Report.",
+            "timing": "Week 6",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "An oral presentation (15 minutes presentation, 5 minutes questions)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A final report",
+            "bullets": [
+                "5000-8000 words"
+            ],
+            "hurdle": "Students must pass the written research report",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Supervisors Second Report",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "You must meet regularly with your supervisor.",
+            "bullets": null,
+            "hurdle": "Students need to meet every week with their supervisor(s) ",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "Students are expected to spend a minimum of 21 contact hours, including regular meetings with supervisor/s and attendance at: \n\n1.\tone full-day generic skills seminar in week 1 of semester.\n\n2.\tone half-day generic capstone completion skills seminar in week 9 of semester \n\n3.\tone half-day seminar of student oral presentations in week 11 of semester.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "dawn.choo@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "Students are expected to spend a minimum of 21 contact hours, including regular meetings with supervisor/s and attendance at: \n\n1.\tone full-day generic skills seminar in week 1 of semester.\n\n2.\tone half-day generic capstone completion skills seminar in week 9 of semester \n\n3.\tone half-day seminar of student oral presentations in week 11 of semester.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "alison.barr@unimelb.edu.au"
+        }
+    ]
+}

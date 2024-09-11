@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>This subject aims to provide students with an introduction to the fundamental principles and practical applications of the major analytical techniques used in cultural materials conservation. The subject builds upon the students' knowledge gained in CUMC90032 Technical Examination and Documentation, and CUMC90033 Cultural Materials Conservation Science. It covers methods accessible in a conservation laboratory and instrumental methods based upon:</p>",
+        "<ul><li>Microscopy (visible and SEM)</li><li>Atomic spectroscopy (SEM-EDS, XRF and XRD</li><li>Molecular spectroscopy (FTIR and Raman)</li><li>Chromatography (GC-MS and HPLC).</li></ul>",
+        "<p>Students learn to devise appropriate testing regimes, acquire control samples, prepare samples (eg. cross section), undertake analysis and manage analytical data.  Students will gain an understanding of the practical application of a range of analytical techniques (including their advantages and disadvantages, their sampling requirements, and whether the sample is destroyed) and the interpretation of results.  Students will apply fundamental examination and analytical techniques to the study of:</p>",
+        "<ul><li>One focus object, which students will select and work on as a group.  Each group will investigate either a painting, paper or object based artefact</li><li>A variety of cultural heritage objects composed of organic, inorganic or metallic materials.</li></ul>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Understand the role and practical application of analysis and analytical methods in conservation",
+        "Demonstrate an understanding of the scientific research process",
+        "Synthesize conducting a non-invasive examination of a cultural heritage object, framing a research question, analysing and evaluating research literature, determining an analytical pathway, preparing samples for analysis, selecting appropriate analytical methods, and assessing the limitations of results obtained."
+    ],
+    "generic_skills": [
+        "Relevant methodologies, technical approaches and documentary practices",
+        "Advanced analytical judgements, problem solving and decision making",
+        "High level organisational and time-management skills",
+        "Integrity and ethical practice",
+        "Well-developed communication skills and written work",
+        "Team work and collaboration."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CULMC Master of Cultural Materials Conservation",
+                    "Principles of Cultural Materials Conservation specialisation (formal) in the GCA-ARTS Graduate Certificate in Arts (Advanced)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsCUMC90032Technical Examination and DocumentationAugust (On Campus - Parkville)12.5CUMC90033Cultural Materials Conservation ScienceJuly (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CUMC90032",
+                        "Name": "Technical Examination and Documentation",
+                        "Teaching period": "August (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CUMC90033",
+                        "Name": "Cultural Materials Conservation Science",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two analysis reports (20% each, 1000 words each)",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A technical report",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend  100% of classes in order to pass this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.\n\n",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "September",
+            "principal_coordinator": "Petronella Nel",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours - 12 x 1 hour lectures and 12 x 2 hour practicals.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "9 September 2024 to 20 September 2024",
+            "last_self_enrol_date": "23 August 2024",
+            "census_date": "13 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "11 October 2024",
+            "contact_name": null,
+            "contact_email": "pnel@unielb.edu.au"
+        }
+    ]
+}

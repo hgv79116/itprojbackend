@@ -1,0 +1,126 @@
+{
+    "overview": [
+        "<p>AIMS: Cryptocurrencies enable the transfer of value entirely digitally between users, protected solely by cryptography. Modern cryptocurrencies, such as Bitcoin and Ethereum, rely on a public distributed ledger (also called a blockchain) to record who owns what. This subject introduces students to the theoretical foundations of cryptocurrencies from cryptography and distributed systems, as well as practical skills for programming applications which interact with decentralised ledgers. <br/> <br/>INDICATIVE CONTENT:  </p>",
+        "<p>The subject will be composed of core topics from cryptocurrencies and distributed lectures and will be drawn from a list including:</p>",
+        "<ul><li>Digital signatures</li><li>Authenticated data structures</li><li>Zero-knowledge proofs</li><li>Decentralised consensus protocols</li><li>Smart contract programming.<span class=\"normaltextrun\"><span><br/></span></span><span class=\"eop\"><span><br/> </span></span></li></ul>"
+    ],
+    "ilo": [
+        "Analyse the use of digital signatures, zero-knowledge proofs and authenticated data structures in the context of cryptocurrency transaction layers",
+        "Assess the efficiency and security properties of different approaches to decentralised consensus",
+        "Design and optimise adversarial strategies for consensus protocol participants in various models",
+        "Implement and deploy decentralised applications (smart contracts) using application-specific programming languages (e.g. Solidity)",
+        "Measure performance and scalability constraints in different cryptocurrency designs and evaluate their impact on real-world applications including ecological and social tradeoffs of designs."
+    ],
+    "generic_skills": [
+        "An ability to synthesise information and communicate results effectively",
+        "An ability to work effectively as a member of a project team",
+        "In-depth critical and independent thinking and reflection skills",
+        "An ability to solve problems and communicate solutions both orally and in writing"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90041Programming and Software DevelopmentSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5COMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent subject in computer programming"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "4 written take-home problem sets. 12-16 hours (6-8 hours each). 20% (5% each). Intended Learning Outcomes (ILOs)  1, 2, 3 are addressed in this assessment.",
+            "bullets": [
+                "12-16 hours"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 3, 6, 9, 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "2 programming projects (likely one each in Java, Solidity). 35-45 hours (15-20 hours each). 20% (10% each). ILOs 3, 4, 5 are addressed in this assessment.",
+            "bullets": [
+                "35-45 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6, Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group research project on topic of student's choosing with short presentations, 2-3 students per group.  40 hours per student. ILOs 1, 2, 3 are addressed in this assessment.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "First week of examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written final exam, with similar problems to those on problem sets (40%) (2 hour duration). ILOs 1, 2, 3 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

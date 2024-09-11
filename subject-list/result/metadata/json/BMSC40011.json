@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>The subject comprises a series of advanced lectures, delivered in research seminar format with accompanying readings, each focussing on a key area of critical care research. The aim is to provide students with a comprehensive knowledge base, using a pragmatic approach, that can be applied to both research and clinical care. Lectures cover research methodology and the latest translational research across the three key critical care disciplines of anaesthesia, emergency medicine and intensive care medicine, with topics ranging from clinical trial design, meta analysis, sepsis, delirium and perioperative risk through to toxicology, substance abuse and recreational drug related behaviour.</p>"
+    ],
+    "ilo": [
+        "Demonstrate a mature understanding of experimental design, experimental implementation, data evaluation and communication as it relates to current research in critical care, in a broad ethical context.",
+        "Identify the key themes in critical care research within a clinical hospital research environment and explain how these translate into clinical management of health and disease.",
+        "Select, summarise and critically appraise published research in an area of critical care medicine.",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "generic_skills": [
+        "Understanding scientific and ethical approaches to clinical questions",
+        "Appreciating how data are evaluated",
+        "Learning how to present a constructive critique of research",
+        "Developing written and oral communication skills to a high standard",
+        "Contributing to intellectual discussion"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMSC40009",
+                        "Name": "Critical Care Research Project Part 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Oral presentation critiquing a provided paper in a seminar forum (15 minutes presentation and 10 minutes questions)",
+            "bullets": [
+                "25 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due week 8-12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "80% attendance at weekly seminars",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Yasmine Ali Abdelhamid",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30",
+            "total_time_commitment": "175 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Yasmine Ali Abdelhamid",
+            "contact_email": "Yasmine.Aliabdelhamid@mh.org.au"
+        }
+    ]
+}

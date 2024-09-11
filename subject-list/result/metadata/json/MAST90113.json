@@ -1,0 +1,61 @@
+{
+    "overview": [
+        "<p>This subject develops mathematical methods for the study of the mechanics of fluids and solids and illustrates their use in several contexts. Topics covered include Newtonian fluids at low and at high Reynolds number and the linear theory of elasticity. Applications may be drawn from biological, earth sciences, engineering or physical contexts.</p>"
+    ],
+    "ilo": [
+        "appreciate contexts in which continuum mechanical modelling is appropriate and useful;",
+        "have high level mathematical tools and knowledge that can be used to model a range of problems in continuum mechanics;",
+        "have the ability to implement physically justified approximations to solve complex problems;",
+        "have the ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30030",
+                        "Name": "Applied Mathematical Modelling",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 50 pages of written assignments, due mid and late in semester (two assignments worth 20% each)",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,57 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Information Theory is the fundamental backbone of reliable communications, reliable data storage, and data compression. This subject provides the rigorous basis of `information', showing it to have deep links to the ability to reduce data to its essence, and to the ultimate limits to communication.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject is aimed at postgraduate (research) students. The subject material covers the core topics of Information Theory including: Shannon entropy, Mutual Information, lossless and lossy source coding, Shannon's celebrated channel capacity and channel coding theorem, differential entropy and the Gaussian channel. Technically the subject combines probabilistic models of idealised communication and the mathematics of applied probability.</p>"
+    ],
+    "ilo": [
+        "Understand and apply the Shannon notion of entropy to model data coding and communication situations",
+        "Manipulate Information Theoretic identities and to understand their intuitive meanings",
+        "Analyse and understand the classic channel models and their capacity analysis in particular discrete memoryless channels, the Gaussian channel, and the critical ideas of random coding and joint typicality",
+        "Understand the limits to data compression and be able to design codes which can approach the ultimate Shannon limit"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity;",
+        "Openness to new ideas and unconventional critiques of received wisdom;",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment in the form of two homework assignments (worth 20% each), not exceeding 30 pages in total over the semester (addressing ILOs 1-4)",
+            "bullets": [
+                "55-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One written examination (addressing ILOs 1-4)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

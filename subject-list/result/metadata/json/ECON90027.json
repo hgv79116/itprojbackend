@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>The general problems associated with the role of the state in the economy. Topics will be chosen from the theory of the state; the role of government in promoting economic growth; collective choice mechanisms; the economic analysis of bureaucracy; public goods; social insurance; national debt; and taxation issues.</p>"
+    ],
+    "ilo": [
+        "Describe differences between positive and normative theories in public economics;",
+        "Explain the economic rationale for the existence of the state;",
+        "Explain the growth of the government sector over the twentieth century;",
+        "Derive the criteria identifying the optimal size of the government;",
+        "Analyse different economic theories of the bureaucracy;",
+        "Explain the paradox of voting;",
+        "Analyse the positive and normative properties of collective decision-making mechanisms;",
+        "Explain the implications of Arrow&#39;s Impossibility Theorem for public economics;",
+        "Critically evaluate different models of the political business cycle;",
+        "Analyse the implications of countries&#39; stocks of public debt; and",
+        "Explain the principles of optimal taxation."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; application of theory to practice; interpretation and analysis; critical thinking; evaluation of data and other information; statistical reasoning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40011",
+                        "Name": "Public Economics",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

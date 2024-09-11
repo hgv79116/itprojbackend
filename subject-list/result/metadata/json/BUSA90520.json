@@ -1,0 +1,181 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to the essential skills for the management of business data to enable the application of analytics and evidence-based decision-making in business. It entails the study of the principles and tools for business data management and modelling. The focus of the subject is enabling business decision-making, and includes consideration of effective presentation and reporting of business data. Data sets will be drawn from multiple industries and business disciplines (accounting, economics, finance and management &amp; marketing).</p>"
+    ],
+    "ilo": [
+        "Collect and compile business data from multiple sources",
+        "Manage common issues in the manipulation of business data of different types (e.g., timestamp, textual data)",
+        "Define appropriate business metrics and variables for a given data set",
+        "Explain the principles and issues involved in the effective presentation of business data for decision-making purposes"
+    ],
+    "generic_skills": [
+        "Collaborative learning",
+        "Problem solving;",
+        "Team work",
+        "Interpretation and analysis;",
+        "Critical thinking;",
+        "Evaluation of data and other information;",
+        "Use of computer software;",
+        "Application of theory to practice",
+        "Oral communication;",
+        "Written communication;",
+        "Accessing data and other information from a range of sources",
+        "Synthesis of data and other information;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-MGMTAFN Master of Management (Accounting and Finance)"
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-AEMTRCS Master of Applied Econometrics"
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-AECOENH Master of Applied Econometrics (Enhanced)"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM90009Quantitative Methods for BusinessSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MGMT90141Business Analysis and Decision MakingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM90009",
+                        "Name": "Quantitative Methods for Business",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MGMT90141",
+                        "Name": "Business Analysis and Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsACCT90004Accounting for Decision MakingSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ACCT90041Fundamentals in AccountingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ECON90015Managerial EconomicsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5FNCE90060Financial ManagementSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90004",
+                        "Name": "Accounting for Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACCT90041",
+                        "Name": "Fundamentals in Accounting",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90015",
+                        "Name": "Managerial Economics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE90060",
+                        "Name": "Financial Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a Bachelor's Degree in Commerce (or related discipline i.e. Business, Accounting/Finance, Economics)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four data projects, to be completed in groups of 3-4 students, with the expectation that all students contribute equally to all projects. Each student will contribute the equivalent of 3500 words for all four projects.",
+            "bullets": [
+                "3500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Derick Lyle",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and two 2-hour workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to  9 February 2024",
+            "last_self_enrol_date": "9 January 2024",
+            "census_date": "12 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "9 February 2024",
+            "contact_name": null,
+            "contact_email": "derick.lyle@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Derick Lyle",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 1-hour lecture and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "derick.lyle@unimelb.edu.au"
+        }
+    ]
+}

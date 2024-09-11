@@ -1,0 +1,107 @@
+{
+    "overview": [
+        "<p>The subject aims to provide students with an overview of how neurons function, individually and in ensembles, to produce complex behaviours. We consider how the special properties of nerve cells enable information to be encoded and transmitted.</p>",
+        "<p>We will explore how nerve cells communicate with other nerves and cells. Finally we will explore how these properties lead to activity patterns that change the function of other tissues in response to physiological challenges, thus contributing to homeostasis.</p>"
+    ],
+    "ilo": [
+        "To appreciate how protein-mediated passage of ions across the nerve cell membrane generates electrical activity.",
+        "To develop an understanding of how these electrical impulses are generated and integrated by the neuron to encode information.",
+        "To understand how nerve cells use different chemicals to communicate with neurons and other cells (e.g. muscles).",
+        "To examine how the connections between nerve cells leads to simple circuits that mediate reflexes and homeostatic control."
+    ],
+    "generic_skills": [
+        "Independent and critical thought.",
+        "Approaches to understanding complex scientific problems.",
+        "Critical analysis and interpretation of data.",
+        "The extraction of principles from experimental evidence.",
+        "Discipline specific communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "Students wishing to take this subject without this background knowledge are advised to consult with the subject convenor prior to the commencement of the semester."
+            },
+            {
+                "type": "paragraph",
+                "content": "Although there are no specific 200 level prerequisites for this subject it is recommended that students should have completed at least one of the following 200 level subjects:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM20002Human Structure and FunctionSemester 2 (On Campus - Parkville)25ZOOL20006Comparative Animal PhysiologySemester 2 (On Campus - Parkville)12.5PHYS20008Human PhysiologySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5PSYC20006Biological PsychologySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "ZOOL20006",
+                        "Name": "Comparative Animal Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYS20008",
+                        "Name": "Human Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC20006",
+                        "Name": "Biological Psychology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 x mid-semester assessments (25% each)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "1 x exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Angelina Fong",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week (total contact hours: 36)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

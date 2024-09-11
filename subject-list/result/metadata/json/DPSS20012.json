@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>Building on the experience gained in Production Practice 1, students will deepen their understanding, experience and confidence by contributing to the production process and preparing for future roles with greater responsibility.</p>",
+        "<p>Students will apply their developing knowledge and skills to roles on Victorian College of the Arts (VCA) productions that relate to at least one of their chosen specialisations.</p>"
+    ],
+    "ilo": [
+        "contextualise a production role requiring technical and collaborative skills in order to contribute to the creation and realisation of live performance;",
+        "develop and implement the roles, responsibilities and processes necessary in the production of live performance;",
+        "apply safe work and best practices in technical theatre;",
+        "develop and apply creative processes and technical skills employed by a theatre practitioner in the realisation of live performance in a production environment;",
+        "demonstrate communicative and cooperative skills to collaborate effectively with theatre makers and production departments at an intermediate level;",
+        "generate and manage industry standard documentation relevant to an assigned production role;",
+        "reflect on and review the process and output of a placement and articulate insights gained from the experience relevant to an assigned production role."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DPSS20010",
+                        "Name": "Production Practice 1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "DPSS20011",
+                        "Name": "Production Studio 3",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DPSS20013",
+                        "Name": "Production Studio 4",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DPSS20001",
+                        "Name": "Production Practice 3",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Production role proposal",
+            "bullets": [
+                "400 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Placement on one VCA production",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": "Students are required to achieve a pass grade or above for their placement on a VCA production. ",
+            "timing": "Throughout the teaching period",
+            "percentage": "75%"
+        },
+        {
+            "brief": "Reflective essay",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "15%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students are required to attend a minimum of 75% of all timetabled classes,  consultations and tutorials, and 100% of all key production events relevant to assigned role which may include: design presentations, \"meet and greet\" gatherings, production meetings, technical rehearsals, bump in, show calls, and bump out. ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must submit all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "24 hours of seminars and de-briefs",
+            "total_time_commitment": "204 hours",
+            "teaching_period": "22 July 2024 to  3 November 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "matthew.scott@unimelb.edu.au"
+        }
+    ]
+}

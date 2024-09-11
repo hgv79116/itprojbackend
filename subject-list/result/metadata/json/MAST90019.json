@@ -1,0 +1,76 @@
+{
+    "overview": [
+        "<p>The subject covers some key aspects of the theory of stochastic processes that plays a central role in modern probability and has numerous applications in natural sciences and industry. We discuss the following topics: ways to construct and specify random processes, functional central limit theorem, Levy processes, renewal processes and Markov processes (discrete and continuous state space). Applications to modelling random phenomena evolving in time are discussed throughout the course.</p>"
+    ],
+    "ilo": [
+        "gain an understanding of the basic concepts of the theory of stochastic processes;",
+        "gain an understanding of the fundamental techniques used in the study of random processes;",
+        "extend their ability to construct mathematical models for real-life situations involving uncertainty and evolving in time;",
+        "gain the ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90081",
+                        "Name": "Advanced Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 40 pages of written assignments (two assignments worth 10% each, due mid and late in semester)",
+            "bullets": [
+                "40 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "aihuaxia@unimelb.edu.au"
+        }
+    ]
+}

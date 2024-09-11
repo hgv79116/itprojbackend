@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>Topics include insurance markets and products; underwriting and risk assessment; policy design; actuarial modelling; actuarial assumptions and feedback; reserving methods.</p>"
+    ],
+    "ilo": [
+        "Discuss and apply an actuarial control cycle in a variety of practical commercial situations",
+        "Apply the tests of professionalism",
+        "Relate the main features within the general environment to medium and long term commercial decisions",
+        "Examine the need for and impact of regulation and government policy on medium and long term commercial decisions",
+        "Analyse the main features and risks of financial products and contracts, from the point of view of consumers and providers",
+        "Demonstrate an understanding of enterprise risk management and its role in organisational management",
+        "Apply a risk assessment framework to identify and assess the risks in a range of commercial situations",
+        "Discuss and apply the process of product design",
+        "Select an appropriate model to solve client problems"
+    ],
+    "generic_skills": [
+        "High level of development: written communication; collaborative learning; problem solving; team work; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL30003",
+                        "Name": "Contingencies",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACTL30004",
+                        "Name": "Actuarial Statistics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group assignment, draft due in week 7",
+            "bullets": [
+                "8 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "David Heath",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 2-hour lectures per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "dnheath@unimelb.edu.au"
+        }
+    ]
+}

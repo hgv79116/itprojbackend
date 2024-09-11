@@ -1,0 +1,163 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This subject will extend knowledge of calculus from school. Students are introduced to hyperbolic functions and their inverses, the complex exponential and functions of two variables. Techniques of differentiation and integration will be extended to these cases. Students will be exposed to a wider class of differential equation models, both first and second order, to describe systems such as population models, electrical circuits and mechanical oscillators. The subject also introduces sequences and series including the concepts of convergence and divergence.</p>",
+        "<p class=\"MsoNormal\">Calculus topics include: intuitive idea of limits and continuity of functions of one variable, sequences, series, hyperbolic functions and their inverses, level curves, partial derivatives, chain rules for partial derivatives, directional derivative, tangent planes and extrema for functions of several variables. Complex exponential topics include: definition, derivative, integral and applications. Integration topics include: techniques of integration and double integrals. Ordinary differential equations topics include: first order (separable, linear via integrating factor) and applications, second order constant coefficient (particular solutions, complementary functions) and applications.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "calculate simple limits of a function of one variable;",
+        "determine convergence and divergence of sequences and series;",
+        "sketch and manipulate hyperbolic and inverse hyperbolic functions;",
+        "evaluate integrals using trigonometric and hyperbolic substitutions, partial fractions, integration by parts and the complex exponential;",
+        "find analytical solutions of first and second order ordinary differential equations, and use these equations to model some simple physical and biological systems;",
+        "calculate partial derivatives and gradients for functions of two variables, and use these to find maxima and minima."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team; and",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "A study score of at least 29 in VCE Specialist Mathematics 3/4, or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10005Calculus 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10009Accelerated Mathematics 2Semester 2 (On Campus - Parkville)12.5MAST10021Calculus 2: AdvancedSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10009",
+                        "Name": "Accelerated Mathematics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10021",
+                        "Name": "Calculus 2: Advanced",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10019: Calculus Extension Studies"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students may not enrol in MAST10005 Calculus 1 and MAST10006 Calculus 2 concurrently."
+            },
+            {
+                "type": "paragraph",
+                "content": "Bachelor of Science students are permitted to complete a maximum of three level-1 Mathematics and Statistics subjects. They are not permitted to complete all four of MAST10005, MAST10006, MAST10007 and MAST10010"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Six to eight assignments (written or online) due at regular intervals (approximately 24 hours total)",
+            "bullets": [
+                "24 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A written mid-semester test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "6 x one hour lectures per week, 2 x one hour practice classes per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 13 February 2024",
+            "last_self_enrol_date": "10 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": null,
+            "contact_email": "trithang.tran@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week, 1 x one hour practice class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "sanming@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week, 1 x one hour practice class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "a.morphett@unimelb.edu.au"
+        }
+    ]
+}

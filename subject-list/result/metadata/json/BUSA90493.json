@@ -1,0 +1,170 @@
+{
+    "overview": [
+        "<p>The aim of Business Analytics is to present students with a range of modern methods for extract relevant information from data to make improved business decisions.</p>",
+        "<p>Big data is big business, but there are not enough managers who can ask the right questions and interpret the results of analysis effectively. Business Analytics is the science of extracting useful information from datasets, large and small. Many of the methods have been around for decades but only recently has the value that lies in business data repositories been realised.</p>",
+        "<p>Effective analytics is about knowing which type of data to use for solving a business problem, and how to influence the organization to move from a \u2018decision\u2010based evidence making\u2019 mode to an \u2018evidence\u2010based decision making\u2019 mode.</p>"
+    ],
+    "ilo": [
+        "Be able to formula a business problem in terms of measureable variables and their relationships and distributions.",
+        "Understand the data generation process and then think about causality coherently.",
+        "Convert raw data into relevant information for management decisions.",
+        "Predict future outcomes, and prescribe appropriate management action based on those predictions.",
+        "Develop presentation skills to convey this information to non\u2010technical audiences."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90026",
+                        "Name": "Business Strategy",
+                        "Teaching period": "July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)April (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90074",
+                        "Name": "Global Business Economics",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90093",
+                        "Name": "Finance",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90001",
+                        "Name": "Financial Accounting",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90243",
+                        "Name": "Marketing",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90227",
+                        "Name": "Operations",
+                        "Teaching period": "April (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90224",
+                        "Name": "Managing People",
+                        "Teaching period": "April (On Campus - Parkville)January (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90193",
+                        "Name": "Managerial Economics",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90481",
+                        "Name": "Managerial Ethics & Business Environment",
+                        "Teaching period": "April (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "70% or above in below subject:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBUSA90060Data AnalysisJanuary (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90060",
+                        "Name": "Data Analysis",
+                        "Teaching period": "January (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to class learning",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Syndicate assignment",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Quizzes x 2; Staggered throughout the term",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to  6 September 2024",
+            "last_self_enrol_date": "21 April 2024",
+            "census_date": "12 July 2024",
+            "last_date_to_withdraw_without_fail": "16 August 2024",
+            "assessment_period_ends": "13 September 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

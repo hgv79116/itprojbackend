@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p>Extreme weather and climate events have large impacts on people and the environment. It is vital that these events are well predicted on weather forecasting timescales to limit the damages they cause. It is also important that the characteristics of these events in a changing climate are well understood so that we can be prepared for future climate extremes. This course will focus on how weather and climate extremes are characterised locally and internationally, how they have changed and how they will change under global warming. The processes that lead to these events and how they are forecast will also be explained. Statistical techniques for analysing extremes will be introduced. This course will also include discussion of how extremes are communicated in terms of mitigating risks for forecast events.</p>"
+    ],
+    "ilo": [
+        "Describe processes that are important to different extreme weather and climate events, including heatwaves, localised extreme rain events, and droughts;",
+        "Use weather observations and model simulations to identify and characterise extremes;",
+        "Apply statistical techniques to the analysis of extremes, including generalised extreme value theory, with an understanding of the strengths and limitations of different approaches;",
+        "Understand the potential impact of climate change on future weather and climate extremes at a national and international scale."
+    ],
+    "generic_skills": [
+        "Developing the ability to exercise critical judgement;",
+        "Rigorous and independent thinking;",
+        "Problem-solving for new or unfamiliar tasks;",
+        "Developing computer programming skills transferable to other applications;",
+        "High-level written report and oral presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10010",
+                        "Name": "Data Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90044",
+                        "Name": "Thinking and Reasoning with Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ATOC20001",
+                        "Name": "Extreme Weather and Climate",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ATOC30004",
+                        "Name": "Dynamical Meteorology and Oceanography",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ATOC30006",
+                        "Name": "Modern and Future Climate",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ATOC30008",
+                        "Name": "Atmospheric Processes and Composition",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "or equivalent second or third year study of quantitative atmospheric or climate science"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "or equivalent programming experience"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Report 1",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Report 2",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

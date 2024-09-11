@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>Students will be assigned to a Practicum Organisation where they will work in teams to undertake a significant business consulting activity. Students will need to work with the Practicum Organisation in order to develop a solid statement of work, which the project will be expected to deliver to. Students will learn to work with unstructured and incomplete information, to develop research and networks to support their enquiry, to work successfully in teams, and to present their findings and seek and receive constructive feedback in a range of settings. Students will also be encouraged to plan, reflect and modify their approaches to improve the outcomes of their efforts in managing their business consulting project. Students will be supported in this consulting project with seminars on the consulting process, staged deliverables which facilitate solid project management techniques and input from the course co-ordinator.</p>"
+    ],
+    "ilo": [
+        "Identify key strategic business questions or opportunities;",
+        "Research, analyse, evaluate and propose practical business options given the project constraints;",
+        "Manage key aspects of a business consulting project, including scope development, stakeholder communication and issue management;",
+        "Show how the theory of consulting translates to real life practices;",
+        "Explain the end-to-end process of client engagement with regard to undertaking a business project;",
+        "Apply consulting and problem solving tools and techniques to a real life project; and",
+        "Present a compelling business case within a real-life business situation."
+    ],
+    "generic_skills": [
+        "Time management;",
+        "Commercial awareness;",
+        "Initiative within ambiguity;",
+        "Independent learning, interpersonal skills and team skills;",
+        "Verbal and written communication skills through discussion and assigned tasks;",
+        "Project management;",
+        "Team working;",
+        "Communication skills in a business context;",
+        "Research, problem solving, critical thinking; and",
+        "Documentation, preparation and presentation skills through assigned tasks and the practicum exercise."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT90202",
+                        "Name": "Foundations in Qualitative Methods",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MGMT90203",
+                        "Name": "Foundations in Quantitative Methods",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MGMT90205",
+                        "Name": "Research Design",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsMGMT90148Consulting FundamentalsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT90148",
+                        "Name": "Consulting Fundamentals",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Team based progress notes (normally in groups fo 3-4) (4 x 500 words)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due weeks 4. 6 & 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Team presentation (normally in groups of 4-5) \u2013 To be scheduled based on client availability in week 12 or shortly thereafter",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Team based business report (normally in groups of 4-5).",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Individual participation and contribution: assessment based on the contribution throughout the semester.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": []
+}

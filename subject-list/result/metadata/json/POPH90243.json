@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>Within \u2018Epidemiology in Practice\u2019 students will work to address issues in health and public health by learning and applying epidemiological concepts. Students will learn systematic review and meta-analysis methodology through undertaking a small systematic review and meta-analysis, and then making policy recommendations. Students will also learn questionnaire development principles and apply these principles in developing and piloting their own questionnaire.</p>",
+        "<p>In the second half of the subject, students will apply the concepts and methods involved in developing studies to assess the validity of questionnaires and tests to real-world examples in health/public health. The purpose and evaluation of screening programs will be discussed and applied to current controversies in screening. Lastly, students will learn about the role of natural experiments and how these study designs can be used to answer policy-relevant questions in public health.</p>"
+    ],
+    "ilo": [
+        "Perform systematic reviews and meta-analyses of randomised controlled trials and observational studies",
+        "Compose questionnaires to obtain valid and reliable data",
+        "Design studies to assess the validity and reliability of questionnaires and tests, and analyse data from such studies",
+        "Discuss the epidemiological elements required for development and maintenance of a screening program, and apply these elements to specific diseases and screening programs",
+        "Explain the elements of natural experiments, in order to use natural experiments to evaluate the effectiveness of public health interventions"
+    ],
+    "generic_skills": [
+        "Utilisation of relevant software (Excel and Stata)",
+        "Written and verbal communication skills",
+        "Problem solving",
+        "Working with uncertainty",
+        "Persuasive skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90013",
+                        "Name": "Biostatistics",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral Presentation (3 to 4 students per group) assessed as a group",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written assessment",
+            "bullets": [
+                "1750 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Written assessment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Video individual presentation",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "12 February 2024 to 12 April 2024",
+            "last_self_enrol_date": "6 February 2024",
+            "census_date": "1 March 2024",
+            "last_date_to_withdraw_without_fail": "12 April 2024",
+            "assessment_period_ends": "10 May 2024",
+            "contact_name": "",
+            "contact_email": "melissar@unimelb.edu.au"
+        }
+    ]
+}

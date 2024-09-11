@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>This <em>online</em> subject provides students with the opportunity to apply key principles in interpretivist research within the field of music therapy.</p>",
+        "<p>Students will learn about the most common research designs used within the field and explore the methods associated with each through detailed examples of specific projects.</p>",
+        "<p>This subject deepens understandings about interpretivist research through direct examples from the literature with key skills being developed and assessed.</p>",
+        "<p>Note: This subject is offered in two cohorts:</p>",
+        "<ul><li>Melbourne based students attend on-campus classes and activities</li><li>Interstate or regional students attend online classes and activities, and on-campus intensives in Melbourne</li></ul>"
+    ],
+    "ilo": [
+        "articulate a research position from a reflexive position;",
+        "undertake analysis of qualitative data;",
+        "critically synthesise and interpret literature in music therapy;",
+        "write up results in ways that are congruent with methods of interpretive analysis."
+    ],
+    "generic_skills": [
+        "compare and contrast research perspectives from objective and reflexive research traditions relevant to music therapy;",
+        "be able to plan and execute a minor research project in music therapy."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI90038",
+                        "Name": "Music Therapy Practice 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUSI90044",
+                        "Name": "Objectivist Research in Music Therapy",
+                        "Teaching period": "Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Reflexive positioning paper",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Results of interview data analysis",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Results of critical interpretive synthesis",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Southbank)",
+            "contact_hours": "24 hours, comprising 12-hours of online lecture content, and 12-hours synchronous online tutorials.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "cindy.lai@unimelb.edu.au"
+        }
+    ]
+}

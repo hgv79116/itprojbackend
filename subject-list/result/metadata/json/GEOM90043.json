@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p><strong>AIM</strong></p>",
+        "<p>This subject involves the in-depth investigation of a significant problem related to Spatial IT. The subject also provides students with skills and knowledge for analysing and solving problems, and enhanced written and oral communication skills. The subject is fundamentally a research-based project, giving a capstone experience and piece of scholarship to students.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>The student will develop a research question in spatial information technology and an appropriate research methodology for investigating the question. After approval by the supervisor(s) the student will apply this methodology, analyse results, and report in a thesis.</p>"
+    ],
+    "ilo": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to conduct an engineering project",
+        "Capacity for creativity and innovation",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "generic_skills": [
+        "Be able to undertake problem identification, formulation and solution",
+        "Have a capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Have a profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "Be able to present work in written form",
+        "Be able to present work orally and answer questions about it."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Selection of the Spatial specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 50 credit points ofGEOM subjects at graduate level."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students should negotiate a project topic with a project supervisor well before the start of each semester. Students should then prepare a proposal to present their case to enrol to the subject and also to document the project timeline and details."
+            },
+            {
+                "type": "paragraph",
+                "content": "Students need to obtain the approval of the degree coordinator on their proposal by the first week of the semester to be able to enrol to this subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOM90010",
+                        "Name": "Spatial Information Research Project A",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "GEOM90013",
+                        "Name": "Spatial Information Research Project C",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "GEOM90020",
+                        "Name": "Spatial Information Research Project",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "GEOM90023",
+                        "Name": "Spatial Information Research Project B",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "GEOM90031",
+                        "Name": "Spatial Information Research Project D",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One 800 - 1000 word project proposal due at the end of week 1. Intended Learning Outcomes (ILOs) 1, 2, 4 and 5 are addressed in this proposal",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 1",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 20 minute presentation including answering audience questions, of the project or demonstration of a working system. ILOs 2, 3, and 5 are addressed in this assessment",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 8,000 - 10,000 word project report due in the second week of the examination period. ILOs 1, 2, and 3 are addressed in this report.",
+            "bullets": [
+                "200 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

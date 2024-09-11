@@ -1,0 +1,75 @@
+{
+    "overview": [
+        "<p>Property is the choice of investors amongst many avenues of asset classes and constitutes a significant share of the global wealth. The economic performance of most developed countries is influenced by the performance of their real estate markets. The property investment has witnessed numerous cycles of growth and recession, and is now considered as a mature and sophisticated market. In order to attract even wider participation, and to meet the appetite of diverse range of investors, newer instruments (in particular) real estate derivatives, are being developed across the globe. While financial and commodity derivative products are being used widely, financial engineering in property is relatively recent. These products have the potential to offer better returns and diversification, while prone to significant risks as the potential to destabilize the operating environment is large. It would be imperative to have better risk management capacity to configure and utilize these instruments.</p>",
+        "<p>The aim of this subject is to expose you to the linkage between structured finance and property markets, and the functioning of financial engineering products prevalent in Property domain, in particular real estate derivates, and to equip you with knowledge, skills required to understand, analyse and value different derivative instruments</p>",
+        "<p>This subject is designed to capitalise on the multi-disciplinary nature of participants. As such, it uses active discussions, interactive problem solving, peer review and group work, among other teaching and learning activities. In addition, the major assessment task is designed to allow for a significant amount of flexibility as you will be able to determine the focus of your own assignment. You will also be able to vote to determine subject content towards the end of the semester.</p>"
+    ],
+    "ilo": [
+        "Differentiate the main features of various structured products and demonstrate the applicability in real estate markets",
+        "Learn to generate a base financial model for structured products",
+        "Apply the understanding of the concepts of options, forwards, futures and swaps to property;",
+        "Relate the linkages between risks in real estate and structured finance products, and formulate methods to mitigate the same.",
+        "Examine various real estate derivative models being used in the industry"
+    ],
+    "generic_skills": [
+        "Solve complex problems creatively, using a combination of systemic, design and analytical thinking",
+        "Rapidly and correctly estimate quantities and their order of magnitude",
+        "Work in teams and capitalise on interdisciplinary knowledge",
+        "Provide constructive feedback to peers",
+        "Communicate effectively using data visualisation techniques where appropriate"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90026",
+                        "Name": "Property Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two in-class quizzes (cumulative 1500 words equivalent). Due week 3 and week 5 (15% each)",
+            "bullets": [
+                "750 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3 and  Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Applicability of financial engineering methods to a property market in a\u00a0region. Group work, including oral presentation (5 minutes per student; group size 3 \u2013 5), analysis and assumption notes, 1500 words equivalent per student\u00a0(including the preparation for oral presentation) (10% oral presentation and 20% written report)",
+            "bullets": [
+                "1500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Last day of teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment on financial engineering products in property.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "4 weeks after the last class",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

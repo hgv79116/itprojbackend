@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>The subject will focus on nutritional biochemistry and genomics and will examine how our genes and their corresponding proteins and enzymes connect with nutrition. Emphasis will be placed on the connection to human health.</p>",
+        "<p>Students will explore the biochemical mechanisms behind the individual response to nutrients and dietary patterns and their implication to a personalised approach to nutrition. More specifically this subject will explore I) the relationships between genetics and diet, II) the impact on human health of enzymes disrupted function resulting from gene variants and mutations, III) the role of diet in affecting chemical modifications of DNA and histones that constitute the epigenome and, VI) the challenges of translating the fast-accumulating evidence in nutrition.</p>"
+    ],
+    "ilo": [
+        "Explain the fundamental concepts of genetics and its interaction with biochemical pathways related to human nutrition",
+        "Describe how genomics technologies can be applied to nutrition science",
+        "Explain the biochemical role of nutrients and other food components",
+        "Evaluate nutritional genomics knowledge in context such as personalised nutrition",
+        "Evaluate and interpret scientific literature and research findings to explain the effect of nutrition on medically important diseases",
+        "Demonstrate that they can work effectively in group work activities to generate, analyse and communicate scientific findings"
+    ],
+    "generic_skills": [
+        "Interpret scientific literature and data from electronic databases",
+        "Integrate knowledge across disciplines",
+        "Comprehend a question, evaluate the relevant information and communicate an answer",
+        "Think independently and analytically, and direct their own learning",
+        "Manage time effectively in order to be prepared for regular classes, tests and the examination"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FOOD20003",
+                        "Name": "Intro to Food Science & Human Nutrition",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NUTR20001",
+                        "Name": "Food Nutrition and Health",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Group oral presentation of a case study",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual written report",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Ten tutorial worksheets or short MCQ quizzes",
+            "bullets": [
+                "5 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": " Students must complete 80% of the weekly inquiry tasks to a satisfactory standard",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Chiara Murgia",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of lectures per week; 2 hours of workshop/tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "chiara.murgia@unimelb.edu.au"
+        }
+    ]
+}

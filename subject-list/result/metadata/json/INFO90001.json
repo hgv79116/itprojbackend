@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>This subject offers an overview of major health informatics research areas and methods that contribute to quality improvement, scientific research, and technological innovation in healthcare and biomedicine. The subject sets out the scientific foundations of digital health, and disciplined approaches to understanding the implications of digital health for health system performance.</p>",
+        "<p>The subject is arranged in blocks of study that examine methods for: (a) Undertaking digital health research and innovation projects, including: justifying a project in pragmatic and conceptual terms; drawing on existing practice and knowledge; specifying and staging work packages; meeting needs for partnerships and resources; assuring socially and ethically responsible conduct; reporting on progress rigorously and communicating for impact; (b) Managing exponential growth in health and biomedical knowledge, including: increasing openness in research data life cycle management; automating processes of generating, synthesising, and translating evidence; assuring the quality of electronic decision support systems for clinicians and patients; producing sophisticated forecasts and scenarios of the future of health; (c) Analysing structured and unstructured health data, including: wrangling phenome, exposome and other omics data; scaling up clinical, translational and population health research on platforms; approaching artificial intelligence in medicine through data analytics techniques and machine learning; (d) Modelling and simulating the dynamics of health conditions and health services, including: building personalised and population-level models of health and disease; mapping patient journeys, clinical workflows, and health supply chains; creating immersive environments for healthcare system learning and research.</p>"
+    ],
+    "ilo": [
+        "Associate a range of real-world health research and development needs with appropriate health informatics methods",
+        "Identify, access and apply essential, selected health informatics tools",
+        "Assess claims made in digital health research and innovation reports in terms of the quality of evidence",
+        "Form and communicate a view of medium and long term trends in a specific area of health information and communication technology"
+    ],
+    "generic_skills": [
+        "locating and critiquing scientific, industry and policy  literature from multiple disciplines",
+        "framing, designing and planning a research project",
+        "structuring oral and written presentations of a research project",
+        "participating in the production, dissemination and application of evidence"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two written reports of individual work on assigned practical activities. Students will be able to choose from four topics. Each report will be 1000 words (20% each)",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the total marks available in the practical reports.",
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Individual Oral Presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": "To pass the subject, students must obtain 50% of total marks available in the class presentation and written project report.",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Major Project Report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "A minimum grade of 50% must be achieved.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "2 hours per week of active participation in scheduled online tutorials. \n\nStudents unable to attend a tutorial may submit their contribution beforehand and review proceedings afterward.\n\n10hours per week of independent study and participation in asynchronous",
+            "total_time_commitment": "164 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kgray@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "2 hours per week of active participation in scheduled online tutorials. \n\nStudents unable to attend a tutorial may submit their contribution beforehand and review proceedings afterward.\n\n10hours per week of independent study and participation in asynchronous",
+            "total_time_commitment": "164 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "kgray@unimelb.edu.au"
+        }
+    ]
+}

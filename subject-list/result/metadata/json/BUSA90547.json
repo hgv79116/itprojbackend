@@ -1,0 +1,77 @@
+{
+    "overview": [
+        "<p>The subject integrates academic learning and practical challenges in implementing data analytics in an organisation/organisational context via a project undertaken over 10 weeks (part-time)</p>",
+        "<p> </p>",
+        "<p>The assessment in the subject will include the completion of the report for the subject and a project presentation. This is a team project.</p>",
+        "<p> </p>",
+        "<p>The program focuses on two areas:</p>",
+        "<ul><li>Communication skills: These skills include effective presentations, verbal communication, written communication, public speaking, and communicating technical material to non-technical audiences.</li><li>Practicum skills: The completion of a 10-week project using real data in/from an industry setting under an approved supervisor.</li></ul>"
+    ],
+    "ilo": [
+        "Deliver a technical report appropriate for a non-technical audience.",
+        "Identify ethical issues & concerns in the acquisition, retrieval, storage, and analysis of data & appreciate the importance of ethical practice and apply it in a workplace context.",
+        "Learn how to negotiate within the area of personal & professional development.\n\nNegotiate within the area of project management.",
+        "Produce original work in an appropriate format which demonstrates analytical, research and problem-solving skills.",
+        "Put into practice communication, interpersonal, organisational and time management skills in a workplace context.",
+        "Present their work professionally in a way that makes the connections between the results of their analysis and business issues for an organisation."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project/group work involving negotiation strategies",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": "Students need to attend & contribute to the group work to pass the subject",
+            "timing": "From Week 1 to Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual report on ethical concerns within data/analytics",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": "Students need to pass this assignment to pass the subject",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Syndicate research report",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "Students need to pass this assessment to pass the subject",
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Syndicate oral presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Reflection essay",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

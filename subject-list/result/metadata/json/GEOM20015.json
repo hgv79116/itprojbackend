@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>This subject will introduce students to principles, technologies and procedures used for sensing and measurement of different physical environments and explore how the collected information supports decision making in various applications. This subject explains the theoretical and practical aspects of mapping the physical world to a digital representation. Students will learn the concept of a digital twin, the role of sensing and measuring for connecting the physical world with its digital representations, and exemplary applications of sensing and measuring in the domain of infrastructure engineering. The practical sessions will give hands-on experience with a range of sensing and measurement technologies in a problem-solving context. Students who develop proficiency in the practice of this subject will be able to apply this knowledge in the workplace for capturing and sensing the environment.</p>",
+        "<p>The subject content is based on the fundamental insight that, since no exact measurement exists, we always observe phenomena with uncertainty. Error theory and concepts of sensing and measurement are discussed and accompanied by computations such as levelling, traversing, IoT, positioning, deformation monitoring, map projections and the shape of the Earth, data capturing, map preparation and incorporation of field surveys into drafting, modelling applications, and Digital Twins. The fieldwork will make arrangements for on-campus and online students.</p>",
+        "<p>Please view this video for further information: <a href=\"https://www.youtube.com/watch?v=jK4T43AJuEE\">Sensing and Measurement</a></p>"
+    ],
+    "ilo": [
+        "SILO 1. Apply knowledge of basic science fundamentals relevant to spatial systems;",
+        "SILO 2. Design and acquire field sensing and measurements using modern technologies in a team;",
+        "SILO 3. Process measurements to produce various outputs showing real environment and elevation with appropriate accuracy and visual representation;",
+        "SILO 4. Incorporate captured data into modelling and drafting software packages;",
+        "SILO 5. Apply the processes involved in representing the contiguous real world in a metric abstracted form."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to communicate effectively, not only with engineers but also with the community at large",
+        "In-depth technical competence in at least one engineering discipline",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-SPATENG Master of Spatial Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "VCE mathematics"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Assessment: \n\nOral  Practical Exam.  (15 minute duration requiring approximately 40 hours of work).\n\nAddressing Intended Learning Outcomes (ILO)'s 1 and 2.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One  Individual online test (30 minute duration requiring 12 hours of work). \n\nAddressing ILO's 1 and 2.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One individual online test (30 minute duration requiring 12 hours of work).\n\nAddressing ILO's 1 and 2.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Assessment:\n\nThree group reports \n\n(10% each) (1000 words \n\nequivalent per report) \n\nshowing progress through the fieldwork \n\ntasks (which have \n\narrangements for on campus and online \n\nstudents). Due in weeks 4, 5 and 7.\n\nAddressing ILO's 1 -5.",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group Assessment: One group report (2000 words equivalent per report) showing competency through fieldwork tasks.   Addressing ILO's 1 - 5.",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Flipped classroom:\n\n1 hour on video-recorded material per week;\n\n1 hour on interactive practice session per week.\n\nLabs:\n\n 3 hours with a demonstrator per week; Self-guided research/lab hours for the project",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "AmirKhodabandeh",
+            "contact_email": "akhodabandeh@unimelb.edu.au"
+        }
+    ]
+}

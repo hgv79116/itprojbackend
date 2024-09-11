@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>This subject will introduce students entering, or already in, the education sector to the many ways that evaluation is used in education. The subject will begin with an introduction to the origins and the political and social contexts of evaluation as well as the nature and logic of evaluation. Subsequent weeks will focus on the applied fields of evaluation set in the context of education. There are six applied fields of evaluation that will be covered: 1) performance evaluation (student assessment; teacher reflective practice); 2) product evaluation (curriculum effectiveness); 3) program evaluation (school accreditation; organisational/systems-level evaluation); 4) personnel evaluation (teacher performance appraisal; principal performance appraisal); 5) policy evaluation (policy to practice and practice to policy studies); 6) proposal evaluation (assessing grant-making applications for funding). The subject will culminate with a look at meta-evaluation (evaluating evaluations).</p>"
+    ],
+    "ilo": [
+        "Apply the principles of evaluation to educational contexts",
+        "Critically analyse reports and literature specific to evaluation in education",
+        "Gain an appreciation of the purposes, benefits, and exigencies of conducting evaluations in educational contexts",
+        "Enhance understanding, through evaluation, of the interconnectedness of education policy and practice including how to influence and forward best practices"
+    ],
+    "generic_skills": [
+        "planning;",
+        "problem-solving and resourcefulness;",
+        "analysis;",
+        "improved written communication skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Students in the 200-point program of the Master of Education, Master of TESOL or Master of Modern Languages Education, must have completed the following four compulsory subjects:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsEDUC90929Understanding Education in ContextSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5EDUC90930Local Literacies in Global ContextsSemester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)12.5EDUC91029Understanding the Student as LearnerSemester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)12.5EDUC91030Research in Educational RelationshipsSemester 1 (Online)Semester 1 (On Campus - Parkville)Semester 2 (Online)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90929",
+                        "Name": "Understanding Education in Context",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90930",
+                        "Name": "Local Literacies in Global Contexts",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC91029",
+                        "Name": "Understanding the Student as Learner",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC91030",
+                        "Name": "Research in Educational Relationships",
+                        "Teaching period": "Semester 1 (Online)Semester 1 (On Campus - Parkville)Semester 2 (Online)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "*Students that commenced their course prior to 2021 may have completed EDUC90830 in place of EDUC91029, and EDUC90900 in place of EDUC91030:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsEDUC90830The Student as LearnerTerm 3 (Online)Term 1 (Online)12.5EDUC90900Resilience and RelationshipsTerm 3 (Online)Term 1 (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90830",
+                        "Name": "The Student as Learner",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90900",
+                        "Name": "Resilience and Relationships",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short answer essays (3 at 500 words each; equally weighted)",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 3",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Minor assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Major assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Contribution to 4 of 5 discussion/application opportunities",
+            "timing": "From Week 4 to Week 8",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

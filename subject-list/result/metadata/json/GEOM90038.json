@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This subject will introduce students to advanced imaging technologies and the methods for extracting quantitative information from multi-source imagery. This subject builds on the knowledge of subjects such as imaging the environment, by considering multi-source images of the target to provide additional information such as the distance from the target to object from which a three-dimensional representation can be constructed. It also considers imaging of targets where illumination is provided by the instrument rather than natural light reflection or radiation from the target. Students who successfully complete this subject may find work in a variety of remote sensing or specialist consultancies or agencies. The techniques learnt may also be applied to other industries such as quality control in manufacturing or recording of archaeological sites.</p>",
+        "<p>The subject is of particular relevance to students wishing to establish a career in infrastructure engineering, civil engineering, property management, surveying, spatial information and urban planning but is also relevant to a range of disciplines where 3D building information should be considered.</p>"
+    ],
+    "ilo": [
+        "Describe the characteristics of image data obtained from reality capture sensors.",
+        "Design the appropriate data acquisition techniques for capturing various infrastructures.",
+        "Apply image processing methods to retrieve three dimensional spatial information from imagery.",
+        "Evaluate the accuracy of adopted process and derived spatial information."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solutions",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Ability to perform geometric operations such as trigonometry",
+        "Ability to capture imagery",
+        "Ability to work with computer software"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four written assignments each requiring approximately 12 hours of work (equivalent of 800 words each) and partly completed in laboratory classes. 15% each, 60% total.  Intended Learning Outcomes (ILOs) 2, 3 and 4 are addressed in this assessment.",
+            "bullets": [
+                "48 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in weeks 3, 6, 9, 12.",
+            "percentage": "60%"
+        },
+        {
+            "brief": "One in-class test, 10%.  ILOs 1 and 4 are addressed in this assessment.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due between weeks 5 and 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One final exam, end of semester. ILOs 1 and 4 are addressed in this assessment.",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "48 Hours (Lectures: 24 hours per semester; Labs/assignments: 24 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "k.khoshelham@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1 - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 Hours (Lectures: 24 hours per semester; Labs/assignments: 24 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Kourosh Khoshelham",
+            "contact_email": "k.khoshelham@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "overview": [],
+    "ilo": [
+        "Explain and provide rationale for experimental design, experimental implementation, data evaluation and communication in modern biomedical research, and discuss these concepts in an ethical context.",
+        "Demonstrate competency in statistical analysis, hypothesis testing and data presentation.",
+        "Identify and apply ethical conduct of animal and human experimental ethics, including regulatory requirements.",
+        "Defend the need for the active management of intellectual property issues, scientific integrity and conflict of interest in a contemporary biomedical research context.",
+        "Compare the scientific and technical bases of selected advanced techniques in biomedical research."
+    ],
+    "generic_skills": [
+        "Critical evaluation of data",
+        "Critical evaluation of literature",
+        "Statistical literacy",
+        "Oral and written presentation",
+        "Use of modern record keeping tools",
+        "Library skills included data base searching and reference management software",
+        "Introduction to Peer-to peer evaluation as a mechanism for enhancing work output."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online training modules on research integrity (RIOT), animal ethics and use of cell lines (8 modules: 1 hour per module to review content and complete a short assessment)",
+            "bullets": [
+                "8 hours"
+            ],
+            "hurdle": "Satisfactory completion evidenced by completion certification",
+            "timing": "Week 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Online training modules on record keeping via LabArchives and appropriate reference manager",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Satisfactory completion evidenced by completion certification",
+            "timing": "Week 2",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Online quizzes (4 Quizzes \u2013 self paced) on statistics and experimental design",
+            "bullets": [
+                "6 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Students will do one presentation (20 minute presentation and 10 minutes of questions) to their journal club group and attend five journal clubs over the course of the subject.  Students will be expected to read the paper being presented weekly in preparation for the journal club activity.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Weekly",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One lay writing assignment",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "2 weeks after the end of teaching",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One 3MT oral presentation on student project",
+            "bullets": [
+                "3 minutes"
+            ],
+            "hurdle": null,
+            "timing": "4 weeks after the end of teaching",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Research Integrity Online Training 8 Hours (self-paced)\n\nRecord Keeping and Reference Management 3 Hours (self paced)\n\nStatistics (online) 6 hours (self paced)\n\nJournal Club 5 hours + preparation (5 weeks, synchronous)\n\n3 Minute Research Proposal 2 hours (in person)\n\n= 24 hours course work commitment",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "12 February 2024 to 25 March 2024",
+            "last_self_enrol_date": "20 February 2024",
+            "census_date": "1 March 2024",
+            "last_date_to_withdraw_without_fail": "5 April 2024",
+            "assessment_period_ends": "22 April 2024",
+            "contact_name": "",
+            "contact_email": "Past students, future students, general enquiries"
+        },
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Research Integrity Online Training 8 Hours (self-paced)\n\nRecord Keeping and Reference Management 3 Hours (self paced)\n\nStatistics (online) 6 hours (self paced)\n\nJournal Club 5 hours + preparation (5 weeks, synchronous)\n\n3 Minute Research Proposal 2 hours (in person)\n\n= 24 hours course work commitment",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to  2 September 2024",
+            "last_self_enrol_date": "30 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "6 September 2024",
+            "assessment_period_ends": "30 September 2024",
+            "contact_name": "",
+            "contact_email": "Past students, future students, general enquiries"
+        }
+    ]
+}

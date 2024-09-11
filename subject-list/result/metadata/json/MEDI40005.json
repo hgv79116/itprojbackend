@@ -1,0 +1,138 @@
+{
+    "overview": [
+        "<p>This subject aims to provide opportunities for students to gain an understanding in, and extend the practice of translational biomedical research, and to understand the importance of research translation from the bench to the clinic leads to improved clinical management of human health and disease.</p>",
+        "<p>Students will undertake an original research project in a basic, translational or clinical science in laboratories based in the Eastern Hill Academic Centre (from the Dept. of Medicine or Surgery, St Vincents Hospital) or in one of our affiliated research institutes (St Vincents Institute of Medical Research (including O\u2019Brien Institute), Centre for Eye Research Australia and the Bionic Institute).</p>",
+        "<p>Students undergo extensive research training with their own individually-supervised research project, acquiring skills in experimental design, technical expertise in state of the art basic, clinical and translational research methodologies, critical thinking, analysis, project management and communication. Being part of a clinical hospital site, students also have the opportunity to learn about the broader significance of research translation as it relates to human health and disease and how research can change and improve the clinical management of patients. All of the projects offer the opportunity of progression on to higher degrees including a PhD.</p>"
+    ],
+    "ilo": [
+        "Select information, analyse it critically, and integrate it into the current state of knowledge about a broad range of translational biomedical research areas with direct relevance to human health and disease.",
+        "Formulate experimental research questions, and describe specific research methodology including appropriate statistically methods for the evaluation of research outcomes in fields of biomedical research relevant to human health and disease.",
+        "Design and undertake appropriate research experiments to answer research hypotheses in a broad range of fields of biomedical research.",
+        "Collate, present, analyse and discuss experimental data.",
+        "Communicate the method, findings and significance to human health and disease of an original translational biomedical research project in oral and written form to a broad range of audiences.",
+        "Organise, prioritise and manage research time in order to achieve the experimental and written research aims."
+    ],
+    "generic_skills": [
+        "Critical analysis of complex scientific issues.",
+        "Identification of critical and essential factors from a large body of information",
+        "Constructive critique of a scientific presentation",
+        "Contribution to intellectual discussion",
+        "Generation of new ideas for scientific experiments",
+        "Communicate research results in both written and oral form, including the organisation of knowledge and identification of the potential scope of the research project"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                    "BH-SCI Bachelor of Science (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI40006",
+                        "Name": "Biomedical Advanced Coursework",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "3500 words"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 8-10 of Semester One",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Literature review presentation (10 minute talk plus 5 minute question time)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 5-7 of Semester One",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Thesis",
+            "bullets": [
+                "10000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 12 of Semester Two",
+            "percentage": "65%"
+        },
+        {
+            "brief": "Final oral thesis defence: final oral presentation of 15 minutes followed by a 5 minutes thesis defence",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 9-11 of Semester Two",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Supervisor/ laboratory competence: ongoing assessment of student's commitment and competence by supervisor",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Kate Graham",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Kate Graham",
+            "contact_email": "shanafi@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>To introduce students to the techniques and technology of remote sensing: the extraction of information from satellite and airborne image data. This subject assumes prior knowledge of image processing techniques such as that acquired in subjects such as GEOM30009 Imaging the Environment. Students passing this subject will have the skills to work under supervision in a spatial information or remote sensing agency of consultancy providing services, for example, to natural resource managers.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Use of image processing systems. High level digital image processing, correction and classification; applications of remote sensing in the geosciences, engineering, and resource assessment and inventory; image data in geographic information systems. Detailed application studies in emergency/disaster management, environmental assessment and geological mapping.</p>"
+    ],
+    "ilo": [
+        "Describe the acquisition of remotely sensed data",
+        "Process remotely sensed data to achieve client-driven outcome",
+        "Describe the use of remotely sensed data in environmental modelling and in the solution of resource management problems",
+        "Communicate the analysis and interpretation of remotely sensed data to a client."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two practical assignment reports, approximately 500 words each, due week 3 and week 6. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in these reports",
+            "bullets": [
+                "30-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One project proposal report of 1000 words. ILOs 2 and 3 are addressed in this report",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One project proposal presentation (5 minutes) effectively summarising objectives and methods. ILO 4 is addressed in this project presentation",
+            "bullets": [
+                "5-7 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During Semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One project final presentation (5 minutes) reporting outcomes and conclusions of the project. ILO 4 is addressed in this presentation",
+            "bullets": [
+                "5-7 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During Semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One major project of 3000 words. ILOs 2, 3 and 4 are addressed in this project.",
+            "bullets": [
+                "55-60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 24 hours per semester; Tutorials: 14 hours per semester; Projects and Lab Exercises: 10 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Tomas Poblete Cisterna",
+            "contact_email": "tomas.pobletecisterna@unimelb.edu.au"
+        }
+    ]
+}

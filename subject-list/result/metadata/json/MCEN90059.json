@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>Reliability and quality are essential elements for today's products, processes and services, since failure in achieving either one can have major consequences.  This subject aims to offer a comprehensive overview of methodologies and tool to evaluate and demonstrate reliability and quality of components, equipment, processes and systems, supporting more assertive decision-making from engineers who wish to build a competitive edge in a wide variety of industries.</p>",
+        "<p>This course consists of four main modules - 1) Probability and engineering statistics; 2) Reliability and maintenance engineering; 3) Quality management and process control, and 4) Design of experiments.  Topics include basic probability rules; random variables and distribution functions; functions of random variables; ANOVA; design of engineering experiments; methods of reliability; management and applications to quality control and the reliability assessment of the product in an engineering industry.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "1. Explain the different statistical methods available for analysis of different processes;",
+        "2. Perform both parametric and non-parametric hypothesis tests for a range of engineering problems;",
+        "3. Design and plan for collecting experimental data to uncover critical information and knowledge in industry-based problem;",
+        "4. Demonstrate an understanding of the concepts of reliability engineering and the relationship between the time to time failure distribution, the reliability function and the hazard rate;",
+        "5. Analyse how an organization can improve its processes, products and services, and integrate its several functions through the best use of quality engineering;",
+        "6. Apply the total quality management, Six-Sigma, and Benchmarking into organisations."
+    ],
+    "generic_skills": [
+        "The ability to undertake problem identification, formulation, and solution",
+        "The ability to apply knowledge of science and engineering fundamentals",
+        "The ability to utilize a systems approach to complex problems and to design and operational performance",
+        "The ability to manage competing demands on time, including self-directed project work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into any of the Master of Engineering courses, Master of Engineering Management, Master of Energy Systems, or approval of the subject coordinator for any student not enrolled in the engineering master level program."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid semester test. Intended Learning Outcomes (ILOs) 1, 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual written report 1. ILO 4 is addressed in this assessment.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual written report 2. ILO 5 and 6 are addressed in this assessment.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final written exam. ILOs 4, 5 and 6 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the end of semester exam in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hour of lectures and 24 hours of workshops/tutorials",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

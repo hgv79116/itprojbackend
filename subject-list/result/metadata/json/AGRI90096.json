@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>Current advances worldwide in crop and pasture monitoring methods focus on innovative remote sensing and precision agriculture technologies to quantitatively assess crop physiological condition and soil properties for informed agronomic decisions.</p>",
+        "<p>New developments in crop sensing, comprising innovative close range-, drone- and satellite-based technologies and models will be discussed in the context of physiology and agronomy, with emphasis on water stress detection for precision irrigation, crop nutrient assessment for site-specific fertilizer application, early disease detection, soil condition and management, crop quality parameter quantification, and improved within-field crop yield uniformity evaluation for sustainable crop production.</p>",
+        "<p>New sensing methodologies available for monitoring physiological crop traits related to crop photosynthesis and transpiration via fluorescence emission detection will be described, linking to new tools required by industry in the context of high\u2011throughput data collection for plant phenotyping and plant breeding. Students will gain practical experience with laboratory and field physiological measurement techniques, remote sensing, precision agriculture tools and data analytical methods.</p>"
+    ],
+    "ilo": [
+        "Apply knowledge and skills in plant physiology and agronomy to contemporary challenges in agricultural production",
+        "Interpret, critically analyse and evaluate data generated through plant physiological measurements in order to understand crop science principles and apply these principles to production environments",
+        "Appraise remote sensing technologies to assess their capacity to measure physiological and agronomic parameters and identify their role in agronomic decision making",
+        "Evaluate plant traits quantified by sensing technologies and their links to plant health, crop and soil condition, biotic and abiotic stress, and their effects on yield and quality crop parameters",
+        "Apply laboratory and farm systems analysis tools and approaches to investigate issues and provide solutions for resource management, plant health, growth and crop yield"
+    ],
+    "generic_skills": [
+        "Skills in observation, critical analysis and report writing",
+        "A capacity for independent critical thought, rational inquiry and self-directed learning and research",
+        "An ability to drive, interpret and analyse social, technical or economic information from multiple sources",
+        "A profound respect for truth, intellectual and professional integrity, and the ethics of scholarship",
+        "The ability to work effectively as a member of a team"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI30042",
+                        "Name": "Plant Pathology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI90066",
+                        "Name": "Soil Science and Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AGRI90091",
+                        "Name": "Advanced Plant Breeding and Improvement",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BOTA30005",
+                        "Name": "Plant Molecular Biology & Biotechnology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical Report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Project Report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 80% of scheduled workshops/practical classes. ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours lectures and 24 hours workshops/practicals across the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "tomas.pobletecisterna@unimelb.edu.au"
+        }
+    ]
+}

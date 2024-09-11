@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>Principles of Structural Design introduces engineering and construction concepts with a mix of design projects, interactive workshops and lectures. An introduction to rigid body dynamics will be given through theory and case studies related to the built environment. Through analysis, model simulations, laboratory work, testing and evaluation, students will explore the fundamentals of structural analysis and commonly used construction methods and systems. The contextual links between structural theory and the finished construction will be provided by considering the fabrication, erection / construction and buildability issues.</p>"
+    ],
+    "ilo": [
+        "Understand the basic principles of forces and pressures as applied to structures;",
+        "Understand the structural design process and how it relates to the construction process;",
+        "Understand the presence, importance, types and use of design standards and codes of practice relevant to structural design in Australia;",
+        "Develop an ability to quantify loads applied to structures;",
+        "Develop an ability to analyse the effects of loads on the behaviour of structures;",
+        "Develop an ability to justify the design of commonly used structural systems for specific design applications;",
+        "Develop an ability to design simple structural systems taking into account realistic design loads;",
+        "Understand and measure the basic properties and uses of common construction and building materials;",
+        "Understand the mechanisms that result in the deformation and degradation of materials;",
+        "Develop an ability to select appropriate materials for specific design application."
+    ],
+    "generic_skills": [
+        "Critical thinking",
+        "Communication skills for written and oral presentation",
+        "Problem solving and analytical skills",
+        "Capacity to tackle unfamiliar problems",
+        "Perceptions of own learning and development",
+        "Understanding the need to externally review and critically reflect on own capabilities."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "VCE Mathematical Methods 3 and 4 with a study score of 25 or more, or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10012Introduction to MathematicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10012",
+                        "Name": "Introduction to Mathematics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Complete the online short course Calculus and Probability Online offered by the University (Note: This subject will NOT count for credit towards any degree . For more information please check  the link below:"
+            },
+            {
+                "type": "paragraph",
+                "content": "(https://ms.unimelb.edu.au/study/online-calculus-and-probability)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10 x weekly Individual Assignments",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group Assignment, equivalent to 800 words per student",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An examination equivalent to 2400 words",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "James Helal",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2X2 hour  of lectures   and 1 x 1 hour tutorial per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "james.helal@unimelb.edu.au"
+        }
+    ]
+}

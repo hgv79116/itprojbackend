@@ -1,0 +1,185 @@
+{
+    "overview": [
+        "<p>Underlying the undergraduate design course is the development of both design thinking and dexterity with tools and techniques. The focus of this design subject will be on generating design ideas, translating them into architectural forms, spaces, materials and programs. Students will learn how to refine architecture through consideration of spatial organisation, environmental context and structural necessity. Students will also learn how to communicate comprehensive architectural propositions through 2D- and 3D-modelling (physical and digital), visual and written media and oral presentations.<br/><br/>The focus in the design studio shifts to technologies and techniques in architectural practice. The studio assignments create an accretive conceptual investigation of fundamental principles into the making of buildings, including structure, enclosure, circulation, program, site, and light. An essential aspect of the design process is the incorporation of abstract thinking and abstraction within architectural production. <br/><br/>Critical use of diagramming, conceptual mapping, narratives, animations and performative expositions join with conventional techniques (plan, section, elevation, axonometric projections and perspectives) to generate and document design ideas.<br/><br/></p>",
+        "<p>The design studio focuses on singular, medium-scale programs on prototypical sites, with the development scope of up to 1000m2.</p>",
+        "<p><br/><br/></p>"
+    ],
+    "ilo": [
+        "Understand and integrate building functionality, site and landscape interface, and environmental building systems such as air circulation and light, into design proposals;",
+        "Use abstract thinking to compliment conventional design techniques;",
+        "Design medium-scale buildings and tailor designs to the context of a particular site;",
+        "Read, understand and create architectural documentation, including plans, sections, elevations, diagrams, three-dimensional representations, renderings and animations;",
+        "Communicate and test ideas and design propositions through iterative use of orthographic drawing, 3D-modelling (digital or physical), photomontage, renderings, and animations;",
+        "Understand, interrogate and work to a design brief;",
+        "Apply critical thinking to the assessment of design proposals, and to make changes and improvements based on that assessment through iterative design processes;",
+        "Formulate a conceptual design proposal (in the form of a speculative architectural design proposition) that tests a design idea or design method;",
+        "Present, substantiate and advocate for design proposals in a public setting, and accept critique in a constructive manner;",
+        "Engage with and contribution to studio culture."
+    ],
+    "generic_skills": [
+        "Ability to generate and iteratively test design ideas",
+        "Ability to work with design precedents",
+        "Ability to work with different design methodologies",
+        "Physical and digital model-making and its translation process",
+        "Ability to integrate digital tools into the design generation and design development processes",
+        "Graphic communication (including orthographic projections: plans, sections, elevations, axonometric and other projections)",
+        "Verbal presentation and appropriate use of design terminology",
+        "Time management and project management",
+        "Constructive acceptance of feedback and criticism."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH10003",
+                        "Name": "Design Studio Alpha",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL20028",
+                        "Name": "Architecture Design Studio: Water",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ABPL30048",
+                        "Name": "Architecture Design Studio: Air",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ABPL20027\t Architecture Design Studio: Earth"
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsARCH10002Construction as AlchemyNo longer availableLARC10001Natural HistorySemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH10002",
+                        "Name": "Construction as Alchemy",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "LARC10001",
+                        "Name": "Natural History",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "There are no corequisites, however co-enrolment is recommended in:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsARCH20004Design Processes and TechniquesSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH20004",
+                        "Name": "Design Processes and Techniques",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 (25 to 30 hours of work). Individual review (critique) and oral presentation, demonstrating design output that may include physical or digital models, drawings, written assignments, site analyses, journals and sketches",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assignment 2: Major Project Interim Submission (equivalent to 30-35 hours of work). Individual review (critique) and oral presentation, demonstrating design output that may include physical or digital models, drawings, written assignments, site analyses, journals and sketches. .",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 3: Major Project Interim (equivalent to 30-35 hours of work). Individual review (critique) and oral presentation, demonstrating design output that may include physical or digital models, drawings, written assignments, site analyses, journals and sketches;",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Design Journal. (approximately 15-18 hours of work per student). Completed throughout semester, based on themes developed through the lectures, including esquisses and quizzes completed in studios and lectures",
+            "bullets": [
+                "15-18 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1X1 hour lecture  and  1X3 hour studio per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "leire.asensio@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1X1 hour lecture and 1X3 hour studio  per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "David Mah",
+            "contact_email": "david.mah@unimelb.edu.au"
+        }
+    ]
+}

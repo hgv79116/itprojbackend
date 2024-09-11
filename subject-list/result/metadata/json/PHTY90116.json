@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>This subject will build on Foundation Physiotherapy Sciences A to provide physiotherapy students with additional conceptual and evidence-based background in biomedical sciences that underpin physiotherapy clinical practice and research. It will build on and integrate prior knowledge of anatomy to an understanding of physiology and pathology in the areas of cardio-respiratory, musculoskeletal and neurological systems. Students will be expected to apply this knowledge in appropriate cases as a basis for developing clinical reasoning and decision-making skills in physiotherapy practice. The subject will be completed with an integration of body systems around complex problems.</p>"
+    ],
+    "ilo": [
+        "Apply an understanding of exercise science to critically evaluate how different forms of exercise impacts on the body systems and functions to build health and fitness",
+        "Integrate knowledge of structure and function of human anatomy and underlying physiological principles with understanding of pathophysiology of common musculoskeletal, cardiovascular, respiratory and neurological conditions",
+        "Demonstrate an understanding of the pathophysiology of injury, disorders and disease of tissues within the body systems and function which results in impairment and functional restrictions",
+        "Demonstrate knowledge of the mechanism of the molecular biology of inflammation to the clinical presentation of disorders/diseases",
+        "Demonstrate knowledge of the repair and healing processes within the body and the factors that may delay or disrupt these processes",
+        "Use knowledge of pathology in the assessment, treatment and prevention of common musculoskeletal, cardiorespiratory and neurological conditions",
+        "Integrate knowledge in anatomy, physiology and pathology to substantiate clinical reasoning and clinical decisions making in physiotherapy practice",
+        "Collaborate with peers to accurately outline the mechanisms that underlie the pathophysiology of common musculoskeletal, cardiorespiratory, neurological and metabolic conditions and disorders/diseases.",
+        "Review research and evidence on pathology of common clinical conditions"
+    ],
+    "generic_skills": [
+        "an understanding of the factors that might disturb normal structure, function and development",
+        "an understanding of the aetiology, pathology, symptoms and signs, natural history and prognosis of important physical illness in all stages of life",
+        "an understanding of the management (pharmacological, physical, nutritional, behavioural and psychological) of important medical conditions",
+        "the ability to access new knowledge from all sources, to analyse and interpret it in a critical manner, and to apply it appropriately to their provision of health care",
+        "the ability to identify and address their own learning needs"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90115",
+                        "Name": "Foundation Physiotherapy Sciences A",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90117",
+                        "Name": "Integrated Professional Practice A",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "31.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90090",
+                        "Name": "Musculoskeletal Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90091",
+                        "Name": "Cardiorespiratory Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "ePortfolio",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Students will be asked to take part in weekly discussion boards from teaching weeks 4-14, these discussions will form the basis of the artefacts with final submission end of Semester 2",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Continuous assessment: x4 weekly intra-semester quizzes (MCQs) each worth approximately 5%",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": "All must be passed",
+            "timing": "Beginning of weeks 2, 3, 4, 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Mid-semester test (x1). Combination MCQs and short-answer questions.",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Exam (3 exams x 30 minutes)",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "9 hours per week of lectures and workshops each week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to  8 November 2024",
+            "last_self_enrol_date": "5 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "free.coulston@unimelb.edu.au"
+        }
+    ]
+}

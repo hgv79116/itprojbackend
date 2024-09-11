@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>This subject continues the integrated and inter-disciplinary approach to the study of organ function and dysfunction in animals that was introduced in year one of the DVM course. Building on students\u2019 prior knowledge of body system function and dysfunction and their experience of scientific and clinical reasoning, this subject introduces students to the structure and normal functioning of the reproductive system, and to the principles of dysfunction of this system. Students will be introduced to the clinical disciplines of pharmacology and therapeutics, diagnostic imaging and clinical pathology as they relate to this system. Using case-based teaching approaches, they will apply their understanding of organ and system function and dysfunction to authentic situations that enhance the development of integrative clinical reasoning abilities, and the analysis of cases that involve multiple organ perturbation.</p>"
+    ],
+    "ilo": [
+        "Utilise knowledge of the microscopic, developmental and gross anatomy of the male and female reproductive tracts in domestic animals to distinguish between normal and abnormal and to predict clinical outcomes of perturbations of this system, including during puberty, the oestrous cycle and pregnancy",
+        "Discuss the structural and physiological changes of the female reproductive tract associated with the oestrous cycle, pregnancy, parturition and lactation and how they can be manipulated through veterinary interventions",
+        "Apply knowledge of normal breeding, pregnancy, parturition and lactation to be able to identify and address reproductive problems in domestic animals including infertility, abortion, dystocia, and problems with lactation and neonatal animals",
+        "Work collaboratively, communicate effectively, and apply an understanding of reproductive structure and function in order to analyse and interpret clinical problems related to this system in animals"
+    ],
+    "generic_skills": [
+        "Be able to examine critically, synthesise and evaluate knowledge across a broad range of disciplines",
+        "Have enhanced analytical and cognitive skills through learning experiences in diverse subjects",
+        "Have the capacity to participate fully in collaborative learning and to confront unfamiliar problems",
+        "Be able to seek solutions to problems through the application of knowledge, the ability to initiate and integrate new ideas, an appreciation of the broad picture of science, and an understanding of the importance and application of scientific method."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90139",
+                        "Name": "Veterinary Professional Practice 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "VETS90140",
+                        "Name": "Animal Production Systems: Applications",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Late in the semester (Week 9 - 11)",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        },
+        {
+            "brief": "Aggregate Mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "52 hours of lectures, practical classes and case studies",
+            "total_time_commitment": "100 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "krekeler@unimelb.edu.au"
+        }
+    ]
+}

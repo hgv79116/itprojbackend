@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>This subject will provide an overview of therapy and research-based knowledge about the ways that creative arts therapists practice in educational contexts.</p>",
+        "<p>Mainstream and special education will be two of the primary contexts emphasised for young people, whilst adult education and the acquisition of skills in therapy will be the focus for older people. Theories that inform mental health approaches such as Cognitive Behavioural Therapy and other Behavioural approaches will be highlighted.</p>",
+        "<p>Students will learn about working as a creative arts therapist with people in the disability sector, including those who are disabled by diverse physical, intellectual, and mental health capacities. Distinctions between the practices of drama, dance movement, music and art therapies will be canvassed.</p>"
+    ],
+    "ilo": [
+        "distinguish practice models and theoretical orientations appropriate for working as a creative arts therapist in education contexts;",
+        "identify the needs and capacities of learners in education contexts;",
+        "design creative arts therapies session plans that address relevant needs for people in education contexts."
+    ],
+    "generic_skills": [
+        "respond openly and imaginatively to new ideas;",
+        "apply critical thinking and analytical problem-solving skills to unfamiliar challenges;",
+        "engage in rigorous and respectful debate;",
+        "manage competing demands on time, including self-directed project work;",
+        "model respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CREA90002",
+                        "Name": "Arts for Health and Wellbeing",
+                        "Teaching period": "Semester 1 (Early-Start) (Dual-Delivery - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Essay on distinct practice models and orientations for creative arts therapies in education",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Assignment - Document and justify an assessment of a group in the provided case study.",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written creative arts therapies program for a group or individual in an education context.",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Southbank)",
+            "contact_hours": "36 hours, comprising one 2-hour online lecture per week, six 1.5-hour live fortnightly tutorials and one 3-hour on campus workshop during an intensive teaching week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "19 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "1 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "maya.ercole@unimelb.edu.au"
+        }
+    ]
+}

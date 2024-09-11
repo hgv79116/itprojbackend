@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This elective subject is available to Bachelor of Fine Arts (Dance) students by permission of the subject coordinator following an Expression of Interest process.</p>",
+        "<p>This subject is an intensive international study experience, offering students an intercultural exchange involving masterclasses, workshops, and performance opportunities in dance.</p>",
+        "<p>The subject is intended to broaden students' understanding of different generative practices as they occur in other cultures, thereby expanding the dancer's knowledge through which students will gain a deeper understanding of dance and movement cultures.</p>",
+        "<p><strong>Overseas Travel</strong></p>",
+        "<p>In this subject, students will engage in an intensive study abroad experience and costs in addition to tuition fees may be incurred. Students may be eligible for financial assistance, or the Overseas Help Loan (OS-HELP Loans).</p>"
+    ],
+    "ilo": [
+        "adapt and experiment within different dance contexts;",
+        "develop an artistic identity within a multi-cultural context;",
+        "apply intercultural skills to situations of collaboration, inter-disciplinarity and cultural exchange;",
+        "demonstrate a professional ethos in participating and contributing to international exchange."
+    ],
+    "generic_skills": [
+        "communicate constructively in different social situations;",
+        "respond openly and imaginatively to new ideas;",
+        "articulate, integrate and adapt knowledge from different domains."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DNCE10031",
+                        "Name": "Dance Lab 2: Integrated Practices",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "PERMISSION OF COORDINATOR: Students are required to apply for permission to enrol in this subject via a 300-word Expression of Interest."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Participation and contribution to workshops",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "10-minute group presentation",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Documentation and journaling",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "70 hours, comprising 20 hours of pre-travel meetings and 50 hours of intensive masterclasses, workshops and performances delivered overseas",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to  6 September 2024",
+            "last_self_enrol_date": "31 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "6 September 2024",
+            "assessment_period_ends": "27 September 2024",
+            "contact_name": null,
+            "contact_email": "port.r@unimelb.edu.au"
+        }
+    ]
+}

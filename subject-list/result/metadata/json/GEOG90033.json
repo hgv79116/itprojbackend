@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>The Geography Minor Research Project allows students to develop advanced research skills by carrying out an independent research project in a field of Geography. The thesis will demonstrate a critical application of specialist knowledge and make an independent contribution to existing scholarship in the area of research.</p>"
+    ],
+    "ilo": [
+        "an in-depth appreciation for the research process by carrying out a project, including the inception of a proposal, planning and implementation, and analysis, reporting and defending;",
+        "investigative skills, critical thought and the ability to evaluate information and analyse data;",
+        "knowledge and understanding of the discipline area; and",
+        "significant academic research and writing skills."
+    ],
+    "generic_skills": [
+        "To demonstrate advanced communication skills, both written and oral;",
+        "To demonstrate the ability and self-confidence to comprehend complex debates and concepts;",
+        "To be capable of undertaking directed research;",
+        "Thinking critically;",
+        "Obtaining information to address research questions."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOG90030",
+                        "Name": "Geography Minor Research Project Part 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOG90031",
+                        "Name": "Geography Minor Research Project Part 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written research proposal",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "By week 8 of the first semester of enrolment in the research project",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "Oral research proposal presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "By week 8 of the first semester of enrolment in the research project",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "Oral research results presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "By week 11 of the second semester of enrolment in the research project",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "Research thesis",
+            "bullets": [
+                "12,500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the second semester of enrolment",
+            "percentage": "62.5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Russell Drysdale",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 - Regular meetings as arranged with supervisors",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "rnd@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Russell Drysdale",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 - Regular meetings as arranged with supervisors",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rnd@unimelb.edu.au"
+        }
+    ]
+}

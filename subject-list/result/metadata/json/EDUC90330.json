@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>Students will explore principles of instructional design and the role of collaborative working practice for learning and teaching in the DP. Additionally students will learn to address the expectations and requirements of specific subject areas.</p>",
+        "<p>Teaching strategies and learning activities which enable subject objectives and interdisciplinary learning to be realised will be explored.  The learner profile will be investigated within the context of discipline specific evaluation and materials.</p>",
+        "<p>Issues and approaches for differentiating learning and teaching and responding to diverse learning characteristics will be addressed.</p>"
+    ],
+    "ilo": [
+        "Examine principles of instructional design and the role of collaborative working practice for learning and teaching that incorporate DP standards and practices;",
+        "Investigate and apply principles of instructional design for developing curriculum that meets the expectations and requirements of specific subjects and differentiates learning and teaching activities in response to diverse learning characteristics;",
+        "Articulate strategies for developing interdisciplinary links and embedding the learner profile in DP curriculum;",
+        "Explain the relationship between curriculum, methodology and assessment in specialised disciplines;",
+        "Articulate the role and purpose of command terms within the IB Diploma."
+    ],
+    "generic_skills": [
+        "Demonstrate the essential knowledge and skills to perform competently as a specialist teacher;",
+        "Comprehend the intellectual, social and psychological aspects of their work with learners and synthesise theory and practice;",
+        "Understand the key concepts of curriculum formation and curriculum development;",
+        "Evaluate and use constructive criticism of their own work and of the institutions/communities in which they teach;",
+        "Effectively use ICT to participate in learning communities as a source of professional learning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90331",
+                        "Name": "Assessment & Reporting in the IB",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90332",
+                        "Name": "Curriculum Frameworks in the IB DP",
+                        "Teaching period": "Term 4 (Online)Term 2 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90333",
+                        "Name": "Introduction to the IB",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Critical Reading Task \u2013 Reciprocal teaching model",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Annotated subject timeline",
+            "bullets": [
+                "2250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Online presentation on their specialist subject area (2250 word equivalent)",
+            "bullets": [
+                "22 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 2 - Online",
+            "principal_coordinator": "Nicky Dulfer",
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 April 2024 to 23 June 2024",
+            "last_self_enrol_date": "23 April 2024",
+            "census_date": "17 May 2024",
+            "last_date_to_withdraw_without_fail": "7 June 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "dulfern@unimelb.edu.au"
+        },
+        {
+            "semester": "Term 4 - Online",
+            "principal_coordinator": "Stephen Chatelier",
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "14 October 2024 to  8 December 2024",
+            "last_self_enrol_date": "8 October 2024",
+            "census_date": "1 November 2024",
+            "last_date_to_withdraw_without_fail": "22 November 2024",
+            "assessment_period_ends": "15 December 2024",
+            "contact_name": null,
+            "contact_email": "schatelier@unimelb.edu.au"
+        }
+    ]
+}

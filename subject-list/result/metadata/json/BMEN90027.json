@@ -1,0 +1,150 @@
+{
+    "overview": [
+        "<p><strong>AIMS:</strong></p>",
+        "<p>This subject introduces mathematical and computational modelling, simulation and analysis of biological systems. The emphasis is on developing models, with examples, using MATLAB. <br/><br/><strong>INDICATIVE CONTENT:</strong></p>",
+        "<p>Topics include:</p>",
+        "<p>Modelling biochemical reactions. Law of mass action. Enzymes and regulation of enzyme reactions. Thermodynamics of reversible biochemical reactions. Cellular homeostasis. Application of ordinary differential equations to these problems.</p>",
+        "<p>Modelling large reaction networks. Flux balance analysis and constraint-based methods. Genome-scale models. Regulation of gene expression. Gene regulatory networks in systems and synthetic biology. Network inference and statistical modelling of \u2013omic data. Knowledge-based modelling in systems biology.</p>"
+    ],
+    "ilo": [
+        "Evaluate the role for mathematical and computational modelling of biological systems;",
+        "Employ the law of mass action to develop ODE models for biochemical reactions;",
+        "Develop and analyse models for enzyme catalysed reactions in cellular bioengineering and synthetic biology;",
+        "Demonstrate the use of ODE and PDE models in molecular and cellular physiology;",
+        "Describe the premise of systems and synthetic biology;",
+        "Develop and analyse large-scale network models for biosystems and synthetic biology;",
+        "Explain the role of knowledge-based modelling in systems biology;",
+        "Evaluate and employ the measurement technologies and sources of data underlying systems and synthetic biology, including data repositories and different modelling approaches."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals.",
+        "Ability to communicate effectively, with the engineering team and with the community at large.",
+        "Capacity for lifelong learning and professional development.",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent Mathematics subject"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Participation in up to six workshops in Weeks 2 to 12, of which 4 are assessed with a written assignment of approximately 500 words, requiring 13-15 hours of work including preparation (10% each).",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "The examination must be passed to successfully complete the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

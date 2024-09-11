@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>This is one of two capstone subject options, taught in the final semester of the Master of Psychiatry course.</p>",
+        "<p><br/>This subject is intended to develop critical research skills required to conduct professional research within the field of Psychiatry. Students will formulate a research question with relevance to one of the areas of specialisation covered during their studies in the Master of Psychiatry \u2013 preferably an area they have undertaken a selective subject within and can arrange appropriate supervision for. An ethics application may be required from the student.</p>",
+        "<p><br/>Students will discuss their chosen research topic with their supervisor, devising a research proposal and outline that will form the basis of their thesis. Students will review relevant literature in light of their chosen area of study and according to established research method(s) in preparation for writing and then submission of their minor thesis at the end of term.</p>"
+    ],
+    "ilo": [
+        "Formulate and present an appropriate research question and proposal (including submission of an Ethics Application if applicable),",
+        "Synthesise research skills by choosing methodology appropriate to the chosen field of study;",
+        "Draw on disciplinary literature within the field in order to present justified critical analysis of the literature,",
+        "Conduct data collection, analysing and interpreting data, critically discussing the implications of the findings,",
+        "Produce a final research thesis of professional quality and standard"
+    ],
+    "generic_skills": [
+        "Define a research question and present a research proposal, giving consideration to ethical implications (where applicable)",
+        "Obtain ethics approval (where applicable)",
+        "Design a research protocol defining and justifying methods to be used",
+        "Collect, critically analyse and interpret data according to the defined methods of the research proposal, formulating appropriate conclusions",
+        "Review, appraise and critically discuss literature directly related to the research question",
+        "Present the findings within the protocols of a research theses (approximately 10,000 words)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYT90010",
+                        "Name": "Research Methods in Psychiatry",
+                        "Teaching period": "July (Online)July (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYT90094",
+                        "Name": "Special Topics in Psychiatry",
+                        "Teaching period": "August (Online)August (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Supervisor's Report (standards of self-direction, initiative, data collection, ethical conduct) 3 reports. One at start, oner at mid-term, one at end of term.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Research Ethics Submission (if not already completed)",
+            "bullets": null,
+            "hurdle": "Research Ethics Submission (if not already completed) ",
+            "timing": "Day",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Final Research Report (organised into Abstract, Introduction, Methods, Results, Discussion, Conclusion, References) - incorporates work undertaken in research prerequisite subject",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of term",
+            "percentage": "80%"
+        },
+        {
+            "brief": "Meeting with Supervisor",
+            "bullets": null,
+            "hurdle": "Fortnightly meetings with supervisor througout the subject",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "August - Online",
+            "principal_coordinator": "Mahesh Jayaram",
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "250 hours",
+            "teaching_period": "19 August 2024 to  8 November 2024",
+            "last_self_enrol_date": "13 August 2024",
+            "census_date": "6 September 2024",
+            "last_date_to_withdraw_without_fail": "25 October 2024",
+            "assessment_period_ends": "9 December 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "August - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "250 hours",
+            "teaching_period": "19 August 2024 to  8 November 2024",
+            "last_self_enrol_date": "4 September 2024",
+            "census_date": "13 September 2024",
+            "last_date_to_withdraw_without_fail": "1 November 2024",
+            "assessment_period_ends": "9 December 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

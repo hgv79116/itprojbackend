@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>Quantum field theory has been at the forefront of important breakthroughs in both physics and mathematics in past decades. This subject develops an advanced understanding of the quantum properties of non-Abelian gauge theory via the use of modern field-theoretical methods. Non-Abelian gauge theory is the underlying structure behind the Standard Model of particle physics.</p>",
+        "<p>The subject introduces path integrals (including for fermions) in field theory. We develop functional methods to derive Feynman rules from the path integral and calculate the effective action and effective potential. Another major topic is renormalisation. We will explore renormalisation using the method of dimensional regularisation to calculate loop integrals. We will derive the Callan-Symanzik equation and the implications of renormalisation group flow such as asymptotic freedom. We will also study the subtleties of quantising non-Abelian gauge theories through topics such as gauge fixing, Fadeev-Popov ghosts and BRST invariance.</p>",
+        "<p>Time permitting, further specific topics may be taken from effective field theory and power-counting, anomalies, non-perturbative techniques, topological defects, and other extended objects in field theory.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Understand the path integral formulation of quantum field theory;",
+        "Calculate the quantum corrections to a wide range of classical field theory processes;",
+        "Apply functional methods to derive Feynman rules from path integrals;",
+        "Derive renormalisation group equations for quantities in general gauge theories;",
+        "Understand how to consistently quantise a non-Abelian gauge theory."
+    ],
+    "generic_skills": [
+        "Advanced problem-solving and critical thinking skills;",
+        "An ability to apply abstract concepts to real-world situations;",
+        "An ability to solving solve relatively complicated problems using approximations;",
+        "An ability to participate as an effective member of a group in discussions and collaborative assignments;",
+        "Effective time-management skills;",
+        "The capacity to apply concepts developed in one area to a different context."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "PHYC90008 Quantum Field Theory (Semester 1)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written assignment due in week 7",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One written assignment due in Week 11",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One 3.5 hour written exam during the examination period",
+            "bullets": [
+                "3.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours comprising 3 one-hour lectures/week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

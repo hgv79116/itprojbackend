@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>This subject will assist students to expand and deepen their knowledge in the area of pathophysiology related to cancer and other conditions that alter skin, the nervous system, cardiovascular, respiratory, gastrointestinal, endocrine, musculo-skeletal, genitourinary and reproductive systems by exploring complex diseases which have multi system involvement. The complications of polypharmacy will be explored.</p>"
+    ],
+    "ilo": [
+        "discuss the pathophysiology of complex diseases of the skin, the nervous system, including special senses, cardiovascular, respiratory, gastrointestinal, endocrine, musculo-skeletal, genitourinary and reproductive systems;",
+        "discuss the potential drug interactions for groups of medications commonly used in patients with these conditions;",
+        "demonstrate knowledge using appropriate scientific language."
+    ],
+    "generic_skills": [
+        "the capacity for information seeking, retrieval and evaluation;",
+        "critical thinking and analytical skills;",
+        "an openness to new ideas;",
+        "planning and time management skills;",
+        "the ability to communicate knowledge through classroom and web."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsNURS90125Nursing Science 2Semester 2 (On Campus - Parkville)12.5NURS90129Nursing Science 1Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90125",
+                        "Name": "Nursing Science 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NURS90129",
+                        "Name": "Nursing Science 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "(or the pre-2019 version of these subjects: NURS50003 Nursing Science 1 and NURS50006 Nursing Science 2)"
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90053",
+                        "Name": "Clients with Complex Health States",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Case study",
+            "bullets": [
+                "2,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must achieve an aggregate of 50% and pass the written examination to pass the subject",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Alberto Au",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours lectures",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

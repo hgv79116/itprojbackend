@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>Students that successfully completely this subject will have the skills to practice under a chartered engineer to analyse problems and propose designs in the field of civil and environmental hydraulic engineering. Analysis of water flow in natural and constructed channels is studied in the river hydraulics module. This gives students the fundamental tools to learn techniques such as flood prediction, the design of channels for water movement in irrigation, and the prediction of water levels in channels in environmental flow studies. The movement of water and sediment along coasts due to wave action and currents is the focus of the coastal hydraulics module. An understanding of wave processes in coastal and surf zones is an essential starting point for the design of coastal structures such as piers, groins and jetties. With impending sea level rise, this will be a significant area of civil engineering practice for the foreseeable future. In the third module, the focus will be on processes of sediment transport and geomorphological change in rivers and coastal waters. The ability to analyse these processes can lead to graduates working in the area of river engineering, where for example the erosion of sediment from bridge abutments must be controlled. It is also important in ecological modelling where the movement of sediments and entrainment in water can impact on the habitat of stream biota.<br/><br/>The subject will draw on students\u2019 existing knowledge of fluid mechanics, systems modelling, statistics, engineering mathematics and geomorphology gained from undergraduate or other preparatory study.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<ol><li>River Hydraulics: revision of basic concepts of steady-state open channel flow and extend this with applications in natural river channels, time dependent behaviour and flood hydraulics</li><li>Coastal Hydraulics: basic wave theory and processes including in the surf zone</li><li>Sediment Transport and Water Quality: mechanisms and models of particulate and solute transport in rivers and coastal environments.</li></ol>",
+        "<p> </p>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Describe flow regimes and what controls the water level in a river",
+        "Analyse the flow and backwater profiles of water in natural and constructed channels to predict the channel capacity and flow characteristics such as depth",
+        "Analyse the flow water through natural and constructed structures such as chokes, weirs, spillways and energy dissipaters",
+        "Design a channel to carry a particular design flow",
+        "Describe the characteristics of waves and be able to predict the behaviour of waves in the near-shore environment based on their deep-water characteristics",
+        "Calculate the breaking characteristics of waves and their effect on coastal water levels and currents",
+        "Interrogate wave recordings for statistics useful in the design of coastal structures and management options",
+        "Use tidal constituents to classify the tidal regime at various locations",
+        "Recommend coastal management options based on an understanding of waves, tides and near-shore currents",
+        "Describe and analyse the processes of sediment erosion, entrainment, transport and deposition in river channels",
+        "Predict sediment loads based on channel and sediment characteristics and discriminate between supply and transport limited situations",
+        "Predict how channel morphology will change as the result of natural or human impact."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to function effectively as an individual and in teams, as a team leader or manager as well as an effective team member"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsENGR30002Fluid MechanicsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR30002",
+                        "Name": "Fluid Mechanics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ENGR30001 Fluid Mechanics & Thermodynamics"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Assessment / Project - Computer-base and/or laboratory activities equivalent to 1000-1500 words per student for each of the three modules. These activities require\n\napproximately 30 hours of work for each module. ILOs 1 to 12 are addressed in these activities.",
+            "bullets": [
+                "90 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "One examination. ILOs 1 to 3, and 5 to 12 are addressed in this examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Alessandro Toffoli",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Up to 39 hours (Lectures: up to 1 hour per week;Tutorials/Workshops: 2 hours per week; Laboratory Workshop/Demonstration: 3 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Alessandro Toffoli",
+            "contact_email": "alessandro.toffoli@unimelb.edu.au"
+        }
+    ]
+}

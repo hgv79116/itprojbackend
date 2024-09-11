@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p>This subject serves as a capstone for the Management and Marketing majors within the Bachelor of Commerce. As such, the aim is to integrate students\u2019 knowledge of core business functions and analytical tools and apply these to the problems faced by modern organisations and decision-makers. Students will be exposed to these problems through simulation tasks and case analyses. Students will be challenged to form and act upon judgments around strategic directions, marketing priorities, and entrepreneurial opportunities. There is a strong focus on the need to collectively arrive at decisions within decision groups, and to argue for these choices through typical business communication formats (e.g. business plans, slide packs, formalised reviews).  </p>"
+    ],
+    "ilo": [
+        "Demonstrate knowledge of the theories and concepts from the fields of management, marketing and business studies in a domestic and international context.",
+        "Apply theories and models from the fields of management, marketing and business studies to business and organisational problems",
+        "Prioritise and justify business judgments",
+        "Analyse and present data to support business judgments",
+        "Evaluate opportunities in light of ethical and sustainability considerations"
+    ],
+    "generic_skills": [
+        "Applying critical and analytical skills and methods to the identification, evaluation and resolution of complex problems",
+        "Working collaboratively and productively in groups",
+        "Communicating ideas effectively in both written and oral formats",
+        "Recognising and understanding the ethical responsibilities of individuals and organisations in society",
+        "Engaging confidently in self-directed study and research"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MGMT20001",
+                        "Name": "Organisational Behaviour",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "a minimum of 200 credit points ofUndergraduate study"
+            },
+            {
+                "type": "paragraph",
+                "content": "This is a level-3 capstone subject. Students in their final year who are wishing to enrol in this subject but have not completed 200 credit points must obtain written permission by emailing the Subject Coordinator with a copy of their academic record."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Business plan for simulation (groups of 4-5 students)",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Personal reflection on simulation",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Case challenge slide pack group report (groups of 4-5 students)",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Peer review of case challenge",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Simulation performance result (groups of 4-5 students)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Additional business case submission",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Andre Sammartino",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour workshop per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "samma@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour workshop per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "samma@unimelb.edu.au"
+        }
+    ]
+}

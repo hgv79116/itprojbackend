@@ -1,0 +1,127 @@
+{
+    "overview": [
+        "<p>This subject provides students with an introduction to biomedical research via lectures, workshops and tutorials. It comprises a range of coursework to complement the accompanying research subjects (<a href=\"/view/current/PAED40001\">PAED40001</a> and <a href=\"/view/current/PAED40005\">PAED40005</a>). This subject is designed to enhance students\u2019 understanding of the broader areas of contemporary biomedical science, and to encourage the development of independent thinking and critical analytical skills.</p>"
+    ],
+    "ilo": [
+        "Identify contemporary issues in biomedical and health research.",
+        "Critically appraise and comment on the scientific literature.",
+        "Design and plan research with appropriate hypotheses, controls, sampling and analyses.",
+        "Design and plan research with appropriate ethical and statistical rigor.",
+        "Identify a range of bioinformatics tools that can facilitate biomedical research.",
+        "Correctly use statistical methods, including hypothesis testing, p values and appropriate measures of variability."
+    ],
+    "generic_skills": [
+        "The ability to articulate knowledge and persuasive intellectual arguments in a particular research discipline"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PAED40001",
+                        "Name": "Paediatrics Research Project Part 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "31.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mock grant application",
+            "bullets": [
+                "1100 words"
+            ],
+            "hurdle": null,
+            "timing": "Due Week 10-12",
+            "percentage": "24%"
+        },
+        {
+            "brief": "Short answer test related to grant application",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Biostatistics group assignment (assessments are submitted and assessed individually)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due July/August",
+            "percentage": "33%"
+        },
+        {
+            "brief": "Written assignment on 'critical thinking and data analysis'",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due mid-semester 1",
+            "percentage": "33%"
+        },
+        {
+            "brief": "Literature review",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "",
+            "timing": "Due mid-semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Oral presentation on research proposal",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": "",
+            "timing": "Due mid-semester 1",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": "Belinda McClaren",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "helen.dcruz@rch.org.au"
+        }
+    ]
+}

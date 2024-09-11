@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p>This subject teaches students to become critical interpreters and users of data-based evidence. Future data scientists working across many disciplines will develop skills in identifying the strengths and weaknesses of arguments based on quantitative evidence, and learn to evaluate reasoning that uses probabilistic ideas and the results of statistical analysis.  They will develop skills in interpretation, principled reporting and communication of statistical evidence.</p>",
+        "<p>Data-based evidence is foundational in all of science.  The growth of \u201cbig data\u201d and interest in data science has accentuated the need for a well-developed understanding of how scientific studies are designed, analysed and communicated.  The media, other academic research and many aspects of everyday life also use and build on data presented and processed in many different ways.</p>",
+        "<p>The subject examines methods of judging the quality of data-based evidence, and the strength of conclusions drawn from it, including concerns in establishing causality. It provides students with frameworks for evaluating study quality and deals with quantifying uncertainty in conclusions, describing how data-based evidence can contribute to the accumulation of scientific knowledge.  </p>",
+        "<p>The subject emphasises the skills needed to use, interpret and communicate statistical and data science related ideas and findings in real world contexts.</p>"
+    ],
+    "ilo": [
+        "think critically about quantitative data in a range of scientific contexts;",
+        "apply the principles of collecting data as evidence (through controlled experiments, surveys and observational studies);",
+        "critically examine the evidence in data (including graphical representation, summary measures, and statistical modelling);",
+        "appropriately draw conclusions from the evidence in data (based on modelling, estimates, confidence intervals, p-values, and meta-analysis);",
+        "critically assess claims based on quantitative data;",
+        "present and communicate quantitative findings effectively."
+    ],
+    "generic_skills": [
+        "analytical skills: the ability to critically evaluate and discuss the methodologies and research findings based on data;",
+        "problem solving skills: including the ability to engage with unfamiliar contexts, identify relevant resources and conduct research;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments;",
+        "presentation skills: both written and oral."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10010",
+                        "Name": "Data Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON10005",
+                        "Name": "Quantitative Methods 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM20001",
+                        "Name": "Econometrics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10024",
+                        "Name": "Mathematics & Statistics for Biomedicine",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10011",
+                        "Name": "Experimental Design and Data Analysis",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST20005 may be taken concurrently."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5 fortnightly on-line revision quizzes",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Four short assignments amounting to a total of up to 800 words due at regular intervals",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A group project involving production of a poster and a 5-minute oral presentation due after mid-semester",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A 2.5-hour written examination",
+            "bullets": [
+                "2.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

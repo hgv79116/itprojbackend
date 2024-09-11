@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>Students will carry out a short chemical investigation under the direction of a School of Chemistry staff member. Each student will be required to prepare and deliver both a written and an oral report on the investigation.</p>"
+    ],
+    "ilo": [
+        "1500 words"
+    ],
+    "generic_skills": [
+        "1500 words"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written report of no more than 1500 words",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Supervisor assessment of demonstrated research potential",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "15 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Satisfactory performance in each of these assessment components is necessary to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Trevor Smith",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One lecture and 96 hours of laboratory work",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 16 February 2024",
+            "last_self_enrol_date": "11 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "24 February 2024",
+            "contact_name": null,
+            "contact_email": "trevoras@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Trevor Smith",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One lecture and 96 hours of laboratory work",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "trevoras@unimelb.edu.au"
+        }
+    ]
+}

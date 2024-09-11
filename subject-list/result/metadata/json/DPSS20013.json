@@ -1,0 +1,135 @@
+{
+    "overview": [
+        "<p>In this subject, students continue to explore two of the specialist areas they successfully completed in Production Studio 3.</p>",
+        "<p>The subject advances understanding of the production process to a level where students are capable of undertaking leadership roles on VCA productions, becoming effective collaborators with performance makers and production departments in the creation of live performance, and applying skills to sustain themselves as independent practitioners.</p>",
+        "<p>Continuing with studio-based classes, students will develop a comprehensive understanding of the chosen specialist areas as well as advanced level skills for employing these in the context of live performance.</p>"
+    ],
+    "ilo": [
+        "analyse and apply creative processes and technical skills used in the realisation of live performance, relating to contemporary practice;",
+        "evaluate and apply the roles, responsibilities and processes in the production of live performance;",
+        "implement safe work and best practices in technical theatre;",
+        "interpret and apply creative processes and technical skills employed by a theatre practitioner in the realisation of live performance in a studio environment."
+    ],
+    "generic_skills": [
+        "develop and implement innovative and creative ideas;",
+        "demonstrate a commitment to creative curiosity, academic integrity and the ethics of artistic practice;",
+        "apply critical thinking, analytical and problem-solving skills to unfamiliar challenges;",
+        "manage competing demands on time, including self-directed project work;",
+        "collaborate effectively, showing interest in others and respect for cultural difference."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DPSS20010",
+                        "Name": "Production Practice 1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "DPSS20011",
+                        "Name": "Production Studio 3",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DPSS20005",
+                        "Name": "Design Studio 2",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "DPSS20006",
+                        "Name": "Technical Studio 2",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical project on first specialist area: Part A",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Practical project on second specialist area: Part A",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Practical project on first specialist area: Part B",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Practical project on second specialist area: Part B",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes in each selected specialist area.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must submit all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "96 hours, comprising two 48-hour modules delivered as studio classes",
+            "total_time_commitment": "408 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "lisa.osborn@unimelb.edu.au"
+        }
+    ]
+}

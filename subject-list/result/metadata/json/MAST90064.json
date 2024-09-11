@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>This subject develops the mathematical methods of applied mathematics and mathematical physics with an emphasis on ordinary differential equations. Both analytical and approximate techniques are used to determine solutions of ordinary differential equations. Exact solutions by localised series expansion techniques of second-order linear ordinary differential equations and Sturm-Liouville boundary value problems are explored. Special functions are introduced here. Regular and singular perturbation expansion techniques, asymptotic series solutions, dominant balance, and WKB theory are used to determine approximate solutions of linear and nonlinear differential equations. Throughout, the theory is set in the context of examples from applied mathematics and mathematical physics such as nonlinear oscillators, boundary layers and dispersive phenomena.</p>"
+    ],
+    "ilo": [
+        "Describe how ordinary differential equation models and associated boundary-value problems arise in a variety of areas in applied mathematics and mathematical physics;",
+        "Differentiate the role of series solution methods for differential equations and be able to construct and use such solutions;",
+        "Apply the basic concepts of asymptotic analysis and perturbation methods, implement these techniques and differentiate their value and limitations;",
+        "Recognise the basic properties of special functions of applied mathematics and mathematical physics and their applications; and",
+        "Develop key foundational knowledge to pursue further studies in this discipline and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST30029 Partial Differential Equations (pre-2014)"
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST30021Complex AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuing assessment up to 40 hours work, worth 40%, throughout the semester",
+            "bullets": [
+                "40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>Using clinical cases to illustrate principles, this subject introduces students to the normal structure and function of the hepatobiliary, urinary and endocrine systems of the domestic animals, the disease processes that may affect these systems, and the causes and potential consequences of such disease. Students will develop skills in the clinical evaluation of the hepatic, urinary and endocrine systems, including the selection and analysis of diagnostic tests of these systems.</p>"
+    ],
+    "ilo": [
+        "Compare and contrast the structure and function of the hepatobiliary, endocrine and urinary systems of different species",
+        "Explain the processes by which normal function of the hepatobiliary, urinary and endocrine systems may be disrupted, and predict the outcomes of these perturbations",
+        "Apply an understanding of the principles of pharmacokinetics to predict the effect of administered drugs",
+        "Apply an understanding of the mechanism of action of drugs that act on the urinary system to explain their use in the treatment of disease",
+        "Work collaboratively, communicate effectively, and apply an understanding of the structure and function of the hepatobiliary, urinary and endocrine systems in order to analyse and interpret clinical problems related to these systems in animals"
+    ],
+    "generic_skills": [
+        "Have the capacity to examine critically, synthesise and evaluate knowledge across a range of disciplines",
+        "Have enhanced analytical and cognitive skills",
+        "Have the capacity to participate fully in collaborative learning and to find solutions to unfamiliar problems",
+        "Be able to seek solutions to problems through the application of knowledge, the ability to initiate and integrate new ideas, an appreciation of the broad picture of science, and an understanding of the importance and application of scientific method"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90121",
+                        "Name": "Vet Bioscience: Cells to Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90124",
+                        "Name": "Vet Bioscience: Cardiovascular System",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "VETS90126",
+                        "Name": "Vet Bioscience: Respiratory System",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90116",
+                        "Name": "Veterinary Bioscience 1B",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to four online quizzes of case study exercises, each taking approximately 30 minutes to complete and each equally weighted",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group assignment",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Aggregate mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jenny Charles",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "90 hours of lectures, practical classes and case studies",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "charlesj@unimelb.edu.au"
+        }
+    ]
+}

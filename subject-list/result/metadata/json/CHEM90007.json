@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">The subject covers important aspects of the structure and chemistry of the hydrosphere, atmosphere and lithosphere (soil) sources, chemistry and impact of environmental pollution. Subject topics also include the principles and application of quantitative chemical analysis and environmental monitoring (calibration methods; experimental errors; volumetric analysis, spectrophotometry, gas and liquid chromatography, and atomic absorption spectrometry).<br/><br/>A key aspect of this subject will be the comprehensive investigation of a current environmental chemistry issue, which will be covered in a small-group, scenario-based learning mode.<br/><br/>The practical component of this subject will involve the application of titrimetric, optical (spectrophotometry, atomic absorption spectrometry) and chromatographic (gas chromatography, high performance liquid chromatography) analytical techniques to the determination of compounds of environmental interest.</p>",
+        "<p class=\"MsoNormal\"> </p>"
+    ],
+    "ilo": [
+        "have developed skills in recognising chemically based environmental problems, an awareness of the possible effects of chemicals on the environment and a capacity to interpret environmental data and to apply diverse chemical principles in the explanation of environmental phenomena",
+        "appreciate the need for high quality environmental chemical analysis and the importance of selecting and utilising appropriate analytical methods and techniques for their monitoring",
+        "understand the principles of the key analytical methods used in environmental chemistry",
+        "have developed skills in investigating contemporary environmental chemistry issues, a consideration of the wider context of these issues, generic skills in operating in small teams and an awareness of professional practice as a scientist",
+        "have acquired through the practical component, enhanced laboratory skills in using classical analytical methods and modern spectrometric and chromatographic techniques, which are widely employed in environmental monitoring and analysis"
+    ],
+    "generic_skills": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the scientific community and in a manner accessible to the wider community",
+        "the ability to analyse and solve abstract technical problems;",
+        "the ability to connect and apply the learnt concepts to a broad range of scientific problems beyond the scope of this subject;",
+        "an awareness of advanced technologies;",
+        "the ability to use conceptual models to rationalise observations;",
+        "the ability to think and reason logically."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10004",
+                        "Name": "Chemistry 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Or"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CHEMENG Master of Chemical Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM20011",
+                        "Name": "Environmental Chemistry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment as part of the scenario based learning component of the subject not exceeding 10 pages",
+            "bullets": [
+                "10 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An ongoing assessment of practical work in the form of short laboratory reports",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Satisfactory completion of both the practical work and the 2-hour written examination is necessary to pass the subject",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

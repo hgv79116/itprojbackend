@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject introduces students to the engineering, physics and physiology of medical imaging, including the history and progression of medical imaging modalities as well as emerging imaging technologies in clinical and research practise. Topics covered include: x-ray, computed tomography, positron emission tomography, magnetic resonance imaging and ultrasound.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>Topics include:</p>",
+        "<p>Image metrics including signal-to-noise and contrast-to-noise ratios, image resolution, image operations including convolution, filtering and edge detection;</p>",
+        "<p>Biophysical principles of X-ray, CT, PET, SPECT, MRI and ultrasound, and the mathematics of image reconstruction for each modality, including filtered backprojection and fourier reconstruction methods;</p>",
+        "<p>This material is complemented by the use of software tools (e.g. MATLAB) for data simulation, modelling, image manipulation and reconstruction techniques.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Describe the principles of the modalities of medical imaging systems",
+        "Describe the physics and physiology fundamental to these imaging systems",
+        "Apply the mathematics of each imaging modality",
+        "Compute image reconstructions using back-projection methods",
+        "Compute image reconstructions using fourier transform methods",
+        "Identify basic causes of image contrast and artefacts",
+        "Describe clinical applications of each imaging modality",
+        "Apply their knowledge to understanding emerging medical imaging technologies."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Proficiency in engineering design",
+        "Ability to conduct an engineering project",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30006",
+                        "Name": "Circuits and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "BMEN40006 Neuroimaging Methods"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One mid-semester test. ILOs 1-3 and 6-8 are assessed in the mid-semester test.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Attendance and participation in four laboratory classes in Weeks 2 to 12, working in groups of two, each with a written assignment of approximately 750 words. ILOs 3-7 are assessed through the laboratory assignments and submitted reports for two projects.",
+            "bullets": [
+                "18-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One examination. ILOs 1-3 and 6-8 are assessed in the final written examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass end of semester examination to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Leigh Johnston",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours of lectures, tutorials and workshops (30 hours of lectures, 6 hours of tutorials, and 4 x three hour workshops) per semester",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "l.johnston@unimelb.edu.au"
+        }
+    ]
+}

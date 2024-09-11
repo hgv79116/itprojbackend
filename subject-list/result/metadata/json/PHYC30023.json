@@ -1,0 +1,141 @@
+{
+    "overview": [
+        "<p>The subject will derive the fundamentals of modern optics and apply them to optical systems. We will begin with a matrix approach to geometric ray optics and progress to Gaussian beams with particular emphasis on laser beams and optical resonators. We will review the polarization of light using Jones matrices and Mueller calculus. Interference concepts will be developed and applied to interferometers, thin films and Fabry-Perot cavities. These concepts will be used to explain lasers, from Einstein concepts and population inversion to laser gain and longitudinal mode structure, for three-level and four-level systems, and extended to cover laser dynamics, Q-switched and mode-locked systems, and femtosecond combs.</p>",
+        "<p>Fibre optics and applications will include microstructured fibres, coupling, dispersion, fibre amplifiers and lasers. Non-linear optics will be introduced, including coupled-wave theory, harmonic generation, parametric amplification, Pockel and Kerr effects, four-wave mixing and phase conjugation. We will also review Raman, Mie and Brillouin scattering.</p>",
+        "<p>Fresnel and Fraunhofer diffraction theory and the angular spectrum representation of wavefields will be reviewed with emphasis on optical imaging. We will also describe modern optical microscopy from phase imaging to optical coherence tomography and super-resolution methods including STEM, STED, SLIM and TIRF.</p>"
+    ],
+    "ilo": [
+        "Predict the behaviour of optical instruments using geometric and wave approaches;",
+        "Articulate the operational principles of lasers and the unique properties of laser light to apply their understanding of optics and quantum mechanics;",
+        "Articulate the concepts and operating principles of super-resolution optical microscopes to use their understanding of fundamental optics;",
+        "Solve and analyse relevant problems in modern optics to apply their qualitative and quantitative understanding ."
+    ],
+    "generic_skills": [
+        "Analyze how to solve a problem by applying fundamental laws to more complicated situations;",
+        "Apply abstract concepts to real world situations;",
+        "Solve relatively complicated problems using approximations;",
+        "Participate effectively in group discussions."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Physics:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHYC20015Special Relativity and ElectromagnetismSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC20015",
+                        "Name": "Special Relativity and Electromagnetism",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Mathematics:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20026Real AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5PHYC20014Theoretical Physics 2Semester 2 (On Campus - Parkville)12.5MAST20033Real Analysis: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20014",
+                        "Name": "Theoretical Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20033",
+                        "Name": "Real Analysis: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional detailsProblem-solving assignments, 18 hours equivalent, as three equal assignments due at the end of weeks 4, 8 and 12.  Solutions for each assignment will be approximately 12 pages, (15% total - 5% each)\nComputational project (e.g. excel, matlab, python) 12 hours equivalent, due at the end of week 10.   Submitted code and writeup will be approximately 24 pages, (10%)\n3-hour final examination during the examination period, (75%) \n"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total 48 hours; 36 hours of lectures (3 x 1-hour lectures per week), 12 hours of tutorials (1-hour tutorials per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

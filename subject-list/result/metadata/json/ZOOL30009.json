@@ -1,0 +1,163 @@
+{
+    "overview": [
+        "<p><em>Students who require this subject in order to complete a major in Ecology and Evolutionary Biology, but who are experiencing financial difficulty should contact the subject coordinator to </em>enquire<em> about the possibility of scholarship support.</em></p>"
+    ],
+    "ilo": [
+        "translate a general question in ecology or evolutionary biology to a specific context and research question;",
+        "develop a sound experimental or sampling design by eliciting and incorporating group feedback;",
+        "work in a team to apply field research methods to collect and record data;",
+        "apply statistical methods to analyse and interpret data against stated hypotheses;",
+        "communicate research results in both oral and written form, making use of scientific literature to support and contextualise;",
+        "articulate the value that ecological and evolutionary research brings to our basic understanding as well as to the issues faced by human societies; and",
+        "articulate the deep cultural and biogeographic history that shapes Australian landscapes."
+    ],
+    "generic_skills": [
+        "an ability to approach and assimilate new knowledge from observation and the literature;",
+        "an ability to use that knowledge to evaluate and communicate results; and",
+        "working in collaborative teams."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Two ofCodeNameTeaching periodCredit PointsECOL20003EcologySemester 2 (On Campus - Parkville)12.5MAST20031Analysis of Biological DataSemester 1 (On Campus - Parkville)12.5ZOOL20005Animal Structure and FunctionSemester 1 (On Campus - Parkville)12.5ZOOL20006Comparative Animal PhysiologySemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20005",
+                        "Name": "Animal Structure and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20006",
+                        "Name": "Comparative Animal Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "From 2024 onwards"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20031Analysis of Biological DataSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOL20003EcologySemester 2 (On Campus - Parkville)12.5ZOOL20005Animal Structure and FunctionSemester 1 (On Campus - Parkville)12.5BIOL20001Evolution: Making Sense Of LifeSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20005",
+                        "Name": "Animal Structure and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL20001",
+                        "Name": "Evolution: Making Sense Of Life",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual written report on two focal species",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group (5-8 students per group) in-class oral presentation",
+            "bullets": [
+                "15 minutes (total)"
+            ],
+            "hurdle": "Students are required to complete the group presentation.",
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual research project report",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Four lectures, 60 hours practical work and an oral presentation during a week-long Field-trip held in the mid-semester break in late September. One pre-camp meeting, two tutorials (one pre-camp and one post-camp) and an oral presentation on campus after the camp.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "m.kearney@unimelb.edu.au"
+        }
+    ]
+}

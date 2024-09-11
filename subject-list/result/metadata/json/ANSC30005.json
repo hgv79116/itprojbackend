@@ -1,0 +1,144 @@
+{
+    "overview": [
+        "<p>This subject develops knowledge and understanding of systems for regulating body function, and physiological and behavioural processes that are utilised by animals in response to environmental challenges. This basis will allow students to evaluate and assess animal welfare and ethical issues that confront livestock production and amenity use of animals in society. The subject will also develop knowledge in adaptation, preference testing, cognition, and short and long-term biological responses.</p>",
+        "<p>Specific topics covered include;</p>",
+        "<ul><li>The current debate about animal usage and animal welfare</li><li>Systems regulating the body (homeostasis, motivation and control systems, and development of regulatory systems)</li><li>Limits to adaptation (stimulation, tolerance and coping, variation in adaptation)</li><li>Stress and welfare (Selye\u2019s concept of stress and refinements to the concept, coping and fitness, definition of welfare and its assessment)</li><li>Assessing welfare using short-term and long-term biological responses</li><li>Assessing welfare using preference testing</li><li>Assessing welfare by studying cognitive skills</li><li>Ethical problems concerning welfare</li><li>Welfare issues in agriculture and the general community; and codes of practice for the welfare of livestock and welfare solutions</li></ul>"
+    ],
+    "ilo": [
+        "a sound and broad understanding of the systems regulating body function and the behavioural and physiological responses utilised by animals in responding to environmental change",
+        "a basic understanding of animal ethics",
+        "an understanding of the scientific approaches available to assess animal welfare",
+        "an understanding of the concepts of animal welfare",
+        "an awareness of the ethical problems concerning animal welfare",
+        "an understanding of the main welfare issues confronting captive animals"
+    ],
+    "generic_skills": [
+        "Academic excellence",
+        "Greater in-depth understanding of scientific disciplines of animal behaviour and its application to the humane care and efficient management of farm and companion animals"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANSC20001",
+                        "Name": "Animal Physiology and Growth",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYS20008",
+                        "Name": "Human Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20006",
+                        "Name": "Comparative Animal Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC20001",
+                        "Name": "Animal Physiology and Growth",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC20003",
+                        "Name": "Topics in Animal Health",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC20005",
+                        "Name": "Companion Animal Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ANSC20002",
+                        "Name": "Comparative Nutrition and Digestion",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment due approximately in Week 7",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Oral presentation due approximately in Week 12",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Examination which may include essay and short-answer sections",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours - 24 hours of lectures, up to 12 hours tutorials and 12 hours practicals",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "lauren.hemsworth@unimelb.edu.au"
+        }
+    ]
+}

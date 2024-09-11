@@ -1,0 +1,66 @@
+{
+    "overview": [
+        "<p>Topics include: ethical considerations; principles and methods of randomisation in controlled trials; treatment allocation, blocking, stratification and allocation concealment; parallel, factorial and crossover designs including n-of-1 studies; practical issues in sample size determination; intention-to-treat principle; phase I dose finding studies; phase II safety and efficacy studies; interim analysis and early stopping ; multiple outcomes/endpoints, including surrogate outcomes, multiple tests and subgroup analyses, including adjustment of significance levels and P-values; missing data; reporting trial results and use of the CONSORT statement.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "To enable students to understand and apply the principles of design and analysis of experiments, with a particular focus on randomised controlled trials (RCTs), to a level where they are able to contribute effectively as a statistician to the planning, conduct and reporting of a standard RCT."
+    ],
+    "generic_skills": [
+        "32 hours"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPOPH90014Epidemiology 1Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three written assignments submitted during the semester; Two worth 30% each (approx 10 hours work each) and one worth 40% (approx 12 hours work).",
+            "bullets": [
+                "32 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": "John Carlin",
+            "mode_of_delivery": "Online",
+            "contact_hours": "None",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "john.carlin@unimelb.edu.au"
+        }
+    ]
+}

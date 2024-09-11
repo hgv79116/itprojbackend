@@ -1,0 +1,80 @@
+{
+    "overview": [
+        "<p>This subject examines auditing and assurance services at an advanced level. It is designed to facilitate detailed analysis of complex situations auditors face in contemporary practice. Instruction is carried out by industry practitioners. Topics covered include the use of data analytics, engagement risk and practice management, and auditing asset and liability valuations. Students will have the opportunity to deepen their understanding of contemporary assurance practices.</p>"
+    ],
+    "ilo": [
+        "Carry out risk assessments and make professional judgments",
+        "Analyse complex issues in real world audit settings",
+        "Demonstrate a deep and critical understanding of key issues facing contemporary assurance professional practice"
+    ],
+    "generic_skills": [
+        "Analytical skills through analysis of case materials",
+        "Critical thinking skills though the evaluation of scenarios in an audit setting",
+        "Evaluate alternative courses of action available to auditors",
+        "Access and use appropriately various information sources",
+        "Communicate orally with more confidence",
+        "Evaluate quantitative and qualitative data in combination to solve problems",
+        "Research a topic using the library and other sources",
+        "Work individually and collaboratively"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90014",
+                        "Name": "Auditing and Assurance Services",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three assignments (4500 words in total) consisting of group case studies (normally in groups of 3-4 students)",
+            "bullets": [
+                "4500 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "75%"
+        },
+        {
+            "brief": "Seminar participation and contribution",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual reflection essay",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": []
+}

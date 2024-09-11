@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>Intermediate macroeconomic analysis develops the tools, skills and knowledge base necessary to operate as a practicing macroeconomist. These may include: models of long run economic growth; an assessment of the evidence on economic growth and its implications; the flexible-price macroeconomic model in which markets continuously clear; an assessment of the evidence regarding whether prices and wages are flexible or sticky; the sticky price macroeconomic model in which markets do not always clear; assessment of the flexible and sticky price models; the analysis of macroeconomic policy making.</p>"
+    ],
+    "ilo": [
+        "Develop the IS-LM model to explain short-run economic fluctuations;",
+        "Apply the IS-LM model to examine the effects of monetary policy and fiscal policy;",
+        "Describe and discuss labour market dynamics;",
+        "Develop the dynamic aggregate supply/aggregate demand (DAS-DAD) model;",
+        "Apply the DAS-DAD model to analyse the impact effects and the dynamic effects as an economy responds to shocks;",
+        "Explain the key economic growth facts;",
+        "Develop the basic Solow growth model and the endogenous growth model;",
+        "Describe a model of exchange rate determination and discuss different exchange rate regimes."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; collaborative learning; problem solving; team work; application of theory to practice; critical thinking; synthesis of data and other information; evaluation of data and other information.",
+        "Moderate level of development: oral communication; interpretation and analysis; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: statistical reasoning; use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON10003",
+                        "Name": "Introductory Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online multiple choice test 1",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "Tutorial participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Daniel Minutillo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and a 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "faisal.sohail@unimelb.edu.au"
+        }
+    ]
+}

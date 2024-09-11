@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Computing programming can be used to solve problems in many diverse areas, such as business, science, humanities, and design. Many tasks in these areas require manipulating, analysing, and visualising data and media using computer programs. This subject teaches students with little or no background in computer programming how to design and write basic programs using a high-level procedural programming language, and to solve simple problems using these skills, with a specific focus on media computation, such as manipulating images and dynamic web content.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving; introduction to the media computation and introduction to web development, algorithms for programming visual design, programming user interfaces, iterative design. </p>"
+    ],
+    "ilo": [
+        "Develop programs that can manipulate static, structured data using a high-level language such as Python",
+        "Apply an iterative and agile approach to solve problems using programming",
+        "Evaluate proposed solutions using techniques such as digital and paper prototypes",
+        "Use programming to effectively communicate data to non-technical people",
+        "Collaborate effectively in small groups to jointly solve computational problems"
+    ],
+    "generic_skills": [
+        "An ability to apply knowledge of basic science and engineering fundamentals",
+        "An ability to undertake problem identification, formulation and solution",
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The capacity for critical and independent thought and reflection",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "An expectation of the need to undertake lifelong learning, and the capacity to do so"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A two-part group programming challenge\n\n\n\nPart 1 in Week 6 (15%); Part 2 in Week 12 (20%)\n\n\n\nIntended Learning Outcomes (ILOs) 1-5 are addressed in the two-part group programming challenge.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6 and Week 12",
+            "percentage": "35%"
+        },
+        {
+            "brief": "One test\n\n\n\nIntended Learning Outcomes (ILOs) 1-3 are addressed in the mid-semester test",
+            "bullets": [
+                "45 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Wally Smith",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours, comprised of one 2-hour lecture, one 1-hour interactive lecture (technique practice), and one 2-hour workshop per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "greg.wadley@unimelb.edu.au"
+        }
+    ]
+}

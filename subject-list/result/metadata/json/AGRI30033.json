@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>The aim of this subject is for students of agricultural science and agricultural economics to understand the principles of management economics applied to the operation of agricultural business; to understand decision analysis under risk and uncertainty; to be able to model and analyse agricultural systems; to be able to analyse agricultural investment and evaluate the profitability and sources, and business risk and financial risk of alternative resource uses in agricultural businesses; evaluate business growth strategies; and understand agricultural price risk management strategies.</p>",
+        "<p>The content of the subject is as follows:</p>",
+        "<ul><li>The whole farm approach</li><li>Farm business management</li><li>Farm activity analysis</li><li>Production economic and financial analysis</li><li>Agricultural systems analysis</li><li>Farm benefit cost analysis</li><li>Risky decision analysis</li><li>Agricultural risk management</li></ul>",
+        "<p>A number of case studies will be completed based on real farm business situations.</p>"
+    ],
+    "ilo": [
+        "Collect and interpret financial and economic agricultural systems data",
+        "Demonstrate appropriate knowledge and ability to critically evaluate economic and financial information",
+        "Demonstrate practical economic and risk management as well as decision making skills",
+        "Undertake risk analysis for agricultural businesses and agricultural investments",
+        "Interpret, analyse and evaluate the financial and economic performance of an agricultural business",
+        "Identify appropriate strategies for agribusiness analysis by interpreting management objectives, resource implications, risk factors and applying optimisation techniques",
+        "Analyse profitability, cash flows and business structures",
+        "Use computer-based techniques and tools of farm management analysis and risk analysis"
+    ],
+    "generic_skills": [
+        "Problem-solving skills (especially through practicals and tutorial exercises and case studies) including engaging with agricultural systems and farm management problems, and identifying relevant strategies",
+        "Communication skills in a business context",
+        "Research, problem solving, critical thinking",
+        "Documentation, preparation and presentation skills through assigned tasks and the case study exercise",
+        "Commercial awareness",
+        "Independent learning skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20042",
+                        "Name": "Agricultural Economics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Case study",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "Approximately Week 5",
+            "percentage": "22.5%"
+        },
+        {
+            "brief": "Case study",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "Approximately Week 11",
+            "percentage": "22.5%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must achieve a minimum of 50% in the examination to pass the subject",
+            "timing": "End of semester",
+            "percentage": "55%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend 80% of scheduled workshops/practical classes, and all scheduled farm visits\u00a0",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Alex Sinnett",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 3 hour workshop each week, excluding weeks where field trip occurs; 3 x one day field trips (7 hours per day), throughout the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "a.sinnett@unimelb.edu.au"
+        }
+    ]
+}

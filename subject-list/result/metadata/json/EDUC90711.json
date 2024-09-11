@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>This subject introduces Master of Teaching students to planning, teaching and assessment in the current physical education curriculum from Foundation to 10.</p>",
+        "<p>As a result of taking this elective students will have foundational skills and knowledge across planning, teaching and assessment, and be able to engage in a range of physical, social, moral and cultural endeavours related to physical activity.</p>",
+        "<p>Please note that this subject does not provide sufficient training to enable Master of Teaching students to be classified as physical education specialists.</p>"
+    ],
+    "ilo": [
+        "Demonstrate knowledge of the physical and social development of children and know how this may affect learning.",
+        "Demonstrate knowledge of teaching strategies that are responsive to the learning strengths and needs of students from diverse linguistic, cultural, religious and socioeconomic backgrounds.",
+        "Demonstrate knowledge and understanding of strategies for differentiating teaching to meet the specific learning needs of students across the full range of abilities",
+        "Demonstrate knowledge and understanding of the current Physical Education curriculum as it is applied to early years, primary and secondary contexts. Demonstrate knowledge and understanding of the teaching strategies for teaching physical education.",
+        "Use curriculum and assessment knowledge to design learning sequences. Demonstrate broad knowledge of strategies that can be used to evaluate teaching programs to improve student learning.",
+        "Identify strategies to support inclusive student participation and engagement in classroom activities.",
+        "Demonstrate knowledge of practical approaches to manage challenging behaviour.",
+        "Understand the relevant and appropriate sources of professional learning for teachers.",
+        "Demonstrate an understanding of the need for continuing professional learning and the implications for improved student learning"
+    ],
+    "generic_skills": [
+        "Clinical reasoning and thinking",
+        "Problem solving",
+        "Evidence based decision making",
+        "Creativity and innovation",
+        "Teamwork and professional collaboration",
+        "Learning to learn and metacognition",
+        "Responsiveness to a changing knowledge base",
+        "Reflection for continuous improvement",
+        "Linking theory and practice",
+        "Inquiry and research",
+        "Active and participatory citizenship."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90467",
+                        "Name": "Learning Area Physical Education 1",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "EDUC90468",
+                        "Name": "Learning Area Physical Education 2",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Team Based Learning (TBL) quizzes (4 quizzes)",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 5",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Minimum of 80% attendance at all scheduled lectures, tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

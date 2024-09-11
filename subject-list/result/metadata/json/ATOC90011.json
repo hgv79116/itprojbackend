@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>The aim of this subject is to explore processes governing convection in the atmosphere, with a particular emphasis on severe convective storms and tropical cyclones. Specific topics covered include buoyancy, local convection, cellular convection, stability, severe storms - including supercell storms and squall lines, tornadoes, and tropical cyclones.</p>"
+    ],
+    "ilo": [
+        "Evaluate the detailed mechanisms governing the formation of convective clouds and storms on a range of spatial and temporal scales.",
+        "Understand, explain and summarize advanced theories of moist convection, mesoscale dynamics, and gravity waves.",
+        "Demonstrate proficiency in the analysis and visualisation of computational and observational data to study storm dynamics.",
+        "Apply advanced knowledge to interpret data from storm-scale computational models",
+        "Evaluate and criticise areas of active research on the topics of convection and storms and identify disputed theories and gaps in knowledge"
+    ],
+    "generic_skills": [
+        "Exercise critical judgement;",
+        "undertake rigorous and independent thinking;",
+        "adopt a problem-solving approach to new and unfamiliar tasks;",
+        "develop high-level written report and/or oral presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ATOC30004",
+                        "Name": "Dynamical Meteorology and Oceanography",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 1",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Oral Exam",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "August",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures\n\n6 hours of tutorials\n\n2 hours of group presentations",
+            "total_time_commitment": "160 hours",
+            "teaching_period": "5 August 2024 to 23 August 2024",
+            "last_self_enrol_date": "30 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "16 August 2024",
+            "assessment_period_ends": "30 August 2024",
+            "contact_name": null,
+            "contact_email": "tplane@unimelb.edu.au"
+        }
+    ]
+}

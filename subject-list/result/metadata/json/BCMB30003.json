@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>This subject describes the molecular mechanisms underpinning eukaryotic cell organisation, morphology and behaviour and their importance in biomedicine. We will explore the relationships between cellular organisation and the biological functions of normal and stressed cells, as well experimental strategies for investigating the molecular basis of these relationships. The subject matter includes the compartmentalisation of eukaryotic cells; intracellular trafficking of biomolecules; the structure, function and biogenesis of subcellular organelles; protein folding and maturation; vesicle-mediated transport; structure and function of the extracellular matrix and cell adhesion molecules and their role in diseased states such as malignancies; cellular stress responses and linked signal transduction events; cytoskeletal structures and the signal transduction processes regulating the assembly and disassembly of actin-cytoskeleton; molecular processes determining cell movement and shape changes; imaging of processes within live cells.</p>"
+    ],
+    "ilo": [
+        "Explain the common principles that govern protein trafficking in eukaryotic cells",
+        "Discuss mechanisms regulating cell adhesion, cell migration, and intracellular signalling pathways",
+        "Propose experimental approaches to interrogate intracellular protein trafficking events, cell movement and intracellular signalling events",
+        "Analyse and interpret imaging data using computer-based software",
+        "Read, interpret and assess the current scientific literature on molecular cell biology.",
+        "Discuss the design, choice, use and ethical considerations of model organisms and cell lines in molecular cell biology"
+    ],
+    "generic_skills": [
+        "The ability to analyse and interpret scientific literature and related resource materials.",
+        "The capacity to develop ideas from theoretical principles to practical explanations.",
+        "The capacity to integrate knowledge across disciplines.",
+        "The ability to comprehend a question, evaluate the relevant information and communicate an answer."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Other combinations that provide similar background will be considered by the coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5-10 written assessments totalling approx. 1600 words and prepared figures",
+            "bullets": [
+                "1600 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Mid Semester Test 1",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Around week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid Semester Test 2",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Around week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Attendance at 70% of workshops",
+            "bullets": null,
+            "hurdle": "Attendance at 70% of workshops i.e. 10-11 x 2 hour workshops",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p class=\"SSPBodyText\">The emphasis of this subject is on understanding how evolutionary forces shape the gene pool, on the use of molecular markers in genome mapping, in dissecting polygenic traits by mapping quantitative trait loci, and in other applications such as phylogenetics and conservation biology. The topics covered will be classical population genetics, the impact of natural selection, processes of speciation, conservation genetics, evolution of development, phylogenetic reconstruction, development of saturated linkage maps, physical mapping of genomes, mapping quantitative trait loci, comparative genomics, functional genomics and high-throughout methods of scoring genetic polymorphisms.</p>"
+    ],
+    "ilo": [
+        "Compare how genes, gene pools, and genomes change through evolutionary time;",
+        "Discuss the relationship between molecular genetics and evolutionary biology;",
+        "Appraise and critique the written literature and evaluate scholarly debates in evolutionary biology;",
+        "Apply methods used to detect and quantify the major evolutionary forces in experimental datasets and from web-based databases of genomic information;",
+        "Describe how evolutionary processes are inferred from patterns of genetic variation in space and time; and",
+        "Integrate understanding of evolution and conservation biology, development and phylogenetics."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: ability to read and interpret complex literature in order to answer detailed questions on both theory and methodology;",
+        "Analytical skills: the ability to understand how complex new data is acquired and applied to old and new problems;",
+        "Collaborative skills: capacity to understand how modern science is informed by cross-disciplinary studies and apply it across different fields;",
+        "Technology skills: the ability to use information technology to acquire relevant knowledge and statistically analyse data."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE20001",
+                        "Name": "Foundations of Genetics and Genomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual written in-class test",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Three individual assignments of not more than 500 words each",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "crobin@unimelb.edu.au"
+        }
+    ]
+}

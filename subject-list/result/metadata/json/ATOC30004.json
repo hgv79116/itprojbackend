@@ -1,0 +1,75 @@
+{
+    "overview": [
+        "<p>This subject addresses the fundamental processes that govern atmospheric and oceanic motion, and how these processes interact to control the weather and climate of the Earth. Topics include the fluid dynamics of the atmosphere and ocean, the scaling of the equations of motion, the shallow-water system, vorticity and divergence, buoyancy driven flows, and numerical modelling of atmospheric and oceanic flows. On completion of this subject, students should have an appreciation of the fundamental processes that govern atmospheric and oceanic motion and interactions on a range of time and spatial scales. A qualitative as well as quantitative understanding of the atmosphere is to be gained, with the substantial mathematical analyses covered during the subject. Students will also receive experience in constructing simplified models of the atmosphere and ocean.</p>"
+    ],
+    "ilo": [
+        "explain the physical processes that govern atmospheric and oceanic motions on a range of time and spatial scales",
+        "derive from first principles the equations governing atmospheric and oceanic dynamical motions",
+        "explain and quantify how dynamical processes form the basis of atmospheric and oceanic computational models and the methods used to construct them",
+        "derive and explain how high and low pressure systems, Rossby waves, and other key atmospheric and oceanic processes influence our weather and climate and how those influences vary with latitude",
+        "assess how different key processes vary with spatial and temporal scales"
+    ],
+    "generic_skills": [
+        "Think critically: organise theory of complex systems into alternative frameworks.",
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies.",
+        "Modelling skills: to design simple computer programs to solve physical problems and test hypotheses.",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two practical assignments",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Weeks 6 and 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Two practical assignments",
+            "bullets": [
+                "500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Weeks 3 and 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 2 x one hour lectures per week; 1 x two hour practical class per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "craig.bishop@unimelb.edu.au"
+        }
+    ]
+}

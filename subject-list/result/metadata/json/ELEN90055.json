@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an introduction to automatic control systems, with an emphasis on classical techniques for the analysis and design of feedback interconnections. The main challenge in automatic control is to achieve desired performance in the presence of uncertainty about the system dynamics and the operating environment. Feedback control is one way to deal with modelling uncertainty in the design of engineering systems. This subject is a core requirement in the Master of Engineering (Electrical, Electrical with Business, Mechanical, Mechanical with Business and Mechatronics).</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:</p>",
+        "<p>* Modelling for control, linearization, relationships between time and frequency domain models of linear time-invariant dynamical systems, and the structure, stability, performance, and robustness of feedback interconnections;</p>",
+        "<p>* Frequency-domain analysis and design, Nyquist and Bode plots, gain and phase margins, loop-shaping with proportional, integral, lead, and lag compensators, loop delays, and fundamental limitations in design; and</p>",
+        "<p>* Actuator constraints and anti-windup compensation.</p>",
+        "<p>This material is complemented by the use of software tools (e.g. MATLAB/Simulink) for computation and simulation, and exposure to control system hardware in the laboratory.</p>"
+    ],
+    "ilo": [
+        "Qualitatively and quantitatively describe the role of feedback in engineering systems;",
+        "Apply classical frequency-domain techniques in the analysis and design of linear feedback control systems in a variety of contexts; and",
+        "Use software tools to simulate and design automatic control systems."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30006",
+                        "Name": "Circuits and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN30020",
+                        "Name": "Systems Modelling and Analysis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MCEN30016  Mechanical Dynamics"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "MCEN30008 Control Systems 1"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of submitted project work, completed in small groups (2-3 students), not exceeding at total of 20 pages of reports, due at least two weeks apart in the second half of semester.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A mid-semester test, approximately in  week 7.",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass the subject, students must exceed a hurdle on the final written exam.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Michael Cantoni",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 x one hour lectures per week) and up to 24 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "cantoni@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Girish Nair",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 x one hour lectures per week) and up to 24 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "gnair@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>Supervised statistical learning is based on the widely used linear models that model a response as a linear combination of explanatory variables. Initially this subject develops an elegant unified theory for a quantitative response that includes the estimation of model parameters, hypothesis testing using analysis of variance, model selection, diagnostics on model assumptions, and prediction. Some classification methods for qualitative responses are then developed. This subject then considers computational techniques, including the EM algorithm. Bayes methods and Monte-Carlo methods are considered. The subject concludes by considering some unsupervised learning techniques.</p>"
+    ],
+    "ilo": [
+        "Understand the underlying statistical theory of linear models and the limitations of such models.",
+        "Fit linear models to data using a standard statistical computing package and interpret the results.",
+        "Be able to predict (or classify) qualitative responses.",
+        "Understand the underlying theory of Bayesian statistics.",
+        "Understand the underlying theory and be able to apply the EM algorithm in simple settings.",
+        "Be able to use a computer package to perform statistical computing and data analysis"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90105",
+                        "Name": "Methods of Mathematical Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into:"
+            },
+            {
+                "type": "paragraph",
+                "content": "\u2022\tGraduate Diploma in Data Science - Statistics Stream (GD-DATASC)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30025",
+                        "Name": "Linear Statistical Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30027",
+                        "Name": "Modern Applied Statistics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four written assignments amounting to a total of up to 100 pages. 100pp \u2248 2000 words, due during regular intervals  (5% each)",
+            "bullets": [
+                "100 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Computer labratory test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 x one hour lectures per week, 1 x one hour practice class per week, and 1 x one hour computer laboratory class per week",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "weichang.yu@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "overview": [
+        "<p>A crucial skill in developing interactive systems is building clear and well-designed user interfaces across a range of technologies. In this subject, students will learn how to design and build user interfaces. The subject will introduce methods, techniques, and principles of visual communication applied to the design of user interfaces. Using state-of-the-art tools, students will iteratively design and prototype a novel user interface, going from concept to implementation through increasing levels of fidelity. Around this process students will learn how to iteratively translate requirements and intentions into design constructs and working interface prototypes.</p>"
+    ],
+    "ilo": [
+        "Apply the elements of visual design to the design of graphical user interfaces",
+        "Understand the nature of iterative design and be able to plan and manage such processes around real-world design constraints",
+        "Create user interface prototypes at different levels of fidelity, from low-fidelity paper prototypes to high-fidelity interactive mock-ups",
+        "Implement user interface designs into working systems built with digital technologies."
+    ],
+    "generic_skills": [
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The ability to communicate designs and design thinking",
+        "Written and oral presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO10003",
+                        "Name": "Fundamentals of Interaction Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10003Media ComputationSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10003",
+                        "Name": "Media Computation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An Individual Interface design analysis report (25%), of approximately 1000 words. Due in weeks 3-5. Intended Learning Outcome (ILO) 1 is addressed in the report.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "To pass the subject, students must obtain:\n\n\n\nat least 50% of the marks available",
+            "timing": "From Week 3 to Week 5",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An Individual Interface prototyping report (25%), of approximately 1000 words. Due in week 5-7. ILO 2 is addressed in the report.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "To pass the subject, students must obtain:\n\n\n\nat least 50% of the marks available",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An Individual Interface development project (50%), of approximately 2000 words. Due week 1 of examination period. ILO 3 is addressed in the project.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "To pass the subject, students must obtain:\n\n\n\nat least 50% of the marks available ",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Greg Wadley",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising of one 2-hour lecture and one 2-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "greg.wadley@unimelb.edu.au"
+        }
+    ]
+}

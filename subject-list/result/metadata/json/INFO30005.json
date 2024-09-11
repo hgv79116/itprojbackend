@@ -1,0 +1,83 @@
+{
+    "overview": [],
+    "ilo": [
+        "Apply cutting-edge tools to prototype varied styles of interactive devices",
+        "Iteratively design a novel user experience that leverages novel and emerging technologies",
+        "Evaluate and communicate design ideas to relevant stakeholders",
+        "Critique the opportunities and limitations of different interactive technologies"
+    ],
+    "generic_skills": [
+        "An ability to undertake problem identification, formulation and develop a solution",
+        "The capacity for critical and independent thought and reflection",
+        "An expectation of the need to undertake lifelong learning, and the capacity to do so",
+        "The ability to work effectively as a member of a small team",
+        "The ability to develop appropriate presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO20005",
+                        "Name": "User Interface Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Critical review. Individual report that reviews the design characteristics of an interaction technologies.",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3 or 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One multi-stage group (3-4 members) project with stages due at regular intervals throughout the semester.  Individual scores will be modulated by an individual contribution statement and peer review assessment from team members submitted together with the repor",
+            "bullets": [
+                "60 - 65 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester, with deliverables due every 3-4 weeks and a final report due in Week 1 of examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sarah Webber",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising of one 2-hour lecture and one 2-hour workshop per week. Some computer lab classes will require you to bring your own device, a laptop running either Windows 10 or later, or MacOS 11 or later.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "s.webber@unimelb.edu.au"
+        }
+    ]
+}

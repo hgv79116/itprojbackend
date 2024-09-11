@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p>In the subject, the student will learn about ultrasound assessment of the abdomen and learn to integrate abdominal, lung and cardiac ultrasound in the peri-arrest scenario. </p>"
+    ],
+    "ilo": [
+        "Learn how to perform basic abdominal ultrasound examination",
+        "Learn how to examine the kidneys and liver, gallbladder and biliary tract using ultrasound",
+        "Learn how to perform lung ultrasound",
+        "Learn how to perform ultrasound-guided thoracic procedures",
+        "Learn how to integrate clinical ultrasound into the management of peri-arrest cases",
+        "Practice interpretation on online case studies"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90121",
+                        "Name": "Peri-arrest Ultrasound",
+                        "Teaching period": "Semester 1 (Online)Semester 2 (Online)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "MEDI90115",
+                        "Name": "Abdo/Gastrointestinal Ultrasound",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "MEDI90138",
+                        "Name": "Peri-Arrest Ultrasound - Practical",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "MEDI90132",
+                        "Name": "Abdo/Gastrointestinal - Practical",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "End of tutorial assessments - average of 10 questions at the end of each tutorial (approx. 100 questions in total)",
+            "bullets": [
+                "100 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Case study quiz - answering 5 questions at the end of case studies (20 case studies in total) - totalling 100 questions",
+            "bullets": [
+                "100 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End of Semester Exam (50 questions)",
+            "bullets": [
+                "100 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "30 hours for online study",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

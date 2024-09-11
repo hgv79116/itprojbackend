@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>The subject provides a broad overview of a range of topics relevant to the Australian construction industry, including the regulatory framework, construction materials and technology, construction documentation, geotechnical engineering, building structures, construction management and economics, and building inspections and faults. Building mechanical, electrical, hydraulic, fire, transportation and communication services and controls are also covered. The subject addresses issues in the context of residential, commercial and industrial buildings, and includes site visits.</p>",
+        "<p>The intention of this subject is to provide a broad introduction to the industry, with construction systems base, including an introduction to planning and scheduling, soil conditions, cost estimating and project management. The subject is intended for students entering the Master of Property program with no, or at least a very limited, construction background. This subject is not available to any students who have already completed 25 points of construction technology based or equivalent studies.</p>"
+    ],
+    "ilo": [
+        "Identify different types of construction industries, distinguish construction systems base for commercial and residential property, and differentiate the professional roles in construction processes.",
+        "Identify, synthesise and evaluate the different construction processes, structures, materials and services and soil conditions.",
+        "Analyse principles of documentation, cost estimating, project management principles, sustainability and evaluate documentation in the construction of simplified cost estimate.",
+        "Synthesise and evaluate the different elements of construction in the application to property professional practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-PROPUP Master of Property/Master of Urban Planning",
+                    "702PA Graduate Diploma in Property Valuation",
+                    "300 point Master of Property major in the MC-PROP Master of Property"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the course coordinator"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2  Quizzes  (each worth 25% ) (each 60 minute equivalent) due during the teaching period .",
+            "bullets": [
+                "2500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assignment 1: Gradescope submission (Individual) (Activity)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 2 : Property inspection report (individual)",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "September",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject will be taught intensively, please see timetable for exact dates.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "16 September 2024 to 26 September 2024",
+            "last_self_enrol_date": "5 September 2024",
+            "census_date": "20 September 2024",
+            "last_date_to_withdraw_without_fail": "4 October 2024",
+            "assessment_period_ends": "12 October 2024",
+            "contact_name": "Dermot McGeown",
+            "contact_email": "dmcgeown@unimelb.edu.au"
+        }
+    ]
+}

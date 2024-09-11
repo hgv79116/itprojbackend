@@ -1,0 +1,95 @@
+{
+    "overview": [
+        "<p>Exploring Numbers and Reasoning is designed for students requiring mathematical skills to provide a foundation for further academic studies. This subject covers basic mathematical and numeracy concepts in the context of academic reasoning and argument. Students will be introduced to a range of mathematical topics including basic calculations, algebra, linear equations, graphs, statistical and financial functions.</p>",
+        "<p>The subject will draw on content covered in the other subjects offered as part of the DiGS Extended program to provide practical and real-life examples to utilise and reinforce mathematical concepts presented as part of the subject.</p>"
+    ],
+    "ilo": [
+        "perform calculations involving fractions, decimals and percentages",
+        "understand basic algebra and expand, factorise and collect terms",
+        "solve linear equations, and simultaneous equations",
+        "sketch and interpret straight line graphs, and solving real world problems using linear models",
+        "understand and use exponential and logarithmic functions and problem solving",
+        "understand the core Trigonometric functions \u2013 sine cosine and tangent and the ability to solve trigonometric equations.",
+        "conduct basic statistical analysis such as averages (mean median and mode) variance, distribution and probability",
+        "perform basic financial mathematical functions such cost benefit analysis, interest calculation and net present value",
+        "utilise technology to assist in the analysis and application of mathematical and statistical knowledge"
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis",
+        "Collaborative skills: the ability to work in a team",
+        "Time management skills: the ability to meet regular deadlines while balancing competing commitments"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Six quizzes, 5% each, due fortnightly",
+            "bullets": [
+                "900 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Practical Computer Based Exercise",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid Semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "80% attendance and regular participation",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "2 hours per week lectures\n\n2 hours per week tutorials/workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

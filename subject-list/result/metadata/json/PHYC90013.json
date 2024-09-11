@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>This subject provides an advanced introduction to condensed matter physics. The general topics covered are (i) experimental and theoretical aspects of the characterisation of condensed matter using electrons and x-rays and (ii) the quantum model of solids and its relevance to semiconductor and mesoscopic physics. Specific topics covered may include: (i) the imaging of condensed matter at the atomic level and (ii) the determination of how atoms are bonded; (iii) application of imaging beyond the nanoscale; (iv) magnetism; (v) superconductivity; (vi) the properties of semiconductor devices and (vii) mesoscopic systems.</p>"
+    ],
+    "ilo": [
+        "Challenge students to expand their knowledge of condensed matter physics and provide a foundation for further advanced studies;",
+        "Broaden appreciation of how condensed matter physics integrates into the discipline of physics overall;",
+        "Develop an understanding of how condensed matter is characterised on the atomic scale;",
+        "Understand the role of quantum effects in micro- and meso-scopic systems and acquire a fundamental understanding of a range of physical phenomena in condensed matter systems."
+    ],
+    "generic_skills": [
+        "Analysing how to solve a problem by applying simple fundamental laws to more complicated situations;",
+        "Applying abstract concepts to real-world situations;",
+        "Solving relatively complicated problems using approximations;",
+        "Participating as an effective member of a group in discussions and collaborative assignments;",
+        "Managing time effectively in order to be prepared for group discussions and undertake the assignments and exam."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC30018",
+                        "Name": "Quantum Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHYC30017Statistical PhysicsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC30017",
+                        "Name": "Statistical Physics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two assignments totalling up to 36 pages of written work, spaced equally",
+            "bullets": [
+                "36"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "4 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jeffrey McCallum",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours comprising 3x one-hour lectures/week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "msc@physics.unimelb.edu.au"
+        }
+    ]
+}

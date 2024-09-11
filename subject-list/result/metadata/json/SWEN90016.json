@@ -1,0 +1,160 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of this subject is to introduce students to the software engineering principles, processes, tools and techniques for analysing and managing complex software projects.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered include: software engineering processes; project management; planning and scheduling; estimation and metrics; quality assurance; risk; configuration management; individuals and teams; ethics; change management; and project management tools.</p>"
+    ],
+    "ilo": [
+        "Critically evaluate, analyze, and apply established software engineering processes and practices to successfully manage software engineering projects.",
+        "Apply established principles of navigating team dynamics and proficiently communicating in a professional context.",
+        "Strategize and execute project planning and project management initiatives.",
+        "Evaluate and address potential risks inherent in software projects, adapting activities accordingly to mitigate these risks, based on established frameworks.",
+        "Manage software project activities to ensure a quality product.",
+        "Evaluate and employ established software project management processes, principles, and techniques to ensure the delivery of high-quality software products."
+    ],
+    "generic_skills": [
+        "Have in-depth knowledge of a specialist area through exposure and study of project management areas of knowledge",
+        "Reach a high level of achievement in writing, research or project activities problem-solving and communication through the writing of project analyses",
+        "The ability to function effectively as an individual or in a multidisciplinary and multi-cultural team as a leader, manager or effective team-member",
+        "Profound respect for ethics and intellectual integrity",
+        "Writing and communication skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN20003",
+                        "Name": "Object Oriented Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "100pt Program course entry point in the MC-IT Master of Information Technology",
+                    "150pt Program course entry point in the MC-IT Master of Information Technology"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90050",
+                        "Name": "IT Project and Change Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One individual assignment due in week 5. Addressing\u00a0 ILO's 1\u00a0to 5.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A group assignment, due Week 7, Week 11, and a group presentation in Week 12.\n\n\n\nAdditionally, the Week 11 submission artifacts will be utilized for the Week 12 presentation.\n\n\n\n20 - 30 hours of work per student is required. \n\n\n\nThe group assignment addresses ILO's 1 to 5.",
+            "bullets": [
+                "20-30 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% overall, and at least 50% (25/50) in the assignment 1 and assignment 2.\n\n\n\n",
+            "timing": "From Week 7 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One written examination. Addressing ILO's 1 to 6.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% overall, and at least 50% (25/50) in the written examination.\n\n",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Rajesh Chittor Sundaram",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1 hour lectures per week and one 1 hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "c.s@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rajesh Chittor Sundaram",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising 2 hours of lectures per week and one 1 hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "c.s@unimelb.edu.au"
+        }
+    ]
+}

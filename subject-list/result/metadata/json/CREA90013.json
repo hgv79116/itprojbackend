@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>This capstone subject will provide students with opportunities for independently designing and implementing a creative arts therapies program with support and supervision.</p>",
+        "<p>This program will require them to identify and apply relevant creative arts therapy methods and practice frameworks in that context, and to consider suitable approaches to evaluating outcomes of their work. They will integrate theory, methods and research into their practice.</p>",
+        "<p>Students will also learn and apply advanced communication and counselling skills in context, with individuals, groups and the professional team. They will also develop teamwork skills in care coordination, including understanding of case management and transdisciplinary team work and application where appropriate.</p>",
+        "<p>Students will learn to practice self-care strategies as well as understanding how to work with systems to ensure mutual care in diverse contexts. </p>",
+        "<p><strong>Placement</strong></p>",
+        "<p>Students are required to complete a supervised practical placement (160 accreditation hours) and will work across a range of tasks relevant to the external partner's objectives in discussion with a qualified professional and the subject coordinator.</p>"
+    ],
+    "ilo": [
+        "apply contemporary relevant theories to various contexts in professional practice;",
+        "use advanced communication and counselling skills for professional practice;",
+        "explain how a creative arts therapist would contribute to care coordination within diverse organisational frameworks;",
+        "design a creative arts therapies program for a supervised placement;",
+        "consider issues of self and mutual care in diverse contexts."
+    ],
+    "generic_skills": [
+        "respond openly and imaginatively to new ideas;",
+        "demonstrate a commitment to intellectual curiosity and to staying well-informed;",
+        "articulate, integrate and adapt new knowledge from different domains;",
+        "promote and maintain the wellbeing of self and others;",
+        "integrate personal reflection into the creative process."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CREA90008",
+                        "Name": "Creative Arts Therapies Practice 2",
+                        "Teaching period": "Semester 2 (Early-Start) (Dual-Delivery - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Supervised practical placement (160 accreditation hours)",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "Students must pass this assessment to pass the subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "5-minute presentation: Care coordination.",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Evaluation report (based on placement).",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance is expected. Less than 80% attendance at classes will result in a fail",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Southbank)",
+            "contact_hours": "184 hours, comprising one 6-hour day on-campus intensive, six 3-hour synchronous fortnightly tutorials, and 160-hours off-campus placement at approved provider.",
+            "total_time_commitment": "204 hours",
+            "teaching_period": "19 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "1 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kate.teggelove@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "overview": [
+        "<p>This subject examines key financial accounting topics at both an applied and theoretical level. Topics covered include but are not limited to, accounting for employee entitlements (including share options), segment reporting, earnings per share, intangible assets, biological assets, provisions and contingencies, financial instruments, derivatives and extractive industries.</p>"
+    ],
+    "ilo": [
+        "analyse, interpret and extract information relevant to the recording and reporting of accounting information from an unfamiliar case study",
+        "apply relevant Accounting Standards with respect to recording and reporting information pertaining to a range of complex accounting issues",
+        "critically evaluate outcomes obtained from applying different methods available to preparers of financial statements under current Accounting Standards"
+    ],
+    "generic_skills": [
+        "High level of development: application of theory to practice; interpretation and analysis; critical thinking.",
+        "Moderate level of development: written communication; problem solving; synthesis of data and other information; evaluation of data and other information; receptiveness to alternative ideas.",
+        "Some level of development: oral communication; collaborative learning; team work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT20002",
+                        "Name": "Intermediate Financial Accounting",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "a mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

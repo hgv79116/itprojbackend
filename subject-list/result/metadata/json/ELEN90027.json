@@ -1,0 +1,55 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides a rigorous introduction to the mathematical tools that underpin the analysis and design of dynamical systems, with a focus on the linear time-invariant case. The subject is intended for research higher-degree students in Engineering.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Linear Analysis \u2013 scalars, real-valued sequences, vector spaces, linear operators, matrix analysis in finite-dimensions, normed spaces, vector sequences, inner-product spaces, orthogonality, Banach and Hilbert spaces, invertibility, and spectral analysis;</li><li>Sate-space models \u2013 linear differential equations, input-output maps, reachability, observability, Hankel operators, model reduction by balanced truncation;</li><li>Feedback interconnections \u2013 transfer functions, internal stability, coprime factorization, a parametrization of all stabilizing controllers;</li><li>Optimal filtering and control \u2013 quadratic measures of performance (H2 and H-infinity), spectral factorization, Riccati equations.</li></ul>"
+    ],
+    "ilo": [
+        "Apply the mathematics of linear analysis;",
+        "Employ input-output and state-space methods in the study of linear dynamical systems and feedback interconnections of such systems;",
+        "Formulate and solve optimal filtering and control problems."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three homework assignments of equal weight, not exceeding a total of 45 pages of work",
+            "bullets": [
+                "75 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 12",
+            "percentage": "60%"
+        },
+        {
+            "brief": "One written \"take-home\" exam of a duration not exceeding eight hours",
+            "bullets": [
+                "8 hours"
+            ],
+            "hurdle": "Students must pass the end of semester examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

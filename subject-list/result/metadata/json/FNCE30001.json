@@ -1,0 +1,286 @@
+{
+    "overview": [
+        "<p>This subject covers investment analysis, with emphasis on equity securities and fixed interest securities. The topics covered focus on issues fundamental to financial managers, money managers, risk managers, financial advisers and regulators. These topics include: fundamental ideas in asset pricing, modern portfolio theory, and their applications; equilibrium theories of asset pricing; empirical evidence on security returns; key issues in pricing fixed interest securities; and techniques in fixed interest portfolio management.</p>"
+    ],
+    "ilo": [
+        "Discuss core concepts in finance, including risk, return, risk premium and risk aversion;",
+        "Analyse the portfolio selection problem, with emphasis on the mean variance framework;",
+        "Critically evaluate theories of asset pricing and their applications in the pricing of securities;",
+        "Analyse issues in the pricing of fixed interest securities and the management of portfolios;",
+        "Apply investments knowledge to challenging and complex real-world scenarios."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; application of theory to practice; interpretation and analysis; critical thinking",
+        "Moderate level of development: written communication; statistical reasoning; synthesis and evaluation of data and other information",
+        "Some level of development: oral communication; collaborative learning; team work"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students must meet one of the following prerequisite options:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "FNCE20001 Business Finance"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM20001Econometrics 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ECON20003Quantitative Methods 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20004ProbabilitySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20005StatisticsSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST20006Probability for StatisticsSemester 1 (On Campus - Parkville)12.5MAST20018Discrete Maths and Operations ResearchSemester 2 (On Campus - Parkville)12.5MAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM20001",
+                        "Name": "Econometrics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20003",
+                        "Name": "Quantitative Methods 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20006",
+                        "Name": "Probability for Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20018",
+                        "Name": "Discrete Maths and Operations Research",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "620-261 Introduction to Operations Research (2008 or earlier)"
+            },
+            {
+                "type": "paragraph",
+                "content": "620-270 Applied Statistics"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsFNCE20005Corporate Financial Decision MakingSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE20005",
+                        "Name": "Corporate Financial Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM20001Econometrics 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ECON20003Quantitative Methods 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20005StatisticsSummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST20004ProbabilitySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20006Probability for StatisticsSemester 1 (On Campus - Parkville)12.5MAST20018Discrete Maths and Operations ResearchSemester 2 (On Campus - Parkville)12.5MAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM20001",
+                        "Name": "Econometrics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20003",
+                        "Name": "Quantitative Methods 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20005",
+                        "Name": "Statistics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20006",
+                        "Name": "Probability for Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20018",
+                        "Name": "Discrete Maths and Operations Research",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "620-261 Introduction to Operations Research (2008 or earlier)"
+            },
+            {
+                "type": "paragraph",
+                "content": "620-270 Applied Statistics"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL30006",
+                        "Name": "Intermediate Financial Mathematics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "306-331 Investments"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group Case Assignment write-up and presentation (normally 3-4 per group)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Case Assignment write-up and presentation (normally 3-4 per group)",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Bryan Lim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Patrick Kelly",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

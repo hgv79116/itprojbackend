@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>Students enrol in Empirical Corporate Finance followed by the subject Empirical Investments as the subjects are completed in two consecutive semesters. A number of seminars will be held during the semester to discuss various aspects of the program including bibliographic and other resources available to students and a range of analytical and empirical research methods and techniques used in Finance. Among other things, the workshops provide a forum for students to discuss and develop their own research proposals, and to develop seminar and conference presentation ability.</p>"
+    ],
+    "ilo": [
+        "Identify contemporary issues in finance;",
+        "Identify principles of finance research;",
+        "Formulate and solve financial problems."
+    ],
+    "generic_skills": [
+        "Oral communication including presentation skills",
+        "Written communication",
+        "Problem solving",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Critical thinking",
+        "Synthesis of data and other information",
+        "Evaluation of data and other information",
+        "Accessing data and other information from a range of sources",
+        "Using computer software"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "FNCE90068 Finance Thesis Workshop Part 1"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three individual assignments",
+            "bullets": [
+                "550 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Due in weeks 2, 6 and 11.",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Three group assignments\u00a0(in groups of approximately 3)",
+            "bullets": [
+                "2000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Due in weeks 4 and 8 and during the final examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Four individual in-class presentations of seminar papers",
+            "bullets": [
+                "3 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "16%"
+        },
+        {
+            "brief": "Class participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "",
+            "percentage": "24%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Gabriele Lattanzio",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 3-hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

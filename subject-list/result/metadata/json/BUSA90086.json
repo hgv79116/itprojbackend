@@ -1,0 +1,141 @@
+{
+    "overview": [
+        "<p>This unit provides real\u2010world, hands\u2010on learning about what it\u2019s actually like to start a company or carry out an entrepreneurial project in an existing organisation. This is a practical unit, not a theoretical one, and is designed to give students the experience of how to work as a team and turn an idea into reality. Students will talk to prospective customers to see if anyone is really interested in the product or service they intend to develop. Based on the feedback gathered, students will rapidly iterate their ideas to produce a scalable, repeatable business model. The overall intent of the unit is to equip students with a set of skills that will be useful throughout their careers, whether they are working in startups or in existing organisations.</p>"
+    ],
+    "ilo": [
+        "Use opportunity generation techniques to develop ideas for new businesses and projects in existingorganisations",
+        "Use the business model canvas framework to describe their ideas and to develop hypotheses about theirbusiness model assumptions",
+        "Test their hypotheses using the techniques of evidence\u2010based entrepreneurship and refine their businessmodel based on test results",
+        "Develop customer archetypes and carry out customer development and customer validation for aproposed product or project",
+        "Create metrics to measure the success of a product or project and use the metrics to improve the valuebeing created",
+        "Share insights and experiences in an effective, concise, objective, and helpful manner",
+        "Form and manage a self\u2010organising team to carry out immediate action in environments that are resource\u2010constrained, particularly with respect to time and money."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90001",
+                        "Name": "Financial Accounting",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90026",
+                        "Name": "Business Strategy",
+                        "Teaching period": "July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)April (On Campus - Parkville)January (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90060",
+                        "Name": "Data Analysis",
+                        "Teaching period": "January (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90074",
+                        "Name": "Global Business Economics",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90093",
+                        "Name": "Finance",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90193",
+                        "Name": "Managerial Economics",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90224",
+                        "Name": "Managing People",
+                        "Teaching period": "April (On Campus - Parkville)January (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90227",
+                        "Name": "Operations",
+                        "Teaching period": "April (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90243",
+                        "Name": "Marketing",
+                        "Teaching period": "September (On Campus - Parkville)July (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90481",
+                        "Name": "Managerial Ethics & Business Environment",
+                        "Teaching period": "April (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class participation and preparation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "10 x syndicate presentations (weekly)",
+            "bullets": [
+                "250 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "10 x customer delivery process written descriptions (weekly)",
+            "bullets": [
+                "150 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Customer discovery process quality as measured by number of customer interviews and quality of business model development (weekly)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Syndicate final project: Presentation (10%) and Slide deck from presentation (10%)",
+            "bullets": [
+                "900 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

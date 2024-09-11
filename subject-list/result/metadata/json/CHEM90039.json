@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>This subject will outline some of the major methods of organic synthesis including asymmetric aldol and related reactions, sigmatropic rearrangements and metal-catalysed transformations. Applications in the synthesis of important chiral molecules will be discussed.</p>"
+    ],
+    "ilo": [
+        "show an increased knowledge and understanding of advanced organic chemical synthesis",
+        "understand useful methods for stoichiometric asymmetric synthesis",
+        "be able to use transition state models to predict stereochemical outcomes",
+        "provide plausible chemical synthesis"
+    ],
+    "generic_skills": [
+        "advanced problem-solving and critical thinking skills",
+        "an ability to evaluate the professional literature",
+        "the capacity to apply concepts developed in one area to a different context",
+        "an understanding of the changing knowledge base",
+        "the ability to use conceptual models to rationalize experimental observations"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent subject"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SCICHE Master of Science (Chemistry)",
+                    "MR-IRCHEM Master of Industrial Research (Chemistry)",
+                    "Chemistry informal specialisation in the BH-SCI Bachelor of Science (Degree with Honours)",
+                    "Chemistry informal specialisation in the GDA-SCI Graduate Diploma in Science (Advanced)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "At the 9-lecture mark each subject will be assessed by an oral presentation of a literature article",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Examination after completion of the subject (this is seen as equivalent to 1500 words)",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "75%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "29 July 2024 to 23 August 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "6 September 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

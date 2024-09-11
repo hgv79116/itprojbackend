@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>This subject introduces the chemical logic of cellular processes, and the chemical methods used to probe and perturb them. Coverage includes: the major classes of biomolecules and their biosynthesis with a focus on molecular structure; biological catalysis (enzymes, enzyme kinetics and the roles of trace metals and co-factors); and chemical methods for studying interactions and deconvoluting biological systems.</p>",
+        "<p>Also covered are chemical techniques for qualitative and quantitative analysis of cellular processes and biomolecular interactions; imaging techniques for non-invasive analysis; analytical techniques and equipment for biomolecular studies; and common molecular tools.</p>",
+        "<p>A key aspect of this subject will be the use of case studies to explore how chemical approaches can be applied to illuminate the molecular features of biological systems. This will be covered in a small-group learning mode and involve both a written report and oral presentation.</p>"
+    ],
+    "ilo": [
+        "Critically analyse problems at the interface of chemistry and biology",
+        "Explain the molecular basis of a range of biological processes",
+        "Interpret biological data by applying diverse chemical principles",
+        "Explain the principles of the key analytical methods used in chemical biology"
+    ],
+    "generic_skills": [
+        "The ability to comprehend complex concepts and effectively communicate this understanding to scientists within and outside of the chemistry discipline",
+        "The ability to critically analyse and solve abstract technical problems using data acquired through a range of technologies",
+        "The ability to assimilate and apply the learnt concepts to a broad range of scientific problems within a scientific paradigm",
+        "The ability to use conceptual models to rationalise observations",
+        "Project planning and delivery skills including: planning and time-management; report-writing and oral presentation; working in collaborative groups",
+        "Work effectively in small teams"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10004",
+                        "Name": "Chemistry 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10009",
+                        "Name": "Chemistry for BioSciences",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": []
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment not exceeding 1000 words and oral presentation as part of the small-group based, case-study learning component of the subject",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "brief": "A series of 3 online assessment tasks throughout the semester (weeks 4, 8, 11)",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 11",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week for 12 weeks;\n\n1 x one hour tutorial per week for 12 weeks. \n\nTotal contact hours \u2013 48 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "pjackson@unimelb.edu.au"
+        }
+    ]
+}

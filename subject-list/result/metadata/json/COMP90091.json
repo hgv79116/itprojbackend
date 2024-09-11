@@ -1,0 +1,131 @@
+{
+    "overview": [
+        "<p>This subject involves a mixture of classroom instruction and client-facing practice, in which students will work directly with not-for-profit and community organisations to help improve their cybersecurity practices and capabilities. Roughly the first half of the subject involves traditional lectures and tutorials in which students learn core cyber security principles and the conceptual frameworks for cyber security practice within organisations, with a focus on not-for-profit and community organisations and the unique threats that they face. The second half of the subject is primarily practical in nature, with students putting into practice the classroom knowledge by working directly with organisations to help improve their cyber security practice. Community and not-for-profit organisations are especially important because they are rich targets for cyber attacks yet often have limited resources to employ cyber security professionals or consultants. In the practical component of this subject, students will carry out tasks including asset inventory construction, cyber risk assessment, developing recommendations for and assessing the effectiveness of security controls, and developing cyber security training material.</p>",
+        "<p>Students will work with client organisations under the supervision of a member of academic staff. The skills and knowledge students obtain, and the experience putting those into practice, will strengthen their employability.</p>",
+        "<p>Indicative content covered in the classroom includes: Information security principles and threats overview; traditional information security controls and threat mitigations; ethics of information security practice; the threat landscape, with a focus on not-for-profit and community organisations; cybersecurity problem diagnosis; threat modelling and risk assessments; phishing and social engineering threats and controls; cyber security training and security behaviours; and misinformation and disinformation threats and mitigations.</p>",
+        "<p>Entry to this subject requires permission from the subject coordinator.</p>"
+    ],
+    "ilo": [
+        "Deduce and articulate the key cyber security risks faced by an organisation.",
+        "Determine, and argue for the appropriateness of, evidence-based cyber security controls and practices to mitigate identified cyber security risks for an organisation.",
+        "Articulate the unique cyber security challenges faced by community and not-for-profit organisations.",
+        "Assess the effectiveness of organisational cyber security controls.",
+        "Explain key cyber security threats and challenges, and appropriate controls and mitigations for them."
+    ],
+    "generic_skills": [
+        "Application of cyber security principles and risk assessment methods to identify cyber security risks and recommend improvements to organisational cyber security practice",
+        "An in-depth knowledge of cyber security threats faced by not-for-profit and community organisations and effective threat mitigation methods",
+        "Ethical conduct and professional accountability.",
+        "Effective oral and written communication in professional and lay domains."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90015",
+                        "Name": "Distributed Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90043",
+                        "Name": "Cryptography and Security",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsISYS90090Cyber Security ManagementSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90090",
+                        "Name": "Cyber Security Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Mid-Semester Test. Intended Learning Outcomes (ILOs) 1, 3 and 5 are addressed in this assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must achieve at least 50% in this test. ",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Team Report - Client Assets and Existing Security Controls Report and Risk Assessment Plan. 800 words (each team member). ILOs 1, 3, and 4 are addressed in this assessment.\n\n\n\n16 hours of work required (each)",
+            "bullets": [
+                "16 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Individual Report \u2013 Initial Individual Reflection on client interactions and learnings, team function, and your ongoing team contribution. ILOs 1 and 4 are addressed in this assessment.",
+            "bullets": [
+                "200 words (each)"
+            ],
+            "hurdle": " Each student must submit an individual report",
+            "timing": "Week 8",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Team Client Risk Assessment and Recommendations Report. 2000 words each, requiring 45 hours of work per member.\n\n\n\nILOs 1,2,4, and 5 are addressed in this assessment.",
+            "bullets": [
+                "45 hours (of work required)"
+            ],
+            "hurdle": "Students must achieve a pass mark",
+            "timing": "Week 12",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Individual Report \u2013 Individual Final Reflection on team function, individual contribution, and recommendations for future client interactions.\n\n\n\nILOs 1, 2, and 3 are addressed in this assessment.",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": "Each student must submit an individual report",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Team Client Risk Assessment Presentation.\n\n\n\nILOs 2,3 and 5 are addressed in this assessment",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": "Each student in the team must present; 15 marks are awarded to the team for presentation content and structure; 5 marks are awarded individually for individual oral presentation and communication skills",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

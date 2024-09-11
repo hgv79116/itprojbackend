@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>The subject is an advanced treatment of the Economics of Information and Game Theory. Students study the foundations of consumer and producer theory. Game theoretic interpretations of equilibrium are introduced including those appropriate for asymmetric situations. The concept of a Bayesian Nash equilibrium is applied to models of moral hazard and adverse selection and provides an introduction to auction theory and mechanism design.</p>"
+    ],
+    "ilo": [
+        "Understand and use the mathematical concepts that are required for graduate microeconomics;",
+        "Understand and use consumer theory, producer theory, the competitive model and comparative statics;",
+        "Understand and use expected utility theory;",
+        "Understand and use the equilibrium concepts for static games under complete and incomplete information;",
+        "Understand and use the concept and models of moral hazard;",
+        "Understand and use the concept of adverse selection and markets with adverse selection; and",
+        "Understand and use basic aspects of the theory of incentives, auctions and mechanism design."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence;",
+        "Synthesis of ideas, views and evidence;",
+        "Critical thinking;",
+        "Application of theory to economic policy and business decision making; and",
+        "Problem solving skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-COMECO Master of Commerce (Economics)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test (equivalent to 1500 words)",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Four class assignments, due every 3rd week (250 words each)",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination (equivalent to 3000 words)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Simon Loertscher",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours live lectures on Zoom (also recorded); 1 hour live tutorial on Zoom.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "simonl@unimelb.edu.au"
+        }
+    ]
+}

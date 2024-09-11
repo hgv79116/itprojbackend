@@ -1,0 +1,146 @@
+{
+    "overview": [
+        "<p>This subject enables students to conduct a research topic under supervision, as approved by an academic project supervisor. The research is conducted as a group project with 2-3 students. The work commitment over one semester will be equivalent to lecture and practical based subjects worth 25 points. The content and extent of the project will be determined by the subject coordinator and project supervisor in consultation with the students. Students will be offered different group projects to choose. Alternatively, students can also initiate project ideas or to identify a project topic of keen interest to the group, through discussion with Faculty staff, prior to subject commencement.</p>",
+        "<p>The project represents a capstone subject and comprises a review of a body of relevant literature, together with a critical evaluation of research or experimental protocols, a modest experiment, or limited exploration of a scientific problem, or an investigation into a problem using an approved methodology. Following an initial workshop to establish subject expectations, deliverables and skill base requirements, projects will generally involve regular meetings with subject coordinator and supervisor where students report on progress, difficulties and research plans. Other workshops will deliver skill development in oral and written report presentation.<br/> </p>",
+        "<p><strong>Note:</strong> For students enrolled in the Semester 1 offering, a Dookie campus visit of up to two weeks will be required unless an exemption is granted.</p>"
+    ],
+    "ilo": [
+        "Develop project management skills in conducting a food science research project in a group",
+        "Integrate and apply disciplinary knowledge and skills to an independently generated research question and investigation",
+        "Analyse and synthesise salient features and important theoretical, methodological and empirical trends in published literature and data",
+        "Present research findings in clear, concise and persuasive written and verbal forms"
+    ],
+    "generic_skills": [
+        "Capacity to articulate knowledge and understanding in oral and written presentations and to allow informed dialogue with individuals and groups from industry, government and the community",
+        "Ability to evaluate and synthesise the research and professional literature in the discipline",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning and research, and enhance teamwork skills",
+        "Practical skills in safe handling of food ingredients and safe operation of equipment and machines"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Including:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsAGRI90075Research Methods For Life SciencesSemester 1 (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI90075",
+                        "Name": "Research Methods For Life Sciences",
+                        "Teaching period": "Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI90080",
+                        "Name": "Major Research Project Part 1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AGRI90082",
+                        "Name": "Major Research Project Part 2",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AGRI90072",
+                        "Name": "Major Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "50"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group Project Proposal \n\nequivalent to 1000 words per student",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group Industry Visit Report \n\nequivalent to 1000 words per student",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": "Student must participate in at least 1 industry  visit",
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group oral presentation",
+            "bullets": [
+                "30 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual Final Report",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": "Pangzhen Zhang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures: Total 12 hours (1 hour per week centrally  timetable) with focus on how to conduct research and basic research skills.\n\nTutorials: Total 10 hours per group  (not in central timetable) to cover technique specific to the research topic.\n\nPractical class activities:  Maximum 65 hours  to conduct the research project.\n\nIndustry visit: Total 8 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "28 June 2024",
+            "contact_name": "Dr Pangzhen Zhang",
+            "contact_email": "pangzhen.zhang@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": "Pangzhen Zhang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lectures: Total 12 hours (1 hour per week centrally  timetable) with focus on how to conduct research and basic research skills.\n\nTutorials: Total 10 hours per group  (not in central timetable) to cover technique specific to the research topic.\n\nPractical class activities:  Maximum 65 hours  to conduct the research project.\n\nIndustry visit: Total 8 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "22 November 2024",
+            "contact_name": "Dr Pangzhen Zhang",
+            "contact_email": "pangzhen.zhang@unimelb.edu.au"
+        }
+    ]
+}

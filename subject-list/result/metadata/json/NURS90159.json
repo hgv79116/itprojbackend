@@ -1,0 +1,123 @@
+{
+    "overview": [
+        "<p>Emergency nursing practice is characterised by a diversity of clinical presentations which range from those requiring minimal care to those with complex or life-threatening clinical presentations or injury. This variation in clinical presentation requires emergency nurses to have a strong foundation in patient assessment and pathophysiology knowledge.</p>",
+        "<p>In this subject, students will  apply the theoretical principles from this subject and subjects, Applied Pathophysiology, Foundations of Critical Care Nursing and Emergency Nursing within the clinical area of their specialty practice. Students application of learning will be also evaluated in the clinical setting. Students will demonstrate the ability to undertake and support comprehensive patient assessment, monitoring and evaluation and care planning in specialty nursing practice. Students will learn to incorporate and apply scientific knowledge and evidence-based treatment and nursing interventions to support a patient centred approach to inform their clinical decision making in practice.</p>"
+    ],
+    "ilo": [
+        "Demonstrate independent skills in performing timely comprehensive assessment of the undiagnosed patient;",
+        "Apply knowledge and skills to recognise, prioritise and respond to undifferentiated patients within a dynamic environment;",
+        "Plan, implement and evaluate emergency nursing interventions in the delivery of safe and competent nursing care;",
+        "Apply problem-solving, critical thinking, communication and reflective practice skills to the delivery of specialist emergency nursing care; and",
+        "Coordinate the safe and timely care of patients with a variety of clinical needs"
+    ],
+    "generic_skills": [
+        "A capacity to articulate their knowledge and understanding in oral and written modes of communication",
+        "A capacity to manage competing demands on time, including self-directed project work",
+        "Well-developed problem-solving abilities, characterised by flexibility of approach",
+        "An ability to evaluate and synthesise the research and professional literature",
+        "An appreciation of the ways in which advanced knowledge equips the student to offer leadership"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90076",
+                        "Name": "Applied Pathophysiology",
+                        "Teaching period": "July (Online)January (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsNURS90122Foundations of Critical Care NursingSeptember (Online)April (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90122",
+                        "Name": "Foundations of Critical Care Nursing",
+                        "Teaching period": "September (Online)April (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90148",
+                        "Name": "Emergency Nursing Practice",
+                        "Teaching period": "April (Off Campus)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Formative written assessment (Professional Practice Portfolio Part A)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "Students must pass this assessment.",
+            "timing": "First half of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Summative written assessment \n\n(Professional Practice Portfolio Part B)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "Student must pass this assessment.",
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Clinical Skills Assessment x 6  (500 words each)\n\n(Professional Practice Portfolio Part C)",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": "Students must pass all six clinical skills assessments",
+            "timing": "Distributed evenly across the study period and due by the end of assessment period.",
+            "percentage": "0%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "September - Off Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "Asynchronous learning and activities within the LMS of approximately 4-5 hours per week and synchronous online webinars and tutorials of 6-8 hours across the subject duration of Emergency Nursing 1 &2.",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "23 September 2024 to 17 November 2024",
+            "last_self_enrol_date": "17 September 2024",
+            "census_date": "4 October 2024",
+            "last_date_to_withdraw_without_fail": "1 November 2024",
+            "assessment_period_ends": "24 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

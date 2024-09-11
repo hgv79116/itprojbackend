@@ -1,0 +1,83 @@
+{
+    "overview": [
+        "<p>This subject develops familiarity with technical and administrative aspects of health information science \u2013 when, why and how health data can be generated, collected, stored, communicated and integrated to inform patient care, health research and health services management. It provides an overview of the knowledge and tools that are essential for managing and governing digital patient record data for primary and secondary uses.</p>",
+        "<p>Lectures and tutorials cover four major topics: (a) Structuring health data in the era of big data in healthcare; (b) Managing and governing electronic health and medical records for safety and quality of care, including: standards, terminologies and mapping approaches applicable to clinical data and clinical documentation; (c) Structural and semantic interoperability to support data use for connected care and population health, including: Fast Healthcare Interoperability Resources (FHIR); (d) Managing and governing secondary use of data, including health services administration and health research, including: approaches to data privacy and security, repositories, retrieval, quality assessment, and linkage.</p>"
+    ],
+    "ilo": [
+        "Explain the roles of a range of information standards and protocols in ensuring the quality of patient health data",
+        "Analyse relative merits of various ways in which different health information systems record patient data, and explain how such data can be mapped",
+        "Demonstrate understanding of different levels of interoperability among health information systems, and explain uses of methods and tools for optimising the value of patient data through exchange between systems",
+        "Critically interpret typical requirements for retrieval and re-use of patient data for purposes other than clinical care, and propose refinements that reflect advances in approaches to digital health data analysis",
+        "Demonstrate integration and application of health data management principles in the design of new health information systems"
+    ],
+    "generic_skills": [
+        "Effective communication of data requirements",
+        "Understanding of global issues relating to health",
+        "The ability to work across different disciplines",
+        "Excellent in-depth knowledge to support responsible leadership"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "",
+                        "Name": "No longer available",
+                        "Teaching period": ""
+                    },
+                    {
+                        "Code": "ISYS90069",
+                        "Name": "Digital Transformation of Health",
+                        "Teaching period": "July (Online)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A three part report, progressively written over the semester.  Part 1 due in week 6;  part 2 due in week 12; part 3 due in week 14, 1000 words for each part; 3000 words in total and worth 20% each (60% in total). Intended Learning Outcome (ILO) 5 is addressed in this assessment.",
+            "bullets": [
+                "90-100 hours (of work required)"
+            ],
+            "hurdle": "An aggregate result of 30/60 or more is required to pass the subject.",
+            "timing": "From Week 6 to Week 14",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Four written reports of individual work on assigned practical activities, 500 words per report; 2000 words in total and worth 10% each (40% in total). Due weekly in weeks 2, 5, 8, and 11. ILO's 1 to 4 are addressed in this assessment.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": "An aggregate result of 20/40 or more is required to pass the subject.",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": "Kathleen Gray",
+            "mode_of_delivery": "Online",
+            "contact_hours": "1 hour per week of 1-1 tutorials;\n\n2 hours per week of asynchronous learning using resources in Canvas LMS",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Kathleen Gray",
+            "contact_email": "kgray@unimelb.edu.au"
+        }
+    ]
+}

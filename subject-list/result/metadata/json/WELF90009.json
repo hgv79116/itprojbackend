@@ -1,0 +1,78 @@
+{
+    "overview": [
+        "<p>This subject is a co-requisite for the year-long clinical practice subject (PAED 90020), and provides a forum for discussion and reflection of issues arising in the clinical placements, to allow development of the skills learned on clinical placement. Knowledge attained in year 1 will be reviewed and built upon through group discussion. Critical reflective practice will be enhanced through facilitated discussion and consideration of issues that are presented by students, arising in their clinical practice. Students will be encouraged to develop self-awareness, the ability to critically evaluate practice and to enhance practice and genetic knowledge skills through the use of regular supervision sessions and extensive reading.  Together with Genetic Counselling Practice 2 this subject will develop the skills of ethical reflective genetic counselling practice.</p>"
+    ],
+    "ilo": [
+        "Examine the role of supervision in genetic counselling practice",
+        "Investigate the application of models of genetic counselling to practice",
+        "Model reflective genetic counselling practice",
+        "Demonstrate competency in counselling skills"
+    ],
+    "generic_skills": [
+        "Identify and understand theories of counselling relevant to genetic counselling.",
+        "Identify the issues of genetic counselling that impact on individuals and families who come for genetic counselling.",
+        "Reflect on the issues that in particular impact on their own practice, and consider how to address these within an ethical framework.",
+        "Continue to develop their genetic knowledge through discussion, reading and tutor teaching",
+        "Engage in group supervision and develop the ability to relate to peers in a critically constructive manner."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PAED90020",
+                        "Name": "Clinical Practice",
+                        "Teaching period": "Year Long (Off Campus)",
+                        "Credit Points": "37.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Essay - analysis and reflection of videotaped simulated counselling session",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Class presentation of clinical case and submission of written summary and presentation materials (week 10-12)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "hodgson@unimelb.edu.au"
+        }
+    ]
+}

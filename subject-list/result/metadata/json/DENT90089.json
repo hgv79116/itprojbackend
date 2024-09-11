@@ -1,0 +1,169 @@
+{
+    "overview": [
+        "<p>Endodontics 3 is the final subject, continuing on from the previous two years of learning and providing advanced training within all aspects of the discipline, and to prepare a student for specialty practice, teaching and research. The subject provides a course of advanced study and research into the nature and treatment of disorders of the pulp and periapical tissues, and the relationship of these to other dental and systemic conditions.</p>",
+        "<p>The subject structure comprises didactic and clinical components. Students can expect to be introduced to the following areas during the three-year cycle of the Endodontics subject themes: a. Pulp Biology &amp; Clinical Endodontics I, b. Clinical Endodontics II, c. General Considerations in Endodontics, d. Dental Trauma, e. Endodontic Surgery, f. Evidence-Based Endodontics. In each year, two themes are covered. Entry point into the cycle depends on the year of commencement, but all six themes will be studied by the end of third year. The literature review involves the critical analysis of published scientific research papers.</p>",
+        "<p>The aims of this subject are to prepare dentists to practice endodontics at an advanced (specialist) level, based on current knowledge of the pathobiology of the pulp and periapex; to equip dentists to keep pace with advances in the discipline; and to contribute in a scholarly manner to the discipline.</p>",
+        "<p><strong>Didactic Component</strong><br/>Students participate in a weekly seminar program  conducted during the year. The seminar program includes three components: 1. seminar topic, 2. current literature review, and 3. case presentations.  Students are rostered to each activity, and the number of times each student presents in each component depends on the year level and the number of students.</p>",
+        "<p><strong>Clinical Component</strong><br/>Clinical experience constitutes 50% of the subject, Students are rostered to the clinic, with the emphasis on the management of complex cases, and includes non-surgical and surgical treatment. Cases completed during these sessions will form the basis of the case presentations in seminars and for the clinical case portfolio submitted for assessment throughout the year.</p>"
+    ],
+    "ilo": [
+        "Apply advanced special skills in the provision of clinical services applicable to the specialty;",
+        "Demonstrate a thorough understanding of the principles, current developments and research methods applicable to the specialty.",
+        "Articulate understanding of the changing knowledge base of the discipline",
+        "Ability to seamlessly evaluate and synthesize research and professional literature;",
+        "Highly-developed problem-solving abilities characterized by flexibility of approach",
+        "Superior capacity to articulate knowledge and understanding in oral and written presentations;",
+        "Advanced understanding of the international context and sensitivities of the discipline;",
+        "Capacity to manage competing demands on time, including self-directed project work;",
+        "Demonstrate profound respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Offer leadership in the specialist area;",
+        "Capacity to value and participate in projects which require team-work;",
+        "Advanced Understanding of the significance and value of your knowledge to the wider community;",
+        "Capacity to engage where appropriate with issues in contemporary society"
+    ],
+    "generic_skills": [
+        "work effectively as a member of a team",
+        "have skills in interpersonal understanding, problem-solving, decision making, program design and implementation, evaluation and advocacy",
+        "demonstrate capacity and motivation for continuing independent learning and the capacity to maintain intellectual curiosity throughout life",
+        "demonstrate professional skills and attitudes",
+        "design and conduct scientific investigations",
+        "exhibit professional responsibility",
+        "critically appraise research evidence",
+        "demonstrate the ability to locate, analyse, evaluate and synthesise information from a wide variety of sources in a planned and timely manner",
+        "be proficient in the appropriate use of contemporary technologies",
+        "have an awareness of ethical, social and cultural issues within a global context and their importance in the exercise of professional skills and responsibilities",
+        "value diversity of opinion within health care",
+        "value diversity in health beliefs, lifestyles, ethnic and cultural background",
+        "demonstrate a non-judgemental approach to their interactions within the health system, with other health professionals",
+        "ensure safe and effective care for people of diverse backgrounds"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DENT90087",
+                        "Name": "Endodontics 1",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "75"
+                    },
+                    {
+                        "Code": "DENT90088",
+                        "Name": "Endodontics 2",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "60-min viva voce exam\u00a0(Mid-Year)",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid-year examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Logbook of patient cases (There is no minimum number of cases required to complete by the student)",
+            "bullets": [
+                "- pages"
+            ],
+            "hurdle": null,
+            "timing": "End of first half of year",
+            "percentage": "15%"
+        },
+        {
+            "brief": "1.5 Hour written Exam\u00a0(Mid-Year)",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid-year examination period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Logbook of patient cases (There is no minimum number of cases required to complete by the student)",
+            "bullets": [
+                "- pages"
+            ],
+            "hurdle": null,
+            "timing": "End of second half of year",
+            "percentage": "15%"
+        },
+        {
+            "brief": "90 min viva voce exam\u00a0(End-Year)",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of year examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "3 hour written Exam\u00a0(End Year)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of year examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Active Seminar participation in Clinical Case reports, seminar topic, handouts and literature reviews\u00a0(Throughout Year)",
+            "bullets": null,
+            "hurdle": "(Pass/Fail)",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Overall achievement of a satisfactory grade for Clinical Demonstrator Feedback Forms (Throughout Year)",
+            "bullets": null,
+            "hurdle": "(Pass/Fail) ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "100% Attendance for all Seminars & Clinical Sessions, including rostered On-Call Sessions.\u00a0\n\n(Throughout Year)",
+            "bullets": null,
+            "hurdle": "(Pass/Fail)",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "100% Attendance of all Emergency Service Sessions\u00a0\n\n(Throughout Year)",
+            "bullets": null,
+            "hurdle": "(Pass/Fail)",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "The DCD Endo-3 program is 39 weeks of clinical and didactic teaching. This includes:  \n\nApprox 1200 hours of clinical teaching including rotations through DHSV emergency service \n\nWeekly student-led seminars up to 5 hours per week",
+            "total_time_commitment": "1,600 hours",
+            "teaching_period": "20 November 2023 to 20 October 2024",
+            "last_self_enrol_date": "1 December 2023",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Professor Peter Parashos",
+            "contact_email": "parashos@unimelb.edu.au"
+        }
+    ]
+}

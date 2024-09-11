@@ -1,0 +1,149 @@
+{
+    "overview": [
+        "<p>The subject builds on the basic cell biology concepts introduced in first year biology and develops students\u2019 understanding of the processes that regulate the structure and function of eukaryotic cells. Using examples from plant and animal cells, the subject will outline the cellular structures and molecular processes that are fundamental for regulating cell function in multicellular organisms. It will also explore the external signals (physical, molecular, electrochemical) that can lead to changes in cell behaviour, gene expression, protein synthesis or cell replication.</p>"
+    ],
+    "ilo": [
+        "Apply knowledge of the structure and function of eukaryotic cells to describe the range of cellular activities that are especially relevant to multicellular organisms;",
+        "Describe in detail the structure and function of eukaryotic cells (animal and plant) identifying cellular compartments where various cellular activities occur;",
+        "Explain how external signals can lead to changes in gene expression and protein synthesis; and",
+        "Explain how cells communicate, including through the use of electrochemical signals."
+    ],
+    "generic_skills": [
+        "demonstrate skills in observation, data interpretation and reporting;",
+        "apply analytical and problem-solving skills;",
+        "analyse and integrate knowledge from various sources;",
+        "demonstrate collaborative learning skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following: MC-SCIBIF Master of Science (Bioinformatics), MC-COMPBIO Master of Computational Biology"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid Semester Test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Poster; group submission",
+            "bullets": [
+                "1 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid Semester Test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Weekly quizzes; open book\n\nBest 10 of a total of 12 quizzes (10 x 1.5%)",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Reflection tasks; delivered online",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Submission of at least 9 of 12 weekly worksheets (group or individual)",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Charlotte Clark",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours asynchronous online eLearning per week; 3 hours synchronous f2f workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

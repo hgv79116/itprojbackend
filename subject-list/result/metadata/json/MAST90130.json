@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>Introduction to the principles and practice of dealing with data, including measurement scales, data organisation, summaries, study design and inference. Students will learn how to think critically about the use of data in the public and private sectors, and appraise how results and analyses are presented by outlets such as the media. Emphasis will focus on interpretation and understanding of the appropriate use of data rather than the technical details of performing the analysis.</p>"
+    ],
+    "ilo": [
+        "Distinguish different types of data used in different forms of research evidence and describe the important contextual elements of data in providing good research evidence.",
+        "Classify scales used in data by using the principles of measurement to recognise important variations in data and to identify its sources.",
+        "Explain the main types of study designs in data analytics and justify the choice of a study design for a specified purpose. Explain the main types of study designs in data analytics, i.e. an experiment, a survey and an observational study and justify the choice of a study design for a specified purpose",
+        "Examine a data set and design a systematic approaches to managing it using descriptive analysis, as well as tools for representing and summarising data, and visualising the data.",
+        "Identify applicable probabilistic structures and their associated risks, in given data analytics scenarios, through knowledge of the role of probability and risk in the framework of data analytics and of the different risk assessment approaches.",
+        "Identify and distinguish the circumstances under which elementary probability models for data would be used.",
+        "Critique the use of confidence intervals, hypothesis tests and other representations of inference in real-world applications of data analytics based on an understanding of the basic paradigms for inference from data.",
+        "Appraise the use of data in a public forum, especially the media, and formulate a critique of data-based reasoning that is used."
+    ],
+    "generic_skills": [
+        "High level written communication skills.",
+        "Interpretation skills.",
+        "Demonstrate competence in critical and theoretical thinking through essay writing and online discussions."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to online discussions. Assessment will be based on participation",
+            "bullets": [
+                "500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two concise essays to appraise the use of data in a study, public debate and official report, each 300 words. Students will be assessed based on their understanding and critique of the methods of design, analysis, and inference, and their discussion of the validity of the results. Due end of weeks 3 and 5",
+            "bullets": [
+                "600 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Formative online tests. To include multiple choice and short answer questions to assess understanding of the analytics concepts. End of weeks 2, 6 and 8",
+            "bullets": [
+                "1250 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 8",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Case study written assignment. Students will be assessed based on their detailed understanding and critique of the methods of design, analysis, and inference, and their discussion of the validity of the results. week 9 - during assessment period",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 1 - Online",
+            "principal_coordinator": "Ian Gordon",
+            "mode_of_delivery": "Online",
+            "contact_hours": "3-4 hours per week, including online lectures, discussion forums and other resources",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 January 2024 to 24 March 2024",
+            "last_self_enrol_date": "23 January 2024",
+            "census_date": "16 February 2024",
+            "last_date_to_withdraw_without_fail": "8 March 2024",
+            "assessment_period_ends": "31 March 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Term 3 - Online",
+            "principal_coordinator": "Ian Gordon",
+            "mode_of_delivery": "Online",
+            "contact_hours": "3-4 hours per week, including online lectures, discussion forums and other resources",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 15 September 2024",
+            "last_self_enrol_date": "16 July 2024",
+            "census_date": "9 August 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "22 September 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>This subject focuses on effective presentation and/or facilitation in actual teaching contexts - specifically, lectures and/or small group settings. The diversity of teaching contexts is a feature of the subject with participants encouraged to consider their particular teaching setting and practice. Participants, in peer review groups, engage in reciprocal peer review of teaching, alternately taking on the roles of reviewer and reviewee. Participants also engage in a reciprocal peer review cycle with a department colleague.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of how to plan and prepare classes to enhance student learning;",
+        "Evaluate and adapt teaching approaches and strategies to enhance effectiveness in various learning environments;",
+        "Identify the resources available to support teaching in higher education and assistance available from colleagues;",
+        "Apply skills in presenting, explaining, demonstrating, guiding and supporting student learning;",
+        "Critically reflect on their own strengths and weaknesses as a presenter or facilitator and use this reflection as a means of continuous improvement."
+    ],
+    "generic_skills": [
+        "Critically analyse theories and principles and apply them appropriately to a range of contexts;",
+        "Present material in a clear, organised, stimulating and engaging way;",
+        "Reflect upon and analyse the effectiveness of their activities; and",
+        "Work constructively with peers to evaluate and support one another's work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90002",
+                        "Name": "Effective University Teaching",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation (1000 words equivalent)",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": "This assessment task must be satisfactorily completed.",
+            "timing": "From Week 3 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A teaching portfolio with notes and feedback from peer review cycles involving:   \n\n\n\n1. Micro teaching session; \n\n\n\n2. A cycle of reciprocal peer review of teaching with a colleague from within the subject;  \n\n\n\n3. A cycle of peer review of teaching with a departmental colleague.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "This assessment task must be satisfactorily completed.",
+            "timing": "Week 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A reflective essay",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "This assessment task must be satisfactorily completed.",
+            "timing": "Week 1 of the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at all seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "16 contact hours and 5 hours in peer review activities",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "graceat@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "16 contact hours and 5 hours in peer review activities",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "graceat@unimelb.edu.au"
+        }
+    ]
+}

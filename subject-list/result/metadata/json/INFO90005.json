@@ -1,0 +1,52 @@
+{
+    "overview": [
+        "<p>Information architecture encompasses the processes for investigating and designing the interfaces for large-scale information systems. It involves planning and creating the search methods and browsing mechanisms that users will exploit to discover the information that they need. This subject will introduce a range of methods for discovering the ways in which users conceptualize the structure of the information that they are trying to navigate and discover, as well as theories on how information is organised. The subject explains how to analyse data about an information system\u2019s use and from that analysis create concrete models of both cognitive and information behaviour. These models will be used to inform effective designs for discovery tools. Evaluation methods for testing the effectiveness of information discovery tools will also be taught. Good information architecture is the lynch-pin for modern information systems, from corporate websites to online libraries and public services. Throughout the subject, theory and practice will be closely interconnected, and design decisions will have to be justified with both empirical evidence and fundamental principles from information theory and science.</p>"
+    ],
+    "ilo": [
+        "Demonstrate through practical assessment an understanding of the different mechanisms for supporting information discovery",
+        "Ability to apply different approaches to modelling cognitive processes and information structures that are used in creating information architectures and evaluating information seeking",
+        "The ability to apply information theories to create information access tools for real-world settings",
+        "The ability to evaluate an existing information discovery tool (e.g. search engine), and create improvements through evidence-based and theory-based methods"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 \u2013 User Modelling task (individual) \u2013 Students will elicit knowledge of users' information needs from a small number (4-8) representative sample. A report of  approximately 2000 words. Addressing Intended Learning Outcomes (ILO's) 1 and 2.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2 \u2013 Design task (individual) Students will present a proposed design for a target information tool, using evidence from Assignment 1 and supplemented by further data. Report of approximately   3000 words and presentation. Addressing ILO's 2 and 3.",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Assignment 3 \u2013 Evaluation task that reports the outcome of an assessment of the use of a real-world information system. Group task of 3-4 students and a report of 4000 words. Due in the second week of the examination period. Addressing ILO's 1, 3 and 4.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

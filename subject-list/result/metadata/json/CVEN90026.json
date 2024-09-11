@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>This subject is aimed at teaching the scientific principles associated with extreme events including that of earthquakes, impact, blast and cyclonic wind and their effects on a structure. Students will also be trained to make effective use of state-of-the-art techniques in quantifying the effects of the design actions in order that suitable level of protection can be incorporated into the structure to counter an extreme event. At the conclusion of this subject students should be capable of modelling a variety of extreme loadings by employing advanced techniques. Students will also be able to apply the modelling methodologies to fulfil performance based design objectives. Improved proficiencies in countering extreme loading in the design of structures will achieve better economy and a more sustainable built environment. This subject builds on students\u2019 fundamental knowledge of engineering mathematics, mechanics and structural analysis. With frequency of extreme events increasing due to climate change, increased mass and speed of vehicles and terrorism, this subject provides graduates with specialist knowledge to work in the field of hazard reduction or avoidance under the guidance of a chartered engineer.<br/><br/><strong>INDICATIVE CONTENT</strong><br/><br/>Topics covered include Rayleigh Method for developing a simplified model of a structural element, hand calculation techniques for analysing the impact action of a solid object based on linear elastic and elasto-plastic behaviour of the structure, considerations for the conditions of contact and anomalies associated with contributions by the higher modes. Another major topic to be covered is the capacity spectrum method involving linear, or non-linear, static analysis for the assessment of a building structure subject to seismic actions. Other topics include the analysis of blast actions by hand calculations and phenomena associated with the aerodynamic actions of wind.<br/><br/></p>"
+    ],
+    "ilo": [
+        "Demonstrate the ability to describe the effects of a range of extreme transient actions (including earthquake ground shaking, accidental impact, blast and strong wind) on a structure and their implications on structural design",
+        "Use hand calculation methods to estimate the effects of the listed extreme transient actions and be able to correctly interpret results and identify their limitations",
+        "Apply numerical techniques with the use of EXCEL spreadsheets as a generic tool to model the effects of transient actions on a building structure for benchmarking results generated from a commercial computational package",
+        "Assess the output to these models to inform the design process for safety and serviceability, and apply the learnt analysis techniques to ensure compliance with performance based design criteria."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Proficiency in engineering design",
+        "Capacity for creativity and innovation",
+        "Understanding of professional and ethical responsibilities, and a commitment to them."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN90049Structural Theory and Design 2Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN90049",
+                        "Name": "Structural Theory and Design 2",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1.   No more than 1000 words. Addressing  Intended Learning Outcome (ILO) 2.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 2.   No more than 2000 words. Addressing  ILOs 3 and 4 .",
+            "bullets": [
+                "45-50 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "One written examination. ILOs 1 and 2 are addressed in this exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Nelson Lam",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures/Practicals: 4 hours per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Associate Professor Nelson Lam",
+            "contact_email": "ntkl@unimelb.edu.au"
+        }
+    ]
+}

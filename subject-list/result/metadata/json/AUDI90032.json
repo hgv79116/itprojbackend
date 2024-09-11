@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p>This first clinical practice subject introduces students to the speech pathology clinical setting including the management of clients and patients presenting for assessment and/or intervention. Clinical placement settings may include hospitals, community clinics, early intervention and specialist centres, schools, private practices, university clinics, residential aged care facilities and other relevant settings. A variety of clinical experiences will be offered including initial observation, followed by increasingly \u2018hands-on\u2019 experiences with infants, children, young people and/or adults throughout the clinical placement. In particular, this subject covers establishing rapport with clients, developing observational skills, interviewing, case history taking, and listening to and recording information accurately. To support student learning, students also attend workshops held at the University during semester. Topics include introduction to CBOS (2011) and COMPASS\u00ae, adult learning, peer learning, supervisory styles, reflective practice, clinical reasoning and case-based discussions.</p>"
+    ],
+    "ilo": [
+        "Collect a case history and demonstrate clinical examination skills;",
+        "Listen to and record accurate written information; and",
+        "Discuss relevant variables that are affecting the child, client and family."
+    ],
+    "generic_skills": [
+        "critical thinking, analytical and problem solving skills",
+        "the ability to integrate theory and practice and to apply this in novel situations",
+        "an openness to new ideas",
+        "planning and time management skills",
+        "the ability to communicate knowledge effectively in both oral and written form",
+        "the ability to behave in an ethical and professionally appropriate manner"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT90011",
+                        "Name": "Anatomy and Physiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90025",
+                        "Name": "Communication Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90027",
+                        "Name": "Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LING90033",
+                        "Name": "Linguistics for Speech Pathology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90028",
+                        "Name": "Swallowing and Voice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90029",
+                        "Name": "Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90030",
+                        "Name": "Language Disorders Across the Lifespan",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90031",
+                        "Name": "Speech Disorders Across the Lifespan",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "This subject is assessed as Pass/Fail. Students must pass all components of assessment to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Completion of one  Simulated Clinical Practice Assessment (SCPA)\n\nStudents will attend one SCPA scheduled once between weeks 5-10. Students will be alloacted an assessment date in Week 2 workshop.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successfully participating and completing a simulated learning experience at Novice Level (as per COMPASS\u00a9 descriptors)",
+            "timing": "From Week 5 to Week 10",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Assessment during one clinical placement. Students' clinical performance during the placement will be assessed via the 'Competency Assessment in Speech Pathology' (COMPASS\u00ae) and the completion of a Clinical Portfolio.",
+            "bullets": [
+                "9 days (placement)"
+            ],
+            "hurdle": "Passing end Placement COMPASS\u00ae (Competency assessment in Speech Pathology) at Novice Level, and successfully completing Clinical Portfolio. ",
+            "timing": "Throughout the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "brief": "100% attendance and participation at all clinical placements",
+            "bullets": null,
+            "hurdle": "100% attendance at clinical placement",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": "Eliza Martin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "11 December 2024",
+            "contact_name": null,
+            "contact_email": "sp-clined@unimelb.edu.au"
+        }
+    ]
+}

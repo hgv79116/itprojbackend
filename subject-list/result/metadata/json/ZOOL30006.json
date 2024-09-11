@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject explores how natural and sexual selection have shaped the intriguing and often bizarre behaviours of animals. Topics include resource competition, predator avoidance, communication, mate choice, parental care, cooperation, sexual conflict, and the role of genes, hormones and learning in shaping behavioural diversity. We evaluate the scientific rigour of studies used to test theory, and highlight the often ingenious methods adopted by researchers to understand animal behaviour.</p>"
+    ],
+    "ilo": [
+        "the ability to articulate a proximate (mechanistic) or ultimate (evolutionary) perspective on any aspect of animal behaviour;",
+        "an understanding of the diversity of experimental and manipulative approaches available for the study of animal behaviour, and the ability to apply an appropriate approach to an unfamiliar problem;",
+        "the ability to explain an aspect of animal behaviour to different audiences in written, spoken or audiovisual format;",
+        "the ability to articulate different forms of biological data and how to make inferences from them;",
+        "the ability to conduct an effective literature search and synthesise findings and critique a given topic in animal behaviour;",
+        "the ability to design an effective experiment; and",
+        "preparedness for the workplace through experience participating in group projects."
+    ],
+    "generic_skills": [
+        "assimilate and critically evaluate new knowledge within a scientific paradigm; and",
+        "communicate that knowledge to a broad audience."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20005",
+                        "Name": "Animal Structure and Function",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ZOOL20006",
+                        "Name": "Comparative Animal Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly grading of online text annotations, averaging 200 words per assessment",
+            "bullets": [
+                "200 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Weekly quiz assessments of interactive problems held in-class",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written work (up to 1000 words) and either oral (up to 20 minutes) or audiovisual (up to 5 minutes) work associated with fortnightly skills studios",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "12x 2-hour interactive classes per semester; 6x2-hour skills studios per semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "ZOOL30006-info@unimelb.edu.au"
+        }
+    ]
+}

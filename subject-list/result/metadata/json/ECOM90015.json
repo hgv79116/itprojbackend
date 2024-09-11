@@ -1,0 +1,112 @@
+{
+    "overview": [
+        "<p>Special topics may be offered from time to time which reflect the interests of permanent and/or visiting members of staff. The purpose of this subject is to develop the research ability of students through intensive discussion of set readings. Details of specific topics to be covered each year will be provided to students a month before the beginning of the semester in which the subject is taught.</p>"
+    ],
+    "ilo": [
+        "Describe econometric modelling and testing, and current frontier developments in knowledge in a major subject area in econometrics;",
+        "Assess relevant applications of the econometric techniques;",
+        "Apply the econometric techniques to test theories or develop knowledge on relevant issues and problems in economics;",
+        "Critically evaluate the significance and research methodologies of contributions to the subject area."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence;",
+        "Synthesis of ideas, views and evidence;",
+        "Critical thinking;",
+        "Application of theory to economic policy and business decision-making;",
+        "Summarise and interpretation of information;",
+        "Using and designing computer programs;",
+        "Statistical reasoning;",
+        "Problem solving skills;",
+        "Written communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECOM40006Econometrics 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM40006",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval of Department of Economics Graduate Programs Director."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three assignments due at regular intervals throughout the semester",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nAssignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nAssignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nTwo 10-minute oral presentations during the course of the semester. Notice of the timing of these presentations will be given one month before the start of the semester. (10% each)",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

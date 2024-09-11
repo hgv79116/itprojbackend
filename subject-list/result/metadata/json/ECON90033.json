@@ -1,0 +1,121 @@
+{
+    "overview": [
+        "<p>This course is concerned with the application of quantitative tools to model, estimate and forecast financial variables. Topics considered include: the analysis of the properties of financial data (such as non-normality and non-stationarity); the application of estimation methods (such as unit roots and cointegration) to test the rational valuation model of share prices; the application of the GARCH class of models to estimate volatility and to test the capital asset pricing model.</p>"
+    ],
+    "ilo": [
+        "Apply quantitative tools to model, estimate and forecast financial variables;",
+        "Analyse the statistical properties of financial prices and returns;",
+        "Evaluate models of risk based on the Capital Asset Pricing Model and variants assuming non-normal return processes;",
+        "Analyse recent advances in unit root and cointegration methods in modeling the term structure of interest rates and asset price bubbles;",
+        "Describe the strengths and limitations of alternative quantitative methods by reproducing existing results using computer skills and mathematical modeling techniques, in conjunction with a range of financial data sets;",
+        "Perform sensitivity analyses on proposed models, which should include the application of alternative distributional specifications to model risk."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Strategic thinking",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision making",
+        "Accessing economic and other information",
+        "Summary and interpretation of information",
+        "Application of windows software",
+        "Using computer programs",
+        "Statistical reasoning",
+        "Problem solving skills",
+        "Collaborative learning and teamwork",
+        "Negotiation and bargaining",
+        "Written communication",
+        "Oral communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-FINANCE Master of Finance",
+                    "MC-FINENH Master of Finance (Enhanced)",
+                    "MC-AEMTRCS Master of Applied Econometrics",
+                    "MC-AECOENH Master of Applied Econometrics (Enhanced)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Lecture and tutorial attendance",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "2250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tomasz Wozniak",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 2 hour recorded lecture, 1 hour live online tutorial.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "tomasz.wozniak@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Laszlo Konya",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours per week of lectures and tutorials",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "l.konya@unimelb.edu.au"
+        }
+    ]
+}

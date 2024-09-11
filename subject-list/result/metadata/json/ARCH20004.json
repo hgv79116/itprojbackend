@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>This subject builds on the knowledge and skills learnt through its prerequisite \u201cFoundations of Design: Representation\u201d by introducing students to contemporary design-enabling approaches and techniques.</p>",
+        "<p>Students will be exposed to various architectural design processes and workflows through a set of exercises focused on the diagramming, computing and prototyping of design precedents. Such exercises will require the students to apply an iterative design thinking approach based on the abstraction, formulation, evaluation and transformation of ideas, which is an essential component of any design studio activity. Students will learn how to communicate design ideas, processes and outcomes using architectural drawings, and a variety of visual media and techniques.</p>",
+        "<p>The lectures will present and discuss a range of processes and techniques in both the analogue and digital domains, with particular attention given to the most recent development in performance-oriented computational design and fabrication. The lectures will support the students in developing a critical awareness of the relationship between design tools and outcomes. Such an understanding of how parametric modelling and fabrication strategies affect the design process will be developed and tested through reflective writing.</p>",
+        "<p> </p>",
+        "<p><strong>Costs to Students:</strong><strong> </strong></p>",
+        "<p>Students will be required to purchase modelling and drawing materials to complete this subject, including costs to purchase 3D modelling software and cover laser cutting and 3d printing activities; the overall cost is estimated to be approx. $300 to $400 per person.</p>",
+        "<p>Rhinoceros3D offers a 90-day free trial version. Note that future subjects in your major may require this software, especially if you are majoring in Architecture and Landscape Architecture. Therefore, purchasing a student license is recommended.</p>",
+        "<p>Software for Image editing, vector editing and layout are required in this subject. Students can subscribe to use Adobe Creative Cloud (CC) for a monthly fee or use Affinity for free.</p>",
+        "<p>Other software and plugins recommended for this subject are available for free, e.g. Grasshopper for Rhinoceros3D.</p>",
+        "<p>Details of software availability and pricing are captured at <a href=\"https://msd.unimelb.edu.au/graduate-research/resources/it-support#software\">https://msd.unimelb.edu.au/graduate-research/resources/it-support#software</a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Apply a variety of design production techniques to analyse and reinterpret design precedents, using both analogue and digital tools of abstraction, formulation, evaluation, development of ideas.",
+        "Use a variety of model making techniques to support design thinking, including physical and digital models, as well as laser cutting, 3D printing and other digital fabrication methods.",
+        "Communicate complex spatial conditions and formal properties of an architecture project through drawings, diagrams, workflows and prototypes.",
+        "Critically reflect on and discuss digital and physical artefacts, and their role in design processes and techniques."
+    ],
+    "generic_skills": [
+        "Problem identification, formulation and solution.",
+        "Independent critical thought, rational inquiry and self-directed learning.",
+        "Communication skills in written and graphic formats through a variety of media.",
+        "Proficiency in the use of analogue and digital design processes and techniques.",
+        "Independent critical thought, rational inquiry and self-directed learning.",
+        "Communications skills in  verbal, written and graphic formats.",
+        "Time management.",
+        "Teamwork."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH10001",
+                        "Name": "Foundations of Design: Representation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: \"Diagramming\". Written and graphic submission, including digital and/or physical models, and in-class participation.",
+            "bullets": [
+                "24-26 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2: \"Design Workflows\".\n\nWritten and graphic submission, including digital and/or physical models, and in-class participation.",
+            "bullets": [
+                "40-42 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 8",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Assignment 3: \"Prototyping\".\n\nWritten and graphic submission, including digital and/or physical models, and in-class participation.",
+            "bullets": [
+                "42-44 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 12",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "54 hours in total ( 12 x 1 hour lecture , 12 x 2 hours tutorial classes,  and 9 x 2-hours technical tutorials)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Alberto Pugnale",
+            "contact_email": "alberto.pugnale@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "54 hours in total ( 12 x 1 hour lecture , 12 x 2 hours tutorial classes,  and 9 x 2-hours technical tutorials)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dominik Holzer",
+            "contact_email": "dominik.holzer@unimelb.edu.au"
+        }
+    ]
+}

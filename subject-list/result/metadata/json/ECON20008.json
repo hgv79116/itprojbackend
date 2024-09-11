@@ -1,0 +1,68 @@
+{
+    "overview": [
+        "<p>This subject provides an historical overview of the development of the Australian economy. A major theme of the subject is to understand the role of factors such as geography, political and legal institutions, international influences such as immigration and foreign investment, and economic policy, in the development of the Australian economy. The subject will emphasise how an understanding of the economic history of Australia can be used to analyse current developments in the Australian and international economies. The evolution of the Australian economy and of material well-being, and the role of major episodes such as agricultural development, gold rushes and mining booms, world wars, and major economic fluctuations, are examined.</p>"
+    ],
+    "ilo": [
+        "Explain the main phases in the economic development of Australia.",
+        "Explain the role of factors such as geography, political and legal institutions, international events and influences, immigration and foreign investment, and economic policy, in the development of the Australian economy.",
+        "Apply economic theory and available data to evaluate alternative explanations for, and to explain major historical events in Australia (for example, major financial crises, and macroeconomic fluctuations).",
+        "Use knowledge of the history of the development of the Australian economy to inform analysis of current developments in microeconomics and macroeconomics in Australia.",
+        "Compare and contrast the Australian experience of economic development with selected experience in other international regions of recent settlement."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Moderate level of development: oral communication; collaborative learning; problem solving; team work; statistical reasoning.",
+        "Some level of development: use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON10003",
+                        "Name": "Introductory Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON10004",
+                        "Name": "Introductory Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written work",
+            "bullets": [
+                "4000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "60%"
+        },
+        {
+            "brief": "One exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

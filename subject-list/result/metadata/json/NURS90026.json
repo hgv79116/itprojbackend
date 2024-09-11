@@ -1,0 +1,148 @@
+{
+    "overview": [
+        "<p>The subject provides opportunities to extend, deepen and apply knowledge, skills and attributes in the context of a research project. This subject enables students to engage in the design and implementation of a research project that demonstrates their advanced theoretical knowledge and critical reflection skills. It provides the opportunity for integration of their prior learning from the course, and demonstration of their advanced nursing practice and research capacity. The subject is designed to facilitate the student\u2019s eligibility for a PhD.</p>"
+    ],
+    "ilo": [
+        "Apply an evidence-based approach to exploring a topic of enquiry",
+        "Formulate a viable research question arising from their clinical practice",
+        "Develop a personal learning plan to enable the conduct of a research project",
+        "Design and conduct a research project, or elements of a project, in the area of nursing practice",
+        "Collect, manage, analyse and interpret data",
+        "Present research outcomes in a written form suitable for publication in the research literature, and in oral form"
+    ],
+    "generic_skills": [
+        "Problem solving skills",
+        "Analytical skills",
+        "Writing skills",
+        "Time management skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsNURS90070Implementing Evidence for PracticeSeptember (Dual-Delivery - Parkville)12.5NURS90120Evidence in PracticeJuly (Dual-Delivery - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90070",
+                        "Name": "Implementing Evidence for Practice",
+                        "Teaching period": "September (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NURS90120",
+                        "Name": "Evidence in Practice",
+                        "Teaching period": "July (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsNURS90059Nursing ResearchSemester 1 (Early-Start) (Dual-Delivery - Parkville)12.5HLTH90002Practice Based ResearchTerm 1 (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90059",
+                        "Name": "Nursing Research",
+                        "Teaching period": "Semester 1 (Early-Start) (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "HLTH90002",
+                        "Name": "Practice Based Research",
+                        "Teaching period": "Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Course Coordinator approval is required."
+            },
+            {
+                "type": "paragraph",
+                "content": "If student achieves an average of =>78, they will be invited to state their case and their proposed project to Principal Coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assessment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Project Report including scholarly work suitable for publication",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Rebecca Jarden",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "rebecca.jarden@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rebecca Jarden",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rebecca.jarden@unimelb.edu.au"
+        }
+    ]
+}

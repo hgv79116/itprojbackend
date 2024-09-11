@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>This subject will be conducted predominantly in the clinical setting and will provide students with an opportunity to develop their clinical skills and to integrate their theoretical knowledge in musculoskeletal physiotherapy clinical practice. The emphasis in this subject is the application of clinical reasoning and evidence-based practice in the safe and effective assessment and management of individuals with musculoskeletal conditions in the clinical setting. This will apply in, communication, therapeutic interventions, advocacy and education working as a health professional within a team, with individuals and their carers, respecting their rights and choices within the healthcare setting. <br/><br/></p>"
+    ],
+    "ilo": [
+        "Integrate prior knowledge of musculoskeletal physiotherapy, common musculoskeletal conditions and the framework for clinical reasoning to the assessment and management of individuals with musculoskeletal conditions",
+        "Safely and effectively execute musculoskeletal assessment techniques, including history taking, observational movement analysis, measures of impairment, activity limitations and participation restrictions",
+        "Evaluate risk assessment procedures and demonstrate safe and effective manual handling skills that apply to the management of individuals with musculoskeletal conditions",
+        "Select, justify and demonstrate safe and effective physiotherapeutic intervention to address impairments and activity limitations in individuals with musculoskeletal conditions",
+        "Discriminate between different musculoskeletal physiotherapy treatment techniques on the basis of findings from experimental physiotherapy research",
+        "Use findings of high-quality clinical research to inform clinical decision-making in assessment and treatment of patients with musculoskeletal disorders",
+        "Demonstrate accurate and effective verbal and written communication skills within the clinical setting, including the ability to develop rapport and accommodate the cognitive, linguistic and cultural needs of the individual and their family/carer",
+        "Develop short term and long term treatment goals with the patient (or carers as appropriate) with discharge planning designed to meet these goals within existing constraints"
+    ],
+    "generic_skills": [
+        "Understanding factors that might disturb normal structure, function and development",
+        "Self-awareness, recognizing when clinical problems exceed personal knowledge and skills, and a willingness to seek help",
+        "Applying the principles of reflective practice, recognising its importance in health care",
+        "Communicating with patients from diverse backgrounds including the ability to listen to, respond to, inform and understand the patients' perspective"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90089",
+                        "Name": "Neurological Physiotherapy",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90090",
+                        "Name": "Musculoskeletal Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90091",
+                        "Name": "Cardiorespiratory Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90092",
+                        "Name": "Physiotherapy Theory and Practice 2",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90094",
+                        "Name": "Research and Evidence 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PHTY90095",
+                        "Name": "Physiotherapy Theory and Practice 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "PHTY90096",
+                        "Name": "Foundation Physiotherapy Sciences",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual clinical case presentation; Due end of clinical placement",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Continuous clinical assessment during 5 week clinical placement",
+            "bullets": [
+                "152 hours"
+            ],
+            "hurdle": "Students must receive a pass mark (\u226550%) in order to pass the subject.",
+            "timing": "End of the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Written theory examination",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": "Students must receive a pass mark  (\u226550%)  in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": "David Kelly",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Five weeks (approx. 30 hours pw) clinical placement and 10 hours of tutorials",
+            "total_time_commitment": "194 hours",
+            "teaching_period": "15 January 2024 to  7 June 2024",
+            "last_self_enrol_date": "26 January 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "d.kelly@unimelb.edu.au"
+        }
+    ]
+}

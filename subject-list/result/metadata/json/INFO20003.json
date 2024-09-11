@@ -1,0 +1,181 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Contemporary online services such as social networking and multimedia-sharing sites, massive multiplayer online games and commerce services have database management systems at their back-end. In this subject, students will obtain a deep understanding of the concepts behind database management systems. In particular, the students will become familiar with the database system architecture, and will exercise the concepts such as query processing and optimisation, database tuning and transactions, which are the foundation of any modern data processing application. This subject is core within the Bachelor of Science for the Major of Computing and Software Systems and the Major of Informatics. Students completing the Diploma of Informatics are also required to undertake this subject.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject serves as an introduction to data modelling and databases from a technical and data management perspective. The subject will include Entity Relationship modelling (from conceptual design to physical modelling), normalisation, de-normalisation, relational model and relational algebra, SQL, query processing and query optimisation, transactions, storage organisation, database administration, data warehousing and big data analytics. Other topics in data management and DBMS technology with an overview of modern NoSQL systems may also be included.</p>"
+    ],
+    "ilo": [
+        "Demonstrate proficiency in solving practical data-modelling tasks",
+        "Design SQL queries to interact with a relational database",
+        "Understand internal mechanisms and policies behind database systems",
+        "Apply database transactions and argue their use in the database systems",
+        "Profile and tune business analytics queries, and administer database systems. Through the combination of lectures, workshops and assignments, students will gain considerable hands-on experience in: i) modelling a number of diverse informational situations, useful to both organisations and individuals, ii) writing efficient SQL queries to analyse data"
+    ],
+    "generic_skills": [
+        "The ability to analyse and solve problems involving large amounts of real-world data"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5COMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10003Media ComputationSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10003",
+                        "Name": "Media Computation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "VCE Algorithmics Units 3/4*"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Achieving 75% in the programming competency test"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SOFTENG Master of Software Engineering",
+                    "GD-CS Graduate Diploma in Computer Science"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "*Please note that VCE Algorithmics Units 3/4 will cease to be a pre-requisite for this subject from 2023. Students who have completed VCE Algorithmics Units 3/4 should contact the subject coordinator to discuss their enrolment."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO90002",
+                        "Name": "Database Systems & Information Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "INFO20001 Informatics 3: Content Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "SINF90001 Database Systems & Information Modelling"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three small, practical, database-related assignments worth 10% each (total 30%), completed individually. Intended Learning Outcomes (ILO's) 1, 2 and 3  are addressed in\u00a0the assignments.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (15/30) in the assignments.",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One written, 3 hour open-book examination, completed individually. ILO's 1 to 5 are addressed in the final examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Ten short timed weekly quizzes worth 1% each (total 10%), completed individually.",
+            "bullets": [
+                "10"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% (35/70) cumulatively from the end of semester written examination and weekly quizzes.\n\n\n\n\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Renata Borovica-Gajic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1 hour lectures and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Renata Borovica-Gajic",
+            "contact_email": "renata.borovica@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Marc Cheong",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1 hour lectures and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "marc.cheong@unimelb.edu.au"
+        }
+    ]
+}

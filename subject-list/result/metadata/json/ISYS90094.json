@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Business analytics involves the use of data to support business decision-making. Topics covered include business decision-making, evidence-based management, data warehouse design and implementation, data sourcing and quality, on-line analytical processing (OLAP), dashboards and data mining, case studies of business analytics practice.</p>",
+        "<p>Students enrolled in the Master of Information Systems with a weighted average mark of at least 75% can take ISYS90094 Business Analytics and Decision Making instead of ISYS90086 Data Warehousing subject to approval from the Coordinator of the Master of Information Systems.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject introduces the concepts of business analytics, decision making, data warehouse design, data warehouse modelling, data quality, data warehouse implementation - including the extract-transform-load (ETL) process, and data warehouse use in supporting business analytics \u2013 including decision making tools and OLAP. Readings are provided for all topics that introduce real world cases on business analytics and related areas and include the use of business analytics in organisations.</p>",
+        "<p>The subject also explores how organisations gather and generate multiple forms of information, and how this information is analysed and converted into useful knowledge via individual judgement and organisational learning processes. In applying empirical and analytical approaches to practical situations, students will develop insights into both the nature of the business problems as well as methods that are used for identifying and evaluating alternative solutions. The subject content will include conceptual foundations, practical tools, and case studies to discuss the costs, benefits and risks of the various analytical methods that will be introduced.</p>"
+    ],
+    "ilo": [
+        "Have developed a sound knowledge and understanding of Business Analytics and Decision Making in the context of management practice of Information Systems in Organisations",
+        "Have developed and applied skills in critical thinking and systems analysis to identify, evaluate and/or communicate strategic and operational issues suited to the application of Business Analytics and Decision Making in the real-world practice of Information Systems",
+        "Have developed and applied skills related to business communication, interpersonal, and team skills suited to the application of Business Analytics and Decision Making in the real-world practice of Information Systems",
+        "Can demonstrate an understanding of professional codes of conduct and ethical standards as they apply to Business Analytics and Decision Making in business practice",
+        "Research and argue disparate beliefs/theories of Business Analytics and Decision Making"
+    ],
+    "generic_skills": [
+        "High level of development: collaborative learning; problem solving; team work; interpretation and analysis; critical thinking",
+        "Moderate level of development: oral communication; written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "SC-ITMEXEC Specialist Certificate in IT Management (Executive)",
+                    "GC-ITMEXEC Graduate Certificate in IT Management (Executive)",
+                    "MC-ITMEXEC Master of IT Management (Executive)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Permission of the IT Management Course Coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90086",
+                        "Name": "Data Warehousing",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly contribution to online discussions (about 1000 words), plus a summary of the three best discussions (about 500 words) due at the end of week 8,\u00a0requiring approximately 13 - 15 hours of work. Addresses Intended Learning Outcomes (ILO's) \u00a01, 2 & 5.",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "The development of a business case for your organisation for the use of analytics for decision making (an alternate case study will be made available for those who are not able to use their own organisation) (See next three assessment items for further information).",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Presentation (Video): A 10 slide presentation uploaded to Wistia as a video describing the design strategy for your business case (750 word equivalent), plus feedback on at least 1 presentation via the discussion forum (250 words),\u00a0requiring approximately\u00a0 13 - 15 hours of work.\u00a0 Addresses ILO's 1 & 3.",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Business Case Plan: A 1000 word outline of the business case (which will be incorporated into the final business case),\u00a0requiring approximately\u00a0 20 - 23 hours of work. Addresses ILO's 1, 2 & 3.",
+            "bullets": [
+                "20-23 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Final Business Case: A 3000 word final business case (incorporating the 1000 word outline already submitted) due at the end of term (approximately in\u00a0 week 9), requiring approximately 50 - 55 hours of work..\u00a0 Addresses ILO's 1, 2, 3, 4 & 5.",
+            "bullets": [
+                "50-55 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

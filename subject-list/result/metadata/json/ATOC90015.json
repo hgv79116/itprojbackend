@@ -1,0 +1,172 @@
+{
+    "overview": [
+        "<p>Data assimilation refers to the process of combining model simulations of a natural system such as the atmosphere or ocean with observations to obtain an estimate of the actual trajectory of that system. It is vitally important to weather and climate prediction. Of all the improvements made to the Bureau of Meteorology\u2019s global forecasting system since 2011, the top 5 were all from improvements to the data assimilation system. It is data assimilation that produces the multi-decadal reanalyses from which details of climate change and climate model error can be deduced. A wide range of industries such as finance, mining and medicine now regularly use data assimilation tools that were originally developed for atmosphere/ocean data assimilation applications. The course will introduce and explain the data assimilation systems now used at the world\u2019s leading weather and climate forecasting centres. These systems include 4DVar and various flavours of the Ensemble Kalman filter. In addition, a brief introduction will be given to more accurate but more computationally expensive methods such as the particle filter and Monte-Carlo-Markov chain approaches.   </p>"
+    ],
+    "ilo": [
+        "Derive Ensemble Kalman Filter (ENKF) data assimilation schemes and implement them in simple models;",
+        "Derive 4DVar data assimilation schemes and implement them in simple models;",
+        "Give examples of situations where assumptions of error distribution symmetry are invalid;",
+        "Describe some of the data assimilation errors that occur when a scheme incorrectly assumes that the functional relationship between the error in one variable and another variable is linear; and",
+        "Define the limitations of EnKF and 4DVar data assimilation systems and show how more advanced techniques such as the Particle Filter and the Monte-Carlo Markov Chain approaches attempt to overcome these limitations."
+    ],
+    "generic_skills": [
+        "The ability to exercise critical judgement;",
+        "Rigorous and independent thinking;",
+        "Adopted a problem-solving approach to new and unfamiliar tasks; and",
+        "Developed high-level written report presentation skills; oral communication and presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Calculus: Knowledge of basic derivatives and limit theory"
+            },
+            {
+                "type": "paragraph",
+                "content": "One of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Basic computing or programming."
+            },
+            {
+                "type": "paragraph",
+                "content": "One of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5COMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "6 x 15min Quizzes",
+            "bullets": [
+                "90 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due during the second week of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due during the first week of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral Exam",
+            "bullets": [
+                "15-20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due at the end of the assessment period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "12 February 2024 to 23 February 2024",
+            "last_self_enrol_date": "14 February 2024",
+            "census_date": "23 February 2024",
+            "last_date_to_withdraw_without_fail": "15 March 2024",
+            "assessment_period_ends": "22 March 2024",
+            "contact_name": null,
+            "contact_email": "craig.bishop@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>This subject is aimed at: consolidating student knowledge and skills of conventional microeconomic evaluation techniques covered in Economic Evaluation I; and giving students some hands-on practical experience in applying common methods and software used to undertake economic evaluations.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "have developed skills in critical appraisal of the economic literature through a greater awareness of key issues in economic evaluation methods;",
+        "have developed skills to analyse cost data to use in an economic evaluation;",
+        "have developed skills to analyse outcome data for use in an economic evaluation",
+        "have developed skills to apply decision-tree analysis and associated modelling techniques to undertake economic evaluation;",
+        "have gained experience with common software used in undertaking economic evaluations"
+    ],
+    "generic_skills": [
+        "Critical thinking and analytical skills",
+        "Finding, evaluating and using relevant information",
+        "Problem-solving",
+        "Written and oral communication skills",
+        "Persuasion and argument skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90093",
+                        "Name": "Economic Evaluation 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1:  Written assessment.  Due on the 5th day of teaching.",
+            "bullets": [
+                "1300 words"
+            ],
+            "hurdle": null,
+            "timing": "Day 5",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assignment 2:  Written assessment.  Due 2 weeks after the end of teaching.",
+            "bullets": [
+                "1300 words"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Final Assignment due during the University's examination period.",
+            "bullets": [
+                "2400 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 30 March 2024",
+            "last_self_enrol_date": "4 March 2024",
+            "census_date": "22 March 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "15 June 2024",
+            "contact_name": "",
+            "contact_email": "tianxin.pan1@unimelb.edu.au"
+        }
+    ]
+}

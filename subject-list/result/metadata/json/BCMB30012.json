@@ -1,0 +1,167 @@
+{
+    "overview": [
+        "<p>In this subject, students will learn about the current advances in molecular science fields encompassed by the disciplines of biochemistry and molecular biology. Students will critique cutting edge research in depth, delving into the experimental evidence underpinning our understanding of the molecular world. The topics to be examined include regulation of gene expression, gene function and genomic manipulation protein behaviour in cellular applications, the dynamics of the living cell, and metabolic adaptation. </p>",
+        "<p>Through written and oral tasks, students will become proficient in interpreting and synthesizing scientific knowledge and presenting conclusions, as well as writing critiques and recommendations for a range of audiences including, public organisations, industry and the general public.</p>"
+    ],
+    "ilo": [
+        "Identify the processes that are required for scientific experimentation to be valid, rigorous, and ethical",
+        "Explain the experimental processes by which biochemical and molecular evidence is gained, verified, interpreted and represented",
+        "Interpret scientific information from key examples in the different areas of biochemistry and molecular biology: gene expression regulation, cellular function of genes and proteins, protein structure and protein-protein interactions in processes such as cellular signalling, sub-cellular organisation such as trafficking between organelles and cellular dynamics, metabolic adaptation",
+        "Analyse and synthesise published scientific findings and present explanation and critique in both written and oral modes and for a range of audiences",
+        "Work in a group to present a critique of a published article"
+    ],
+    "generic_skills": [
+        "Critical thinking and critical judgement skills",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Data interpretation and analysis: Be able to synthesise and evaluate knowledge across a range of disciplines",
+        "Ability to communicate effectively, both orally and in written form",
+        "The ability to work collaboratively with others to accomplish common goals",
+        "An appreciation of how modern science can be critiqued/evaluated"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20002",
+                        "Name": "Biochemistry and Molecular Biology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBCMB20005Techniques in Molecular ScienceSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5GENE20004Applications of Genetics and GenomicsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BCMB20005",
+                        "Name": "Techniques in Molecular Science",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE20004",
+                        "Name": "Applications of Genetics and Genomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "3 written submissions (worth 10% each)",
+            "bullets": [
+                "500 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Mid Semester Test (approximately week 6)",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group presentation on journal article with guidance by academic mentor (approximately week 11 or 12)  15\u2010Minutes per group of 4\u20105",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written submission on journal article",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Attendance at workshops",
+            "bullets": null,
+            "hurdle": "Attendance at 70% of workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 hours of workshops per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>This subject provides the theoretical foundation for specialty emergency nursing practice.</p>",
+        "<p>The concepts of assessment of the emergency department patient and the initial prioritising of care will be explored. In this subject, of study we will specifically examine the assessment and management of common illness or injuries seen in the emergency department, including those requiring resuscitation.</p>",
+        "<p>In addition, the nursing and medical management of patients presenting with respiratory, cardiovascular or neurological dysfunction will be examined in detail. The theoretical concepts and knowledge gained will enable students to apply principles of assessment, triage and resuscitation in the emergency nursing context. The content will relate to management of paediatric and adult presentations with reference to physiological changes throughout the lifespan. Patient and family perspectives of illness will be considered in the development and implementation of multi-disciplinary care planning. Acknowledging the diversity of clinical presentations, emergency care will specifically focus on evidence-based interventions and their influence on patient outcomes.</p>"
+    ],
+    "ilo": [
+        "Integrate theoretical knowledge (e.g. pathophysiology, mechanism of injury, pharmacotherapeutics) to explain assessment findings in complex patient presentations;",
+        "Critically analyse patient assessment and diagnostic findings to prioritise appropriate, age specific and culturally relevant therapeutic interventions for patients experiencing a broad range of complex illness or injury states;",
+        "Apply specialist knowledge and evidence to clinical decision-making processes when developing a plan of care and determining nursing interventions based on identified complex clinical priorities; and",
+        "Develop and implement evidence-based plans of care and nursing interventions based on assessment and identification of complex clinical priorities and evaluate patient response to nursing and therapeutic interventions."
+    ],
+    "generic_skills": [
+        "Apply a high level of problem-solving skills",
+        "Demonstrate a high level of critical thinking and analytical skills",
+        "Feel confident when tackling unfamiliar problems",
+        "Demonstrate a high level of oral and written communication skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsNURS90076Applied PathophysiologyJuly (Online)January (Online)12.5NURS90122Foundations of Critical Care NursingSeptember (Online)April (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NURS90076",
+                        "Name": "Applied Pathophysiology",
+                        "Teaching period": "July (Online)January (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NURS90122",
+                        "Name": "Foundations of Critical Care Nursing",
+                        "Teaching period": "September (Online)April (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Case-study analysis",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Case-study analysis",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Online test",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Participation in at least 60% of online discussion activities.",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended) - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "15 January 2024 to  2 June 2024",
+            "last_self_enrol_date": "19 January 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Semester 2 (Extended) - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 July 2024 to 17 November 2024",
+            "last_self_enrol_date": "5 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "overview": [
+        "<p>This subject will discuss the role of synthetic and organic fertilisers in maintaining soil fertility for sustainable agricultural production systems. The subject will explore the concepts of soil fertility and nutrient management from the standpoint of chemical, physical and biological processes in soil. Key nutrient cycles in soil will be discussed with a view to understanding plant requirements across a range of agricultural crops, where and why inefficiencies occur in delivery of nutrients to the plant and management strategies that can be used to maximise nutrient use efficiency and minimise  environmental impacts of fertiliser application. The role of soil amendments in maintaining soil health will also be explored. Students will be encouraged to critically evaluate the role of conventional and alternative fertilisers for maintaining soil fertility and critically review methods used for assessing different nutrient management approaches. The principles involved in soil and plant sampling and analysis, and commercial laboratory methodologies, will be explored in laboratory and field settings. Students will gain skills in interpretation of laboratory data to provide meaningful fertiliser recommendations to growers</p>"
+    ],
+    "ilo": [
+        "Demonstrate advanced knowledge of the soil-plant system",
+        "Interpret soil analytical data with a view to predicting fertiliser requirements",
+        "Demonstrate an understanding of the role of synthetic fertilisers in global food production systems",
+        "Understand the role of alternative fertilisers in agricultural systems",
+        "Develop skills in critical evaluation of fertilisation strategies",
+        "Understand the importance of sample collection, processing and analysis protocols for obtaining meaningful data"
+    ],
+    "generic_skills": [
+        "Respect for truth, intellectual and professional integrity",
+        "The capacity for independent critical thought, rational inquiry and self-directed learning and research",
+        "An ability to derive, interpret and analyse technical information from primary and other sources",
+        "An ability to integrate information to solve problems in applied situations",
+        "The ability to plan work, use time effectively and manage small projects",
+        "Ability to work effectively as part of a team"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20038",
+                        "Name": "Principles of Soil Science",
+                        "Teaching period": "Semester 2 (On Campus - Dookie)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Tutorial Quiz worth 5% each at\u00a0week 3 and 7",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 3 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Pre-Prac Quiz worth 2.5% each due in weeks 2, 4, 6, 10",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 2 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Lab report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Soil assessment report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 80% of tutorials, practicals and field trips.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,133 @@
+{
+    "overview": [
+        "<p>Advanced food analysis will teach students most rapid and standard conventional methods commonly used in food analysis.</p>",
+        "<p>These analytical techniques will include:</p>",
+        "<ul><li>The selection of appropriate scientific methods for a specific food analysis, physical and chemical parameters</li><li>Principles of instrumentation and/or methodology and applications of these principles to the technologies employed in analytical techniques</li><li>Comparison of instrumental and/or rapid methods to conventional techniques of analysis</li><li>Operation, calibration and standardisation procedures as applicable to particular techniques</li><li>Troubleshooting techniques in conventional and rapid analyses</li><li>Assessment and evaluation of data derived from researches and product development</li></ul>",
+        "<p>Methods to be examined are titration; rheology; chromatography (HPLC, GLC, ion exchange separations, spectrophotometry, UV, visible, infrared); AA; mass spectrometry; ELISA; fluorescence spectrometry and sensory.</p>"
+    ],
+    "ilo": [
+        "Describe the physical and chemical principles which underlie rapid and instrumental techniques for testing and analysing raw materials and finished products",
+        "Evaluate innovative instrumental methods for specific purposes and materials against criteria of reliability and validity of results, and of cost and efficiency of monetary and labour resources",
+        "Select rapid or instrumental methods for appropriate types of analyses, in order to reduce using chemicals and to protect the environment"
+    ],
+    "generic_skills": [
+        "Be able to argue formally about the best method of food analysis for a specific purpose",
+        "Evaluate standard methods of analysis to determine accuracy and precision of measurements",
+        "Analyse data and integrate it with critical thinking",
+        "Improve interpretation of data in a written format",
+        "Be prepared for participation in team work",
+        "Engage with national and international issues related to food analyses"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10007",
+                        "Name": "Fundamentals of Chemistry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FOOD20003",
+                        "Name": "Intro to Food Science & Human Nutrition",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsFOOD20003Intro to Food Science & Human NutritionSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FOOD20003",
+                        "Name": "Intro to Food Science & Human Nutrition",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Six 10 minute quizzes throughout the semester",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "one quiz every fortnight",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Practical report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Said Ajlouni",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "12x1hr lectures, 12x1hr zoom discussion\n\n6x3hr practicals and 10x1hr zoom prac discussions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "said@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "overview": [],
+    "ilo": [
+        "Analyse real-world processes and evaluate their consistency with the firm strategy.",
+        "Apply process analysis techniques for identification of bottlenecks and suggest approaches for de-bottlenecking.",
+        "Apply core principles of project management to plan, analyse, and schedule activities and resources for simple business projects",
+        "Identify managerial levers for controlling inventory and apply simple analytical models for estimating needed safety stock for a desired service level.",
+        "Identify the drivers of variability in processes and propose solutions to mitigate its ill effects using simple queuing theory concepts.",
+        "Use robust statistical process control techniques to ensure capability and control of a process.",
+        "Apply six-sigma and lean concepts to a wide range of business processes."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with relatively unstructured problems and develop appropriate solution strategies using rigorous quantitative analysis",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team; and",
+        "time management skills: the ability to meet regular deadlines while balancing competing commitments.",
+        "written and oral communication skills: the ability to communicate findings and analysis effectively and prepare technical reports according to client specifications"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One group assignment (6 students per group) consisting of 2000 words. Due in weeks 5/6. Intended Learning Outcomes (ILOs) 1, 2 and 4 are addressed in this assessment.",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One group assignment (6 students per group) consisting of 2000 words. Due in weeks 9/10. Intended Learning Outcomes (ILOs) 1, 2, 4 and 5 are addressed in this assessment.",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Class participation will be worth 10%.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final three-hour end-of-semester examination (open book). Intended Learning Outcomes (ILOs) 1 to 7 are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "The examination must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Frank Lai",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours normally delivered as 1 x 3 hour lecture/tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "fjkpl@unimelb.edu.au"
+        }
+    ]
+}

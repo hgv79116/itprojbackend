@@ -1,0 +1,80 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject introduces students to the fundamental principles of modern telecommunication signalling systems (SIP and XMPP and WebRTC and PSTN/Mobile) and the Telecommunication Management Network (TMN) framework. It also introduces the network numbering and addressing schemes that underpin the signalling for, and management of, telecommunications services. The Signalling component will address topics of access and core network call/session control as well as personal and terminal mobility management functions. The Network Management part will address the operation of both circuit-switched networks and TCP/IP networks including the Internet.<strong><br/><br/>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>Signalling topics include:</p>",
+        "<p>Principles of signalling, overview of network technologies, basic SIP signalling protocol, basic SDP usage, enhancements to SIP, basic XMPP-based JINGLE signalling protocol, introduction to WebRTC/rtcWeb features and signalling, traditional PSTN/ISDN and Mobile signalling, additional signalling services, interworking of different signalling protocols, different addressing schemes and transport of signalling in different network technologies.</p>",
+        "<p>Network Management topics include:</p>",
+        "<p>TMN Framework for Network Management: Fault, Configuration, Accounting, Performance, and Security; Current Network Management in the Internet - SNMP, QoS, Net Neutrality; Ideal Performance Managment Objectives - Real-time Economic Optimisation; Emerging NM Opportunities - Management for SDN &amp; IMS.</p>"
+    ],
+    "ilo": [
+        "Understand the principles of modern telecommunications signalling",
+        "Demonstrate how modern telecommunication signalling protocols operate in networks to create real-time communication calls/sessions",
+        "Demonstrate how addressing is used as an integral part of signalling and how address interworking is achieved",
+        "Understand the historical lessons, theoretical foundation, and likely future trends of Network Management",
+        "Analyse and design measurements that give insight into customer satisfaction and hence the profitability of telecommunications network services",
+        "Understand the planning and management of networks for customer loyalty and service-provider profitability",
+        "Undertake research in the developments in real-time communications",
+        "Undertake research in the field of Network Management"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One research-based Signalling Assignment of 2,000 words (Addressing ILOs 7 & 8)",
+            "bullets": [
+                "45-50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "One Network Management Assignment (team assignment of 2-3 students) of 500 words per student (Addressing ILOs 7 & 8)",
+            "bullets": [
+                "20-25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Formally supervised, written examination (Addressing ILOs 1-6)",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

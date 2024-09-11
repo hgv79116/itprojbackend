@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>The key aim of this subject is to prepare students for diverse, complex, and evolving physiotherapy careers/practices. This subject includes campus-based learning and two clinical placements: a Professional Selective placement and a Work Transition placement.</p>",
+        "<p>Building upon previous DPT learning and the DPT graduate attributes, the subject provides opportunities to extend, deepen and apply knowledge, skills and attributes. Students will manage patients with complex needs in a range of settings through case-based learning, and through clinical placements in preparation for entry to practice. Emphasis will be placed on investigating, analysing and synthesising complex information, applying clinical reasoning, evidence-based practice and professional ethics, critiquing, debating and weighing priorities relating to the individual and their families. Additionally, there will be a focus on collaborative interprofessional practice, organisational and healthcare policies and priorities, and third party agencies to devise, implement and evaluate management plans that are responsive to the individual, systems of health and community care, and the environment. A professional selective placement will provide opportunities for students to choose a clinical, research or professional practice placement, in line with their early career preference.</p>",
+        "<p>To further build and enhance transitional skills, knowledge and attributes necessary for practice as physiotherapists, students will be given opportunities to be reflective, critical and creative in addressing identified needs in their own professional practice and in a professional practice setting. Students will review Australian Physiotherapy Council standards to identify areas of need in their own professional knowledge and skills. In collaboration with clinical supervisors, students will address these identified need areas in their work transition clinical placements.</p>"
+    ],
+    "ilo": [
+        "Investigate, analyse and synthesise complex information in the context of managing patients with complex needs in a range of settings",
+        "Apply a high standard of clinical reasoning, evidence-based practice and professional ethics in clinical practice",
+        "Devise, implement and evaluate management plans that are responsive to the individual and their families, collaborative interprofessional practice, organisational and healthcare policies and priorities, and third party and government funding agencies, systems of health and community care, and the environment.",
+        "Demonstrate preparation for transition from student to working as a physiotherapist in a professional practice setting.",
+        "Apply and justify the implementation of evidence-based practice in the context of a clinical practice.",
+        "Explore potential conflicts between the three dimensions of evidence-based practice: person centred care, research evidence and professional experience.",
+        "Use the Australian Physiotherapy Council's standards of practice to reflect on professional knowledge and skills, and to identify and address personal learning needs.",
+        "Debate barriers and enablers to knowledge translation in professional practice."
+    ],
+    "generic_skills": [
+        "Excellent interpersonal and decision-making skills, and critical and creative thinking",
+        "Capability for reflective practice including an awareness of personal and professional strengths and limitations, and responsibility to maintain high quality professional standards",
+        "Analytical and cognitive skills to address complex problems with sensitivity to individual, organizational and community social and cultural diversity",
+        "Capability to participate in collaborative learning, confront unfamiliar problems, initiate and implement constructive change at an individual and community level, including their profession and/or workplace."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHRM90002",
+                        "Name": "Pharmacology for Health Professionals",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90093",
+                        "Name": "Healthcare in Context 1",
+                        "Teaching period": "July (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90101",
+                        "Name": "Research and Evidence 2",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90103",
+                        "Name": "Lifespan and Chronic Disease Practice",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual ePortfolio",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due following week after completion of  work transition clinic and professional selective placement.",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual work transition clinic: continuous clinical assessment; 4 week (4 days/week or 122 hours) clinical placement.",
+            "bullets": [
+                "122 hours"
+            ],
+            "hurdle": "Pass/Fail Students are required to achieve clinical competency determined by a pass mark of 50% greater on the CCA and a global rating of adequate, good or excellent. Either a mark of less than 50% and/or a rating of not adequate constitutes a hurdle fail.",
+            "timing": "At the end of placement.",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Individual professional\n\nselective placement; 4 week (4 days/week or 122 hours) clinical placement",
+            "bullets": [
+                "122 hours"
+            ],
+            "hurdle": "Pass/Fail Students are required to achieve clinical competency determined by a pass mark of 50% greater on the CCA and a global rating of adequate, good or excellent. Either a mark of less than 50% and/or a rating of not adequate constitutes a hurdle fail.",
+            "timing": "At the end of placement.",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Group submission of digital or printed infographic",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester 1",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "368 hours",
+            "teaching_period": "22 January 2024 to 25 October 2024",
+            "last_self_enrol_date": "2 February 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "karen.donald@unimelb.edu.au"
+        }
+    ]
+}

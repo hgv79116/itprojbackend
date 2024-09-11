@@ -1,0 +1,151 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>Environmental problems are highly complex and challenging to analyse and are often addressed through modelling. Being skilled at environmental modelling is a core professional requirement for an Environmental Engineer. This subject focuses on environmental modelling methodology including the steps of model conceptualisation, model construction, model evaluation and model application using a range of energy, water and waste models. The subject complements ENEN90032 Environmental Analysis Tools and ENEN90028 Monitoring Environmental Impacts which provide other core environmental engineering skills. It provides modelling skills for a wide range of discipline based subjects such as ENEN90006 Solid Wastes, ENEN90034 Environmental Applied Hydrology and ENEN90027 Energy for Sustainable Development. The subject is of particular relevance to all Environmental Engineers but is also of relevance to a range of engineering and environmental analysis disciplines that require advanced modelling skills.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong><br/><br/>The relationship between theoretical and empirical understanding and their use in model conceptualisation and construction will be explored. This subject introduces a range of environmental modelling techniques applicable to different environmental problems. In this subject students will conceptualise and construct, evaluate and utilise their own model to undertake a technical evaluation of a specified range of potential solutions to an environmental problem. Students will also develop professional judgement skills to critically evaluate models and model results.<br/><br/>Specific topic areas:</p>",
+        "<ul><li>System conceptualisation</li><li>Model construction and validation (computational accuracy)</li><li>Model evaluation</li><li>Calibration and optimisation</li><li>Model uncertainty assessment techniques</li><li>Issues of appropriate model complexity</li><li>Students will have an opportunity to review a modelling topic of their choice.</li></ul>",
+        "<p>Students will use a numerical programming language to undertake modelling tasks and will be required to learn some programming skills in the subject.</p>",
+        "<p>Please view this video for further information: <a href=\"https://youtu.be/mrCdycd2Ss8?si=MNinV1UvYfLgDWAK\">Quantitative Environmental Modelling</a></p>"
+    ],
+    "ilo": [
+        "Select an appropriate approach to quantitative modelling of problems, given existing knowledge and data",
+        "Develop a conceptual model designed to investigate and solve engineering problems",
+        "Apply, calibrate and evaluate a quantitative model of the problem using generic modelling software in a numerical programming environment",
+        "Apply models to investigate problems and synthesise recommendations based on the modelling",
+        "Write and present engineering reports of modelling studies."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into or selection of one of the following:MC-ENVENG Master of Environmental Engineering206EC Master of Environmental EngineeringMC-ENSYSEN Master of Environmental Systems EngineeringMC-DINFENG Master of Digital Infrastructure EngineeringAdmission into or selection of one of the following:Environmental specialisation (formal) in the MC-ENG Master of Engineering",
+                    "MC-ENVENG Master of Environmental Engineering",
+                    "206EC Master of Environmental Engineering",
+                    "MC-ENSYSEN Master of Environmental Systems Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering",
+                    "Environmental specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ENVENG Master of Environmental Engineering",
+                    "206EC Master of Environmental Engineering",
+                    "MC-ENSYSEN Master of Environmental Systems Engineering",
+                    "MC-DINFENG Master of Digital Infrastructure Engineering"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Environmental specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMAST10005Calculus 1Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10005",
+                        "Name": "Calculus 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One computing assignment of approximately 500 words. Intended Learning Outcome (ILO) 3 is addressed in the assignment",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One modelling report of approximately 1000 words. ILOs 3, 4 and 5 are addressed in the report",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One modelling report of approximately 1500 words.  ILOs 3, 4 and 5 are addressed in the report",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One critical literature review of approximately 2000 words. ILOs 1, 2 and 5 are addressed in the review",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One 10-minute oral presentation of the literature review. ILOs 1, 2 and 5 are addressed in the presentation of review.",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Andrew Western",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours (Lectures: 2 hours per week; Computer Laboratories: 2 hours per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "a.western@unimelb.edu.au"
+        }
+    ]
+}

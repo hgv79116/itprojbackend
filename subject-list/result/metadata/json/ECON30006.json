@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p>This subject examines how labour markets function, the market where employers and workers interact. Topics include labour supply, labour demand, wage determination, education and training, compensating wage differentials, unions and collective bargaining, labour market discrimination, earnings inequality, unemployment and analysis of current labour market policy issues. Data and empirical studies from Australia and other countries will be used to illustrate theoretical work.</p>"
+    ],
+    "ilo": [
+        "Evaluate and interpret the labour market policies of governments, unions and other actors in the labour market;",
+        "Identify the actions of economic actors within the labour market, and identify various outcomes of the labour market, that are driven by economic incentives;",
+        "Critically analyse labour market quantitative research;",
+        "Synthesise information on different actors and outcomes across the various labour market topics;",
+        "Analyse labour market issues through the application of economic data and theories."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information.",
+        "Moderate level of development: oral communication; collaborative learning; problem solving; team work; statistical reasoning;accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: use of computer software."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM20001",
+                        "Name": "Econometrics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20003",
+                        "Name": "Quantitative Methods 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON20002Intermediate MicroeconomicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Presentation (6-7 Slides)",
+            "bullets": [
+                "6-7 pages"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group Problem Set 1 (maximum 5 pages)",
+            "bullets": [
+                "5 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Group Problem Set 2 (maximum 5 pages)",
+            "bullets": [
+                "5 pages"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Michael Coelli",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and a 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "mcoelli@unimelb.edu.au"
+        }
+    ]
+}

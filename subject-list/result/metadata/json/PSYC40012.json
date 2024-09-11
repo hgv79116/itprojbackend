@@ -1,0 +1,66 @@
+{
+    "overview": [
+        "<p>This subject is designed to introduce students to the development and testing of models for psychological data, with a focus on models of human cognition. Quantitative data is a feature of all areas of psychology and can only be interpreted by use of an appropriate model. Modelling in psychology has two aims. The first is to find a quantitative description that accurately captures the data. The second is to test competing hypotheses about the psychological processes that generated the data. The methods of psychological modelling will be introduced and illustrated in selected areas of cognitive psychology.</p>",
+        "<p>The subject comprises a series of nine two-hour seminars covering the conceptual, theoretical, and methodological issues involved in developing and evaluating quantitative models of human cognitive performance. The seminars are complemented by nine two-hour laboratory classes in which students will learn how to use the modelling language Matlab to fit, visualise, and evaluate models of data from specific cognitive domains, such as attention, categorisation, and decision making. </p>"
+    ],
+    "ilo": [
+        "The concepts and methods involved in the development, testing, and evaluation of quantitative models for psychological data.",
+        "The philosophical and methodological distinction between hypothesis-testing and model evaluation.",
+        "The trade-off between goodness-of-fit and model flexibility and its implications for psychological inference.",
+        "The distinction between process models and empirical models of psychological data."
+    ],
+    "generic_skills": [
+        "Develop critical and analytical thinking about quantitatively expressed theories and models.",
+        "Develop skills in drawing inferences about the relationship between unobserved structures and processes and their observed manifestations or expressions.",
+        "Provide experience in quantitative, evidence-based evaluation of scientific theories.",
+        "Develop expertise in the use of modelling software for quantitative psychological data."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Take-home exam",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours per semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Prof Philip Smith",
+            "contact_email": "philipls@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "overview": [
+        "<p>This subject involves a supervised thesis of 15,000 words, embodying the results of the student's own research.</p>"
+    ],
+    "ilo": [
+        "Demonstrate a specialist understanding of the subject being studied",
+        "Show advanced skills of analysis pertinent to the subject",
+        "Show a detailed sense of the theoretical debates in the subject area",
+        "Demonstrate an ability to undertake critical independent research",
+        "Show a good capacity to communicate research in written form."
+    ],
+    "generic_skills": [
+        "Conceptualise and plan a substantial project of original research",
+        "Present material in draft form and engage productively with a supervisor",
+        "Consolidate and enhance established skills in engaging creatively with a critical field",
+        "Synthesise critical arguments and debates",
+        "Test and develop new research methods in relation to ongoing debates",
+        "Enhance drafting and writing skills, in both a critical and creative manner",
+        "Manage time and study resources over a sustained period of time."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students enrolling in the thesis must also complete one of the following subjects:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsANTH40012Explanation and UnderstandingFebruary (On Campus - Parkville)12.5POLS40013Social Science Research SeminarFebruary (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANTH40012",
+                        "Name": "Explanation and Understanding",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POLS40013",
+                        "Name": "Social Science Research Seminar",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-ARTS Bachelor of Arts (Degree with Honours)",
+                    "GDA-ARTS Graduate Diploma in Arts (Advanced)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A thesis",
+            "bullets": [
+                "15,000 words"
+            ],
+            "hurdle": "*",
+            "timing": "Due at the end of the second semester of enrolment.",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students are required to attend regular supervision meetings.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Megan Sharp",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration.",
+            "total_time_commitment": "680 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "megan.sharp@unimelb.edu.au"
+        }
+    ]
+}

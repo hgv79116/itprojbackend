@@ -1,0 +1,87 @@
+{
+    "overview": [
+        "<p>This subject provides a platform for students to apply their knowledge to designing studies with the aim of investigating topical problems in health and public health. Published guidelines for the reporting of studies will be used to assist with the design and appraisal of studies. Topics covered include: clinical trial design; observational studies including cohort, case-control and ecological; causal diagrams (to identify confounders and selection bias); effect modification; measurement error; external validity of findings; and principles of sample size.</p>",
+        "<p>The collection and use of routinely collected data will be considered in health and public health settings. The cultural and ethical considerations of data collection with Indigenous populations will also be discussed.</p>"
+    ],
+    "ilo": [
+        "Demonstrate a sound understanding of research designs, including ability to critically appraise study designs",
+        "Design a basic study to address a research question, minimizing bias, achieving adequate sample size and feasibility",
+        "Assess reliability and validity of study measures and describe strategies to minimize measurement error",
+        "Use routinely collected data to describe an issue/disease in a health setting",
+        "Discuss cultural and ethical considerations when working with Indigenous populations"
+    ],
+    "generic_skills": [
+        "Independent problem solving",
+        "Facility with abstract reasoning",
+        "Clarity of written expression",
+        "Sound communication of technical concepts"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90130",
+                        "Name": "Critical Thinking with Analytics",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90135",
+                        "Name": "Foundations of Analytics",
+                        "Teaching period": "Term 4 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to online discussions",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Short Answer Assessment 1 (approx 1000 words, no more than 6 pages)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Short answer assessment 2 - case scenarios for critical reflection (approx 1000 words, no more than 6 pages)",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Major Essay Assignment - design of study for research proposal (approx 2500 words, no more than 10 pages)",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

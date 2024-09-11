@@ -1,0 +1,55 @@
+{
+    "overview": [
+        "<p>Policy makers need to under what big data is, how it is used, and what ethical and practical issues using big data to make decisions will raise in the 21<sup>st</sup> Century. They do <em>not</em> need to be programmers. They need to understand, at a high level, the issues involved in using big data for public policy, for the generation of public value.</p>",
+        "<p>At the core of this subject is one question: Will decision-making based on standardized measurements from large databases become superior to judgment based upon personal experience and expertise? Decisions based on big data are useful when the experience of any single policy maker is likely to be too limited to develop an intuitive feel for, or reliable measure, of a policy\u2019s efficacy. Statistical analysis can sometimes discover neglected characteristics of a population are more significant than is recognized by intuitive understanding based on accumulated experience. But sometimes, big data\u2014high volume, high velocity, qualitatively various\u2014produces more problems for public policy makers than it solves.</p>",
+        "<p>This subject explores all of these important issues, from the basic definitions and history of big data to examples of the use, and misuse, of big data in public policy. No programming knowledge is assumed or required, and none will be taught. The issues for public sector managers raised by this subject will be debated and understood using case studies.</p>"
+    ],
+    "ilo": [
+        "Understand the history and definition of big data as it applies to public policy",
+        "Recognise the main types of learning models used to derive insights from big data",
+        "Become familiar with the sources of big data in public policy, and",
+        "Grasp the legal and ethical issues involved in using big data for the generation of value for the public."
+    ],
+    "generic_skills": [
+        "A student who has successfully completed this subject will: \n\n\u2022\tUnderstand the history and definition of big data as it applies to public policy\n\n\u2022\tRecognise the main types of learning models used to derive insights from big data\n\n\u2022\tBecome familiar with the sources of big data in public policy, and \n\n\u2022\tGrasp the legal and ethical issues involved in using big data for the generation of value for the public."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Case study precis of a big data problem as applied to a public policy issue",
+            "bullets": [
+                "1500-2000 words"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Ethical and Bureaucratic issues with big data in public policies, large review of key literature and cases",
+            "bullets": [
+                "3500-4000 words"
+            ],
+            "hurdle": null,
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "60%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students are required to attend 100% of classes in order to pass this subject and regular class participation is expected.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

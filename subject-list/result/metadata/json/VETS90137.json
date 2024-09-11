@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>This subject introduces students to the study of bacterial and fungal infectious agents as causes of disease in animals. It includes taxonomic and biological considerations of common and important bacterial and fungal pathogens, the host-pathogen interaction and the pathogenesis of disease, disease transmission and epidemiology, methods of diagnosis of bacterial and fungal diseases as well as prevention, control and treatment.</p>"
+    ],
+    "ilo": [
+        "Explain how the biological characteristics and virulence factors of bacteria and fungi causing common and important diseases of animals contribute to the clinical signs and subclinical effects of these pathogens in infected individuals, and the scientific criteria that must be fulfilled to describe them as the causal agents of these diseases",
+        "Apply an understanding of the pathogenesis and epidemiology of infectious diseases to devise appropriate and effective methods for diagnosing, treating, controlling and preventing these diseases in individual animals and in populations",
+        "Describe the principles underlying therapy with antimicrobial drugs, including the basis for their activity, the pharmacokinetic and pharmacodynamic principals underlying therapy, and the mechanisms conferring intrinsic and acquired antimicrobial resistance and its dissemination, and the principles of antimicrobial stewardship, and apply them to selection of appropriate therapeutic regimens in veterinary settings",
+        "Explain the basis of laboratory microbiological diagnosis and apply this knowledge to detection and identification of a range of specific pathogenic bacteria and fungi",
+        "Describe the sources, modes of transmission, risks to human health and methods for control of zoonotic bacteria and fungi that infect domestic, farmed and wild animals in Australia and internationally"
+    ],
+    "generic_skills": [
+        "Have a broad knowledge of science across a range of fields, with an in-depth understanding in one scientific discipline",
+        "Understand the scientific method, and the history and evolution of scientific concepts",
+        "Be intellectually curious and apply a rigorous, critical and logical approach to enquiry",
+        "Be able to communicate ideas effectively in both written and verbal formats to both specialists and non-specialists",
+        "Reach a high level of achievement in writing, generic research activities, problem-solving and communication",
+        "Be efficient managers of information",
+        "Be able to apply technology to the analysis of biological problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90130",
+                        "Name": "Veterinary Virology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsVETS90136Veterinary Public HealthSemester 2 (On Campus - Parkville)6.25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90136",
+                        "Name": "Veterinary Public Health",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90100",
+                        "Name": "Infections and Immunity B",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 8\u201010",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        },
+        {
+            "brief": "Pre/post practical assessment",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Aggregate Mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "43 hours of lectures, practical classes and workshops",
+            "total_time_commitment": "100 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jlallen@unimelb.edu.au"
+        }
+    ]
+}

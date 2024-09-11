@@ -1,0 +1,89 @@
+{
+    "overview": [
+        "<p>This subject will focus on translational genomics in public health and the community. Community engagement and education strategies will be considered using current workforce examples, with attention to cultural competence, education in the field of genomics and communication about genomics. The role of personalised genomics and precision medicine will also be explored, using examples of emerging treatments for a variety of genetic conditions. </p>",
+        "<p>The subject will be delivered via a combination of asynchronous on-line content and synchronous tutorials that adopt a problem-based approach to meet the intended learning outcomes.</p>"
+    ],
+    "ilo": [
+        "Describe the integration of translational genomic initiatives into public health practice",
+        "Reflect on the contribution of the genomics workforce in community engagement",
+        "Implement effective examples of how to communicate about genomics to general community",
+        "Apply cultural competence in addressing topics relevant to public health and genomic issues within the community",
+        "Illustrate the relevance and utility of advances in technology to a particular healthcare setting"
+    ],
+    "generic_skills": [
+        "Be proficient in academic writing",
+        "Be confident in public speaking and presenting academic content to an audience",
+        "Be meaningful contributors to teams; working in small and larger group settings",
+        "Demonstrate critical thinking skills in approaching issues in the community and within the clinical setting",
+        "Use proficient reading skills to inform areas of work",
+        "Operate as responsible, professional and ethical members of the community, offering well-rounded knowledge and skills to benefit society."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE90027",
+                        "Name": "Frontiers in Genomics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written task",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Fact sheet / brochure",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Group Presentation (2000 words equivalent)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 x 3- hours face-to-face on-campus tutorials",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

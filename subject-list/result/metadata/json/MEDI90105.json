@@ -1,0 +1,134 @@
+{
+    "overview": [
+        "<p>In the subject, students will critically evaluate the aetiology, diagnosis and management of the most common and important perioperative complications, as well as management of analgesia, fluids and nutrition. This subject will also critically evaluate the pivotal and integral role that focused clinical ultrasound has on clinical diagnosis and decision-making in the perioperative period.</p>"
+    ],
+    "ilo": [
+        "Integrate clinical assessment with focussed clinical ultrasound and other investigations in the detection of post-operative complications",
+        "Evaluate current best practice in the diagnosis and management of deep vein thrombosis and pulmonary embolism, with a critical evaluation of the role of clinical ultrasound",
+        "Evaluate current best practice in the diagnoses and management of respiratory complications after surgery, with a critical evaluation of the role of clinical ultrasound",
+        "Evaluate current best practice in the diagnoses and management of cardiovascular complications after surgery, with a critical evaluation of the role of clinical ultrasound",
+        "Evaluate current best practice in the diagnoses and management of endocrine and septic complications after surgery, with a critical evaluation of the role of clinical ultrasound",
+        "Evaluate current best practice in the diagnoses and management of abdominal, renal, and hepatic complications after surgery, with a critical evaluation of the role of clinical ultrasound",
+        "Evaluate current best practice in the diagnoses and management of neurological and psychiatric complications after surgery, with a critical evaluation of the role of clinical ultrasound",
+        "Evaluate current best practice in the management of wounds and anastamotic breakdown, with a critical evaluation of the role of clinical ultrasound",
+        "Evaluate current best practice in perioperative fluid management, pain management and nutrition, with a critical evaluation of the role of clinical ultrasound",
+        "Evaluate current best practice in perioperative blood transfusion management, and treatment of coagulopathy, with a critical evaluation of the role of clinical ultrasound",
+        "Integrate perioperative complications principles into clinical case"
+    ],
+    "generic_skills": [
+        "Academic distinction",
+        "Integrity and self-awareness",
+        "Improve problem-solving skills",
+        "Improve analytical skills",
+        "Improve ability to work as a team member",
+        "Improve confidence about tackling unfamiliar problems"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90049",
+                        "Name": "Principles of Ultrasound Heart Scan",
+                        "Teaching period": "Semester 1 (Online)Semester 2 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "a minimum of 37.5 credit points of first year elective subjects"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Formative assessment of multiple choice questions following each tutorial; One hour total assessment: equivalent to 1000 words assessment.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "All MCQS must be competed, > 80% correct",
+            "timing": "Available  to be performed after each tutorial and prior to semester completion",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Formative assessment - Interpretation of case studies assessed by structured questions pertaining to each case. Two hour total assessment time; Equivalent to a total of 2000 words assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "All MCQS must be competed, > 80% correct",
+            "timing": "Available to be performed after each tutorial and prior to semester completion",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Formative group activity. Groups of 4 students will discuss cases that they have been involved with and create a structured group report on the problem, evaluation and solutions. Four cases per group, with all students receiving the same mark for the group report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "Good faith attempt in responses to templated clinical reflections",
+            "timing": "Available online at end weeks 2,4,6 and 8 and all cases must be submitted by end week 12.",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Self-reflective e-portfolio of cases that the student has managed or been involved in patient care in perioperative medicine \u2013 6 cases; 0.5hr total assessment time: equivalent to 500 words.",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": "Good faith attempt in responses to templated clinical reflections",
+            "timing": "During Semester \u2010 must be submitted by end week 12.",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Open-book summative multiple-choice examination of 50 questions; One hour total assessment time: equivalent to 1000 words.",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "All MCQS must be competed, > 80% correct",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

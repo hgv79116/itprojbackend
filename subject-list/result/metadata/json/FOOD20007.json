@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>During this intensive, students will have a mixture of theory classes and practical classes covering the processes of mashing, hopped wort production and fermentation to produce beer. After maturing and conditioning the beer will be packaged by students and used for sensory assessment.</p>",
+        "<p>The content includes:</p>",
+        "<ul><li>agricultural inputs to the brewing</li><li>processing of grain for brewing</li><li>organisation of the brewing process.</li><li>mashing of grain &amp; production of hopped wort</li><li>fermentation of hopped wort and conditioning , stabilisation and packaging of beer</li><li>economics and marketing in the brewing industry</li></ul>",
+        "<p> </p>",
+        "<p><strong>Notes:</strong></p>",
+        "<ul><li>Beer tasting is compulsory. Participants must be 18 years or over</li><li>This subject is delivered as an intensive between semesters at the Dookie Campus. Please see the Additional Delivery Details section for dates.</li></ul>"
+    ],
+    "ilo": [
+        "identify the raw materials for brewing",
+        "describe how the different brewing process are organised during production",
+        "explain the effects of malting, kilning and roasting on grain",
+        "describe different types of mashing and their uses",
+        "describe changes in wort during the boiling process",
+        "explain how the contribution of hops to wort changes with time",
+        "explain how yeast is prepared for fermentation",
+        "describe methods for conditioning, filtering and stabilising beer",
+        "describe the current economic state of the Australian and world brewing industries",
+        "explain the marketing approaches taken by different brewing companies"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FOOD10001",
+                        "Name": "Beer Styles and Sensory Analysis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Beer tasting is compulsory. Students must be 18 or older on the first day of teaching"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Short project report approximately week 4",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Peer review of project due approximately week 8",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Long project report approximately week 12",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": "Charles Pagel",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "44 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "7 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "19 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "cpagel@unimelb.edu.au"
+        }
+    ]
+}

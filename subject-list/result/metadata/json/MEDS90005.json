@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>The Student Conference is a one week intensive subject that brings students together across all years and sites for a student led and driven conference. The aim of the Student Conference is to allow students to learn from each other, experts in various fields and other health professionals in topic areas suited to a conference format. In second year students will attend, actively participate in the conference program and provide peer review, as well as having the opportunity to teach, present and be actively involved in conference organisation. </p>"
+    ],
+    "ilo": [
+        "Explain the key concepts and knowledge bases underpinning a chosen student conference learning that enhance their role as a scientist and scholar."
+    ],
+    "generic_skills": [
+        "The ability to extract information from expert presentations and to take notes to enable them to write a report on those presentations",
+        "The ability to participate in groups discussions and workshops",
+        "An understanding of academic conferences and their role in the dissemination of knowledge"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS90003",
+                        "Name": "Student Conference 1",
+                        "Teaching period": "June (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "100% attendance for four days of conference period.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Professional Behaviour",
+            "bullets": null,
+            "hurdle": "Must maintain a satisfactory standard in professional behaviour, as demonstrated by observed Professional Behaviour Assessment.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Student Conference ePortfolio: A student curated compilation that responds to prescribed tasks addressing three categories: Conference reflection, research evaluation and academic participation",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": "In order to pass this hurdle, students are required to achieve a satisfactory standard in each of the three ePortfolio categories.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Oral Group Presentation",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": "Satisfactory standard.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "June",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "25 hours",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "24 June 2024 to 28 June 2024",
+            "last_self_enrol_date": "23 June 2024",
+            "census_date": "19 July 2024",
+            "last_date_to_withdraw_without_fail": "30 August 2024",
+            "assessment_period_ends": "27 September 2024",
+            "contact_name": "",
+            "contact_email": "md-enquiries@unimelb.edu.au"
+        }
+    ]
+}

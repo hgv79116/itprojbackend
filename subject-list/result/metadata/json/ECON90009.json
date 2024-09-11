@@ -1,0 +1,67 @@
+{
+    "overview": [
+        "<p>An advanced subject designed to cover core theoretical models and policy issues relating to commodity trade and factor flows between nations. Topics include theory of comparative advantage and gains from trade, tariffs and quotas, international capital and labour mobility, globalisation.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Describe the theories of international trade and their predictions concerning the pattern of international trade, commodity and factor prices and welfare of households;",
+        "Apply trade theory to important policy issues such as protection of industries, international competitiveness, regulation of capital inflows, environment and immigration policy;",
+        "Analyse important developments in the world economy related to international trade in a period of increasing interdependence and globalisation."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Strategic thinking",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision making",
+        "Accessing economic and other information",
+        "Summary and interpretation of information",
+        "Problem solving skills",
+        "Written communication",
+        "Oral communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignments",
+            "bullets": [
+                "4000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

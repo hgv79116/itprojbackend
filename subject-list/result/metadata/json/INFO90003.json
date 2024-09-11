@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>New interaction technologies continuously expand the range of input and output methods available in human-computer interaction. Interaction is no longer limited to desktop computers, windows-based interfaces, or keyboards and mice. Interfaces now include tangible communication, mobile and ubiquitous devices, ambient displays and sensing in public spaces. Novel interactions require specific methods to enable their conception, design, evaluation and use in creating interactive systems. This subject will introduce a selection of different interaction media and examine the specific methods used to create interactive systems with them. Underlying these specific methods are general conceptual approaches to design that are focussed on innovative or disruptive interactions between users and technology. Case studies will cover both fundamental research and industrial design practice. An emphasis is placed on developing the skills to critique and adapt different interface technologies and paradigms, to develop prototype systems, and evaluate new interactions to ensure that they meet their intended goals.</p>",
+        "<p>This subject follows a flipped classroom model. This means that the lectures are delivered online and class time is used for practical activities and active learning tasks.</p>"
+    ],
+    "ilo": [
+        "Demonstrate the ability to choose between different novel interaction technologies based on their design characteristics",
+        "Gain a critical understanding of design approaches used for the development of interactive systems",
+        "Demonstrate the ability to design and develop prototype interactions that use novel interface technologies",
+        "Demonstrate the ability to use iteration and results of formative evaluation to re-design interactions"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CS Master of Computer Science",
+                    "MC-SOFTENG Master of Software Engineering",
+                    "100pt Program course entry point in the MC-IT Master of Information Technology",
+                    "150pt Program course entry point in the MC-IT Master of Information Technology"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Ideation. Set sketches of increasing levels of fidelity and interactive mockup of an application that addresses a design brief. Individual assignment due in week 3-5 (30%). Addresses Intended Learning Outcomes (ILO's) 2, 3 and 4.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2: Implementation. Students will build a functional prototype of an interactive system that addresses a design brief and demonstrate it through a 3-minute video and a 2000-word report. Group/individual assignment, due in the second week of the examination period (60%). Addresses ILO's 1, 3, and 4.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Weekly online quizzes held throughout the semester. Approximately 20 minutes each (10%). Addresses ILO 1 and 2.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lecture per week and one 2-hour workshop in weeks 2-12. Some computer lab classes will require you to bring your own device. Please check upon preferencing timetable.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "arzoo.atiq@unimelb.edu.au"
+        }
+    ]
+}

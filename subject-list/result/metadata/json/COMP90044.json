@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Research is a process of acquiring new knowledge by systematically and rigorously applying methods to address well-formulated questions. To be valuable, new knowledge must address a significant theoretical question, it must be supported by evidence and be able to stand up to critical scrutiny, and its presentation to other researchers and/or to the public must be persuasive. This subject is an introduction to research thinking, skills and methodologies as they apply to computing and related disciplines. The subject will foster the development of critical thinking, a sceptical and rigorous approach, and awareness of research ethics. This subject will be particularly useful for students contemplating undertaking a research degree, or for students currently enrolled in a research degree (MPhil or PhD) or a course-work degree with a research project (MIT, MIS).</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Research skills covered will include: surveying relevant literature, developing productive research questions, selecting and designing appropriate methods, analysing data and reasoning about their theoretical implications, communicating research both in writing and through oral presentation, and understanding the ethics of research. Qualitative methods covered include: ethnography, field data collection techniques (interviews, focus groups), thematic analysis, case studies and design-based research. Quantitative methods covered include: statistical thinking and techniques, hypothesis testing, experiment design, survey design, simulation studies.</p>"
+    ],
+    "ilo": [
+        "Survey relevant literature, identify gaps and formulate productive research questions",
+        "Conduct effective research design and planning",
+        "Communicate research effectively in written form",
+        "Demonstrate knowledge of selected research methodologies",
+        "Apply rigour and skepticism in the analysis, interpretation and evaluation of research findings",
+        "Apply ethical guidelines governing academic research"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Ability to communicate effectively both with the engineering team and the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An individual critical literature review of 2000 words. Intended Learning Outcomes (ILOs) 1, 3 and 5 are addressed in this assessment.",
+            "bullets": [
+                "45-50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An individual research methods evaluation and design assignment of 3000 words. ILOs 2, 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "55-70 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 14",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Workshop exercises throughout the semester. ILOs 1 - 6 are addressed.",
+            "bullets": [
+                "11 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Chris Ewin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1 hour lectures and one hour tutorial",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "cewin@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Adel Nadjaran Toosi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1 hour lectures and one hour tutorial",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "adel.toosi@unimelb.edu.au"
+        }
+    ]
+}

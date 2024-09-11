@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p>Topics include the rationale for auditing; auditing standards; audit objectives, concepts and procedures; audit techniques including statistical sampling and the audit of computer-based accounting systems; audit reports; the legal liability of auditors; the professional and ethical responsibilities of auditors; the statutory responsibilities and rights of auditors; contemporary auditing problems; and consideration of how research informs these auditing topics.</p>"
+    ],
+    "ilo": [
+        "Critically evaluate the theories regarding demand for and supply of audit and assurance services of both a financial and non-financial nature;",
+        "Describe the environment in which audit and assurance providers operate, including ethical, and professional aspects;",
+        "Assess client risks pertinent to the audit and assurance process;",
+        "Apply the concepts and processes used by audit and assurance service providers to gather evidence and formulate judgments with respect to the underlying information;",
+        "Describe the reports provided by audit and assurance providers, in their various forms, to various stakeholders;",
+        "Synthesise current business and auditing issues as they relate to auditing and assurance services;",
+        "Apply contemporary themes within the business media regarding auditing and assurance to current auditing and assurance practice"
+    ],
+    "generic_skills": [
+        "High level of development: collaborative learning; problem solving; team work; application of theory to practice; interpretation and analysis; critical thinking",
+        "Moderate level of development: written communication; synthesis of data and other information; evaluation of data and other information; accessing data and other information from a range of sources; receptiveness to alternative ideas"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsACCT20007Accounting Information: Risks & ControlsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT20007",
+                        "Name": "Accounting Information: Risks & Controls",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ACCT10003\t Accounting Processes and Analysis"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsACCT30001Analysis of Firms & Financial StatementsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT30001",
+                        "Name": "Analysis of Firms & Financial Statements",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Group assignment (groups of 1-5 students)",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 90-minute lecture and one 90-minute tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "wayne.coetzee@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 90-minute lecture and one 90-minute tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "wayne.coetzee@unimelb.edu.au"
+        }
+    ]
+}

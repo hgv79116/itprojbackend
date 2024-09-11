@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>The course will provide an interdisciplinary framework to discuss various aspects of the intersection between law, human behaviour and justice.</p>",
+        "<p><strong>The first part</strong> of the course will be dedicated to developing a basic familiarity with the relevant principles of psychology and law and discuss the ways in which they interrelate.</p>",
+        "<p>In <strong>the second part</strong> of the course we will discuss different real life examples, involving judicial decision making, witness reliability, negotiations and more, in which the study of psychological concepts in the legal world plays out. The principle topics that would be explored are: Justice; Legal Reasoning and Interpretation; Behavioural Law and Economics; Cognitive Heuristics and Biases; Nudges and Choice Architecture; Judicial Decision Making; The Psychology of Litigation; Negotiation; Human Motivation, Emotion and Mindfulness in a Legal Context; Human Intelligence v Artificial Intelligence. <br/></p>"
+    ],
+    "ilo": [
+        "Psychological concepts that are relevant to the legal profession",
+        "Empirical research on biases in legal decision making",
+        "The application of scientific, behavioural and legal reasoning to pressing ethical and legal questions",
+        "Contemporary legal issues in light of normative concepts and behavioural studies"
+    ],
+    "generic_skills": [
+        "Advanced cognitive skills to solve problems by practical application of often complex legal principles;",
+        "High-level cognitive and technical skills to interpret, analyse and draft empirical legal studies;",
+        "A strong conceptual understanding of the differences between legal and behavioural reasoning;",
+        "Cognitive and technical skills to establish mastery in using interdisciplinary legal materials;",
+        "Creative and technical skills to understand and critically reflect upon diverse approaches to law and psychology; And",
+        "Independent communication and technical research skills as demonstrated in scholarly writing to a publishable level."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LAWS50023",
+                        "Name": "Legal Method and Reasoning",
+                        "Teaching period": "Summer Term (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LAWS90140",
+                        "Name": "Disputes and Ethics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LAWS50031",
+                        "Name": "Legal Theory",
+                        "Teaching period": "November (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LAWS90210",
+                        "Name": "Law and Psychology",
+                        "Teaching period": "May (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "A minimum of 75% attendance (including all live online sessions, if any).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Research paper on a topic approved by the subject coordinator",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "Assessment due dates will be published on the LMS.",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": []
+}

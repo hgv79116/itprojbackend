@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p class=\"SSPBodyText\">This subject allows students to develop skills in the synthesis of different classes of organic and inorganic compounds; analysis of samples with single and multiple components; determination of the kinetic and thermodynamic properties of molecules; measurement and interpretation of the spectroscopic and magnetic properties of inorganic and organic compounds. Students will have the opportunity to obtain expertise in the operation of modern analytical and spectroscopic techniques (including chromatography, atomic and molecular spectroscopy, mass spectrometry).</p>",
+        "<p class=\"SSPBodyText\">The subject consists of a program of experiments supported by three lectures, two tutorials and a variety of electronic online resources. The lectures and tutorials, in addition to the electronic resources, provide background theory relevant to the experiments as well as instruction on different analytical and computational techniques, spectroscopic identification of unknown compounds and cover various aspects of chemical safety, reporting of experimental data, data and error analysis and the use of chemical databases.</p>"
+    ],
+    "ilo": [
+        "Demonstrate skills in organic and inorganic chemical synthesis and characterisation.",
+        "Select appropriate techniques for specific chemical analyses.",
+        "Operate common chemical instrumentation and interpret the results.",
+        "Use a variety of physical techniques to probe thermodynamics, kinetics and spectroscopic properties of compounds.",
+        "Perform computer-based calculations to provide insight into chemical systems.",
+        "Present coherent reports that describe experiments, analyse the data and discuss the results of an investigation.",
+        "Search databases and the scientific literature.",
+        "Work safely and efficiently in a chemical laboratory.",
+        "Apply appropriate procedures for data and error analysis."
+    ],
+    "generic_skills": [
+        "the ability to use conceptual models to rationalise observations;",
+        "data recording and interpretation of scientific observations;",
+        "the ability to search databases and the scientific literature;",
+        "be able to apply procedures for data and error analysis;",
+        "the ability to write scientific reports;",
+        "an understanding and basic operations of modern analytical techniques;",
+        "an awareness of safe and diligent laboratory practice, including safe chemical and glassware handling, and proper instrument operation."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM20018",
+                        "Name": "Chemistry: Reactions and Synthesis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM20020",
+                        "Name": "Chemistry: Structure and Properties",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEM20018Chemistry: Reactions and SynthesisSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM20018",
+                        "Name": "Chemistry: Reactions and Synthesis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "It is recommended that students who plan to major in Chemistry to also have completed the following:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Mathematics and Statistics - two semesters of first year mathematics, for example MAST10005 Calculus 1, MAST10006 Calculus 2 and/or MAST10007 Linear Algebra.Physics - VCE Units 3/4 12 Physics or equivalent, for example PHYC10005 Physics 1: Fundamentals"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An online test (not exceeding 1.5 hours) based on the material developed in lectures",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Ongoing assessment of practical work (of technical competence, reporting and interpretative skills) in the form of 15 short (1 to 3 pages each) and 2 long reports (5 to 6 pages each). Each report is due 6 days after the conclusion of the experimental work.",
+            "bullets": [
+                "25-57 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "90%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Brendan Abrahams",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "A total of 21 three-hour practical classes at a rate of no more than 2 x three hour practical classes per week; 2 x one hour lectures per week for four weeks; 1 x one hour tutorial per week for two weeks. Total 73 hours.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "bfa@unimelb.edu.au"
+        }
+    ]
+}

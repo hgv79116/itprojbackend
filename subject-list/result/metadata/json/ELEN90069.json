@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides an overview of electrical power systems for students without a significant background in Electrical Engineering. It will cover the basic elements of electrical power systems including generation, transmission and distribution.<strong><br/><br/>INDICATIVE CONTENT</strong></p>",
+        "<p>Specific topics covered include:</p>",
+        "<ul><li>Electrical Network Basics: current, voltage, resistance, analysis of resistive circuits, capacitance, inductance, sinusoidal-steady state analysis;</li><li>Power System Analysis: AC power, transformers, generators, loads, three-phase systems, power lines, power flow analysis, reliability and stability;</li><li>Power System Operation: planning, scheduling, distributed generation, electricity markets, smart grid.</li></ul>"
+    ],
+    "ilo": [
+        "Analyse simple electrical networks using basic device models and circuit theory",
+        "Describe the core components of electrical power systems (generation, transmission and distribution)",
+        "Describe the main components of the broader power system operations (including scheduling, electricity markets and the smart grid)"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to communicate effectively, with the engineering team and with the community at large;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into a postgraduate course offered by the Melbourne School of Engineering except MC-ENG Master of Engineering (Electrical) and MC-ENG Master of Engineering (Electrical with Business), subject to course coordinator approval."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Continuous assessment of project work and assignments (approximately 40-45 hours of work per student)",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Mid - Semester test. \n\n(approximately 50 minutes)",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Marimuthu Palaniswami",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 3 hour lecture per week and up to 12 hours of tutorials",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "palani@unimelb.edu.au"
+        }
+    ]
+}

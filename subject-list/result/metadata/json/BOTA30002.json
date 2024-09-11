@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject will introduce the general principles and modern methods of plant evolutionary biology: how to discover the phylogeny (relationships) of organisms using both morphological characters and molecular (DNA) data; how to use this information to improve the classification systems of plants; how to study aspects of evolution, coevolution and historical biogeography; and how to integrate information from living and fossil plants to discover the past and date evolutionary events. Examples of the diversity and evolution of Australian plants - both fossil and living forms - will be used throughout this subject. Topics will include:</p>",
+        "<ul><li>discovering plant relationships phylogenetic systematics;</li><li>evolution of vascular plants, especially flowering plants;</li><li>fossil history of land plants;</li><li>historical biogeography and evolution of Australian flora.</li></ul>"
+    ],
+    "ilo": [
+        "Describe key evolutionary processes in plants;",
+        "Explain and apply principles used to infer the evolutionary history of plants from morphological and genomic data;",
+        "Analyse morphological and genomic data using phylogenetic methods;",
+        "Interpret the results of evolutionary studies and evaluate their implications for plant classification, historical biogeography or character evolution;",
+        "Demonstrate a knowledge of the Australian flora and major Australian biomes and evaluate evidence for their evolutionary history."
+    ],
+    "generic_skills": [
+        "ability to access, read and interpret relevant works from the primary scientific literature",
+        "ability to communicate scientific concepts and data in written and oral form",
+        "experience in relevant field and laboratory work, including working in groups"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BOTA20002",
+                        "Name": "Plant Biodiversity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BOTA20004",
+                        "Name": "Flora of Victoria",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in practical work. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical Report",
+            "bullets": [
+                "1200 words"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 7-8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Two quizzes based on work in practical classes (one in weeks 4 -6, and one in weeks 9-10)",
+            "bullets": [
+                "250 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 10",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Individual oral presentation on a relevant journal article",
+            "bullets": [
+                "7 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "68 hours: 2 x one hour lectures per week, 1 x 3-hour practical class per week, one-day excursion on weekend (typically at end of week 1).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "joanne.birch@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>Topics include: measures of investment risk, portfolio theory, models of asset returns, asset liability modelling, equilibrium models, the efficient markets hypothesis, stochastic models of security prices, and Brownian Motion and its application.</p>"
+    ],
+    "ilo": [
+        "Discuss the advantages and disadvantages of different measures of investment risk;",
+        "Describe and discuss the assumptions of mean-variance portfolio theory and its principal results;",
+        "Describe and discuss the properties of single and multifactor models of asset returns;",
+        "Describe asset pricing models, discussing the principal results and assumptions and limitations of such models;",
+        "Discuss the various forms of the Efficient Markets Hypothesis and discuss the evidence for and against the hypothesis;",
+        "Demonstrate a knowledge and understanding of stochastic models of the behaviour of security prices;",
+        "Define and apply the main concepts of Brownian motion (or Wiener Processes)."
+    ],
+    "generic_skills": [
+        "Written communication",
+        "Problem Solving",
+        "Statistical reasoning",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Use of computer software"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL90001",
+                        "Name": "Mathematics of Finance I",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual Assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual Assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the end-of-semester examination.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Han Li",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "A 2 hour seminar and a 1 hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

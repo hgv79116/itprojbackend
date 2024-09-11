@@ -1,0 +1,198 @@
+{
+    "overview": [],
+    "ilo": [
+        "Explain hardware accelerator architectures and computational models",
+        "Implement digital logic functions in a variety of industrial tools, such as hardware description languages, high-level synthesis tools, and OpenCL",
+        "Analyse advanced computational algorithms for amenability to hardware acceleration, mapping to heterogeneous computing systems to exploit parallel computation",
+        "Design hardware to accelerate computationally intensive algorithms using a systems-based approach with consideration given to trade-offs in speed, energy efficiency, and area",
+        "Articulate the importance of hardware acceleration for computational systems as a continuing trend in industry"
+    ],
+    "generic_skills": [
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to work effectively in a team environment in order to produce a satisfactory project outcome"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-ELECENG Master of Electrical Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90066",
+                        "Name": "Embedded System Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Computing (200pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Artificial Intelligence (200pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing (200pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Cyber Security (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Cyber Security (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Cyber Security (200pt) specialisation (formal) in the MC-IT Master of Information Technology"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-SOFTENG Master of Software Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN30006",
+                        "Name": "Software Modelling and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP30026",
+                        "Name": "Models of Computation",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of team workshop exercises, approximately weekly, not exceeding 8 pages per student spaced out over weeks 2-7. Approximatley 12 hours of work per student. Intended Learning Outcomes (ILOs) 1-2 are adressed in this assessment",
+            "bullets": [
+                "12 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Intermediate team project milestones, including peer assessment, not exceeding 12 pages per student spaced over weeks 8-11. Approimately 16 hours of work per student. Intended Learning Outcomes (ILOs) 3-4 are addressed in this assessment",
+            "bullets": [
+                "16 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Team project report, not exceeding 25 pages. Intended Learning Outcomes (ILOs) 3-5 are addressed in this assessment",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Mid-semester test . Intended Learning Outcomes (ILOs) 1-3 are addressed in this assessment",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final Exam. Intended Learning Outcomes (ILOs) 1-5 are addressed in this assessment",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must score above a hurdle requirement on the final exam. This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures and 24 hours of workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "eschoof@unimelb.edu.au"
+        }
+    ]
+}

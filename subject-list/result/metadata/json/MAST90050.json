@@ -1,0 +1,74 @@
+{
+    "overview": [
+        "<p>Scheduling is critical to manufacturing, mining, and logistics, and is of increasing importance in healthcare and service industries. Most automated systems, ranging from elevators to industrial robots, embed some kind of scheduling algorithms. Building on the Optimisation background provided in Optimisation for Industry, this subject teaches students how to solve more advanced problems. A particular focus will be scheduling problems, but other more general assignment problems will be discussed.</p>"
+    ],
+    "ilo": [
+        "Apply advanced mathematical and computing techniques to model scheduling problems;",
+        "Develop effective mathematical methods of scheduling;",
+        "Apply such methods in important real-life situations;",
+        "Utilise key foundational knowledge to pursue further studies in this discipline and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90014",
+                        "Name": "Optimisation for Industry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written assignment of up to 20 pages ( approx. 25 hours time committment)",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One group project including a report of up to 20 pages to be submitted in weeks 3 or 4, and a 10 minute group presentation or one page proposal due during weeks 9 - 12.",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,150 @@
+{
+    "overview": [
+        "<p>The focus of this subject lies in the integration of services and energy efficient strategies into the fabric of the building and its construction process. After introductory material on environmental quality and energy related issues, the subject provides students with knowledge in the field of electrical, mechanical, air handling, hydraulic and communication services and particularly the construction issues they generate: levels of documentation and decision-making required; connections with process planning; spatial requirements for functioning, installation and access purposes; protection and quality assurance; building tolerances; systems integration; layout strategies; work sequences and temporary works; contract coordination; testing; maintenance; and upgrading-replacement.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "To introduce students to systems and types of mechanical and engineering services needed in buildings;",
+        "To develop an understanding of basic modes of energy transfer;",
+        "To gain understanding of spatial and installation requirements for services;",
+        "To improve an understanding of the construction processes involved."
+    ],
+    "generic_skills": [
+        "Ability to critically analyse systems needed for particular building use;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CONMG2Y Master of Construction Management",
+                    "GC-ENVDES Graduate Certificate in Environmental Design",
+                    "200pt Program course entry point in the MC-CM Master of Construction Management"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsABPL90086Environmental SystemsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90086",
+                        "Name": "Environmental Systems",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsABPL90292Construction of BuildingsSemester 1 (On Campus - Parkville)12.5ABPL90324Materials and StructuresSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90292",
+                        "Name": "Construction of Buildings",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL90324",
+                        "Name": "Materials and Structures",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval from the Course Coordinator"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class participation, to drive collective, creative technical outcomes during class discussions.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Gathering of discussion-specific data throughout the semester, requiring independent and team research about technical and construction aspects of building services.",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Professional report. This major work demonstrates the technical understanding and ability to evaluate building services options in design and construction.",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Christopher Jensen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Chris Jensen",
+            "contact_email": "cjensen@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>This subject critically examines the science, policy and politics of the relationship between food, nutrition and health. A key focus will be how nutrition scientific knowledge is interpreted and translated into nutrition, food and agricultural policies and regulations. The social, economic, commercial, scientific and regulatory processes and structures that shape food consumption patterns; the various scientific approaches for evaluating food quality; and a comparison of dietary patterns and the dietary health of populations, will all be explored.</p>"
+    ],
+    "ilo": [
+        "Understand how scientific knowledge is interpreted and translated into food and nutrition policies;",
+        "Understand the basic social, economic, scientific and regulatory processes involved in food production, quality, and consumption;",
+        "Evaluate government policies and industry strategies that influence food production for public health;",
+        "Demonstrate an understanding of the key frameworks, concepts and debates in the literature relating to nutrition politics and policy;",
+        "Discuss approaches to the prevention and amelioration of population health problems through nutrition education and policy;",
+        "Demonstrate an understanding of national and global causes and consequences of nutritional deficiencies and over consumption, and methods of measurement involved;",
+        "Discuss national and global causes and consequences food insecurity and food sustainability;",
+        "Use scientific evidence to identify nutritional deficiencies in diets in order to reduce human disease and inform nutrition policy."
+    ],
+    "generic_skills": [
+        "Applying critical skills to evaluate and analyse subject content",
+        "Ability to systemically integrate research data from different references",
+        "Communication skills, through written and tutorial engagement",
+        "Quantitative analytical skills",
+        "Time management"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "NUTR20001",
+                        "Name": "Food Nutrition and Health",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "BCMB20002 Biochemistry and Molecular BiologyAGRI20003 Sustainable Food SystemsFOOD20003 Food Chemistry, Biology and NutritionFOOD20006 Food Microbiology and Safety"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment 1 Essay",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Assignment 2 Essay",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Examination (Multiple Choice Questions plus short answer questions)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 80 % of tutorials. All pieces of written work must be submitted to pass this subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

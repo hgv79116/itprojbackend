@@ -1,0 +1,71 @@
+{
+    "overview": [
+        "<p>This subject addresses what risk management is, why companies engage in risk management, and the tools available to manage risk. As part of this, the subject provides an introduction to basic derivative securities such as forward and futures contracts, options, interest rate and currency swaps, and credit derivatives. We deal with the issue of pricing derivative securities by simple arbitrage arguments, and develop a framework for analyzing and using financial derivatives in various applications. While the study of derivative securities is inherently quantitative, the subject also focuses on economic intuitions and interpretations behind derivative securities.</p>"
+    ],
+    "ilo": [
+        "Assess and measure the financial risk of commercial/industrial companies",
+        "Price future contracts",
+        "Price derivative contracts",
+        "Price swap contracts",
+        "Price credit derivatives",
+        "Price executive stock options",
+        "Use derivative securities to manage the financial risk of commercial/industrial companies"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to class learning",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Midterm test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Middle of subject",
+            "percentage": "10%"
+        },
+        {
+            "brief": "2 Syndicate assignments , staggered throughout subject",
+            "bullets": [
+                "250 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Syndicate assignment",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

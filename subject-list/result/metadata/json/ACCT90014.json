@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>Development of an understanding of the processes and practices involved in external auditing of general purpose and other financial reports within the framework of Auditing Standards and the Corporations Law, exploration of underpinning theory as to why audits and other assurance services are demanded, the role these services play in reducing information risk and the various threats to auditor independence that present themselves.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Describe the ethical, legal and professional environments in which audit and assurance providers operate",
+        "Conduct client risk assessments pertinent to the audit and assurance process",
+        "Apply the concepts and processes used by audit and assurance service providers to gather evidence and formulate judgments with respect to the underlying information",
+        "Describe the various reporting obligations of and options available to audit and assurance providers"
+    ],
+    "generic_skills": [
+        "Evidence collection",
+        "Information analysis",
+        "Problem solving",
+        "Decision making",
+        "Oral/written communication",
+        "Collaborative learning and team work"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90012",
+                        "Name": "Corporate Reporting",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACCT90030",
+                        "Name": "Information Processes & Control",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group assignment (normally in groups of 1-5 students)",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Vic Naiker",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 3 hour seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "vic.naiker@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Vic Naiker",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 3 hour seminar per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "vic.naiker@unimelb.edu.au"
+        }
+    ]
+}

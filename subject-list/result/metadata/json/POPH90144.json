@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject is compulsory for students doing a Master of Epidemiology or a Master of Science \u2013 Epidemiology. The subject covers linear regression methods for continuous outcome variables and logistic regression methods for binary outcome variables. The subject equips students with the practical skills to apply these regression methods to data from epidemiological studies using the statistical package Stata. Also covered is how to adjust for confounding and investigate effect modification using regression models. The focus is on the practical interpretation of the measures of association estimated by these regression models.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Explain how regression methods are used to address common objectives of health research in the three areas of descriptive, causal and predictive analysis",
+        "Discuss the fundamental concepts of regression models as tools for representing patterns of systematic variation in data, including interpretation of parameters and interaction effects",
+        "Estimate different types of causal effects (mean differences, risk ratios, odds ratios) in populations using regression models.",
+        "Describe the assumptions and limitations of the use of regression in estimating causal effects with adjustment for confounding",
+        "Outline key principles involved in building regression models for prediction purposes"
+    ],
+    "generic_skills": [
+        "Critical thinking and analysis,",
+        "Finding, evaluating and using relevant information,",
+        "Problem-solving,",
+        "Written communication,",
+        "Using computers."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90013",
+                        "Name": "Biostatistics",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "POPH90014",
+                        "Name": "Epidemiology 1",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)Semester 1 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "POPH90142 Epidemiology & Analytic Methods 1\nPOPH90143 Epidemiology & Analytic Methods 2"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 short quizzes (250 words each)",
+            "bullets": [
+                "500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Major Assignment [Report]",
+            "bullets": [
+                "2250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Major Assignment [Report]",
+            "bullets": [
+                "2250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 30 August 2024",
+            "last_self_enrol_date": "30 July 2024",
+            "census_date": "16 August 2024",
+            "last_date_to_withdraw_without_fail": "4 October 2024",
+            "assessment_period_ends": "9 November 2024",
+            "contact_name": "",
+            "contact_email": "eric.au@unimelb.edu.au"
+        }
+    ]
+}

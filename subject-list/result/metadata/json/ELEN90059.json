@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Lightwave systems are fundamentally changing the way we communicate through broadband communications, helping clinicians to perform a range of medical procedures and diagnosis supported by advanced biomedical instrumentation, and even in the way we live in our homes through sophisticated interactive televisions and security systems.</p>",
+        "<p>This subject will explore the physical principles and issues that arise in the design of lightwave systems often found in those key industry sectors. Students will study topics from: transmission of light over wave guides; production of light by lasers; light modulation; conversion of light signals to electrical signals; optical multiplexing and demultiplexing; light amplification; dispersion and dispersion compensation; optical nonlinearities; modulation and advanced detection schemes. This material will be complemented by exposure to lightwave systems and measurement techniques in the laboratory.<strong><br/><br/>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>This subject will explore the physical principles governing the generation, modulation, amplification, guiding, transmission, multiplexing, demultiplexing and detection of light and issues that arise in the design of lightwave systems such as transmission impairments, noise. Students learn selected examples of lightwave systems and methods for design, modelling and testing of simple lightwave systems.</p>"
+    ],
+    "ilo": [
+        "Explain the operation of lightwave systems in terms of the underlying physical principles",
+        "Design, model and simulate simple lightwave systems",
+        "Quantitatively model and assess the performance of common lightwave systems",
+        "Conduct laboratory experiments involving lightwave devices and systems as well as design tools"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30011",
+                        "Name": "Electrical Device Modelling",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 364AA Master of Telecommunications Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Summative assessment in the form of a final written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "A formative assessment in the form of a mid-semester test",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Continuous assessment in the form of submitted laboratory reports from workshop activities. Workshop tasks are completed as a group activity by self-selected groups of 2-3 students. Laboratory reports should not exceed 30 pages in total over the semester.",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x one hour lectures per week and up to 10 x three hour workshops",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "sejeong.kim@unimelb.edu.au"
+        }
+    ]
+}

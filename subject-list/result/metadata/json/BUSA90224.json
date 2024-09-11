@@ -1,0 +1,143 @@
+{
+    "overview": [
+        "<p>This subject examines human behaviour at the individual, group and organisational levels. Theories, models and research will be discussed and applied through case studies, syndicate team assignments, experiential exercises and reflection on work experience. Each topic has been selected to help you better manage yourself, other people, groups and organisations.</p>"
+    ],
+    "ilo": [
+        "Make decisions that consider the link between how people are managed and firm outcomes;",
+        "Use practices to enhance the attraction, selection, development, utilisation and retention of people in organisations;",
+        "Make decisions that consider how organisational culture and design affect organisational processes and performance;",
+        "Identify common factors that constrain and facilitate the implementation of change;",
+        "Effectively manage some of the challenges and opportunities of leading a diverse workforce;",
+        "Gain skill in managing team processes and interactions.",
+        "Influence organisational dynamics by applying knowledge on how to shape behaviour in organisations."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90532",
+                        "Name": "Business Essentials",
+                        "Teaching period": "January (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "BUSA90552",
+                        "Name": "Business Essentials",
+                        "Teaching period": "September (On Campus - Parkville)January (On Campus - Parkville)April (On Campus - Parkville)Summer Term (Online)July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to class learning",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Syndicate assignment; scattered throughout subject",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Midterm test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid-term",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2.5 hours"
+            ],
+            "hurdle": "students are required to pass the final examination to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "15 January 2024 to 22 March 2024",
+            "last_self_enrol_date": "8 January 2024",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "1 March 2024",
+            "assessment_period_ends": "29 March 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "April",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "8 April 2024 to 14 June 2024",
+            "last_self_enrol_date": "1 April 2024",
+            "census_date": "19 April 2024",
+            "last_date_to_withdraw_without_fail": "24 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "1 July 2024 to  6 September 2024",
+            "last_self_enrol_date": "14 June 2024",
+            "census_date": "12 July 2024",
+            "last_date_to_withdraw_without_fail": "16 August 2024",
+            "assessment_period_ends": "13 September 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "September",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "23 September 2024 to 29 November 2024",
+            "last_self_enrol_date": "6 September 2024",
+            "census_date": "4 October 2024",
+            "last_date_to_withdraw_without_fail": "8 November 2024",
+            "assessment_period_ends": "6 December 2024",
+            "contact_name": "Degree Program Services",
+            "contact_email": "programservices@mbs.edu"
+        }
+    ]
+}

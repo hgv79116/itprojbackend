@@ -1,0 +1,166 @@
+{
+    "overview": [
+        "<p>This capstone subject involves an investigation and problem-solving project which will require students to apply a broad knowledge to realistic problems typical of what would be expected with employment in the environmental engineering industry. The subject revolves around the engineering education framework - CIDO: conceive, design, implement, operate, with the addition of 'monitor and evaluate'. Students will apply skills developed in other subjects to a single overarching project that will run through the entire semester, and demonstrate an ability to design sustainable engineering projects. Focusing on urban stormwater management, the project will require the students to develop a conceptual and quantitative model of a small-scale environmental engineering system (i.e. a biofiltration system). The students will then build and operate these systems and undertake monitoring and analysis of their behaviour to provide a critical appraisal of the original model. Having characterised the system, interpretation and evaluation of the impacts of a scaled up system on associated human and non-human stakeholders will form part of an evidence based report. Students will also be expected to critically evaluate the quality of their model, assumptions, data and analysis. The subject will be supported by specialised lectures and workshops.</p>"
+    ],
+    "ilo": [
+        "Interpret, investigate and characterise an environmental engineering system",
+        "Develop conceptual and quantitative models of the system; then build and monitor the system",
+        "Use the models and statistical analysis of monitoring data to analyse the system and assess its interaction with other human and non-human systems",
+        "Critically evaluate the output of the model and analysis",
+        "Demonstrate competency in communicating technical issues in engineering reports.",
+        "Select and apply a suited sustainability assessment framework, and critically interpret results with regard to the sustainability of an engineering project."
+    ],
+    "generic_skills": [
+        "Ability to solve problems",
+        "Ability to work within a team",
+        "Ability to tackle unfamiliar problems",
+        "Project management and the ability to plan one's own work",
+        "Improved written and oral communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsMAST20031Analysis of Biological DataSemester 1 (On Campus - Parkville)12.5ENEN20002Earth Processes for EngineeringSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CVEN20001Sustainable Infrastructure EngineeringSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20031",
+                        "Name": "Analysis of Biological Data",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CVEN20001",
+                        "Name": "Sustainable Infrastructure Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Environmental specialisation (formal) in the MC-ENG Master of Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-ENVENG Master of Environmental Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOL10001Biology of Australian Flora & FaunaSemester 2 (On Campus - Parkville)12.5CHEM10003Chemistry 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20029Engineering MathematicsSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CVEN20001"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10001",
+                        "Name": "Biology of Australian Flora & Fauna",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ENVS10002 - Reshaping Environments"
+            },
+            {
+                "type": "paragraph",
+                "content": "ENGR10003 - Engineering Systems Design 2"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation (10%) of approximately 5 minutes per student on their characterisation of their system, requiring approx. 10-15 hour investigation and preparation plus workshop contact time, due about week 4. Intended Learning Outcomes (ILOs) 1, 2 and 5 are addressed in this assessment",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Literature review and introductory project report, 800 words (20%) requiring approx. 20-30 hours of work plus workshop contact time, due about week 7. ILOs 1, 2 and 5 are addressed in this  report",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Project methods, results, discussion report, 1500 words (30%). ILOs 1 to 5 are addressed in this report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written 2 hour open-book exam (40%) in end semester exam period. ILOs 2, 3 and 4 are addressed in this exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Angus Webb",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (Lectures: 12 hours per semester; Workshops: 24 hours per semester)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

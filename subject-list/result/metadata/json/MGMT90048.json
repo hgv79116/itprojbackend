@@ -1,0 +1,61 @@
+{
+    "overview": [
+        "<p class=\"CNBodytext\">This subject involves skill building in statistical and decision analysis methods for managers, including probability, decision trees and linear programming, and correlation and regression techniques.</p>"
+    ],
+    "ilo": [
+        "Understand the role of statistical analysis in managerial decision making",
+        "Appreciate decision modeling as a way of learning about commercial decisions",
+        "Understand utility and other models for understanding complex decisions",
+        "Be able to formulate linear programs to model business decisions",
+        "Appreciate a range of management science models"
+    ],
+    "generic_skills": [
+        "Ethical behaviour in leadership and organisations",
+        "Analysis and problem solving",
+        "Capacity for intellectual curiosity, creativity and independent thought",
+        "Communication of key ideas and theories within the discipline areas",
+        "Capacity for effective teamwork and collaboration",
+        "Information retrieval and application in relation to practical problems."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Take-home exam",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Due on the Tuesday after the delivery",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment",
+            "bullets": [
+                "15,00 words"
+            ],
+            "hurdle": null,
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Field project",
+            "bullets": [
+                "3,000 words"
+            ],
+            "hurdle": null,
+            "timing": "8 Weeks after the end of teaching",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

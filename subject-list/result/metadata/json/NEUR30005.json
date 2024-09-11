@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p>The human brain is, arguably, the most complex structure on earth. This subject examines how a simple sheet of cells in the early embryo is fashioned into a functioning brain -. You will learn how cells within the primordial nervous system are assigned different fates, how neural stem cells are stimulated to divide to produce the billions of cells that comprise the nervous system and how these cells differentiate into mature neurons. The subject will examine how neural circuits are established as newly-born neurons send out axons,making functional synaptic connections with specific target cells.</p>"
+    ],
+    "ilo": [
+        "appreciate the major processes involved in the development of the nervous system, including neural induction, neural patterning, neural and glial cell proliferation, determination of neural fate, neuronal migration, axon guidance, regulation of neuron survival and synaptogenesis;",
+        "have gained some insights into the cellular and molecular basis of those processes and understand how disorders in developmental processes can lead to neural defects;",
+        "be aware of the regenerative ability of the nervous system and the prospects for therapeutic treatment of neural injury and disease;",
+        "be familiar with outstanding questions currently being addressed in research in neural development; and",
+        "be familiar with modern experimental approaches used to investigate the development of the nervous system and appreciate their strengths and limitations."
+    ],
+    "generic_skills": [
+        "The ability to critically analyse scientific research papers.",
+        "The ability to carry out literature searches.",
+        "A capacity for independent critical thought, rational enquiry and self-directed learning.",
+        "The ability to plan work and use time effectively.",
+        "The ability to synthesise apparently disparate types of knowledge."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCEDB30002Concepts in Cell & Developmental BiologySemester 1 (On Campus - Parkville)12.5NEUR30003Principles of NeuroscienceSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CEDB30002",
+                        "Name": "Concepts in Cell & Developmental Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NEUR30003",
+                        "Name": "Principles of Neuroscience",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "(516-209 Introductory Neuroscience is an alternative prerequisite to NEUR30003)"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "(For BBiomedicine students only)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM20001Molecular and Cellular BiomedicineSemester 1 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written class test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "an essay",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "a written examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jenny Gunnersen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week x 12 weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This subject develops fundamental concepts and principles in mathematical analysis. Students should gain skills in the practical techniques of differential calculus, integral calculus and infinite series, and study selected applications of these techniques in mathematical modelling.</p>",
+        "<p>Topics covered rigorous discussion of limits of sequences and of real-valued functions, continuity and differentiability; Mean Value Theorem and applications; Taylor polynomials; Riemann integration, techniques of integration and applications, improper integrals; infinite series, with applications to power series representations of elementary functions and their generation by Taylor series and to the representation of periodic functions by Fourier series; first order differential equations, second order linear differential equations with constant coefficients and selected applications.</p>"
+    ],
+    "ilo": [
+        "Explain the properties of sequences of real numbers;",
+        "Identify the properties of a function of a real variable, such as limits, continuity and differentiability;",
+        "Explain when proper and improper Riemann integrals exist and be able to use standard techniques to evaluate them;",
+        "Determine the convergence and divergence of infinite series and to represent functions by Taylor series and Fourier series;",
+        "Solve first and second order ordinary differential equations, and use these equations to model some simple physical systems;",
+        "Describe simple rigorous proofs of fundamental results in real analysis."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "A study score of at least 38 in VCE Specialist Mathematics 3/4 or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10008Accelerated Mathematics 1Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10008",
+                        "Name": "Accelerated Mathematics 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10013 UMEP Mathematics for High Achieving Students"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Permission from the Director of the Mathematics and Statistics Learning Centre"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10006Calculus 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20026Real AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10006",
+                        "Name": "Calculus 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST10019 Calculus Extension Studies"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two or three written assignments due at regular intervals amounting to a total of up to 25 pages",
+            "bullets": [
+                "25 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A written test",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 x one hour lectures per week, 1 x one hour practice class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jdgier@unimelb.edu.au"
+        }
+    ]
+}

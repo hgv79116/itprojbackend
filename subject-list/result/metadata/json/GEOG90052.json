@@ -1,0 +1,75 @@
+{
+    "overview": [
+        "<p>This subject examines principles in the two disciplines of hydrology and ecology, emphasising the application of both to understand how to solve environmental management problems in river ecosystems. The subject focuses primarily on processes occurring within the channel, while the surrounding catchment type is considered as background context. The subject examines water in terms of quantity and quality; and the physical channel and floodplain systems in which it is conveyed and stored, along with transported materials such as sediments and organic matter. The subject also examines population, community and ecosystem dynamics of riverine organisms and their geographical distributions and diversities. Through practicals and fieldwork, students should develop skills in acquiring, analysing and presenting hydrological and ecological data, and in the identification and proper field sampling of stream biota. Students should become aware of the multidisciplinary nature of environmental management and the need for critical examination of ideas in the literature.</p>"
+    ],
+    "ilo": [
+        "Understand the principles of hydrology and ecology as they relate to river ecosystems",
+        "Acquire, analyse and present data relating to catchment characteristics, water quality and quantity, and the biota of river ecosystems",
+        "Understand the processes that determine water quality and quantity and the ecological status of rivers",
+        "Apply basic laboratory, computer and field methods for hydrology and ecology"
+    ],
+    "generic_skills": [
+        "Be able to evaluate and synthesise the research and professional literature in stream ecology and hydrology as they relate to environmental management",
+        "Be able to design, conduct and report on original research based on field and/or laboratory investigation",
+        "Work effectively in projects which require team-work",
+        "Conduct sample surveys and carry out basic quantification of water quantity and quality"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOG30022",
+                        "Name": "Riverine Landscapes: Hydrology & Ecology",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": []
+    },
+    "assessment": [
+        {
+            "brief": "Field and practical exercises equivalent to 250 words completed primarily within practical classes in weeks 2-11",
+            "bullets": [
+                "250 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A field research report of 2500 words, due late May",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A 15-minute group presentation on field research in groups of 6-8 students (equivalent to 250 words)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A literature review related to lecture material (2000 words)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": []
+}

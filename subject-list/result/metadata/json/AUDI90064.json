@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>This subject requires students to integrate their audiological knowledge with their clinical and interpersonal skills to further develop and improve their holistic professional performance as they prepare to transition into practice in the community. On completion of the subject, students will have created an e-portfolio that documents their personal, clinical and professional learning. Students will demonstrate growth in reflective practice and critical awareness skills across the year. Students will be able to demonstrate evidence of their understanding and use of evidence-based practice principles.</p>"
+    ],
+    "ilo": [
+        "Plan, perform, and interpret appropriate clinical tests as part of a targeted, accurate and timely clinical examination of audiological and vestibular conditions and presentations.",
+        "Combine research evidence, clinical expertise and the practice context to ensure client and family centred management of audiological conditions.",
+        "Reflect on the provision of care with attention to benefits, risks and costs for individuals and the community.",
+        "Identify when to collaborate with other health professionals to ensure client safety and to enhance the quality of care.",
+        "Recognise and work within the limits of their competence and scope of practice and express the importance of seeking support for debriefing and guidance.",
+        "Assess their own performance using various internal and external sources of evidence.",
+        "Identify opportunities for life-long learning and improvement."
+    ],
+    "generic_skills": [
+        "Apply critical thinking and problem-solving skills to new problems;",
+        "Communicate clearly in written and oral forms;",
+        "Work as part of a team to address a common goal;",
+        "Manage competing demands on time, including self-directed project work;",
+        "Show respect for truth and intellectual integrity, and for the ethics of scholarship;",
+        "Integrate knowledge from different domains;",
+        "Value the collection and recording of accurate and complete data; and",
+        "Reflect upon and identify deficiencies in knowledge, skills and attitudes and consider strategies to address those deficiencies."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90053",
+                        "Name": "Audiology Practice A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90054",
+                        "Name": "Audiology Practice B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90055",
+                        "Name": "Professionalism and Clinical Processes A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90056",
+                        "Name": "Professionalism and Clinical Processes B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90059",
+                        "Name": "Structure & Function Across the Lifespan",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90060",
+                        "Name": "Evidence-Based Practice",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90057",
+                        "Name": "Sound and Innovative Solutions A",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90058",
+                        "Name": "Sound and Innovative Solutions B",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90061",
+                        "Name": "Complex Audiological Cases",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AUDI90062",
+                        "Name": "Advanced Solutions in Hearing Care",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "AUDI90063",
+                        "Name": "Audiology Research Project",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "E-portfolio",
+            "bullets": [
+                "10000 words"
+            ],
+            "hurdle": "Students must obtain satisfactory mark in E-portfolio to pass. Successful completion of the E-portfolio includes evidence compiled throughout the year. The E-Portfolio must include (but is not limited to): documentation of reflective practice through self-reflection of clinical placements and Objective Structured Clinical Exams (OSCEs); evidence of clinical skill development through OSCEs case reports, clinical feedback of clinical placements, and evidence of clinical placement attendance.",
+            "timing": "Throughout the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance in placements",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

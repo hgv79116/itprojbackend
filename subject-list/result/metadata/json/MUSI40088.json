@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>Vocal and instrumental students will develop technique, stylistic awareness and interpretative insight through an individually designed program of repertory.</p>",
+        "<p>Individual and group lessons, and sustained individual practice enable the preparation of a mid-semester presentation and an end-of-semester performance.</p>",
+        "<p><em>On enrolment, students are required to email the coordinator to arrange an introductory meeting. </em></p>"
+    ],
+    "ilo": [
+        "demonstrate understanding and application of a key aspect of repertoire relevant to their performance area;",
+        "demonstrate an understanding of issues of musical style;",
+        "perform the component works of a program with technical and musical capability."
+    ],
+    "generic_skills": [
+        "demonstrate the capacity for critical and independent thought and reflection;",
+        "demonstrate skills in evaluative thinking, and in the application of theoretical criteria to practical outcomes;",
+        "demonstrate analytical skills in the context of performance;",
+        "plan effectively to meet performance deadlines."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI40016",
+                        "Name": "Practical Study 1",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Following consultation with the co-ordinator, a proposal and 1-page bibliography  on the repertoire or style to be explored",
+            "bullets": [
+                "250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "brief": "10-minute in-class presentation on an aspect of musical repertoire or performance style that students wish to explore in their musical practice",
+            "bullets": [
+                "1350 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "10-minute in-class performance of music related to the approved proposal",
+            "bullets": [
+                "2250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "15 hours comprising, twelve 30-minute lessons, four 2-hour group classes, and initial 30-minute consultation with coordinator",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kenjm@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "15 hours comprising, twelve 30-minute lessons, four 2-hour group classes, and initial 30-minute consultation with coordinator",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "kenjm@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "overview": [
+        "<p>Contemporary software systems such as search engines must deal with huge amounts of data, often in real time. In such cases, standard data structures and algorithms do not scale. This subject aims to provide an overview of contemporary advanced algorithms and data structures in computer science for such problems. These techniques serve as building blocks for solving complex algorithmic problems, and have many practical applications.</p>"
+    ],
+    "ilo": [
+        "Design, manipulate and reason about a variety of advanced algorithmic techniques and principles, and advanced data structures",
+        "Identify the appropriate algorithm (and data structure) to solve a complex problem",
+        "Implement such algorithms and data structures efficiently and correctly"
+    ],
+    "generic_skills": [
+        "An ability to apply advanced knowledge in reasoning and problem solving",
+        "Ability to undertake advanced problem identification, formulation and solution",
+        "An ability to implement complex algorithms in practice",
+        "Capacity for creativity and innovation",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CS Master of Computer Science"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SOFTENG Master of Software Engineering",
+                    "Software specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into the GD-CS Graduate Diploma in Computer Science",
+                    "Another Masters degree"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Subject Coordinator Approval"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two assignments:   written assignment due in week 4 (10%) and programming assignment due in week  11 (20%). Addressing Intended Learning Outcomes (ILO's) 1, 2 & 3.",
+            "bullets": [
+                "35 hours (of work required)"
+            ],
+            "hurdle": "Students must achieve 15/30 in total for the assignment work.",
+            "timing": "From Week 4 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written examination, 3 hours, due end of semester (60%). Addressing ILO's 1, 2 & 3.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must get 35/70 for the mid-semester test and end-of-semester written examination combined.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Mid-Semester test, 30 minutes, week 7 (10%). Addressing ILO's 1 & 2.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": "Students must get 35/70 for the mid-semester test and end-of-semester written examination combined.",
+            "timing": "Week 7",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising one  2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "junhao.gan@unimelb.edu.au"
+        }
+    ]
+}

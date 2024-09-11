@@ -1,0 +1,131 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Characterisation of sites is an important step in civil engineering study or design. In order to devise a design for an engineering project a range of contextual factors need to be determined. These include intrinsic aspects of natural and anthropogenic history, such as geological context and former industrial use as well as its environmental considerations. The engineering properties of ground needs to be assessed and understood for the purpose of development. Extrinsic impacts on the site such as the risk of fire, extreme wind loads and earthquake also need to be well understood.</p>",
+        "<p>This subject will examine typical technical tools for characterising a site for infrastructure development, covering a range of the above aspects that are relevant to the site and development. In doing so students will learn the skills and an approach to conduct site assessments, including the ability to select the appropriate geo-environmental tools for site investigations.</p>",
+        "<p>This subject is part of a trio of subjects that consider different aspects of infrastructure projects; Engineering Site Characterisation studies how to determine the character of a site for a infrastructure project, Sustainable Infrastructure Engineering examines how the project relates to the broader social, political, economic and environmental context, while Engineering Project Implementation concentrates on the operational aspects of implementing a project. Together they form the basis of further professional infrastructure engineering subjects. Students who have completed this subject will have valuable skills to gain engineering work experience.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Basic principles of engineering geology, Site Investigation Techniques, Ground Models (different types of models from conceptual to observational and analytical), The Engineering Geology of Melbourne (and Victoria), GeoHazards (different types, typical geohazards, case studies, risk assessment and risk register), Rock Engineering, Geotechnical site investigations, natural disaster characterisation (fire, wind, earthquakes), introduction to surveying and levelling, in situ testing (soil), geophysical testing and fieldwork, groundwater investigation and exposure to laboratory testing (compaction, permeability and strength).</p>"
+    ],
+    "ilo": [
+        "ILO1 - Conduct a simple topographic survey of a site",
+        "ILO2 - Evaluate the soil and geology  of the site as it impacts the intended development",
+        "ILO3 - Evaluate the relationships of a site and its intended changes with its neighbours",
+        "ILO4 - Select the appropriate geo-environmental technical tools for site investigations",
+        "ILO5 - Estimate critical design parameters",
+        "ILO6 - Identify, assess and document the risk arising from natural disasters",
+        "ILO7 - Examine planning requirements",
+        "ILO8 - Write a report to communicate key aspects of the character of a site as it affects the design of changes to the site",
+        "ILO9 - Develop a site investigation plan to better understand the issues and inform design of mitigation measures"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Understanding of social, cultural, global, and environmental responsibilities and the need to employ principles of sustainable development",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online Assignment #1 (individual)  - 10  hours of preparation. Addressing Intended Learning Ouctomes (ILO's) 2,3,4,5.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online Assignment #2 (individual). 5 hours preparation time. ILO 1 addressed.",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Group Design Portfolio-Technical Industry Accepted Report on Fisherman Bend Development; done in stages for a final submission in Week 10. ILO's 2 - 8.",
+            "bullets": [
+                "50 hours"
+            ],
+            "hurdle": "Result of 50% is required to pass the hurdle.",
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual Assignment #1-Short Technical Report\n\nILOs 6,8 are addressed.",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One written open book examination.  ILO's 1 -9 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Result of 50% is required to pass the hurdle.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend 6 out of the 8 tutorial sessions held across the last 8 weeks.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Mahdi Miri Disfani",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "53 hours (Lectures: 3 hours per week; Tutorial: 1 hour per week; Laboratory: 5 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mahdi.miri@unimelb.edu.au"
+        }
+    ]
+}

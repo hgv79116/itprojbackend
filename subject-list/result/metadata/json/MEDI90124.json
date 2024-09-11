@@ -1,0 +1,82 @@
+{
+    "overview": [
+        "<p><span>After completion of this subject, students will have the knowledge of how to safely insert and clean a transoesophageal echocardiography (TOE) probe, to acquire the standard TOE views, interpret haemodynamic state and limited valve assessment using two dimensional and colour flow Doppler, interpret common cardiac pathology and be able to write a focused ultrasound report. Students will have interpreted and written a report on 10 focused TOE studies of a wide range of commonly encountered cardiac pathology.</span></p>"
+    ],
+    "ilo": [
+        "Identify the key steps required to safely insert and clean a transoesophageal echocardiography (TOE) probe and acquire the standard transoesophageal echocardiography (TOE) views.",
+        "Interpret the normal and pathological haemodynamic states using focused TOE.",
+        "Interpret limited cardiac valve assessment and pericardial effusion using two-dimensional and colour flow Doppler modes using focused TOE.",
+        "Write a structured interpretive report of focused TOE.",
+        "Evaluate the requirements for training, competence, and certification in focused TOE."
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90112",
+                        "Name": "Clinical Ultrasound \u2013 Core Concepts",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to interpret clinical ultrasound. A student is expected to demonstrate sufficient visual acuity to perform the required range of skills, including reading ultrasound images from a computer monitor."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple-choice questions following each tutorial",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Interpretation of 10 case studies assessed by structured questions pertaining to each case",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Open-book summative examination",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,125 @@
+{
+    "overview": [
+        "<p>This subject is designed for students who have completed Ancient Greek 1 and 2, or who have some previous knowledge of Ancient Greek (VCE level or equivalent). Students translate and discuss the interpretation of a selected work of a Greek prose genre (e.g., philosophy or history). In tutorials, further work is undertaken on grammar and syntax, revising and consolidating the beginners course.</p>",
+        "<p>Students will also undertake work in Ancient Greek literary and textual criticism. On completion of this subject students should have consolidated their skills in working with Ancient Greek texts and have discovered some of the many important contributions which reading original texts can make to understanding the ancient world. Students who complete this subject may progress to Ancient Greek 4.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Read an Ancient Greek text in the original",
+        "Consolidate their knowledge of grammar and syntax, and extend their Ancient Greek vocabulary",
+        "Gain knowledge of archaic and classical Greek history and culture",
+        "Develop critical thinking skills and be able to think in theoretical terms",
+        "Become familiar with the communication conventions of another culture."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10005",
+                        "Name": "Ancient Greek 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students should have passed VCE Classical Greek or the equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10020",
+                        "Name": "Ancient Greek 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Fortnightly translation tests",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Essay",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assessment test (50 minutes)",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final examination - 75 minutes",
+            "bullets": [
+                "1600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. \n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tom Davies",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours - 3 x 1-hour seminars per week for 12 weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "thomas.davies1@unimelb.edu.au"
+        }
+    ]
+}

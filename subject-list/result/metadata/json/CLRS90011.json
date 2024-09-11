@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>Identifying the most appropriate study design is important for generating the best evidence to answer a clinical research question. A well-designed study will clearly identify a range of variables including the participant population, the intervention or exposure of interest and the outcomes to be investigated and how data will be collected. Understanding the various indications for different study designs is important for not only devising a new study but also for critically reviewing published studies.</p>",
+        "<p>This subject will provide students with an in-depth understanding of the principles and application of a variety of study designs in a clinical/medical setting. Key areas that will be covered include:</p>",
+        "<p>1. examining the range of quantitative, qualitative and mixed-methods approaches such as</p>",
+        "<ul><li>experimental and quasi-experimental, cohort, cross-sectional and single-subject designs;</li><li>participant observation, in-depth interviews, case-studies, focus groups and artefact analysis designs;</li><li>screening, preventive and genetic/biomarker trials</li><li>construction and administration of surveys and questionnaires and;</li><li>the use of clinical bioinformatics, e-health and large population datasets.</li></ul>",
+        "<p>2. strategies for matching study aims/objectives with selection of an appropriate study design<br/>3. exploring sources of bias in research such as randomization, allocation, concealment and blinding and their relationship to the principles of internal and external validity<br/>4. using published reporting guidelines (eg CONSORT statement) to aid in the design and reporting of a study<br/>5. participant recruitment/retention/attrition, outcome measure selection and the application of power calculations<br/>6. the principles of drug evaluation and regulation</p>"
+    ],
+    "ilo": [
+        "describe the essential elements of a range of quantitative, qualitative and mixed-methods study designs",
+        "critically appraise the application, strengths and limitations of a range of quantitative, qualitative and mixed-methods study designs",
+        "develop a strategy to identify and select an appropriate study design required to answer a specific research question.",
+        "critically discuss the implications of poor study design, or inappropriate design selection, on outcome selection, measurement and analysis",
+        "discuss issues associated with the concepts of internal and external validity.",
+        "design a clinical research study and justify selection of different design elements",
+        "demonstrate expertise in reporting on the critical appraisal and quality assessment of published clinical research studies"
+    ],
+    "generic_skills": [
+        "An understanding of the context of research and how it advances knowledge",
+        "An understanding of the complexities of research activities",
+        "An appreciation of the limitations of research findings",
+        "Clearer understanding of the principles of research design",
+        "Attention to detail"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLRS90027",
+                        "Name": "Principles of Clinical Research",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Examination (equivalent to 1000 words) on the last day of intensive teaching period",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "2 x 10min group presentation during the intensive teaching period, describing a critical evaluation of a selection of published clinical research trials (equivalent to 2000 words)",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Design and critical discussion/justification of a clinical research study using a scenario selected by negotiation with the Subject Co-ordinators",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "25 March 2024 to 28 March 2024",
+            "last_self_enrol_date": "25 March 2024",
+            "census_date": "5 April 2024",
+            "last_date_to_withdraw_without_fail": "26 April 2024",
+            "assessment_period_ends": "6 May 2024",
+            "contact_name": "",
+            "contact_email": null
+        }
+    ]
+}

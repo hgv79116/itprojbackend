@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>This subject exposes students to an integrated perspective of the firm, how it interfaces with its environment, and how it creates and sustains value. Critical to the creation of value is the way a firm interacts with its various stakeholders. The subject builds a conceptual framework to examine the choices managers face in determining how best to create value, and how these choices may be shaped by key stakeholders including: government, society, trading partners, customers, employees and competitors. A key focus of this subject is on value creation as a cross disciplinary and cross firm activity. As such, the focus is on value creation from multiple disciplinary perspectives including strategy, entrepreneurship, marketing, HRM, supply chain management and organisational design.</p>"
+    ],
+    "ilo": [
+        "Explain the major factors driving the focus on more effective value creation practices;",
+        "Connect all value creation activities undertaken by firms and articulate the extent to which they are mutually reinforcing;",
+        "Appreciate the importance and role of new product / service development in determining overall value creation performance;",
+        "Describe theory relevant to the value creation process;",
+        "Explain the issues and challenges facing organisations managing activities involving value creation in an international context;",
+        "Describe the role and importance of emerging technologies and business models in creating and sustaining value;",
+        "Explain the need for coordinated product and process design within the firm, and between members of the value chain;",
+        "Identify a range of strategies for positioning the firm to maximize value potential in dynamic competitive environments."
+    ],
+    "generic_skills": [
+        "Critical evaluation of evidence in support of an argument or proposition;",
+        "Problem solving in management through the ability to define, structure, and prioritise issues; and collect and analyse data to test ideas;",
+        "Communication of business-related ideas, theories and solutions to peers and the wider community;",
+        "Ability to synthesize ideas, theories and data in developing solutions to business problems;",
+        "Ethical practice through a knowledge of corporate governance processes and implementation;",
+        "Research skills including the retrieval of information from a variety of sources;",
+        "Teamwork through collaborative exercises in assessment."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MKTG90037",
+                        "Name": "Managing for Value Creation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group business model canvas analysis \u2013 diagram plus analysis commentary",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Online quizzes",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Online participation in webinars and weekly discussion board",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 2 - Online",
+            "principal_coordinator": "Tom Whitford",
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours equivalent",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 April 2024 to 23 June 2024",
+            "last_self_enrol_date": "23 April 2024",
+            "census_date": "17 May 2024",
+            "last_date_to_withdraw_without_fail": "7 June 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "thomas.whitford@unimelb.edu.au"
+        },
+        {
+            "semester": "Term 4 - Online",
+            "principal_coordinator": "Tom Whitford",
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours equivalent",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "14 October 2024 to  8 December 2024",
+            "last_self_enrol_date": "8 October 2024",
+            "census_date": "1 November 2024",
+            "last_date_to_withdraw_without_fail": "22 November 2024",
+            "assessment_period_ends": "15 December 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

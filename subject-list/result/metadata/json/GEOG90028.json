@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>The subject will provide Masters-level training in desktop, field and/or laboratory techniques that serve as preparation for the completion of a capstone subject in the Master of Geography. Students will choose a topic area/project from a list provided by School of Geography academic staff.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of a specific sub-discipline area of Geography, including critical engagement with academic literature appropriate to the chosen topic.",
+        "Compose a research proposal and evaluate and select suitable methods of investigation.",
+        "Assemble, analyse and interpet data appropriate to the chosen topic.",
+        "Effectively present research results in a written form in a way appropriate to the nature of the data."
+    ],
+    "generic_skills": [
+        "understanding the rationale for undertaking a specific research project;",
+        "the application of geographic methods to a specific research problem;",
+        "working as part of a research team;",
+        "critical, independent thinking;",
+        "problem-solving of practical challenges;",
+        "data processing, organisation and presentation;",
+        "data interpretation",
+        "written presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOG90029",
+                        "Name": "Research Methods in Geography",
+                        "Teaching period": "February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional details\nProject Rationale report (1000 words) due one third of the way through semester (20%)\nMethods report (1500 words) due half-way through semester (30%)\nFinal Results report (2500 words) due at the end of semester (50%)\n"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 16 February 2024",
+            "last_self_enrol_date": "10 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Russell Drysdale",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 - 50 (Depending on Project)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "rnd@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Russell Drysdale",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 to 50 (depending on the project)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rnd@unimelb.edu.au"
+        }
+    ]
+}

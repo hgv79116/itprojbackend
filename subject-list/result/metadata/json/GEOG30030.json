@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>Spatial modelling and analysis underpins many successful management applications for our environment and society. Questions surrounding humans, natural environments, and the relationships between them are inherently complex and necessitate advanced spatial analysis skills to understand and solve.</p>",
+        "<p>This subject will provide highly desired competency in geospatial modelling. These skills are sought after in the workplace, and are also advantageous for students planning further study or research. Here, students will not only learn spatial modelling techniques, but they will also gain a thorough understanding of how to use these methods to address complex environmental, physical and human geography issues. Students will learn to analyse spatial patterns, build their own models, and <a name=\"_Hlk536009242\"></a>relate observations to processes in natural and human environments.</p>",
+        "<p>This subject builds on students\u2019 existing skills and knowledge in spatial analysis for geography. It covers advanced spatial analysis and modelling topics spanning geoprocessing, networks, accessibility, and making predictions relating to the environment (e.g. ecosystem services) or human activities (e.g. land-use change). The primary software used for this subject is ArcGIS, including the Model Builder functionality. Emphasis is placed on project-based learning through computer-based practicals and individual assignments where students build their own geospatial models to answer questions relating to physical, environmental and human geography. This subject is taught in intensive mode, centred around a 2.5 week teaching period beginning late November.</p>"
+    ],
+    "ilo": [
+        "Apply a number of geospatial analysis and data management methods",
+        "Apply and critically evaluate a range of geospatial modelling methods",
+        "Demonstrate the value of making spatial predictions to inform decision making",
+        "Interpret, evaluate and communicate the results of spatial modelling and analyses"
+    ],
+    "generic_skills": [
+        "Ability to identify, formulate, and solve complex problems",
+        "Ability to apply knowledge from physical and human geography",
+        "Ability to communicate effectively, including visual and written modes",
+        "The capacity for independent critical thought, rational inquiry and self-directed learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOG20017",
+                        "Name": "Spatial Analysis in Geography",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent experience by permission of the subject coordinator"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "list",
+                "content": [
+                    "Critical Thinking With Data (UNIB10006)",
+                    "Data Analysis 1 (MAST10010)"
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four 200-word practical class exercises, equally weighted",
+            "bullets": [
+                "800 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Modelling exercise 1 (Model builder)",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "Middle of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Modelling exercise 2 (geographic distributions)",
+            "bullets": [
+                "1400 words"
+            ],
+            "hurdle": null,
+            "timing": "1.5 weeks after the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "0.5 weeks after the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "November",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "51 hours. This includes 9 x 2 hour lectures and 11 x 3 hour practicals spread over 2.5 weeks beginning late November.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "19 November 2024 to  4 December 2024",
+            "last_self_enrol_date": "22 November 2024",
+            "census_date": "29 November 2024",
+            "last_date_to_withdraw_without_fail": "6 December 2024",
+            "assessment_period_ends": "12 December 2024",
+            "contact_name": null,
+            "contact_email": "tim.werner@unimelb.edu.au"
+        }
+    ]
+}

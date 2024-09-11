@@ -1,0 +1,160 @@
+{
+    "overview": [
+        "<p>This subject will explore the fundamentals of quantum programming and quantum algorithm design. The subject will introduce students to a range of different quantum programming platforms and languages, and will include hands-on modules. The students will be prepared to write quantum programs, implement a range of simple quantum algorithms, such as Grover\u2019s and Shor\u2019s algorithms, and to execute quantum programs on a quantum computer through a cloud access.</p>",
+        "<p>This subject will be made up of three parts:</p>",
+        "<ol><li>Fundamentals of quantum computing and quantum programming, including running quantum programs on actual cloud-based quantum computers.</li><li>Programming fundamental quantum algorithms, such as the Deutsch\u2013Jozsa, Grover, Shor and HHL algorithms.</li><li>Quantum programming for cutting edge research topics, such as quantum error correction, variational quantum circuits and quantum machine learning.</li></ol>"
+    ],
+    "ilo": [
+        "1. Develop and understand the fundamental aspects of quantum computing.",
+        "2. Design and implement simple quantum algorithms on multiple quantum hardware architectures.",
+        "3. Construct programs for fundamental quantum algorithms on a cloud-based quantum language/architecture.",
+        "4. Identify the basic building blocks for the fundamental quantum algorithms and understand how/when they can be used in new algorithms.",
+        "5. Analyse and describe modern quantum algorithms, including quantum error correction, VQE, QAOA and quantum machine learning."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution.",
+        "Ability to utilise a systems approach to solving complex problems and to design for operational performance.",
+        "Ability to manage information and documentation.",
+        "Capacity for creativity and innovations.",
+        "Ability to communicate effectively, with the CIS team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-CS Master of Computer Science"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5COMP90041Programming and Software DevelopmentSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Project 1.\n\nCombination of written, programming and calculation. Intended Learning Outcomes (ILOs) 1, 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "Students must pass this assessment to pass the subject",
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Individual Project 2 \n\nCombination of written, programming and calculation. ILOs 3, 4 and 5 are addressed in this assessment.",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "Students must pass this assessment to pass the subject.",
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final exam. ILOs 1, 2, 4 and 5 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Udaya Parampalli",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Udaya Parampalli",
+            "contact_email": "udaya@unimelb.edu.au"
+        }
+    ]
+}

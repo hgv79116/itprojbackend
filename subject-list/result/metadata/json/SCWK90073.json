@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>This subject aims to continue students\u2019 process of self-exploration and theory/practice integration, enabling them to progress a knowledge of self from Professional Identity 1 into a knowledge of professional self in multiple social work contexts.  Students will draw on their previous course work, field education placements and emerging e-portfolio to create and curate a consolidated personal Professional Identity Framework.  They will use this framework to articulate their professional social work identity across academic and multiple workplace settings.</p>"
+    ],
+    "ilo": [
+        "Identify and describe the elements of social work practice and frameworks for illustrating social work professional identity",
+        "Identify and describe different organisational and systemic contexts of social work practice."
+    ],
+    "generic_skills": [
+        "Understand recent developments in social work contexts of practice",
+        "Link theory to practice",
+        "Competently communicate in ways relevant to both academic and practice context."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SCWK90049",
+                        "Name": "Supervised Field Placement 1B",
+                        "Teaching period": "July (On Campus - Parkville)October (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written essay articulating their professional social work identity drawing on evidence from their e-portfolio",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Individual presentation of e-portfolio and social work professional identity for a practice context",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Tutorial Attendance",
+            "bullets": null,
+            "hurdle": "Students must attend 50% of tutorials",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": "Kath Sellick",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "8 July 2024 to 25 August 2024",
+            "last_self_enrol_date": "17 July 2024",
+            "census_date": "19 July 2024",
+            "last_date_to_withdraw_without_fail": "9 August 2024",
+            "assessment_period_ends": "25 August 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "September",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "2 September 2024 to  3 November 2024",
+            "last_self_enrol_date": "13 September 2024",
+            "census_date": "20 September 2024",
+            "last_date_to_withdraw_without_fail": "25 October 2024",
+            "assessment_period_ends": "22 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

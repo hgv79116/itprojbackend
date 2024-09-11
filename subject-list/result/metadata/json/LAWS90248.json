@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>Algorithms are used by public and private bodies to make decisions that govern our lives in significant ways: our healthcare and social welfare entitlements; our educational achievements, jobs, and pay; whether we are subjected to increased police scrutiny, or sent to prison (and for how long). Those algorithms often draw upon patterns in data about large groups of people to predict the future actions, needs or characteristics of specific persons. </p>",
+        "<p>A great deal has been written about the risk of bias and discrimination, understood as the systematic propensity to single out individuals or groups for poor treatment. But what do we really mean when we use those terms? Are there other reasons to worry about predictive algorithms that are not about equality or relative treatment \u2013 reasons, for instance, to think that we should not punish people on the basis of facts about their family history or social circumstance?</p>",
+        "<p>This subject considers what\u2019s at stake for individuals when we are subjected to automated decisions, and the role that the law plays or can play in helping to ensure that algorithms are not used to create or perpetuate injustices.</p>",
+        "<p>Principal topics will include:</p>",
+        "<ul><li>Relevance <br/><ul><li><em>What does it mean to make a \u201cgood\u201d decision?</em></li></ul></li><li>Equality<br/><ul><li><em>Why does inequality matter, and how do algorithms fare?</em></li></ul></li><li>Choice<br/><ul><li><em>How do algorithms affect the control that we have over our lives?</em></li></ul></li><li>Transparency<br/><ul><li><em>Can we really figure out whether algorithmic decisions are just?</em></li></ul></li><li>Privacy<br/><ul><li><em>Do algorithms cross the line?</em></li></ul></li></ul>"
+    ],
+    "ilo": [
+        "Analyse and explain the legal, social-legal, and theoretical context of new technological advances, particularly within the sphere of automated decision-making.",
+        "Use sources appropriately to engage in important debates about the use of algorithms in public and private decision-making.",
+        "Communicate clearly specialised information and concepts relevant to questions of legal theory and doctrine and public policy in the context of automated decision-making.",
+        "Interpret and analyse technical and theoretical information, cutting to the heart of the normative concerns that are prompted by predictive technologies.",
+        "Develop a clear, coherent, rigorous, and well-structured argument, which digs deeply into the moral and legal context of automated decision-making."
+    ],
+    "generic_skills": [
+        "Acquire specialised and interdisciplinary knowledge of how humans make decisions (and whether we are any good at it), how algorithms support those decisions, and how each system fits with legal frameworks that aim to secure individual justice.",
+        "Critically consider the adequacy of legal responses to the challenges raised by the use of algorithms to make and support decisions in the public and private spheres, and questions of legal and regulatory design in multiple jurisdictions.",
+        "Develop the expert and specialised skills necessary to support independent thought and reflection across questions of law, policy, economics, and society as they intersect with predictive algorithms.",
+        "Master technical research skills and communicate specialised information and concepts relevant to questions of legal theory and doctrine, public policy, and commercial practice in the context of artificial decision-making."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class participation and online discussion board contributions",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Group in-class presentation",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Research essay on a topic approved by the subject coordinator",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "7 August 2024",
+            "percentage": "70%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "A minimum of 75% attendance is required.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "June - Online",
+            "principal_coordinator": "Tatiana Cutts",
+            "mode_of_delivery": "Online",
+            "contact_hours": "34",
+            "total_time_commitment": "150 hours",
+            "teaching_period": "5 June 2024 to 12 June 2024",
+            "last_self_enrol_date": "13 May 2024",
+            "census_date": "6 June 2024",
+            "last_date_to_withdraw_without_fail": "12 July 2024",
+            "assessment_period_ends": "7 August 2024",
+            "contact_name": "Teaching staff:",
+            "contact_email": "contact theLaw SchoolAcademic Support Office"
+        },
+        {
+            "semester": "October - Online",
+            "principal_coordinator": "Tatiana Cutts",
+            "mode_of_delivery": "Online",
+            "contact_hours": "34",
+            "total_time_commitment": "150 hours",
+            "teaching_period": "7 October 2024 to 11 October 2024",
+            "last_self_enrol_date": "13 September 2024",
+            "census_date": "8 October 2024",
+            "last_date_to_withdraw_without_fail": "1 November 2024",
+            "assessment_period_ends": "4 December 2024",
+            "contact_name": "Teaching Staff:",
+            "contact_email": "contact theLaw SchoolAcademic Support Office"
+        }
+    ]
+}

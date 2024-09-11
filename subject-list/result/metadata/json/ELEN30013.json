@@ -1,0 +1,179 @@
+{
+    "overview": [
+        "<p><strong>AIMS<br/><br/></strong>This subject provides students with hands-on electronic skills to gain basic competencies in design and implementation of simple circuits. Students will design with a range of standard electrical and electronic devices, basic circuit construction methods and electrical measurement techniques to test and verify the function of electronic systems. This subject is one of four subjects that define the Electrical Systems Major in the Bachelor of Science and it is a core requirement for the Master of Engineering (Electrical) and the Master of Engineering (Electrical with Business).<br/>This includes hands-on experience with:<br/>\u2022 Operation and selection of electrical and electronic devices used in various electronic circuits;<br/>\u2022 Common electronic circuit realisations to meet the most commonly required signal processing and conditioning applications;<br/>\u2022 Programmable digital circuits and microprocessor programming;<br/>\u2022 Circuit design and simulation tools;<br/>\u2022 Printed circuit board layout, circuit assembly, and soldering techniques;<br/>\u2022 Test and Measurement equipment and methods;<br/>\u2022 Managing design issues and requirements.</p>",
+        "<p>Students will complete electronic circuit implementation projects in small groups and be required to prepare technical documentation and present project outcomes.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong><br/>\u2022 Devices such as resistors, capacitors, inductors, switches, transducers, motors, diodes, transistors, op-amps, voltage regulators, comparators, oscillators, timers, A/D and D/A converters, microprocessors and controllers;<br/>\u2022 Circuit functions and techniques such as buffering, referencing, signal conditioning, filtering, bridges, detection, waveform generation, and pulse-width modulation;<br/>\u2022 Microprocessor programming, the role of assembly and high-level languages, assemblers, compilers and debuggers;<br/>\u2022 PCB layout, circuit assembly, and soldering techniques;<br/>\u2022 Test and Measurement methods and working with common equipment such as multimeters and oscilloscopes.</p>"
+    ],
+    "ilo": [
+        "1. Apply practical knowledge of a range of standard electronic devices and circuit functions and techniques",
+        "2. Identify choices in implementing a design for a given problem and make tradeoffs on the basis of the relative merits of different approaches",
+        "3. Demonstrate an understanding of Electronic Manufacturing Processes and how these relate to engineering design constraints",
+        "4. Work in teams to assemble, test and debug the hardware and software components of simple electronic systems and then combine these into an integrated system."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Capacity for independent critical thought, rational inquiry, creativity, innovation, and self-directed learning;",
+        "Ability to work effectively in a team environment in order to produce a satisfactory project outcome;",
+        "Ability to communicate effectively, with the engineering team and with the community at large."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsELEN20006Digital SystemsSemester 1 (On Campus - Parkville)12.5ELEN30014Analog and Digital Electronics ConceptsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20006",
+                        "Name": "Digital Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30014",
+                        "Name": "Analog and Digital Electronics Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "ELEN30010 Digital System Design"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN20005Foundations of Electrical NetworksSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN20005",
+                        "Name": "Foundations of Electrical Networks",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsPHYC10004Physics 2: Physical Science & TechnologySummer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ELEN30009Electrical Network Analysis and DesignSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5ELEN30010Digital System DesignNo longer availableCOMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC10004",
+                        "Name": "Physics 2: Physical Science & Technology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30009",
+                        "Name": "Electrical Network Analysis and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN30010",
+                        "Name": "Digital System Design",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written examination.",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group Presentation: a 15 minute\n\npresentation by a 3-person group\n\non proposed design, equivalent to 500\n\nwords per student.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group presentation, 20 min per group, equivalent of 500 words per student.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 9",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Continuous assessment of submitted assignments and quizzes. (quizzes 10%, project work demonstration or report 20%) equivalent to approximately 1500 word",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final group presentation/demonstration : 20 min per group, equivalent to 500 words per student.",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sejeong Kim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures and 1 x three hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "sejeong.kim@unimelb.edu.au"
+        }
+    ]
+}

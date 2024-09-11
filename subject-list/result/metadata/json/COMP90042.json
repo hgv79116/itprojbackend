@@ -1,0 +1,191 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Much of the world's knowledge is stored in the form of text, and accordingly, understanding and harnessing knowledge from text are key challenges. In this subject, students will learn computational methods for working with text, in the form of natural language understanding, and language generation. Students will develop an understanding of the main algorithms used in natural language processing, for use in a diverse range of applications including machine translation, text mining, sentiment analysis, and question answering. The programming language used is Python.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered may include:</p>",
+        "<ul><li>Text classification and unsupervised topic discovery</li><li>Vector space models for natural language semantics</li><li>Structured prediction for tagging</li><li>Syntax models for parsing of sentences and documents</li><li>N-gram language modelling</li><li>Automatic translation, and multilingual methods</li><li>Relation extraction and coreference resolution</li></ul>"
+    ],
+    "ilo": [
+        "Identify basic challenges associated with the computational modelling of natural language",
+        "Understand and articulate the mathematical and/or algorithmic basis of common techniques used in natural language processing",
+        "Implement relevant techniques and/or interface with existing libraries",
+        "Carry out end-to-end research experiments, including evaluation with text corpora as well as presentation and interpretation of results",
+        "Critically analyse and assess text-processing systems and communicate criticisms constructively"
+    ],
+    "generic_skills": [
+        "Formulate and implement algorithmic solutions to computational problems, with reference to the research literature",
+        "Apply a systems approach to complex problems, and design for operational efficiency",
+        "Design, implement and test programs for small and medium size problems in the Python programming language"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP30027Machine LearningSemester 1 (On Campus - Parkville)12.5COMP90049Introduction to Machine LearningSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP90051Statistical Machine LearningSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP30018Knowledge TechnologiesNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30027",
+                        "Name": "Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90049",
+                        "Name": "Introduction to Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90051",
+                        "Name": "Statistical Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP30018",
+                        "Name": "Knowledge Technologies",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "100pt Program course entry point in the MC-IT Master of Information Technology",
+                    "150pt Program course entry point in the MC-IT Master of Information Technology"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into or selection of one of the following:Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information TechnologyArtificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information TechnologyDistributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information TechnologyDistributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information TechnologyComputing (100pt) specialisation (formal) in the MC-IT Master of Information TechnologyComputing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "433-460 Human Language Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-467 Text and Document Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-660 Human Language Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-667 Text and Document Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-476 Text and Document Management"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 short programming assignments.\n\n\n\nAssignment 1: due Week 5; weight 9%; duration 8-10 hours. \n\n\n\nAssignment 2: due Week 6; weight 8%; duration 7-10hours.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "17%"
+        },
+        {
+            "brief": "A group-based (group of 2-3) research project essay working from Week 6 to 12 with a Week 12 submission.",
+            "bullets": [
+                "50-70 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "35%"
+        },
+        {
+            "brief": "1 peer review assignment of other student groups' research project essays.",
+            "bullets": [
+                "5-10 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "Week 12",
+            "percentage": "8%"
+        },
+        {
+            "brief": "One examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Hurdle:\n\n50% overall  \n\n30/60 for continuous assessment  \n\n20/40 for final exam  ",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Jey Han Lau",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Jey Han Lau",
+            "contact_email": "laujh@unimelb.edu.au"
+        }
+    ]
+}

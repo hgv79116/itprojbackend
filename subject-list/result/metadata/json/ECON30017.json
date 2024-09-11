@@ -1,0 +1,66 @@
+{
+    "overview": [
+        "<p>This subject is concerned with the economics of asymmetric information, when agents may have private knowledge, take hidden actions, and attempt to manipulate the knowledge, information and incentives of others. Using game theory and information economics it will cover the main techniques and results of principal-agent theory and contract theory. It will introduce students to the principles of economic design in asymmetric information environments. These tools will be applied to a variety of topics and case studies, performance incentives, regulation, government procurement, structure of insurance markets, monopoly behaviour, agricultural contracts and share cropping.</p>"
+    ],
+    "ilo": [
+        "Understand the concepts of economics of information and be able to apply them to explain the contracts within organisations",
+        "Analyse a firm\u2019s behaviour under different contractual structures"
+    ],
+    "generic_skills": [
+        "High level of development: problem solving.",
+        "Moderate level of development: application of theory to practice; interpretation and analysis; critical thinking; evaluation of data and other information.",
+        "Some level of development: statistical reasoning; receptiveness to alternative ideas."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON30010",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A mid-semester examination (20% or 30%)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "An in-course assignment totalling no more than 2000 words due in Week 3, 5, 9, 11",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An examination (50% or 60%)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

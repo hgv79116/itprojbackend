@@ -1,0 +1,171 @@
+{
+    "overview": [
+        "<p>Building Information Modelling (BIM) and its associated technologies and processes can integrate the project team and facilitate high-quality and cost-efficient work. This subject will introduce BIM principles and break down the jargon around the topic of BIM. During tutorials, students will learn about the most popular BIM software in the industry and will work with the software to create and manage building project information throughout the design, construction and operation phases. To this end, students will develop 2D and 3D representations of a building information model using design BIM authoring software (e.g. Autodesk Revit). Later, BIM coordination software (e.g. Autodesk Navisworks) will be used for 3D model checking and detecting clashes in 3D disciplinary models, followed by developing a 4D BIM model (construction planning and simulation) as well as developing a 5D BIM model (quantification) of the given project. Throughout the process, students will use an online BIM collaboration platform to collaborate with their teammates and share project documents and information.</p>",
+        "<p><strong>Prescribed software programs with no cost</strong><br/>Autodesk Revit<br/>Autodesk Navisworks Manage<br/><br/>Details of software availability and pricing are captured at: <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support\">https://msd.unimelb.edu.au/current-students/student-experience/it-support</a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Understand and apply the BIM process to the changing construction project delivery practices;",
+        "Explore and adopt BIM tools in a project lifecycle;",
+        "Develop 3D Building Information Model;",
+        "Develop multidimensional project information model;",
+        "Investigate and detect disciplinary clashes within project information models;",
+        "Plan for construction and develop construction model using BIM-based construction simulation software;",
+        "Extract quantities of building elements and materials using BIM-based estimation and take off software;",
+        "Critically assess the benefits, risks, and challenges to the adoption of BIM."
+    ],
+    "generic_skills": [
+        "\u00ad\tAbility to synthesise BIM technical terminologies.\n\n\u00ad",
+        "Ability to assess and adopt relevant BIM tools across the project lifecycle.\n\n\u00ad",
+        "Ability to develop 3D, 4D and 5D representations of building information.\n\n\u00ad",
+        "Ability to assess and adopt digital libraries for building elements in developing information model.\n\n\u00ad",
+        "Ability to create digital construction documentation for building projects.\n\n\u00ad",
+        "Ability to effectively participate as a team member."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "200pt Program course entry point in the MC-CM Master of Construction Management",
+                    "200pt Program course entry point in the MC-ARCH Master of Architecture",
+                    "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "400pt Program Course entry in the MC-ARCHCM (Master of Architecture /Master of Construction Management - Construction background)"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 300pt Program course entry point in the MC-CM Master of Construction Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsABPL90292Construction of BuildingsSemester 1 (On Campus - Parkville)12.5ABPL90313Management of ConstructionSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL90292",
+                        "Name": "Construction of Buildings",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL90313",
+                        "Name": "Management of Construction",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Approval  from the subject coordinator"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CONS30001",
+                        "Name": "Building Information Modelling",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Professional report (critical analysis of BIM adoption challenges and benefits),  and  3D Building Information Model using BIM software",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assignment 2 ( group work) : Professional report (critical analysis of disciplinary clashes), AND\n\n Multidimensional Information Model using BIM software, AND Class presentation (group)",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11 and 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final Written exam",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": "A minimum mark of 40% must be achieved in the examination to pass the subject\n\n",
+            "timing": "End of semester",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1X1 hour lecture and 1X3 hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Mehran Oraee",
+            "contact_email": "mehran.oraee@unimelb.edu.au"
+        }
+    ]
+}

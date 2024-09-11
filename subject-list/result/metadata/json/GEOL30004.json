@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>This subject will examine the role that geochemistry plays in Earth processes\u2013including those associated with the formation and evolution of our planet. It will explore the many ways in which the geochemical data preserved in rocks and minerals can provide quantitative and qualitative insights into these Earth-forming processes, including the timing of key events in our planet\u2019s history. Many of the approaches investigated in this subject can also be applied to a wide range of topics such as palaeoclimate reconstruction, resource exploration and archaeological science. The subject emphasises the application of geochemical methods to unfamiliar problems, simulating the experience of a working geoscientist, and is applicable to broader range of scientific careers.</p>"
+    ],
+    "ilo": [
+        "Describe how the solid Earth can usefully be considered in terms of chemical reservoirs, and movement of material between those reservoirs",
+        "Use isotope geochemical methods to estimate absolute ages for magmatic and metamorphic processes",
+        "Use ratios and trends in trace element geochemistry to describe and interpret magmatic and metamorphic processes",
+        "Use major element geochemistry and the assumption of phase equilibrium to describe and interpret geological processes",
+        "Synthesise geochemical datasets to form conclusions about a geological terrane",
+        "Identify how or when different geochemical tools are best applied to solve petrogenetic problems"
+    ],
+    "generic_skills": [
+        "Skills in the nuanced and critical appraisal of complex data",
+        "Digital data processing skills",
+        "Problem-solving skills",
+        "Effective written communication skills",
+        "Collaboration and team-work skills",
+        "Time and workload management skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOL20003",
+                        "Name": "Building Earth: Rocks, Minerals, Magmas",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC20008",
+                        "Name": "Earth's Surface Processes",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GEOL20002",
+                        "Name": "Investigating Earth's Structure",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ERTH20002",
+                        "Name": "Environmental Geoscience",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-GEOSC Master of Geoscience"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three assessments based on practical knowledge (400 - 450 words equivalent each; 10% each)",
+            "bullets": [
+                "1250 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 5, 8 and 10.",
+            "percentage": "30%"
+        },
+        {
+            "brief": "In-class practical quiz",
+            "bullets": [
+                "1.25 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x two hour lecture per week; and 1 x two hour practical class per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "brandon.mahan@unimelb.edu.au"
+        }
+    ]
+}

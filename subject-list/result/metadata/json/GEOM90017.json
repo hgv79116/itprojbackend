@@ -1,0 +1,77 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>In this subject the student will be hosted for 100 hours of project work within a private or public sector organization involved in the surveying and spatial information industry. A program of study/work will be prescribed in the first week of the semester. This subject will require the student to integrate and apply knowledge from their University study to new and more complex situations they typically encountered in their course. Evidence of development of an enhanced knowledge of their subject matter and/or advanced capability in the use and development of associated technologies employed in the collaborative project work will need to be demonstrated.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>The learning activities will be discussed and agreed between the academic coordinator, the host and the student.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an enhanced knowledge of their subject matter",
+        "Interpret their knowledge on the basis of requirements of the surveying and spatial information industry",
+        "Demonstrate an advanced capability in the use and development of associated technologies employed in the collaborative project work."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Understanding of the business environment",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Understanding of professional and ethical responsibilities, and commitment to them."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90033",
+                        "Name": "Internship",
+                        "Teaching period": "Semester 1 (Dual-Delivery - Parkville)Semester 2 (Dual-Delivery - Parkville)Summer Term (Dual-Delivery - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "ISYS90080 IT Industry Placement"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A work plan of 500 words, for the internship and indicative examples of portfolio entries. Intended Learning Outcome (ILO) 2 is addressed in the work plan",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due one quarter of the way through the semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "A portfolio of examples of work 100 pages maximum, undertaken during the internship, presented for assessment by the host and the academic coordinator. ILOs 1,2 and 3 are addressed in the portfolio of work",
+            "bullets": [
+                "50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Reflective report of not more than 2500 words. ILO 2 is addressed in the report.",
+            "bullets": [
+                "45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": []
+}

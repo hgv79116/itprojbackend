@@ -1,0 +1,130 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">This is an advanced course in macroeconomic theory, with the intention of introducing students to frontier techniques. Topics may include: techniques of dynamic optimization, dynamic optimization theory, economic growth, optimal taxation, unemployment, and money.</p>"
+    ],
+    "ilo": [
+        "Solve first-order and second-order ordinary differential equations and apply these solutions to explain possible macroeconomic outcomes;",
+        "To apply basic dynamic techniques to macroeconomic models in order to solve for short-run and long-run outcomes;",
+        "To apply the techniques of static and dynamic optimisation to solve macroeconomic problems including, in particular, to solve the intertemporal problem of the representative firm and to solve the intertemporal problem of the optimising consumer;",
+        "To integrate the model of the representative firm and the optimising consumer into a representative agent model of the economy;",
+        "To apply standard dynamic techniques to growth theory models."
+    ],
+    "generic_skills": [
+        "The use of dynamic macroeconomic models;",
+        "The explanation of likely economic outcomes in the short-run, in the long-run and in the transition from short-run to long-run equilibria;",
+        "The use of optimisation techniques to derive theoretical models that can explain the behaviour of economic agents;",
+        "The integration of theoretical models based on optimising behaviour into full-scale models of the macro-economy;",
+        "The improvement of problem solving skills, through completing class assignments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-ECO Master of Economics"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 100 credit points of study"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-COMECO Master of Commerce (Economics)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "8%"
+        },
+        {
+            "brief": "Assignment 3",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "7%"
+        },
+        {
+            "brief": "Mid-semester examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "May Li",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Seminars or lectures and tutorials totalling three hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "shuyunl@unimelb.edu.au"
+        }
+    ]
+}

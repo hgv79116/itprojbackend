@@ -1,0 +1,72 @@
+{
+    "overview": [
+        "<p>The air is an undervalued environmental resource - subject at times to catastrophic and chronic pollution events. 'What constitutes good air?' 'What environmental protections are in place?' and 'How do we know the air quality?' are all questions addressed in this subject. Major infrastructure projects require air quality assessments and emergency/health service providers need to assess air quality data to advise the public. Working with industry professionals working in the air quality space and exploring low-cost sensor technology interfaced with python code students will build their own air monitoring sensor and design an experiment to evaluate the air we breathe - synthesizing the findings into an air action plan.</p>"
+    ],
+    "ilo": [
+        "Describe drivers of air quality",
+        "Evaluate trace-gas concentrations from diffuse and point source emission fluxes against national standards and health recommendations",
+        "Describe air monitoring sensor technology and build a low-cost sensor",
+        "Design and implement a sampling and calibration strategy for air quality monitoring",
+        "Synthesise air quality observations into an air action plan for a client"
+    ],
+    "generic_skills": [
+        "Environmental monitoring experimental design",
+        "Data analysis and uncertainty evaluation",
+        "Oral and written client communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An in-class test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Day 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An instrument build. This assessment task is to ensure that a functioning air quality monitor is built from the components provided. We will assess the instrument build, the python code to read the data, and an initial data output",
+            "bullets": [
+                "5 pages"
+            ],
+            "hurdle": "",
+            "timing": "Day 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A group presentation on the experimental design",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Day 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "A written report in the form of a Client Report",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,99 @@
+{
+    "overview": [
+        "<p>Mechatronics Systems Design uses a project-based learning approach to enable students to experience the integrated design process of mechatronics systems and acquire relevant knowledge and skills. Students will come to appreciate various components of mechatronics systems, such as sensors and actuators and will learn the fundamental principles, operating characteristics, strengths and weaknesses of these components.</p>",
+        "<p><br/>Students will learn about important aspects of the design process, including integrated iterative design, division a system into sub-systems, component selection and sizing, and the inclusion of various considerations into a quantifiably justified design.</p>",
+        "<p><br/>The subject also provides wider background knowledge of mechatronics, exposing the students to the current state-of-the-art and current challenges. Continuous assessment based on design exercises with increasing degrees of complexity will bring the lecture material into practice.</p>"
+    ],
+    "ilo": [
+        "Demonstrate a well-developed proficiency in engineering design methodologies that can assist the creation of mechatronics systems and artefacts;",
+        "Construct well-reasoned engineering requirements for a given problem or need;",
+        "Demonstrate proficiency in the concepts of mechatronic system integration: of actuation, sensors and independent control to achieve the capabilities of autonomous systems;",
+        "Manage relatively complex engineering design projects;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MCEN30021",
+                        "Name": "Mechanical Systems Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 (Individual Assessment). Intended Learning Outcome (ILO 3) is addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": "Students must pass the combined individual assessments (assessment 1 and assessment 5 combined) to pass the subject",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 2  (Group based report). 15 hours of work per student. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 7 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assessment 3 (Group-based project demonstration and evaluation). 30 hours of work per student. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Assessment 4 (Group-based project report). ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assessment 5 (Individual report). ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "25 hours"
+            ],
+            "hurdle": "Students must pass the combined individual assessments (assessment 1 and assessment 5 combined) to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures, 24 hours of workshop, 2 hours of final exam",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Prof. Ying Tan",
+            "contact_email": "yingt@unimelb.edu.au"
+        }
+    ]
+}

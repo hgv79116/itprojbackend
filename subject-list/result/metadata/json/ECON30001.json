@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This subject will cover the determinants, patterns and effects of international trade within a general equilibrium framework, where the interrelationships amongst product and factor markets in an economy are explicitly taken into consideration. It deals with how trade is affected by government policies and international trading agreements. It introduces basic analytical tools for evaluating the welfare and income distributional consequences of trade policies from both an industry and national perspective. The theories are related to current issues in international economics, such as globalisation, regional trading blocs and trade policies generally in Australia and the rest of the world.</p>"
+    ],
+    "ilo": [
+        "Analyse the determinants, patterns and effects of international trade within a general equilibrium framework, where the interrelationships amongst product and factor markets in an economy are explicitly taken into consideration;",
+        "Explain the effect of government policy on trade;",
+        "Critically evaluate the welfare and income distributional consequences of trade policies; and",
+        "Describe theoretical models in trade theory and apply these theories to the real world trade issues."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; interpretation and analysis; critical thinking.",
+        "Moderate level of development: application of theory to practice; synthesis of data and other information.",
+        "Some level of development: written communication; collaborative learning; statistical reasoning; evaluation of data and other information; receptiveness to alternative ideas."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online Test",
+            "bullets": [
+                "50 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Tutorial attendance and participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end of semester examination ",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Nikhil Damodaran",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "nikhil.damodaran@unimelb.edu.au"
+        }
+    ]
+}

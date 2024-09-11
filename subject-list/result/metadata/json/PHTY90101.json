@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>This subject will build on research knowledge from Research and Evidence 1 and integrate to apply research concepts in the individual physiotherapy clinical practice streams. Specific content in this subject will focus on exploratory and experimental research design and methodology, incorporating statistical analysis and critical appraisal. Epidemiological constructs of prevalence, incidence and risk will be introduced in conjunction with applied clinical concepts such as number needed to treat and odds ratios. Methodology relating to survey design, development and analysis will be presented. Qualitative research methodology and interpretation will be introduced, included critical appraisal. On completion of this subject, students will be able to apply all five steps in practicing evidence-based physiotherapy: (1. Convert information needs into answerable questions, 2. Track down the best evidence with which to answer those questions, 3. Critically appraise research evidence, 4. Integrate evidence with clinical expertise &amp; patient preferences and 5. Evaluate effectiveness of steps 1-4.</p>"
+    ],
+    "ilo": [
+        "Critically appraise exploratory and experimental research studies, in particular randomized controlled trials, for the validity of their conclusions to contemporary physiotherapy clinical practice",
+        "Interpret findings from statistical tests for analysing quantitative data obtained from exploratory & experimental study designs",
+        "Compare and contrast the methodology of qualitative research approaches to quantitative research",
+        "Infer the likelihood of disease development from measures of relative risk and odds ratios reported in epidemiological research studies",
+        "Interpret the relevance of findings from observational research studies to physiotherapy practice, particularly in relation to diagnosis and prognosis",
+        "Interpret the relevance of findings from experimental research studies to physiotherapy practice, particularly in relation to physiotherapy treatment",
+        "Integrate evidence from exploratory and experimental clinical research studies into physiotherapy practice",
+        "Critically analyse, using qualitative research methodologies, individual perspectives of health and illness"
+    ],
+    "generic_skills": [
+        "critically appraising health-related qualitative and quantitative research studies",
+        "appraising the evidence-base underpinning physiotherapy treatment strategies when selecting treatment techniques in clinical practice",
+        "written and verbal communication skills, including group presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90094",
+                        "Name": "Research and Evidence 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Content quiz: Three (3) 10-question quizzes on module content",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual written critical appraisal assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Individual oral presentation in Journal Club",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group written assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "At the end of the assessment period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours of lectures, self-directed tutorials and journal clubs and online learning",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "15 January 2024 to  7 June 2024",
+            "last_self_enrol_date": "26 January 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

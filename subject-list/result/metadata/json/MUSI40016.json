@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p>Students will develop instrumental, vocal or conducting technique to a level appropriate to a fourth year of study and a sophisticated awareness of the stylistic and interpretative characteristics of the repertory studies.</p>"
+    ],
+    "ilo": [
+        "perform technically based repertoire with fluency;",
+        "identify and develop musically appropriate solutions for technical difficulties;",
+        "evaluate and respond to technical demands in selected repertoire; and",
+        "respond with musical understanding to the aesthetic qualities of technical \u00adrepertoire."
+    ],
+    "generic_skills": [
+        "problem solving skills",
+        "skills in critical thinking and self-evaluation."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI40088",
+                        "Name": "Integrated Musical Practice 1",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A technical examination of approved technical repertoire",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "A 45-minute individual lesson each week; instrument class as arranged; regular concert practice class",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "A 45-minute individual lesson each week; instrument class as arranged; regular concert practice class",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "overview": [
+        "<p>This subject is designed to enable students to apply the fundamental principles of material sciences to biomedical applications. It will introduce different materials (polymers, metals, ceramics and composites) and their behaviours in contact with biological environments. In addition, students will learn about the properties of biological materials like bone, muscles, skin and vasculature.</p>"
+    ],
+    "ilo": [
+        "1. Describe the material science and engineering requirements related to biomaterials",
+        "2. Describe the interactions between materials and biological systems or environments",
+        "3. Employ engineering analysis methods to evaluate the selection and performance of biomaterials",
+        "4. Critically reflect on and apply basic regulatory and ethical concepts to biomaterials",
+        "5. Construct a protocol to evaluate material properties",
+        "6. Demonstrate clear technical written and oral communication skills to describe the key challenges when designing and evaluating biomaterials"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Understanding of the principles of sustainable design and development",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCHEM10003Chemistry 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5CHEM10006Chemistry for BiomedicineSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10002Biomolecules and CellsSemester 1 (On Campus - Parkville)12.5BIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10004 Biology of Cells and Organisms"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBMEN30010Mechanics for BioengineeringSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN30010",
+                        "Name": "Mechanics for Bioengineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BMEN20001 Biomechanical Physics and Computation"
+            },
+            {
+                "type": "paragraph",
+                "content": "Mid-year intake students must seek approval from subject coordinator to enrol in Biology or Chemistry Year 1 selective and BMEN30010 concurrently. Please attach approval to enrolment assistance form."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two online quizzes each worth 5% each. 15 minutes each\n\n(30 minutes total) Intended Learning  Outcomes (ILOs) 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "30 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written laboratory reports (groups of two or three students; 1000 words per student). ILOs 1 - 3, 5 and 6 are addressed in this assessment.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written report on Group Assignment (groups of three or four students; 1000-word per student). ILOs 1 - 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral presentation on Group Assignment (groups of three or four students; 5-minute presentation per student). ILOs 1 - 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "5 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 11 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written 2-hour examination. ILOs 1 - 4 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 2\u2010hour and 1 x 1 hour lectures per week (total 36 hours)\n\n1 x 2\u2010hour workshops per week for 10 weeks (total 20 hours)\n\n2 x 2 hour practicals a semester (total 4 hours)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Brooke Farrugia",
+            "contact_email": "brooke.farrugia@unimelb.edu.au"
+        }
+    ]
+}

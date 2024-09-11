@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>This course is designed to introduce you to the mathematical underpinnings of the main tools used in empirical economics. Special emphasis will be given to three topics: models of probability, methods of estimation, and methods of inference. Simple mathematical analysis, in particular both differential and integral calculus as well as linear algebra, will be used extensively throughout the course. In an effort to bridge the gap between analytic, closed-form methods and numerical methods, you will also be introduced to a high-level matrix and programming language, Matlab, to provide you with a basis to solve problems which have no closed-form solutions.</p>"
+    ],
+    "ilo": [
+        "Critically evaluate current econometric research published in the top ranking international economic and econometric journals;",
+        "Reproduce existing econometric research;",
+        "Identify the key arguments and strategies underlying current and existing econometric research."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Critical thinking",
+        "Application of software to write computer programs to perform a series of steps",
+        "Statistical reasoning",
+        "Problem solving skills",
+        "Written and oral communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM40006Econometrics 3Semester 1 (On Campus - Parkville)12.5ECOM90013Econometrics 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM40006",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM90013",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "10 weekly assignments, 400 words each",
+            "bullets": [
+                "4000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Marc Chan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One three-hour lecture per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "marc.chan@unimelb.edu.au"
+        }
+    ]
+}

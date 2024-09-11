@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>This subject focuses on creating and animating characters and worlds to build on knowledge and skills acquired in Animation Studio 1A and 1B.</p>",
+        "<p>The subject aims to provide students with skills in testing and experimenting with original designs to further advance their knowledge in animation acting, animation timing, environments, colour, lighting and scene planning.</p>",
+        "<p>Students will apply digital 2D and 3D animation and design tools to create model sheets, colour scripts, storyboards, lip synchronisation and animation sequences.</p>"
+    ],
+    "ilo": [
+        "demonstrate character design principles for animation;",
+        "apply production design techniques to world building;",
+        "show creative animation development through experimentation;",
+        "produce a range of character movements and timings that show personality and expression;",
+        "demonstrate organisational skills when managing animation productions;",
+        "identify new and emerging animation tools and techniques;",
+        "critique, evaluate and apply feedback to reflect on animation tests and experiments."
+    ],
+    "generic_skills": [
+        "communicate in visual form;",
+        "plan and organise their work within the resources and time frame available;",
+        "lead a team and work collaboratively;",
+        "apply practical knowledge to practical problems;",
+        "begin to develop a set of flexible and transferable skills for different types of employment."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FLTV10019",
+                        "Name": "Animation Studio 1B",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "FLTV10020",
+                        "Name": "Animation Lab 1",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Folio of 3D exercises",
+            "bullets": [
+                "2800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Folio of seven 2D exercises",
+            "bullets": [
+                "2800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "10 to 30-second test animation production, including a 1000-word four-step review process",
+            "bullets": [
+                "2400 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must submit all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 75% of all scheduled classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "84 hours, comprising two 3.5-hour classes per week",
+            "total_time_commitment": "408 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "darren.bell@unimelb.edu.au"
+        }
+    ]
+}

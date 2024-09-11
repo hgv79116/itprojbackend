@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject covers the fundamental design and performance issues associated with the physical and media access control of wireless networks.<strong><br/><br/>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Wireless RF link basics (antenna characterisation, polarisation, EIRP, propagation loss);</li><li>Principles of cellular mobile radio systems (cells and frequency reuse, handover, cell splitting, sectorisation);</li><li>Characterisation and modelling of wireless channels (small scale fading including multipath channels, large scale fading);</li><li>Link budgets;</li><li>Modulation methods (linear, non-linear, single-carrier, multi-carrier OFDM);</li><li>Duplexing methods (time-division, frequency-division);</li><li>Multiple access methods (frequency-division, time-division, code-division, space-division and orthogonal-frequency-division multiple access), contention and non-contention methods;</li><li>Equalisation techniques (linear, non-linear, time-domain, frequency domain);</li><li>Lowpass Representation off Bandpass Signals and Systems;</li><li>Channel coding for error control (block codes, convolutional codes, turbo codes, LDPC), automatic repeat request (ARQ) protocols, hybrid ARQ protocols (including incremental redundancy);</li><li>Interleaving;</li><li>Diversity techniques (space diversity, frequency diversity, time diversity, multi-user diversity) and combining techniques;</li><li>Multiple antenna technologies (transmit and receive diversity, space-time block codes, beamforming, spatial multiplexing, MIMO);</li><li>Transmission of digital signals over fading channels;</li><li>Introduction to cellular mobile technologies (GSM/GPRS/EDGE, WCDMA/HSPA and LTE). Students will undertake a wireless project, such as network design, or analysis.</li></ul>"
+    ],
+    "ilo": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN90051Advanced Communication SystemsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90051",
+                        "Name": "Advanced Communication Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "ELEN40003 Digital Communications"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Formally supervised written examination in the form of a summative exam",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Three homework assignments in the form of a formative assessment, not exceeding 30 pages over the semester",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,208 @@
+{
+    "overview": [
+        "<p>This course teaches students how to build econometric models from economic theory to investigate how markets operate, and evaluate policy-relevant questions. Applicants of econometric tools developed in this course will be highlighted in various fields of economics including industrial organization, public economics, health and others. Examples of topics covered include: firms\u2019 use of price discrimination as a profit-maximizing strategy; measuring the welfare effects of mergers for antitrust analysis; identifying strategic interaction amongst governments and its impact on policy decisions; and quantifying moral hazard and adverse selection in health insurance markets. Basic topics in numerical analysis will also be covered, including optimization, numerical integration, and numerical differentiation. The computer software used is MATLAB.</p>"
+    ],
+    "ilo": [
+        "Estimate structural econometric models and use counterfactual analysis to assess policy questions",
+        "Understand basic identification challenges in estimating the parameters of economic models",
+        "Learn basic programming skills and numerical methods",
+        "Apply methods learned in the course to address policy questions for an industry."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information; use of computer software; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: collaborative learning; team work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90063",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsECOM40006Econometrics 3Semester 1 (On Campus - Parkville)12.5ECOM90013Econometrics 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM40006",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM90013",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40007",
+                        "Name": "Industrial Organisation",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "For Masters students and PhD students outside economics:\n\n\n\nClass assignment 1 in computer code",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For Masters students and PhD students outside economics:\n\n\n\nClass assignment 2 in computer code",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For Masters students and PhD students outside economics:\n\n\n\nClass assignment 3 in computer code",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For Masters students and PhD students outside economics:\n\n\n\nClass assignment 4 in computer code",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For Masters students and PhD students outside economics:\n\nEnd-of-semester exam",
+            "bullets": [
+                "180 minutes"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "For PhD students in economics:\n\n\n\nClass assignment 1 in computer code",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For PhD students in economics:\n\n\n\nClass assignment 2 in computer code",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For PhD students in economics:\n\n\n\nClass assignment 3 in computer code",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For PhD students in economics:\n\n\n\nClass assignment 4 in computer code",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "For PhD students in economics:\n\n\n\nWithin-semester 1-hour paper presentation",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "For PhD students in economics:\n\n\n\nWithin-semester research article referee report",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "For PhD students in economics:\n\n\n\nWithin-semester independent model coding and estimation project",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Andy Wu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Seminars, or lectures and tutorials totalling 3-hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "andy.wu1@unimelb.edu.au"
+        }
+    ]
+}

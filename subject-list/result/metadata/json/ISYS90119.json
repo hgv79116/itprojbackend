@@ -1,0 +1,153 @@
+{
+    "overview": [
+        "<p>This subject provides final semester Master of Information Systems (MIS) students with the opportunity to undertake an industry-based project to demonstrate and apply their knowledge and skills in Information Systems. Students will work in a group of four to solve specific problems experienced by their industry client. Each group will be allocated an academic mentor.<br/>The subject involves in-depth investigations of a business problem in the real world and the proposal of a solution that may involve information systems and/or business process reengineering. The proposed solution should offer economic, environmental, and social benefits to the client organisation and their stakeholders. Typical project tasks include defining project requirements, researching relevant literature, designing, and evaluating a solution, and communicating project outcomes to the industry client, practitioners, academics, and the general public.<br/>While undertaking the project, students will need to demonstrate an understanding of IS professional practice, ethical conduct, and sustainability considerations.</p>",
+        "<p>Please note - this subject must be completed in the last semester of study.</p>"
+    ],
+    "ilo": [
+        "ILO 1 - Integrate Information Systems theories, frameworks, and management to address real-world problems",
+        "ILO 2 - Apply critical thinking and analytical skills in investigating a real-world problem and identifying an effective solution",
+        "ILO 3 - Communicate with practitioners effectively and professionally",
+        "ILO 4 - Integrate into the project IS professional practice, ethical conduct, and sustainability considerations."
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of Information Systems to solve complex problems",
+        "Capacity for independent critical thought, rational inquiry, and self-directed learning",
+        "The ability to undertake problem identification, formulation, and solution",
+        "The ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "The ability to plan work and to use time effectively",
+        "Understanding of the principles of sustainable design and development",
+        "Openness to new ideas and unconventional critiques of received wisdom",
+        "The ability to comprehend complex concepts and effectively communicate this understanding",
+        "The ability to function effectively in a professional Information Systems environment",
+        "The ability to communicate effectively with all stakeholders and the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsISYS90050IT Project and Change ManagementSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90050",
+                        "Name": "IT Project and Change Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsISYS90038IS Strategy and GovernanceSemester 2 (On Campus - Parkville)12.5ISYS90043Enterprise Applications & ArchitecturesSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90038",
+                        "Name": "IS Strategy and Governance",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ISYS90043",
+                        "Name": "Enterprise Applications & Architectures",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Initial Project Presentation (Project Requirements Specification and Project Plan) marked individually, 15 minutes + 5 minutes questions (2000 word equivalent). 15-20 hours of work per student. Intended Learning Outcomes (ILOs) 2-3 are addressed in this assessment.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": "Students must participate in the initial presentation to pass the subject.",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid-semester Progress Report (includes project plan), 80-90 hours of work per student. ILO 3 is addressed in this assessment.",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": "Students must submit the progress report to pass the subject.",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final Project Presentation, 20 minutes + 10 minutes questions (4000 word equivalent) marked individually, 15-20 hours per student. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "15-20 hours (of work required)"
+            ],
+            "hurdle": "Students must pass the final presentation to pass the subject.",
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Final Project Report (includes project plan), 170-180 hours per student. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "12,000 words"
+            ],
+            "hurdle": "Students must pass the final report to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Personal Reflection and Member Rating (Individual), 10-15 hours per student. ILOs 1-4 are addressed in this assessment.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "Students must hand in the personal reflection and member rating to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tingru Cui",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total 18 hours comprising of three 2 hour-seminars,  one 3-hour Initial Project Presentation session,  six fortnightly one-hour meetings with mentor,  one 3-hour Final Project Presentation session",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "tingru.cui@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Tingru Cui",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total 18 hours comprising of three 2-hour lectures,  one 3-hour Initial Project Presentation session,  six fortnightly one-hour meetings with mentor,  one 3-hour Final Project Presentation session",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "tingru.cui@unimelb.edu.au"
+        }
+    ]
+}

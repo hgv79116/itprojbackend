@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p>This subject provides students with an introduction to quantitative techniques and strategies used in research in a range of life science disciplines, including agriculture and food science, biological sciences, and ecosystem sciences. The subject will focus on the design of research projects, investigation and interpretation of data, and the application of scientific computing to research problems. Teaching and learning will be centered on hands-on sessions in which students work with real-life data. There is a particular emphasis on developing scientific reasoning, statistical intuition, and experience in the practical application of common quantitative methods.</p>",
+        "<p>The subject is designed for students with little or no background in statistics or mathematics.</p>",
+        "<p>Topics include:</p>",
+        "<ul><li>An introduction to sampling techniques and experimental design</li><li>Description and exploration of data</li><li>Visualization using univariate and bivariate plotting</li><li>Introduction to elementary probability</li><li>Linear models as analytical tools for univariate problems</li><li>Statistical inference using linear models and related techniques</li><li>Interpretation and presentation of the results of statistical models</li><li>Logistic regression models for binary outcomes</li><li>Practical skills working with data in the R software environment</li></ul>"
+    ],
+    "ilo": [
+        "Apply quantitative techniques in biological research",
+        "Define the process of statistical modelling;",
+        "Utilize statistical analysis in postgraduate research;",
+        "Identify appropriate methodological frameworks and match research tools to these approaches;",
+        "Apply research tools in the R software environment."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct, express, and criticize logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Time management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This course requires all students to actively and safely participate in field excursions and laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Complete five of Six practical assessments in weeks 2, 4, 6, 8, 10",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "60%"
+        },
+        {
+            "brief": "A final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Satisfactory completion of online modules",
+            "bullets": null,
+            "hurdle": "video recordings that will be accompanied by a short quiz to demonstrate video has been watched.",
+            "timing": "Throughout the teaching period",
+            "percentage": "0%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours of tutorials and practicals (1 x 2 hours of practical, 1 x 1 hour tutorial per week), 24 hours-equivalent of online modules",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "laura.brannelly@unimelb.edu.au"
+        }
+    ]
+}

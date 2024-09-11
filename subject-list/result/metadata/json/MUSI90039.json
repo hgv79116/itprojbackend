@@ -1,0 +1,110 @@
+{
+    "overview": [
+        "<p>This subject provides students with practical placement experience in music therapy under the guidance of a qualified music therapist. The practical placement will include a graded introduction to the assessment of client needs, the development of program plans and the provision of music therapy interventions.</p>",
+        "<p><strong>Placement</strong></p>",
+        "<p>Students are required to complete 20 days (160-hours) of practical placement, which will have both observational and participatory experiences of working with clients and evaluating benefit from the intervention.</p>",
+        "<p>Tutorials will focus on professional issues, workplace preparedness and experiential peer group learning.</p>",
+        "<p><strong>Accreditation information</strong>: This subject contributes 160 hours to the 640 hours required for accreditation by the Australian Music Therapy Association.</p>"
+    ],
+    "ilo": [
+        "apply developing music therapy verbal and facilitation skills with groups and individuals;",
+        "adapt learned music therapy skills to meet the needs of specific client populations;",
+        "identify research literature relevant to specific client populations;",
+        "draw on developing music therapy knowledge and facilitation skills to work as an informed member within the multidisciplinary team;",
+        "work collaboratively and professionally in a group or team environment;",
+        "follow the Australian Music Therapy Association (AMTA) ethical code of practice."
+    ],
+    "generic_skills": [
+        "refined their observation skills for human interaction;",
+        "developed analytical skills for interpreting human interaction;",
+        "developed skills for reviewing literature and applying theory to practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI90032",
+                        "Name": "Music Therapy Methods 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MUSI90038",
+                        "Name": "Music Therapy Practice 1",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practicum Plan",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Practicum Placement Experience (160 accreditation hours)",
+            "bullets": [
+                "20 days (placement)"
+            ],
+            "hurdle": "Students must pass this placement assessment to pass the subject.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Group presentation \u2013 5 minutes per student",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 80% of all scheduled classes and placement.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must submit all elements of assessment to be eligible for a pass in this subject. \n\nFor the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "184 hours, comprising 18-hours synchronous online weekly tutorials, 1-day (6 hours) on-campus intensive, and 120 to 160-hours off-campus placement at approved provider.",
+            "total_time_commitment": "204 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "imogen.clark@unimelb.edu.au"
+        }
+    ]
+}

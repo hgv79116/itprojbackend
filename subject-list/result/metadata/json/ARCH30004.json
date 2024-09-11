@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>Environmental Design in Housing forms part of the Environmental Systems specialisation.</p>",
+        "<p>This  subject prioritises the sustainable building design process and assessment tools used in the design of <strong>NCC class 1 \u2013 2 buildings</strong>, which include standalone single dwellings and apartment buildings.</p>",
+        "<p>The subject combines theoretical knowledge of the environmental performance of residential buildings (such as energy, comfort, water, daylight, waste, ecology, innovation) with a practical understanding of how the industry assesses them in accordance with Town Planning requirements, the Building Code of Australia, NatHERS and other specialised assessment tools. These skills are closely aligned with industry expectations for positions such as: graduates ESD consultant positions in architecture and engineering companies.</p>",
+        "<p>The subject will maximise industry interaction through guest speakers, case studies and site visits.<br/><br/><strong>Prescribed software programs with no cost</strong><br/>Built Environment Sustainability Scorecard<br/>Water Usage Calculator<br/>TankulatorFirstRate5<br/>HOT2000<br/>PVWatts Calculator<br/><br/>Details of software availability and pricing are captured at  <a href=\"https://edsc.unimelb.edu.au/student-experience/it-support\">https://edsc.unimelb.edu.au/student-experience/it-support</a></p>"
+    ],
+    "ilo": [
+        "Provide general advice on the environmental performance of a range of residential buildings, including potential problems from the design of the building fabric, services, and renewable systems;",
+        "Demonstrate a clear understanding of the industry processes and tools that are used in both town planning and building permit applications;",
+        "Provide general environmental design advice for a project at the concept stage, such as orientation, heating and cooling loads, facade glazing percentage, heating, cooling and ventilation systems, lighting and renewable energy systems;",
+        "Complete assessments of residential buildings for current town planning and current building permit requirements;",
+        "Demonstrate a general understanding of the range of environmental building performance tools, such as Building Environment Sustainability Scorecard, Code for Sustainable Homes, Passivhaus, NatHERS, HOT2000, RETScreen International;",
+        "Demonstrate understanding of the ways to achieve 'nearly net-zero' or 'net-zero' building performance targets."
+    ],
+    "generic_skills": [
+        "Upon successful completion of this subject the student will have had the opportunity to develop the following generic skills: \n\n\n\n\u2022\t Capacity for independent thought\n\n\u2022\tability to research through the competent use of the library and other information sources\n\n\u2022\tability to conceptualise theoretical problems, form judgements and arguments and communicate critically, creatively and theoretically through essay writing, tutorial discussion and presentations;\n\n\u2022\tability to communicate knowledge intelligibly and economically through essay writing and tutorial discussion;\n\n\u2022\tability to manage and organise workloads for recommended reading, the completion of essays and assignments and examination revision;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ABPL20036",
+                        "Name": "Environmental Building Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL10007",
+                        "Name": "Environmental Technologies",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Simulation Report, due by the beginning of week 2",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group presentation on zero energy housing design and sustainable community development strategies (equivalent to 800 words per student), due by the end of week 2",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Individual ESD Essay",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "3 Weeks after the end of teaching",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Masa Noguchi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "40 hours  ( over two weeks )",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "8 January 2024 to 19 January 2024",
+            "last_self_enrol_date": "10 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "9 February 2024",
+            "contact_name": "",
+            "contact_email": "masa.noguchi@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "overview": [
+        "<p>Coverage of the rapidly expanding field of neuropsychological rehabilitation is provided in this subject. The curriculum covers the nature of recovery following focal and diffuse brain injury from neurological, cognitive and psychosocial viewpoints, as well as frameworks for developing appropriate neuropsychological interventions for rehabilitation. Commonly encountered disorders such as stroke and brain injury will be discussed in the context of their cognitive, emotional, and social effects, including neuropsychiatric comorbidities. Approaches to the assessment and management of cognitive and behavioural disorders will be surveyed, with an emphasis on designing and implementing cognitive and behavioural interventions that are patient-centred and culturally responsive. During the semester students may be required to make observations regarding a patient's recovery, practice how to design and implement an intervention, or provide psychoeducation and feedback to patients and families, as they explore the various roles of clinical neuropsychologists in rehabilitation settings.</p>"
+    ],
+    "ilo": [
+        "Determine the likely neurological, behavioural, and psychosocial factors at play in a patient's presentation to a rehabilitation setting, including any interaction of these factors in a culturally appropriate manner",
+        "Distinguish a patient's potential for recovery and meaningful activity, including the identification of barriers to recovery as well as protective factors in a culturally appropriate manner"
+    ],
+    "generic_skills": [
+        "2000 words"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90003",
+                        "Name": "Literature Review",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90006",
+                        "Name": "Basic Interventions",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90007",
+                        "Name": "Cognitive-Behaviour Therapy",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90029",
+                        "Name": "Graduate Research Methods",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC90030",
+                        "Name": "Principles of Psychological Assessment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90031",
+                        "Name": "Adult Psychopathology",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90032",
+                        "Name": "Adult Neuropsychological Disorders",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PSYC90082",
+                        "Name": "Clinical Skills in Neuropsychology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90083",
+                        "Name": "Neuroscience and Psychopharmacology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "PSYC90084",
+                        "Name": "Neuroanatomy for Neuropsychologists",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PSYC90079",
+                        "Name": "Neuropsychology Placement 2A",
+                        "Teaching period": "Year Long (On Campus - Parkville)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "",
+            "timing": "Mid semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": "A 20 minute group oral presentation on a neuropsychological rehabilitation plan, including recognition of the role of neuropsychology versus other disciplines",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "",
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Hurdle requirement of at least 80% attendance at all coursework and seminar activities associated with this subject. ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Genevieve Rayner",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1.5 hours of lectures/seminars per week for 12 weeks",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "raynerg@unimelb.edu.au"
+        }
+    ]
+}

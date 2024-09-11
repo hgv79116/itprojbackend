@@ -1,0 +1,106 @@
+{
+    "overview": [
+        "<p><strong>AIM</strong></p>",
+        "<p>Within this subject you will learn how to use Computational Fluid Dynamics (CFD) to solve practical industrial and research related fluid flow and heat/mass transfer problems.  The major assessment within this subject is a capstone project, requiring a CFD treatment of a major piece of equipment related to your degree discipline area.  This project may be industry or research based. Learning is supported by a number of structured group-based workshops completed throughout the semester, requiring completion of associated on-line quizzes.  Guest lectures from academia and industry will share insights into how they use CFD in their research/workplace.</p>",
+        "<p><strong>SUBJECT CONTENT</strong></p>",
+        "<p>The content of this subject is split between two related modules:</p>",
+        "<p>1) Fundamentals of CFD: Within this module we will cover the mathematical basis of modern CFD methods, using MATLAB as a programming tool to demonstrate specific fundamental concepts.  Specific topics include overview, conservation laws, advection-diffusion equations, differencing schemes, finite volume method, stability analysis, error analysis, boundary conditions and solution algorithms for solving Navier-Stokes equations.</p>",
+        "<p>2) Applications of CFD: This module will be based around the industry-relevant CFD package ANSYS Fluent. Specific topics include: How to run a basic simulation, meshing, laminar 2D and 3D flows, boundary conditions, discretisation methods, visualisation, turbulence, disperse multiphase flows, free-surface multiphase flows, coupled heat and mass transfer, chemical reactions, use of CFD in industry and research.</p>",
+        "<p>Please view this video for further information: <a href=\"https://www.youtube.com/watch?v=KYGLcgxobdY\">Computational Fluid Dynamics</a></p>"
+    ],
+    "ilo": [
+        "Formulate strategies for the solution of engineering problems by applying the differential equations governing fluid flow, heat transfer and mass transport",
+        "Solve these equations numerically by writing simple computer programs",
+        "Choose optimal mathematical and numerical methods from currently available technology to solve a physical CFD problem",
+        "Solve engineering problems using a current computational fluid dynamics software package",
+        "Evaluate the numerical errors inherent in a problem solution",
+        "Distil and communicate key aspects of complex processes so that it is accessible to end-users."
+    ],
+    "generic_skills": [
+        "In-depth technical competence in at least one engineering discipline",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR30002",
+                        "Name": "Fluid Mechanics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN30018",
+                        "Name": "Thermodynamics and Fluid Mechanics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BMEN90036",
+                        "Name": "Biofluid Mechanics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Major assignment, completed individually, requiring multiple simulations of a discipline-specific piece of equipment, documented within a technical report. Intended Learning Outcomes (ILOs) 1 - 6 are addressed in the assignment.",
+            "bullets": [
+                "80 hours (of work required)"
+            ],
+            "hurdle": "Students must pass the major assignment to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Major assignment project pitch, completed individually.  Intended Learning Outcomes (ILOs) 1 - 6 are addressed in the assignment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online quizzes (10 x 3% ), to be completed individually;\n\n4-hour each (including participation in an associated 3-hour workshop). Intended Learning Outcomes (ILOs) 1 - 6 are addressed in the quizzes.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 10",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Dalton Harvie",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 x 1 hour lectures, 10 x 3 hour workshops, additional voluntary consultation sessions",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Joe Berry",
+            "contact_email": "berryj@unimelb.edu.au"
+        }
+    ]
+}

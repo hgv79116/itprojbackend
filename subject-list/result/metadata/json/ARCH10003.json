@@ -1,0 +1,144 @@
+{
+    "overview": [
+        "<p>Underlying the undergraduate design course is the development of both design thinking and dexterity with tools and techniques. The focus of this design subject will be on generating design ideas, translating them into architectural forms, spaces, materials and programs. Students will learn how to refine architecture through consideration of spatial organisation, environmental context and structural necessity. Students will also learn how to communicate comprehensive architectural propositions through 2D- and 3D-modelling (physical and digital), visual and written media and oral presentations.<br/><br/>Methodologies of critical observation, critical inquiry and critical thinking are introduced through a series of short assignments that build on one another and focus on architectural concepts such as form, space, proportion and scale. <br/><br/>The design studio will develop four distinct investigations throughout the semester, touching on a range of design issues and approaches including use of precedent, use of critical analysis in the design process, elements and systems, additive and subtractive geometry manipulation, cultural/artistic transposition and basic generative modelling. This will be produced through iterative processes of production, review, incorporation and resolution.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Employ the iterative processes of production, review, incorporation and resolution, to formulate a conceptual design proposal that is tested and developed as a speculative design proposition;",
+        "Engage in a three-dimensional design process using digital and physical modelling;",
+        "Demonstrate basic understanding of structural principles, construction processes, and material selection, in relation to design intent;",
+        "Employ the conventions of architectural, landscape and technical drawing conventions, including plans, sections, elevations, details and diagrams to\n\ncommunicate design outcomes;",
+        "Present, substantiate and advocate a design proposal in a public setting, and appropriately respond to constructive critique;",
+        "Engage with and contribute to studio culture,"
+    ],
+    "generic_skills": [
+        "Ability to generate and iteratively test design ideas",
+        "Ability to work with design precedents",
+        "Ability to work with different design methodologies",
+        "Physical and digital model-making and its translation process",
+        "Ability to integrate digital tools into the design generation and design development processes",
+        "Graphic communication (including orthographic projections: plans, sections, elevations, axonometric and other projections)",
+        "Verbal presentation and appropriate use of design terminology",
+        "Time management and project management",
+        "Constructive acceptance of feedback and criticism."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH10001",
+                        "Name": "Foundations of Design: Representation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH10004",
+                        "Name": "Design History & Theory in the Making",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL10007",
+                        "Name": "Environmental Technologies",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Individual review (critique) and oral presentation, demonstrating design output that may include physical or digital models, drawings, written assignments, site analyses, journals and sketches.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 2. Individual review (critique) and oral presentation, demonstrating design output that may include physical or digital models, drawings, written assignments, site analyses, journals and sketches .",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 3. Individual review (critique) and oral presentation, demonstrating design output that may include physical or digital models, drawings, written assignments, site analyses, journals and sketches.",
+            "bullets": [
+                "40-45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Design Journal, completed throughout semester, based on themes developed through the lectures.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": "A genuine attempt to fulfil the requirements of the assignment is hurdle requirement ",
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Quizzes, completed in lectures and e-modules.",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 10",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Kelum Palipane",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "46 hours:  10x 1 hour lecture and 1 x 3 hour studio per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Kelum Palipane",
+            "contact_email": "kelum.palipane@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "46 hours:  10x 1 hour lecture and 1 x 3 hour studio per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "dayk@unimelb.edu.au"
+        }
+    ]
+}

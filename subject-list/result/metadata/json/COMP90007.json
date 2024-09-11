@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The subject will introduce the basics of computer networks to students through a study of layered models of computer networks and applications. The first half of the subject deals with data communication protocols in the lower layers of OSI and TCP/IP reference models. The students will be exposed to the working of various fundamental networking technologies such as wireless, LAN, RFID and sensor networks. The second half of the subject deals with the upper layers of the TCP/IP reference model through a study of several Internet applications.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered include: Introduction to Internet, OSI reference model layers, protocols and services, data transmission basics, interface standards, network topologies, data link protocols, message routing, LANs, WANs, TCP/IP suite, detailed study of common network applications (e.g., email, news, FTP, Web), network management, and current and future developments in network hardware and protocols.</p>"
+    ],
+    "ilo": [
+        "Explain the salient aspects of network technologies and applications",
+        "Be able to use correct terminology within the domain of computer networks",
+        "Be able to conceptualise and explain the functionality of the different layers within a network architecture",
+        "Be able to explain the architecture and operation of the Internet"
+    ],
+    "generic_skills": [
+        "Be able to undertake problem identification, formulation and solution",
+        "Have a capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Have a profound respect for truth and intellectual integrity, and for the ethics of scholarship"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30023",
+                        "Name": "Computer Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two individual homework assignments, equally weighted (5% each), due before Week 6 and Week 12, respectively.",
+            "bullets": [
+                "15-17 hours (of work required)"
+            ],
+            "hurdle": "See below.",
+            "timing": "Due before Week 6 and Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "An individual project on obtaining measurement about a network and analysing the collected data, due before Week 8.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": "See below.",
+            "timing": "Due before Week 8",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A technical report about a current research topic or technology in networks, due before Week 12.   Students have the option of completing this assessment in a group or individually. 35-40 hours of individual work required.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": "See below.",
+            "timing": "Due before Week 12",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "See below.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "A Pass mark in all pieces of assessment is required to qualify for a pass result in the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Ling Luo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising three 1-hour lectures and one 1-hour tutorial per week. Some computer lab classes will require you to bring your own device. Please check upon preferencing timetable.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "ling.luo@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Ling Luo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising three 1-hour lectures and one 1-hour tutorial per week. Some computer lab classes will require you to bring your own device. Please check upon preferencing timetable.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ling.luo@unimelb.edu.au"
+        }
+    ]
+}

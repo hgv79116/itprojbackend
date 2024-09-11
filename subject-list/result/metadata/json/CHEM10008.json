@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>This unit is designed for students with little or no background in chemistry who wish to gain an understanding of basic chemistry. Topics covered include the nature of matter, solutions and gases, the chemical change related to equilibrium, energy and kinetics, and the nature of redox processes; and structures and functional groups of inorganic molecules. In introducing the nature of matter and the chemical elements, an elementary discussion of atomic structure and the bonding of elements to form compounds is given. Further development requires a discussion of the mole concept. This leads to a study of chemical reactions, with discussions on oxidation and reduction, acids and bases, energy changes in reactions, reaction rates and chemical equilibrium, and an introduction to organic chemistry.</p>"
+    ],
+    "ilo": [
+        "Nature of matter: elements, atoms, ion and molecules",
+        "Electronic structure of atoms and ions",
+        "Bond formation including covalent, ionic metallic, hydrogen bonding, van der Waal\u2019s",
+        "Solubility and solution state; ions and hydration",
+        "The behaviour of gases",
+        "The mole concept, concentrations and stoichiometry",
+        "Acids, bases neutralisation reactions and salt formation",
+        "Acid/base strength and the pH scale",
+        "Energy and chemical systems",
+        "Rates of reaction and reaction order",
+        "Catalysis and enzymes",
+        "Chemical equilibrium; the equilibrium, constant, Ka Kb stability constants and solubility products",
+        "Redox reactions and redox potentials",
+        "Organic molecules: structure nomenclature and functional groups",
+        "Hydrophobicity and hydrophilicity",
+        "Biologically significant macromolecules"
+    ],
+    "generic_skills": [
+        "The organisation of work schedules that permit appropriate preparation time for tutorials practical classes and examinations",
+        "The use of electronic forms of communication",
+        "The utilisation of computer-aided learning activities to enhance understanding",
+        "The performance of basic manipulations with laboratory equipment",
+        "The recording of observations, the analysis of information and the interpretation of data within a laboratory setting",
+        "Accessing information from the library via both electronic and traditional means",
+        "Working collaboratively with other students",
+        "Problem solving and critical thinking"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "6 practical reports each up to 500 words",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": "Satisfactory completion of practical work is necessary to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "3 feedback tests",
+            "bullets": [
+                "45 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Independent Learning Tasks need to be completed in order to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Ros Gall",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "36 hours of lectures, 12 hours of tutorials, 18 hours of practicals, 18 hours of computer-aided learning/online discussion",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "rosgall@unimelb.edu.au"
+        }
+    ]
+}

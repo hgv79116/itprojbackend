@@ -1,0 +1,93 @@
+{
+    "overview": [],
+    "ilo": [
+        "Critically review and reflect on educational theory and research which highlights literacy teaching strategies designed to target students' learning needs.",
+        "Analyse and interpret a range of assessment and diagnostic data using a range of resources and strategies, including ICT.",
+        "Make sound and informed judgements about students' learning needs and related teaching interventions for feedback and reporting purposes.",
+        "Apply assessment data to inform planning, organising, sequencing and evaluating of literacy teaching to meet the learning needs of diverse learners.",
+        "Plan and organise classroom activities using a range of strategies that support effective classroom communication and support participation of all students."
+    ],
+    "generic_skills": [
+        "Clinical reasoning and evidence-based practice.",
+        "Critical and creative thinking.",
+        "Responsiveness to a changing knowledge base.",
+        "Linking theory and practice.",
+        "Inquiry and research.",
+        "Ethical and intercultural understanding."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91083",
+                        "Name": "Language and Literacy: Years 3 to 6",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Analytical paper: Trialing and critiquing a literacy assessment device",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Early semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Oral presentation: An oral recorded reflection on the insights from assignment 1 (1000 words equivalent)",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Literacy assessment and teaching plan: A literacy assessment and teaching plan for the first year as a graduate teacher",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Martina Tassone",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours (17 hours of on-campus classes and 7 hours of online asynchronous activities)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "tassonem@unimelb.edu.au"
+        }
+    ]
+}

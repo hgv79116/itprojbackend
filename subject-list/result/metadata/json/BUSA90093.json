@@ -1,0 +1,161 @@
+{
+    "overview": [
+        "<p>This is an introductory course of valuation and financial management. The course is designed for <strong><em>all</em></strong> MBA students with career interests in managing any organizations where cash flows matter. It is based on the principle that firms should be managed to increase the wealth of their shareholders, subject to the fulfilment of their contractual and legal obligations to other stakeholders. To this purpose, this subject will focus on the valuation of financial assets and selection of investment projects. It provides a good foundation for those who want to specialize in finance and choose many finance electives we offer in later terms. Furthermore, students will find that the principles learned here can be readily applied to their own personal financial planning and investments.</p>"
+    ],
+    "ilo": [
+        "Apply a variety approaches to identify profitable investment projects",
+        "Value financial instruments (such as stocks and bonds)",
+        "Build investment portfolios based on the optimal balance of risk and return",
+        "Estimate cost of capital of the firm and apply it in project selection decisions",
+        "Assess the costs and benefits associated with the choice of corporate capital structure",
+        "Identify different ways corporations can make distributions to shareholders and understand the associated trade-offs"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90481",
+                        "Name": "Managerial Ethics & Business Environment",
+                        "Teaching period": "April (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90060",
+                        "Name": "Data Analysis",
+                        "Teaching period": "January (On Campus - Parkville)July (On Campus - Parkville)September (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "BUSA90060 is a concurrent pre-requisite and can be done concurrently with the subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "4 homework assignment",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "12.5%"
+        },
+        {
+            "brief": "3 syndicate case reports",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid-term test",
+            "bullets": [
+                "75 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2.5 hours"
+            ],
+            "hurdle": "Students are required to pass the final examination to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "52.5%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "15 January 2024 to 22 March 2024",
+            "last_self_enrol_date": "10 December 2023",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "1 March 2024",
+            "assessment_period_ends": "29 March 2024",
+            "contact_name": "Degree Program Services",
+            "contact_email": "programservices@mbs.edu"
+        },
+        {
+            "semester": "April",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "8 April 2024 to 14 June 2024",
+            "last_self_enrol_date": "4 February 2024",
+            "census_date": "19 April 2024",
+            "last_date_to_withdraw_without_fail": "24 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Degree Program Services",
+            "contact_email": "programservices@mbs.edu"
+        },
+        {
+            "semester": "July",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "30 hours",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "1 July 2024 to  6 September 2024",
+            "last_self_enrol_date": "21 April 2024",
+            "census_date": "12 July 2024",
+            "last_date_to_withdraw_without_fail": "16 August 2024",
+            "assessment_period_ends": "13 September 2024",
+            "contact_name": "Degree Program Services",
+            "contact_email": "programservices@mbs.edu"
+        },
+        {
+            "semester": "September",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "140 hours",
+            "teaching_period": "23 September 2024 to 29 November 2024",
+            "last_self_enrol_date": "14 July 2024",
+            "census_date": "4 October 2024",
+            "last_date_to_withdraw_without_fail": "8 November 2024",
+            "assessment_period_ends": "6 December 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

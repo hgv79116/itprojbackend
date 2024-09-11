@@ -1,0 +1,59 @@
+{
+    "overview": [
+        "<p>The aim of the subject is to explore the basic dynamical principles governing flow in a rotating frame of reference (the Earth's frame of reference), and to use these principles to understand the large-scale dynamics of the atmosphere.</p>"
+    ],
+    "ilo": [
+        "Explain the relationship between the equations describing the general circulation and observed phenomena; and",
+        "Understand advanced techniques of analysis and theories of the maintenance of the general circulation."
+    ],
+    "generic_skills": [
+        "Exercise critical judgement;",
+        "Undertake rigorous and independent thinking;",
+        "Adopt a problem-solving approach to new and unfamiliar tasks; and",
+        "Develop high-level written report and/or oral presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ATOC30004",
+                        "Name": "Dynamical Meteorology and Oceanography",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four equally weighted assignments collectively equivalent to 2000 words, due across the teaching period",
+            "bullets": [
+                "2000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An oral final exam",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

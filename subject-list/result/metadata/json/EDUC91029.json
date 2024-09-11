@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject focuses on the theoretical frameworks and evidence bases that educators use in understanding the development of their learners and in planning suitable instructional sequences that are responsive to the inherent variability of learners. It covers foundational concepts related to learning environments, learning processes and development across individual\u2019s lifespans. It also provides opportunities to explore and discuss implications for teaching that are related to the consideration of learners\u2019 profiles of capabilities and how teachers facilitate the quality, depth and active nature of their learning.</p>"
+    ],
+    "ilo": [
+        "Use their knowledge of human development to inform their professional practice",
+        "Describe key characteristics of learning environments and learning processes that facilitate student learning",
+        "Consider the variability of student learning in terms of how individual profiles of capabilities help or hinder achievement",
+        "Build on previous knowledge of learning progressions to explore how they are related to the quality, depth and active nature of student learning."
+    ],
+    "generic_skills": [
+        "Improve the motivation and learning of those they work with",
+        "Design and implement learning experiences that create a balance between the acquisition of essential knowledge and skills, and the search for meaning and understanding",
+        "Participate actively and positively in a learning community",
+        "Evaluate and use constructive criticism of their work and the work of colleagues",
+        "Report clearly and accurately on a work-related situation"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90830",
+                        "Name": "The Student as Learner",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribute two structured posts reflecting on individual student learning, classroom learning and/or learning in other educational contexts (750 words x 2)",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Produce a research, action and reflection project",
+            "bullets": [
+                "3500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "70%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "On-campus delivery: Minimum of 75% attendance at all scheduled lectures, tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Online delivery: Minimum of 75% participation in all online lectures and tutorials.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sean Kang",
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "sean.kang@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sean Kang",
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "sean.kang@unimelb.edu.au"
+        }
+    ]
+}

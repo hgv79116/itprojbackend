@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>This course is designed for students who want to gain experience in medical research but who are not enrolled in a medical degree. A particularly attractive aspect of the program is each project addresses a research problem directly relevant to human disease. A very wide range of projects is offered by leading research experts in laboratories belonging to this academic centre (University of Melbourne. Departments of Medicine based at the Royal Melbourne and Western Hospitals, Departments of Radiology, Obstetrics &amp; Gynaecology, Psychiatry and Surgery along with the Ludwig Institute for Cancer Research and Florey Neuroscience Institute. There are also projects with the CSIRO and NARI (National Ageing Research Unit). We have expertise in state-of-the-art basic, applied and clinical methodologies and offer a unique experience to Honours students. Not only do students master the research field of their project, but they have the opportunity to learn about the bigger picture, particularly with regard to leadership and responsibility, and the importance of the interface between research and clinical medicine. The research project is complemented by a seminar series dealing with \u201ctranslational medicine\u201d which is research that aims to turn scientific discoveries into practical treatments or interventions to improve human health and relieve suffering. All of the projects offer the opportunity of progression on to higher degrees including a PhD.</p>"
+    ],
+    "ilo": [
+        "Select, summarise and critically appraise published research in translational medicine.",
+        "Formulate a research hypothesis based upon a synthesis of the published research evidence.",
+        "Design and undertake appropriate research experiments to answer a research hypothesis in translational medicine.",
+        "Conduct supervised research in a specific area of translational research.",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "generic_skills": [
+        "10 minutes"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI40004",
+                        "Name": "Seminars in Translational Medicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation of introduction to research project (7 minutes presentation + 3 minutes questions)",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 7 of Semester One",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written report of draft research project outline",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due in Semester One examination period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation of final research project: 12 minutes presentation + 3 minutes questions",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 11 of Semester Two",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Supervisor's report of overall research effort",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Due in Week 12 of Semester Two",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Research thesis",
+            "bullets": [
+                "10000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due in Semester Two examination period",
+            "percentage": "65%"
+        },
+        {
+            "brief": "RMH academic seminars",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at one-hour weekly academic seminars",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Adrian Achuthan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Ms Simone Stahli Quinn",
+            "contact_email": "honours-parkville@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "overview": [
+        "<p>Please refer to ENGR90037 Engineering Capstone Project Part 1 for this information.</p>"
+    ],
+    "ilo": [
+        "Please refer to Part 1 - ENGR90037"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90037",
+                        "Name": "Engineering Capstone Project Part 1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "The student needs to be within the last 112.5 points of their Master of Engineering candidature to enrol in this Capstone subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BMEN90018",
+                        "Name": "Biomedical Engineering Capstone Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)Year Long (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "CVEN90047",
+                        "Name": "IE Research Project 2",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "CVEN90056",
+                        "Name": "IE Research Project 3",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MCEN90022, MCEN90040, MCEN90042, MCEN90043, ELEN40001, ELEN40012, ELEN90067, ELEN90070, ELEN90081, ELEN90082, CVEN90064, CVEN90065."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional detailsThis Dual-Delivery subject has On Campus assessment components.\nPlease refer to ENGR90037 Engineering Capstone Project Part 1 for details.\nThe assessment statement applies to the entire enrolment across Parts 1 and 2 of the subject, ie ENGR90037 and ENGR90038."
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "2 January 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "brazil@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours of lectures",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "brazil@unimelb.edu.au"
+        }
+    ]
+}

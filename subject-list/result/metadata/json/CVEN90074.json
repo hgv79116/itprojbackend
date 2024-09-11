@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>21<sup>st</sup> century - geotechnical engineering is undergoing a revolution, embracing the strength of computer-based site characterisation, investigation and performance analysis methods. Site-specific computer simulations elucidate the pros and cons of long-standing empirically established engineering solutions and finally permit their rigorous scientific analysis. New algorithms and hardware enable the simulation of complex interacting subsurface processes even in intricate structures. In concert with much improved measurement, imaging, modelling and visualisation tools, \u201cmultiphysics\u201d simulation software greatly increase the ability of engineers to get accurate answers to What-If? engineering design questions.</p>",
+        "<p>This subject provides the essential foundations for an informed, successful and effective application of process simulation software that now gets routinely applied in geotechnical engineering projects, site investigation, and performance and risk assessment of engineering measures.</p>",
+        "<p>The subject covers essentials like the formulation of conceptual models for subsurface (heat flow, fluid flow, geomechanics), numeric modelling techniques, development, programming and incorporation of constitutive relationships, construction and parameterisation of site-specific models, experimental design of simulations (numeric experiments), and visualisation and analysis of results.</p>",
+        "<p>Theoretical foundations are applied in hands-on model building \u2013 configuration \u2013 calibration - simulation \u2013 analysis exercises conducted with freely available and commercial software tools, including proprietary ones used by industry.</p>"
+    ],
+    "ilo": [
+        "ILO 1 \u2013 Apply computational analysis to a geotechnical engineering problem, including development of the model concept and constitutive relationships, the construction, parameterisation, and calibration of a site-specific model, simulation and sensitivity analysis;",
+        "ILO2 \u2013 Select and apply suitable finite element (FEM) and finite volume (FVM) formulations to discretise governing equations and site-specific models;",
+        "ILO3 \u2013 Work with and create algorithmic representations of the typical constitutive relationships in geotechnical engineering and understand how linear, quasi-linear and non-linear relationships are handled and how errors are estimated;",
+        "ILO4 \u2013 Process simulation results, visualise and analyse them to validate the model, and to derive answers to central geotechnical engineering questions presenting outcomes to peers;",
+        "ILO5 \u2013 Evaluate risks, pitfalls and limitations of numeric analysis, as is necessary to apply these tools responsibly."
+    ],
+    "generic_skills": [
+        "Ability to use scientific computation as a means to investigate natural systems.",
+        "Harness simulation-based engineering science (SBES), as a research tool.",
+        "Employ FEM / FVM methods to investigate physical processes and systems, understanding the complementary role of simulations \n\n  and physical experiments.",
+        "Generate visuals and technical reports.",
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing tasks;",
+        "Computer skills: the ability to use mathematical computing packages.",
+        "Presentation skills: ability to present the outcomes of simulations studies to peers."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Deliverable: Construction, meshing, and parameterisation of a geomodel for seepage; testing that model is ready for simulation.\n\nAddressing Intened Learning Outcomes (ILOs) 2 and 5.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Oral Presentation: Analysis of a contamination problem with seepage model. 10 minute oral presentation plus Q&A by peers. Addressing ILOs 1-5.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Report: Write-up of contamination study, incorporating the feedback from oral presentation. 2500 word report. Addressing ILOs 1-5.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": "Result of 50% is required to pass the Hurdle. ",
+            "timing": "From Week 9 to Week 11",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Other-deliverable: Design and implementation of a code module for a slope stability analysis program. Teamwork Addressing ILOs 1-5.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "72 hours total (Lectures 12 x 2 hours; Practicals/computer labs 24 x 2 hours)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Stephan Matthai",
+            "contact_email": "stephan.matthai@unimelb.edu.au"
+        }
+    ]
+}

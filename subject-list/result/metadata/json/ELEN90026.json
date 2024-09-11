@@ -1,0 +1,203 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject provides a rigorous introduction to numerical nonlinear optimization, as used across all of science and particularly in engineering design. There is an emphasis on both the theory and application of optimization techniques, with a focus on solving unconstrained and constrained nonlinear programmes. This subject is intended for graduate and research higher-degree students in engineering.<br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics include:</p>",
+        "<ul><li>Algorithms for unconstrained optimization</li><li>Algorithms for constrained optimization</li><li>Convex sets and functions</li><li>Convex optimization problems</li><li>Duality theory</li><li>Computational complexity</li><li>Approximation algorithms and penalty methods.</li></ul>"
+    ],
+    "ilo": [
+        "Apply numerical linear algebra and real analysis within the context of optimization problems",
+        "Formulate and solve engineering problems via nonlinear optimisation methods",
+        "Apply computational tools to solve standard unconstrained and constrained optimization problems."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals;",
+        "In-depth technical competence in at least one engineering discipline;",
+        "Ability to undertake problem identification, formulation and solution;",
+        "Ability to utilise a systems approach to design and operational performance;",
+        "Expectation of the need to undertake lifelong learning, capacity to do so;",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning;",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Autonomous Systems specialisation (formal) in the MC-ELECENG Master of Electrical Engineering",
+                    "Business specialisation (formal) in the MC-ELECENG Master of Electrical Engineering",
+                    "Communications and Networks specialisation (formal) in the MC-ELECENG Master of Electrical Engineering",
+                    "Electronics and Photonics specialisation (formal) in the MC-ELECENG Master of Electrical Engineering",
+                    "Low Carbon Power Systems specialisation (formal) in the MC-ELECENG Master of Electrical Engineering",
+                    "Aerospace specialisation (formal) in the MC-MECHENG Master of Mechanical Engineering",
+                    "Business specialisation (formal) in the MC-MECHENG Master of Mechanical Engineering",
+                    "Manufacturing specialisation (formal) in the MC-MECHENG Master of Mechanical Engineering",
+                    "Materials specialisation (formal) in the MC-MECHENG Master of Mechanical Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-MTRNENG Master of Mechatronics Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into a research higher degree (MPhil or PhD) in Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST10007Linear AlgebraSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST10022Linear Algebra: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST10007",
+                        "Name": "Linear Algebra",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST10022",
+                        "Name": "Linear Algebra: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "equivalent"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Enrolment in Master of Computer Science or IT."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One 3-hour written examination. Intended Learning Outcomes (ILOS) 1-3 are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass a hurdle requirement on the total of the written exam and mid-semester test.\n\n",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "1 one-hour mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must pass a hurdle requirement on the total of the written exam and mid-semester test.",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Four assignments / projects throughout the semester. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "4 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures and 12 hours of tutorials",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ye.pu@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>How do we know if our digital designs will be usable and useful when people take them up in their work or social lives? Poor designs lead to errors and frustration and result in a substantial waste of money and resources. It is crucial that digital designers carefully evaluate and iterate their designs throughout a well-structured process. In this subject, students will build on the foundational material from the prerequisite subject <em>Fundamentals of Interaction Design to </em>learn the key industry methods and tools used to conduct usability evaluations and develop understanding about when these methods should be applied and how to interpret their findings.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<ul><li>Theoretical foundations of usability evaluation</li><li>Usability and user experience</li><li>Lab-based evaluation methods (e.g., observation, eye-tracking, think aloud)</li><li>Field studies / \u201cin the wild\u201d evaluations</li><li>Expert- and user-based evaluations</li><li>Analysis of usability evaluation data</li></ul>"
+    ],
+    "ilo": [
+        "Conduct a broad range of evaluation methods for digital technologies, and to select appropriate methods in terms of their strengths and limits; including ethnographic field study, user surveys, field experiments, laboratory experiments, and user experience trials",
+        "Interpret and communicate different types of usability data, including field observations, interviews, online use-logs, measurements of errors and efficacy",
+        "Apply contemporary knowledge of the tools and resources of an industry-standard usability-testing laboratory",
+        "Evaluate usability findings to inform the re-design and further development of digital technologies"
+    ],
+    "generic_skills": [
+        "An ability to undertake problem identification, formulation and solution",
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The ability to communicate designs and design thinking",
+        "The ability to analyse and report different forms of data",
+        "The capacity for critical and independent thought and reflection",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "An expectation of the need to undertake lifelong learning, and the capacity to do so"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO10003",
+                        "Name": "Fundamentals of Interaction Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1 - Evaluation Plan: Group project (3-4 students) to develop an evaluation plan for a given interactive technology (2000 words - 10%) and a presentation (2 minutes - 5%), due in week 6, requiring approximately 20 hours of work per student.  Intended Learning Outcomes (ILO's) 1, 2 and 3 are addressed in the group project.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment 2 - Evaluation Report: Group project (3-4 students) to collect and analyse data to evaluate the usability of a given interactive technology. Students will present their evaluation methods and findings in a written report (3000 to 4000 words - 20%)  plus video presentation (5 minutes - 10%), due in week 11, requiring approximately 30 hours of work per student. ILO's 2 and 4 are addressed in the group project.",
+            "bullets": [
+                "3000-4000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Quizzes - Five best results from regular short online quizzes.",
+            "bullets": [
+                "10 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "On-campus examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% in the examination.",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sarah Webber",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of one 2-hour lecture and one 1-hour tutorial",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "s.webber@unimelb.edu.au"
+        }
+    ]
+}

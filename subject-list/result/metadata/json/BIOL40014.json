@@ -1,0 +1,141 @@
+{
+    "overview": [
+        "<p>The purpose of the advanced coursework is to develop professional and scientific skills necessary for general scientific inquiry. The knowledge gained will foster the student\u2019s capacity to identify questions and generate ideas as well as providing a framework for students to use in order to approach and validate their ideas. Students will develop an understanding of experimental design, approach and evaluation, and skills in critical analysis of published experimental data. Students will also develop skills in written and oral forms of scientific communication.</p>"
+    ],
+    "ilo": [
+        "Identify major advances in biomedical research",
+        "Write about research and data using a scientific style of writing",
+        "Communicate research and data in oral presentations",
+        "Read scientific articles with critical assessment of the content",
+        "Develop the ability to understand and critically evaluate data obtained by other researchers",
+        "Understand experimental design and statistics and be able to apply good experimental design",
+        "Establish a strong foundation in statistics as it applies biomedical scientific data",
+        "Synthesise a logical frame for their own hypotheses based on the literature and propose experiments to clarify scientific questions or resolve contradictory reports",
+        "Understanding biomedical research through specialised lectures"
+    ],
+    "generic_skills": [
+        "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+        "BH-SCI Bachelor of Science (Degree with Honours)",
+        "MC-BMEDSC Master of Biomedical Science"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                    "BH-SCI Bachelor of Science (Degree with Honours)",
+                    "MC-BMEDSC Master of Biomedical Science"
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students enrolled in the Bachelor of Biomedicine (Honours) or Bachelor of Science (Honours) must also be enrolled in the below subject:"
+            },
+            {
+                "type": "paragraph",
+                "content": "BMSC40003 Medical Biology Research Project Part 1"
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Journal Club presentation: 30mins presentation followed by 30mins student-led discussion with small group of peers",
+            "bullets": [
+                "60 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written critique of Journal Article, submitted two weeks after presentation",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 14",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Participation (have read the article and contribute to group discussion)",
+            "bullets": null,
+            "hurdle": "100% Attendance at Journal clubs within a group (~5 one hour sessions)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Experimental Design and Statistics Online Quizzes (3 x quizzes)",
+            "bullets": [
+                "30 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 11",
+            "percentage": "12%"
+        },
+        {
+            "brief": "Experimental Design and Statistics plan",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "13%"
+        },
+        {
+            "brief": "Research Proposal, in the context of research experience to date, but not an assessment of research project itself (1,500 words plus figure)",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "80% attendance at postgraduate Lecture series (12 one hour lectures)",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": "Jess Borger",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "26",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "12 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "23 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "www.wehi.edu.au/education"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jess Borger",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours: 5 x 60min journal clubs; 12 x 60min postgraduate seminar series attendance; 3 x 60min Experimental Design and Statistics tutorials; and 4 x 60min workshops.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordinator:",
+            "contact_email": "www.wehi.edu.au/education"
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "overview": [
+        "<p>Safety, security and safeguards are critical requirements in the operation of nuclear facilities. This subject presents the safety aspects and safety assessment methods of nuclear power plants. Nuclear security and safeguards are discussed in the context of the nuclear fuel cycle.</p>",
+        "<p><strong>Indicative content:</strong></p>",
+        "<ul><li>Nuclear fuel cycle</li><li>Fundamentals of nuclear safety</li><li>Safety systems and safety features of nuclear reactors</li><li>Probabilistic safety assessment</li><li>Nuclear security and safeguards</li></ul>"
+    ],
+    "ilo": [
+        "Describe the components of the nuclear fuel cycle.",
+        "Describe the objectives and principles of nuclear safety, and how the safety features of modern reactor designs address these.",
+        "Analyse the function of the safety systems",
+        "Apply the probabilistic safety assessment methodology to a nuclear power system.",
+        "Analyse and evaluate methods of achieving nuclear security and of mitigating the risks of nuclear proliferation."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Ability to communicate effectively with the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90048",
+                        "Name": "Engineering of Nuclear Systems",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENGR90047Radiation ProtectionNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENGR90047",
+                        "Name": "Radiation Protection",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment 1",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 7-9 of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Assignment 2",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Due in Week 11-12 of semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

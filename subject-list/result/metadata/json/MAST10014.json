@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>This is the first of a sequence of two subjects (Foundation Mathematics 1 and Foundation Mathematics 2) providing BSc(Ext) students with a foundation in mathematics that prepares students for the Bachelor of Science and a pathway into the Bachelor of Commerce. The content consists of traditional VCE mathematical topics, with a particular emphasis on those topics needed for subsequent studies in the Bachelor of Science and Bachelor of Commerce degrees. Applications, examples and problems will be taken from these disciplines.</p>"
+    ],
+    "ilo": [
+        "a basic understanding of algebra and be able to expand, factorise and collect like terms;",
+        "the ability to solve linear equations, and simultaneous equations;",
+        "the ability to sketch and interpret straight line graphs, and solving real world problems using linear models;",
+        "the ability to solve quadratic equations, sketch and interpret quadratic functions, and solving problems using quadratic functions;",
+        "an understanding of and be able to use exponential and logarithmic functions in problem solving;",
+        "an understanding of the general concept of a function, including such notions as range, domain, function type and hybrid functions;",
+        "the ability to use basic techniques for transforming graphs (translation dilation and reflection);",
+        "an understanding of the core Trigonometric functions - sine, cosine and tangent - and the ability to solve trigonometric equations;",
+        "well-developed communication group work skills."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team; and",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "B-SCIEXT Bachelor of Science (Extended)",
+                    "B-ARTSEXT Bachelor of Arts (Extended)"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Six individual assignments (5% each) due fortnightly",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One in class test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "An examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "This subject has a minimum hurdle requirement of 75% attendance and regular participation.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 1-hour lectures (24 lectures) and 2 x 1-hour tutorial per week (24 tutorials).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "s.kuhlmann@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>In this third learning area subject, Interns will consolidate their understandings of the theory and practice of teaching, and the Clinical Teaching Model, with particular attention given to the critique of contemporary issues and debates on Psychology within Australia and beyond. Through this subject, Interns are supported to become reflective teachers of Psychology with an understanding of relevant and appropriate sources of professional learning for teachers. Interns are also supported to become critical, informed members of the school community who are able to reflect on school and education curriculum and policies, as well as the resources and infrastructure available for Psychology education.</p>",
+        "<p>The assessment tasks in this subject will support Interns in strengthening their skills in identifying and adapting appropriate pedagogical practices to differentiate teaching and meet the specific needs of students of diverse backgrounds and abilities, including Aboriginal and Torres Strait Islander students, as well as critiquing and responding to key educational issues that impact on teaching and learning.</p>"
+    ],
+    "ilo": [
+        "Demonstrate strong Psychology subject and pedagogical content knowledge including differentiation of teaching and content selection and organisation to meet the specific needs of students of diverse backgrounds and abilities, including Aboriginal and Torres Strait Islander students.",
+        "Select and integrate Psychology teaching strategies and resources, including ICT, to meet the specific needs of students from diverse backgrounds, and to engage students in their learning.",
+        "Critically reflect on key educational issues and theories that impact on teaching and learning in Psychology.",
+        "Identify appropriate sources of professional learning support and plan professional learning needs."
+    ],
+    "generic_skills": [
+        "Clinical reasoning and evidence-based practice.",
+        "Critical and creative thinking.",
+        "Responsiveness to a changing knowledge base.",
+        "Reflection for continuous improvement.",
+        "Linking theory and practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91260",
+                        "Name": "Learning Area Psychology (SI) 2",
+                        "Teaching period": "June (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsEDUC91176Learning Area Psychology 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91176",
+                        "Name": "Learning Area Psychology 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Resource folio:\n\nFolio of teaching resources",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "4 weeks after the end of the intensive",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Report:\n\nWritten report on current issues in Psychology",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "8 weeks after the end of the intensive",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "January",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours (16 hours of on-campus classes and 8 hours of asynchronous online activities).",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "8 January 2024 to 19 January 2024",
+            "last_self_enrol_date": "10 January 2024",
+            "census_date": "2 February 2024",
+            "last_date_to_withdraw_without_fail": "23 February 2024",
+            "assessment_period_ends": "18 March 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

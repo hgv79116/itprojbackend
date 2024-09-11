@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject is Part 2 of the 50-point research project offered through the Graduate Diploma in Science (Advanced) stream in BioSciences. The subject involves laboratory and/or field-based experimental research in an area of Ecology and Evolutionary Biology or Molecular, Cell and Developmental Biology. The research projects cover a broad range of research from molecular to population and evolutionary biology in micro-organisms, insects, plants and animals. The project will be based in the research group of an academic staff member in the School of BioSciences or an approved external supervisor, depending on the particular research project. The research project aims to develop a range of experimental and technical skills, a capacity to set goals and to design and plan experiments. The subject also provides students with skills and knowledge to interpret and critically analyse original research and enhanced written and oral communication skills.</p>"
+    ],
+    "ilo": [
+        "understand the way in which experiments are designed, communicated and interpreted;",
+        "have extended their abilities in oral and written scientific communication;",
+        "have gained the ability to read and assimilate specific research papers and to understand how the research reported relates to the broad field of biological sciences;",
+        "have experience in planning and executing laboratory or field-based experimental research;",
+        "have effective skills in data collection and analysis, and postulating testable hypotheses based on this data."
+    ],
+    "generic_skills": [
+        "the ability to evaluate scientific literature;",
+        "the ability to use conceptual models to assess experimental data;",
+        "the ability to conduct research;",
+        "the capacity to articulate their knowledge and understanding in written and oral presentations;",
+        "the capacity for high level written report presentation skills;",
+        "the capacity for oral communication and presentation skills;",
+        "time management and self-management skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL90028",
+                        "Name": "BioSciences Minor Research Project Part1",
+                        "Teaching period": "Semester 2 (Extended) (On Campus - Parkville)Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Research proposal (3,000 words), due at the endof Part 1",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation (20 min), due at the end of Part 2",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Research report (8,000 words), due at the end of Part 2",
+            "bullets": [
+                "8000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": "Mike Haydon",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project. Students should discuss this with their supervisor but as a guide, a student enrolled in a 37.5 point research project subject would be expected to be engaged in their research for an average of 30 hours per week.",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "2 January 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": "Mike Haydon",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project. Students should discuss this with their supervisor but as a guide, a student enrolled in a 37.5 point research project subject would be expected to be engaged in their research for an average of 30 hours per week.",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "overview": [],
+    "ilo": [
+        "Display proficiency of the applicable Measurement and Geometry topics and their everyday applications which are relevant to primary teaching or are necessary to be personally numerate.",
+        "Apply knowledge to develop children's construction of mathematical concepts, skills and understanding.",
+        "Develop a growing range of classroom teaching strategies and resources, including the use of ICT for all students, to manage classroom activity and to promote effective classroom communication.",
+        "Plan, structure, assess, sequence and evaluate teaching programs and relate them to learning outcomes.",
+        "Analyse assessment data and evidence for a small group of students to make sound clinical judgments about teaching interventions and reflect on the impact of teaching on learning outcomes.",
+        "Set learning goals that provide achievable challenges for a small group of students and select appropriate strategies to differentiate teaching to meet specific needs of those students."
+    ],
+    "generic_skills": [
+        "Clinical reasoning and evidence-based practice.",
+        "Critical and creative thinking.",
+        "Creativity and innovation.",
+        "Teamwork and professional collaboration.",
+        "Learning to learn and metacognition.",
+        "Responsiveness to a changing knowledge base.",
+        "Reflection for continuous improvement.",
+        "Linking theory and practice.",
+        "Inquiry and research.",
+        "Ethical and intercultural understanding."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91080",
+                        "Name": "Mathematics Education: Primary 1",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Poster: Conceptual development in a Geometry topic",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Report: Design and justify a set of assessment tasks for a Measurement topic",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Late semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Examination: Assesses students' knowledge and understanding of mathematical content knowledge and pedagogical content knowledge (2000 words equivalent)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "The examination must be passed.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "SMART tests requirement and content knowledge quizzes",
+            "bullets": null,
+            "hurdle": "All tests and quizzes must be completed with attainment of a minimum 80% score by the end of the teaching period (tests/quizzes may be retaken until 80% is achieved).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours (21 hours of on-campus classes and 3 hours of asynchronous online activities)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "cmesiti@unimelb.edu.au"
+        }
+    ]
+}

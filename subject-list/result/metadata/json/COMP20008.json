@@ -1,0 +1,150 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Data processing is fundamental to computing and data science. This subject gives an introduction to various aspects of data processing including database management, representation and analysis of data, information retrieval, visualisation and reporting, and cloud computing. This subject introduces students to the area, with an emphasis on both tools and underlying foundations.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>The subject's focus is on the data pipeline, and activities known colloquially as 'data wrangling'. Indicative topics covered include:</p>",
+        "<ul><li>Capturing data (data ingress)</li><li>Data representation and storage</li><li>Cleaning, normalisation and filling in missing data (imputation)</li><li>Combing multiple sources of data (data integration)</li><li>Query languages and processing</li><li>Scripting to support the data pipeline</li><li>Distributing a database over multiple nodes (sharding), cloud computing file systems</li><li>Visualisation and presentation</li></ul>"
+    ],
+    "ilo": [
+        "ILO 1 - Be able to describe the relationship of the data pipeline to data science",
+        "ILO 2 - Be able to develop and critically evaluate alternative approaches to components of typical data pipelines",
+        "ILO 3 - Apply data processing methodologies to preparing data while managing data quality, system scalability, and usability for decision making",
+        "ILO 4 - Communicate effectively about data processing methodologies in oral form"
+    ],
+    "generic_skills": [
+        "An ability to apply fundamental knowledge in reasoning and problem solving",
+        "An ability to undertake problem identification, formulation and solution",
+        "The capacity to solve problems, including the collection and evaluation of information",
+        "The capacity for critical and independent thought and reflection",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "An expectation of the need to undertake lifelong learning, and the capacity to do so."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10003Media ComputationSemester 1 (On Campus - Parkville)12.5COMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10003",
+                        "Name": "Media Computation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "GD-CS Graduate Diploma in Computer Science",
+                    "MC-DATASC Master of Data Science",
+                    "GD-DATASC Graduate Diploma in Data Science",
+                    "MC-SOFTENG Master of Software Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who have completed COMP10002 Foundations of Algorithms but neither COMP10001 Foundations of Computing nor COMP10003 Media Computation and who have knowledge of Python are invited to approach the subject coordinator to discuss their possible enrolment into the subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO20002",
+                        "Name": "Foundations of Informatics",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project work during semester, applying data processing and analysis to datasets, requiring approximately 60 hours of work per student in total, due in approximately week 5 and week 11. Addresses Intended Learning Outcomes, (ILO) 1-4.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": "20 / 50 in the continuous assessment",
+            "timing": "Due in approximately week 5 and week 11",
+            "percentage": "50%"
+        },
+        {
+            "brief": "One 2 hour end-of-semester closed-book examination.  Addresses ILO 1 and 2.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "20 / 50 in the end-of-semester examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "James Bailey",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "42 hours,  comprising two 1-hour lectures and one 1.5-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "baileyj@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Chris Ewin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising two 1-hour lectures and one 2-hour workshop per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "cewin@unimelb.edu.au"
+        }
+    ]
+}

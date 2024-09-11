@@ -1,0 +1,74 @@
+{
+    "overview": [
+        "<p>This subject seeks to -</p>",
+        "<ul><li>Build a thorough understanding of the theoretical and conceptual basis upon which the practice of financial project analysis is built and its application to engineering</li><li>Satisfy the practical needs of the engineering manager toward making informed financial decisions when involved in an engineering project</li><li>Incorporate critical decision-making tools that engineering managers can bring to the task of making informed financial decisions.</li></ul>"
+    ],
+    "ilo": [
+        "ILO 1 - Describe the behaviour of markets",
+        "ILO 2 - Calculate and interpret elasticities",
+        "ILO 3 - Estimate the cost of production and services",
+        "ILO 4 - Optimally allocate scarce capital resources to projects",
+        "ILO 5 - Estimate the financial health of organisations",
+        "ILO 6 - Produce financial budgets."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three assignments due in weeks 5, 8 and 11, worth 10% each. Addresses Intended Learning Outcomes (ILOs)  1 to 6.",
+            "bullets": [
+                "45 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One end of semester examination. Addresses\u00a0ILOs 1 to 6.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the exam in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Felix Hui",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "54",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "bugdenj@unimelb.edu.au"
+        }
+    ]
+}

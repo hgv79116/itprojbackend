@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This subject will develop student\u2019s knowledge of the theory and practice of public sector accounting, accountability and reporting. This subject will examine the regulatory framework and consider the role and application of accounting in the public sector.</p>"
+    ],
+    "ilo": [
+        "Discuss the nature and role of public sector accounting;",
+        "Apply accounting tools and methods to resolve issues faced by public sector and government agencies; and",
+        "Critically evaluate the role of accounting in the governance of public sector and government agencies."
+    ],
+    "generic_skills": [
+        "Critical thinking, specifically in relation to the application of accounting in the public sector;",
+        "Problem solving skills, specifically in relation to the application of tools and methods to resolve issues faced by public sector and government agencies;",
+        "Application of theory and analysis to real-world contexts;",
+        "Oral and written communication skills; and",
+        "Collaborative learning and team work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsACCT90012Corporate ReportingSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ACCT90009Strategic Cost ManagementSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT90012",
+                        "Name": "Corporate Reporting",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ACCT90009",
+                        "Name": "Strategic Cost Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Seminar participation (presentations, discussion)",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group project proposal",
+            "bullets": [
+                "1,000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group project",
+            "bullets": [
+                "3,000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

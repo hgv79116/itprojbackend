@@ -1,0 +1,171 @@
+{
+    "overview": [
+        "<p>This subject introduces the concepts of mathematical and computational modelling of biological systems, and how they are applied to data in order to study the underlying drivers of observed behaviour. The subject emphasises the role of abstraction and simplification of biological systems, where required details of the underlying biological mechanisms will be provided. Combined with an introduction to Monte Carlo methods for statistical inference, students will learn how to identify common patterns in the rich and diverse nature of biological phenomena and appreciate how the modelling process leads to new insight into biological phenomena.</p>",
+        "<ul><li>Modelling: Deterministic and stochastic population-level dynamic models; and agent-based computational models will be introduced and studied. Indicative examples will be drawn from health (e.g. infectious diseases, cell tumor growth, developmental biology), ecology (e.g. predator-prey systems, sustainable harvesting, environmental decision making) and biotechnology (e.g. biochemical and metabolic models).</li><li><span>Simulation: Sampling based methods (i.e. Monte Carlo methods) for parameter estimation and hypothesis testing will be introduced, and their importance in modern computational biology discussed.</span></li></ul>"
+    ],
+    "ilo": [
+        "Appreciate how abstraction and simplification of biological systems through modelling can provide new insight into biological phenomena",
+        "Be able to distinguish between different approaches to modelling (deterministic, stochastic, agent-based, statistical) and critically evaluate the suitability of these alternative approaches for particular biological problems",
+        "Be able to develop computer programs that implement and solve simple models of biological phenomena",
+        "Be familiar with the concept of statistical simulation and its role in testing hypotheses and understanding model behaviour",
+        "Use models and their application to data to formally evaluate biological hypotheses",
+        "Demonstrate an understanding of how to interpret and critique the biological modelling literature"
+    ],
+    "generic_skills": [
+        "modelling skills: the ability to abstract and generalise from observations of a complex system, providing an alternative perspective on the problem",
+        "numerical and computer simulation skills: the ability to design simple computer programs to solve models and test hypotheses",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Students must complete the following subject:"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Plus one of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMAST20004ProbabilitySemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20006Probability for StatisticsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20004",
+                        "Name": "Probability",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20006",
+                        "Name": "Probability for Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Plus one of"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5PHYC20013Laboratory and Computational Physics 2Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20013",
+                        "Name": "Laboratory and Computational Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Other evidence of competence in computer programming can also be provided to meet this pre-requisite, including passing a relevant Year 12 school subject, or a statement of achievement from a relevant MOOC, or passing a programming competency test administered by another University of Melbourne School."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature Review",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment-\n\nThree assignments, containing mathematical analysis and simulation, due at regular intervals during semester (week 4, 8 and 12).",
+            "bullets": [
+                "60 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours: 24 x one-hour lectures (2 per week), 12 x two-hour practice classes (1 per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "edward.hinton@unimelb.edu.au"
+        }
+    ]
+}

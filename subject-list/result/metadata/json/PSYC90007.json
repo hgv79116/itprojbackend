@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>This subject provides an opportunity for didactic, case-based and experiential learning in cognitive-behavioural treatment models and techniques. Although the prime focus will be on cognitive-behavioural treatments for adult psychological disorders, attention will be paid to other treatment modalities (eg. pharmacological, psychosocial, etc.) where appropriate. Teaching may be composed of a combination of didactic input, class discussions, role plays and observation.</p>"
+    ],
+    "ilo": [
+        "Develop knowledge in implementing evidence-based cognitive-behavioural treatments for specific psychological disorders, considering an individual's cultural and socioeconomic context."
+    ],
+    "generic_skills": [
+        "527CL Master of Psychology (Clinical Psychology)",
+        "527CN Master of Psychology (Clinical Neuropsychology)",
+        "080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy",
+        "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+        "MC-PROPSYC Master of Professional Psychology"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "527CL Master of Psychology (Clinical Psychology)",
+                    "527CN Master of Psychology (Clinical Neuropsychology)",
+                    "080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy",
+                    "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+                    "MC-PROPSYC Master of Professional Psychology"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written clinical case formulation",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": "",
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A written treatment plan",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": "",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Hurdle requirement of at least 80% attendance at all coursework and seminar activities associated with this subject. ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Prof Kim Felmingham",
+            "contact_email": "kfelmingham@unimelb.edu.au"
+        }
+    ]
+}

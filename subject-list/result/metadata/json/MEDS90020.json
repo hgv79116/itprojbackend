@@ -1,0 +1,203 @@
+{
+    "overview": [
+        "<p>The overall aim of Principles of Clinical Practice 3 is to further develop applied biomedical knowledge, key clinical skills, and clinical reasoning in a broad range of clinical settings and medical disciplines. Students are expected to actively participate in a variety of different learning activities both online and in person, and to actively engage in clinical placement. The subject will be delivered in five 6-week terms. Over the course of the year students will be on clinical placement in General Practice, Mental health, Aged Care, Rehabilitation, Palliative Care, Child and Adolescent Health and Women\u2019s Health. Students will build on their understanding of health systems and teams and their understanding of transitions of care. Students will focus on becoming part of hospital-based and community-based teams to further develop their diagnostic, communication and management skills in the context of patients presenting with acute and chronic conditions in all age groups. Teaching activities include interactive modules that allow students to apply biomedical knowledge, clinical skills and clinical reasoning to develop a differential diagnosis and provide a management plan for core conditions and presentations; and understand risk assessment in health care and the role of preventative care, professional practice development and procedural skills training.\u202f </p>"
+    ],
+    "ilo": [
+        "Theme: Clinician scientist (Knowledge) . Apply biomedical sciences knowledge to explain underlying mechanisms of patient presentations and rationale for management across the age spectrum.",
+        "Theme: Clinician scientist (Skills). Incorporate essential biomedical sciences knowledge in proposing a scientifically supported differential diagnosis with rationale for the principal diagnosis, management and response to care across the age spectrum.",
+        "Theme: Clinician Researcher (Knowledge). Integrate knowledge of study design, data analysis, research governance and current clinical practice to identify, interpret and appraise scientific and scholarly evidence",
+        "Theme: Clinician Researcher (Skills). Analyse and apply a variety of resources to determine the effectiveness, efficiency and appropriateness of current health care practices in patients across the age spectrum"
+    ],
+    "generic_skills": [
+        "Highly developed cognitive, analytic and problem-solving skills",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Ability and self-confidence to comprehend complex concepts to express them lucidly, whether orally or in writing, and to confront unfamiliar problems",
+        "Leadership capacity, including a willingness to engage in constructive public discourse, to accept social and civic responsibilities",
+        "Ability and confidence to participate effectively in collaborative learning as a team-member, while respecting individual differences",
+        "Ability to plan work and to use time effectively"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS90004",
+                        "Name": "Principles of Clinical Practice 2",
+                        "Teaching period": "Year Long (Extended) (On Campus - Parkville)",
+                        "Credit Points": "81.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDS90022",
+                        "Name": "Student Conference 3",
+                        "Teaching period": "June (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Cumulative Achievement Test 7",
+            "bullets": [
+                "120 minutes"
+            ],
+            "hurdle": "Satisfactory standard",
+            "timing": "During the examination period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Progress Test 3",
+            "bullets": [
+                "180 minutes"
+            ],
+            "hurdle": "Completion -  no minimum standard of achievement required.",
+            "timing": "End of Semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Progress Test 4",
+            "bullets": [
+                "180 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid-Semester 2",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Short Answer Question (SAQ) exam - end of year",
+            "bullets": [
+                "120 minutes"
+            ],
+            "hurdle": "Satisfactory standard",
+            "timing": "During the examination period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Multiple station Objective Structured Clinical Examinations",
+            "bullets": [
+                "4500 words (equivalent)"
+            ],
+            "hurdle": "See Clinical Assessment Hurdle",
+            "timing": "During the examination period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Standardised Case Based Discussion - Mid Year",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": "See Clinical Assessment hurdle",
+            "timing": "End of Semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Standardised Case Based Discussion - End of Year",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": "See Clinical Assessment hurdle",
+            "timing": "During the examination period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Mini Clinical Encounters (MiniCEX) -Completion of 10 MiniCEX, 2 each term/discipline.",
+            "bullets": [
+                "4000 words (equivalent)"
+            ],
+            "hurdle": "See Clinical Assessment hurdle",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Mini Clinical Encounters  (Mini CEX)-Peer assessed.\n\n(2 in Semester 1, 1 in Semester 2, 3 in total)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": "See Clinical Assessment hurdle",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Situational Judgement Test (SJT)",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": "See Professional Behaviour hurdle",
+            "timing": "End of Semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Procedural Skills",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": "Performance to a satisfactory standard in core procedural skills ",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Work Based Assessment (completion of at least 20 WBA, minimum of 4 per term)",
+            "bullets": [
+                "8000 words (equivalent)"
+            ],
+            "hurdle": "See Clinical Assessment hurdle",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Portfolio",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": "Satisfactory standard in tasks mapped to the clinician researcher theme, and to core themes within the health advocate and professional and leader SILO domains\n\n\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "PROFESSIONAL BEHAVIOUR HURDLE",
+            "bullets": null,
+            "hurdle": "Satisfactory standard in professional behaviour, as demonstrated by observed Professional Behaviour Assessment, Situational Judgement tests and satisfactory completion of the Academic Integrity Quiz, and attendance at learning activities and clinical placements in line with subject expectations. ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "CLINICAL ASSESSMENT HURDLE",
+            "bullets": null,
+            "hurdle": "Students must satisfactorily complete a minimum of 10 mini-CEX assessments, two Mini CEXs per term/discipline assessed by a clinician; completion of three peer assessed Mini CEXs, two in semester 1, one in Semester 2; completion of a minimum of 20 WBA assessments throughout the year; satisfactory standard in combined SCBD end of Semester 1 and SCBD end of year scores (equally weighted) and satisfactory standard in the combined station end of year OSCE assessment.   ",
+            "timing": "Throughout the subject",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long (Extended)",
+            "principal_coordinator": "Christine Jackman",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "330 hours. Three hundred and thirty hours of formal teaching comprised of problem or topic orientated classroom-based tutorials, structured professional and procedural skills sessions, bedside tutorials and supervised general practice consultations. Students will also participate in clinical activities such as ward rounds, outpatient clinics, labour ward and team meetings as well as independently clerking patients on specialty wards and in general practice. Estimated non-contact time commitment: an average of at least 30 hours per week.",
+            "total_time_commitment": "1,280 hours",
+            "teaching_period": "22 January 2024 to  1 November 2024",
+            "last_self_enrol_date": "2 February 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "22 November 2024",
+            "contact_name": null,
+            "contact_email": "enquiry here"
+        }
+    ]
+}

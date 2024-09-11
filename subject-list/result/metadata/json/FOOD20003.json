@@ -1,0 +1,185 @@
+{
+    "overview": [
+        "<p>This subject introduces the basic concepts of both food science and nutrition. From a food science perspective, the subject will assist students in developing an understanding of the chemical structure and underlying nutritional biochemistry of food components, concentrating on carbohydrates, proteins and lipids, and how food processing affects these food components.  </p>",
+        "<p>From a nutrition perspective, the subject will assist students in developing an understanding of the nutritional aspect of food in the human body, covering basic physiological and biochemical processes.  There is a particular emphasis on the digestion, absorption, nutritional significance and health effects of the macro and micronutrients, and the basic biochemistry of energy metabolism.  Students will further explore the dietary concepts of energy balance and diet planning and the tools used in this process.</p>"
+    ],
+    "ilo": [
+        "Summarise the structural, physical and chemical properties of food components and apply this knowledge in a food industry application",
+        "Discuss how food relates to human physiology and interpret consequences of inadequate or excessive intakes",
+        "Analyse an individual's dietary intake against nutrient reference values and dietary guidelines",
+        "Determine an individual's anthropometry, energy requirements and potential health effects of imbalances"
+    ],
+    "generic_skills": [
+        "A profound respect for truth, intellectual and professional integrity, and the ethics of scholarship",
+        "The capacity of independent critical thought, rational inquiry and self-directed learning and research",
+        "An ability to drive, interpret and analyse social, technical or economical information from multiple source",
+        "Skills in observation, critical analysis and report writing"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOL10002Biomolecules and CellsSemester 1 (On Campus - Parkville)12.5BIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOL10010Foundational Biology: Life's ComplexitySemester 2 (On Campus - Parkville)12.5BIOL10011Biology: Life's ComplexityNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10010",
+                        "Name": "Foundational Biology: Life's Complexity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10011",
+                        "Name": "Biology: Life's Complexity",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One of:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEM10003Chemistry 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5CHEM10006Chemistry for BiomedicineSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CHEM10007Fundamentals of ChemistrySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM10003",
+                        "Name": "Chemistry 1",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10006",
+                        "Name": "Chemistry for Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10007",
+                        "Name": "Fundamentals of Chemistry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Diet record analysis",
+            "bullets": [
+                "150 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Food science industry application",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": "It is a hurdle requirement that students must complete this report",
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Nutritional assessment",
+            "bullets": [
+                "850 words (equivalent)"
+            ],
+            "hurdle": "It is a hurdle requirement that students must complete this nutritional assessment",
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x 1-hour class per week, and 1 x 1 hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kelly.f@unimelb.edu.au"
+        }
+    ]
+}

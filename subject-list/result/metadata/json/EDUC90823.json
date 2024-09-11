@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>This subject builds participants\u2019 capacity to develop pedagogical knowledge and skills in order to improve language, literacy and numeracy (L,L&amp;N) outcomes for all students. Evidence is presented to demonstrate the importance of L,L&amp;N skills for success at school, future learning and for full participation in the community and the workplace.</p>",
+        "<p>This subject explores the current definitions and the place of L,L&amp;N in the curriculum; examines Australian students\u2019 performance in national and international assessment programs. It supports the development of participants\u2019 own language, literacy and numeracy skills and as well as an understanding of first and second language acquisition and the development of critical numerical concepts and applications.</p>",
+        "<p>This subject identifies the L,L&amp;N demands of the range of discipline areas taught in the secondary school, including the L,L&amp;N needs of interdisciplinary content areas and in relation to e-learning. It also builds participants\u2019 capacity to assess and respond to specialised learning needs of all students, including: gifted and talented, EAL, Indigenous and students with disability.</p>",
+        "<p>This subject along with <em>Teaching and Learning Contexts 1 </em>and <em>Evidence Based Learning and Teaching 1, </em>requires participants to implement the Clinical Praxis Exam.</p>",
+        "<p> </p>",
+        "<p><br/><br/></p>"
+    ],
+    "ilo": [
+        "demonstrate knowledge of current research in teaching L,L&N skills and understand the importance of L,L&N in schooling across all learning areas (Graduate Standards 2.5, 3.6, 4.1)",
+        "analyse and articulate the L,L&N demands made by particular disciplines and particular learning tasks and develop teaching strategies to improve student learning (Graduate Standards 2.5)",
+        "demonstrate an understanding of L,L&N assessment strategies, including informal and formal, diagnostic, formative and summative approaches to assess students learning (Graduate Standards 5.1)",
+        "demonstrate the capacity to interpret L,L&N student assessment data to evaluate student learning and modify teaching practice (Graduate Standards 5.4)",
+        "demonstrate an understanding of how to meet the learning needs of diverse learners through evidence based classroom planning (Graduate Standards 2.3, 2.5, 3.1)",
+        "demonstrate a range of verbal and nonverbal communication strategies to support student engagement (Graduate Standards 3.5)",
+        "develop pedagogical approaches that cater for student diversity, including differentiation of learning (Graduate Standards 1.3, 1.5, 1.6, 2.5, 3.3)",
+        "develop instructional and interventionist classroom practices that account for and address L,L&N demands using a range of resources (Graduate Standards 2.5, 3.4)"
+    ],
+    "generic_skills": [
+        "Understand the significance of developing their practice on the basis of research evidence",
+        "Be flexible and able to adapt to change through knowing how to be solution focussed",
+        "Assess student learning needs and evaluate the effectiveness of their teaching strategies",
+        "Find and develop appropriate resources to support students\u2019 L,L&N learning",
+        "Work in teams with skills in cooperation, communication and negotiation",
+        "Be skilled communicators who can effectively articulate and justify their practices",
+        "Be independent of mind, responsible, resilient and self-regulating."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90580",
+                        "Name": "Evidence Based Learning and Teaching 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90583",
+                        "Name": "Learning and Teaching Contexts 1",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Clinical Praxis Examination (oral presentation; equivalent to 1,500 words for this subject. This is a combined task with EDUC90583 and EDUC90580)",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "The Clinical Praxis Exam must be passed.",
+            "timing": "July",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Essay exploring language, literacy and numeracy issues and responses for EAL and students with additional learning needs",
+            "bullets": [
+                "3500 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid September",
+            "percentage": "70%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance at all scheduled lectures, tutorials, seminars and workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

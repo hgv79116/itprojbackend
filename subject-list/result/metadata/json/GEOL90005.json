@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p>This subject will investigate, both qualitatively and quantitatively, the fundamental physical and chemical processes governing groundwater flow and composition, including aquifer properties, regional geology, hydrology and water-rock interactions. Field and laboratory methods such as well tests, water analysis in the field and in the laboratory and data analysis are demonstrated and used to characterise hydraulic conductivity and mixing, water types and potential contamination. A one-week field excursion to the Newer Volcanic Province and the Limestone Coast will draw together many of these concepts and will emphasise surface and groundwater connectivity and groundwater supported ecosystems.</p>",
+        "<p>This subject will have a 1-week intensive field trip that will be delivered in the week prior to the start of Semester 1 (pre-teaching period) and 6 weeks of teaching during weeks 1-6 of Semester 1.   </p>"
+    ],
+    "ilo": [
+        "Characterise regional hydraulic systems in the context of the regional geology, water inputs and outputs and the water composition;",
+        "Demonstrate sampling of waterbores and water analysis in the field;",
+        "Identify water types based on the water composition;",
+        "Predict the evolution of water composition due to changes in the hydraulic system;",
+        "Predict and explain water \u2013 rock reactions in the subsurface."
+    ],
+    "generic_skills": [
+        "work in a small team;",
+        "develop a simple quantitative model;",
+        "develop scientific approaches to solve complex questions;",
+        "think critically and independently;",
+        "prepare structured and concise reports and oral presentations."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GEOL30003",
+                        "Name": "Sedimentary Geology and Hydrogeology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsENEN90038Engineering HydrologySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN90038",
+                        "Name": "Engineering Hydrology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Team presentation (5-10 mins of presentation by each student)",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the field excursion",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment: Field report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Due in weeks 2 - 3 of Semester 1",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Assignment: Practical Lab Report",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Due in weeks 5 - 6 of Semester 1",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Assignment: Research plan",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "February",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "6-days (with 8 hours per day) field excursion in the week prior to the start of Semester 1. \n\n1 x two-hour lectures and 1 x two-hour practical class per week over 6 teaching weeks in Semester 1.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "19 February 2024 to  5 April 2024",
+            "last_self_enrol_date": "13 February 2024",
+            "census_date": "15 March 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "ralf.haese@unimelb.edu.au"
+        }
+    ]
+}

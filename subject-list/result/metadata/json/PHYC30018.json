@@ -1,0 +1,172 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">Quantum mechanics plays a central role in our understanding of fundamental phenomena, primarily in the microscopic domain. It lays the foundation for an understanding of atomic, molecular, condensed matter, nuclear and particle physics.</p>",
+        "<p class=\"MsoNormal\">Topics covered include:</p>",
+        "<ul><li>the basic principles of quantum mechanics (probability interpretation; Schr\u00f6dinger equation; Hermitian operators, eigenstates and observables; symmetrisation, antisymmetrisation and the Pauli exclusion principle; entanglement)</li><li>wave packets, Fourier transforms and momentum space</li><li>eigenvalue spectra and delta-function normalisation</li><li>Heisenberg uncertainty principle</li><li>matrix theory of spin</li><li>the Hilbert space or state vector formation using Dirac bra-ket notation</li><li>the harmonic oscillator</li><li>the quantisation of angular momentum and the central force problem including the hydrogen atom</li><li>approximation techniques including perturbation theory and the variational method</li><li>applications to atomic and other systems.</li></ul>"
+    ],
+    "ilo": [
+        "explain the basic principles of quantum physics including the probability interpretation, unitary time-evolution, the association of operators with observables, Pauli exclusion principle, and entanglement;",
+        "solve elementary problems involving intrinsic spin;",
+        "solve problems by applying quantum mechanical theory to situations involving atoms, molecules, solids, nuclei and elementary particles;",
+        "appreciate the importance of approximation techniques in quantum mechanics."
+    ],
+    "generic_skills": [
+        "analyse how to solve a problem by applying simple fundamental laws to more complicated situations",
+        "apply abstract concepts to real-world situations",
+        "solve relatively complicated problems using approximations",
+        "participate as an effective member of a group in tutorial discussions",
+        "manage time effectively in order to be prepared for tutorial classes, undertake the written assignments and the examination."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Physics:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsPHYC20012Quantum and Thermal PhysicsSemester 1 (On Campus - Parkville)12.5PHYC20015Special Relativity and ElectromagnetismSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC20012",
+                        "Name": "Quantum and Thermal Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20015",
+                        "Name": "Special Relativity and Electromagnetism",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Mathematics:"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20009Vector CalculusSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20032Vector Calculus: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20009",
+                        "Name": "Vector Calculus",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20032",
+                        "Name": "Vector Calculus: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20026Real AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5MAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5PHYC20014Theoretical Physics 2Semester 2 (On Campus - Parkville)12.5MAST20033Real Analysis: AdvancedSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20026",
+                        "Name": "Real Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20014",
+                        "Name": "Theoretical Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20033",
+                        "Name": "Real Analysis: Advanced",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One written assignment, requiring approximately 20 hours of preparation, study and writing to complete",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One poster presentation\u00a0requiring approximately 20 hours of preparation, study and writing to complete",
+            "bullets": [
+                "20 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "15%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Raymond Volkas",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 to 4 hours per week, 36 in total, lectures and problem-solving classes",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "PHYC30018@physics.unimelb.edu.au"
+        }
+    ]
+}

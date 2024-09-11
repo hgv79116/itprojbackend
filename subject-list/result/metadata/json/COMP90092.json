@@ -1,0 +1,167 @@
+{
+    "overview": [
+        "<p>This subject provides students with the necessary skills to engage in a deep innovation investigation under the supervision of a member of the academic staff and in the context of industry engagement initiatives. Students working in groups use their computational knowledge to undertake customer inquiry, problem discovery, concept ideation and product validation for a real-world challenge. The digital innovation stream is taught by a combination of academics, industry experts and entrepreneurs, corporate executives, intellectual property attorneys and venture capitalists. As such, it provides a unique opportunity to gain real world experience while still in an academic environment. </p>"
+    ],
+    "ilo": [
+        "SILO1.\tWork as part of an interdisciplinary team to complete a digital innovation project.;",
+        "SILO2.\tSearch, analyse and document existing knowledge around computational practices in order to determine the need for further research and development in digital innovation.;",
+        "SILO3.\tDevise a methodology of investigation to explore business values and problems in order to identify opportunities for innovation through computational solutions;",
+        "SILO4.\tCollect and critically analyse a range of data to synthesise complex information about a chosen real-world problem and to identify user needs that can be addressed through digital innovation;",
+        "SILO5.\tDevelop a business plan, including market overview, regulation and reimbursement strategies and intellectual property (IP) strategies;",
+        "SILO6.\tConstruct/Build an innovative business solution that will address user needs identified during problem investigation;",
+        "SILO7.\tIdentify and evaluate innovative solutions that respond to the user needs identified in the problem investigation;",
+        "SILO8.\tPresent digital solutions to stakeholders in oral and written forms."
+    ],
+    "generic_skills": [
+        "Work independently as part of an interdisciplinary team",
+        "Apply a design thinking approach to innovative problem solving",
+        "Demonstrate capacity for independent critical thought, innovative inquiry, and self-directed learning",
+        "Ability to identify business value in innovation solutions to real-world problems",
+        "Have respect for the truth and intellectual integrity, and for the ethics of scholarship",
+        "Be able to present work in written and oral form"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "This subject is equivalent to 12.5 points in one semester and 37.5 pts in the second semester."
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject will be split into two parts, Part 1 and Part 2 (continuing subjects). 50 credit points in total (Part 1 - 12.5 credit points, Part 2 \u2013 37.5 credit points)"
+            },
+            {
+                "type": "paragraph",
+                "content": "Students must submit an Expression of Interest. Upon acceptance, students will need to complete an Enrolment Assistance form attaching approval to enrol."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90055",
+                        "Name": "Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "COMP90082",
+                        "Name": "Software Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "INFO90008",
+                        "Name": "HCI Research Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "INFO90010",
+                        "Name": "Technology Innovation Project",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Computational Needs - One team-based written assignment, 4-5 students in a team(peer-assessed) on the computational needs of a particular context which identifies opportunities for digital innovation. Intended Learning Outcomes (ILOs) 1-5 and 8 are addressed in this assessment.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7 of first semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Computational Design - One team-based progress report (peer-reviewed) detailing investigation findings and design requirements.  ILOs 1-5 and 8 are addressed in this assessment.",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12 of first semester",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Concept Pitch - One team-based oral presentation comprising 10 minutes per student (individual). This presentation should provide a detailed description from the team of a computational problem, a broad market review, an engineering concept of 3-4 solutions, regulation and reimbursement strategies, and IP challenges are assessed in this presentation.  ILOs 1-5 and 8 are addressed in this assessment.",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 2 of second semester",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Invention: An individual technical oral examination of no more than 30 minutes duration per student. Technical oral examination includes a formal presentation of 15 minutes followed by questions from an academic supervisor and academic examiner. ILOs 1-8 are addressed in this assessment.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 10 of second semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Showcase : A 15 minutes (per student) general oral demonstration (team-based, peer assessed)   that showcases the final design concept and illustrates how it would be used to address the problem(s) identified in the investigation supported by display materials (e.g. video, poster, computer demonstration, prototype).  ILOs 1-8 are addressed in this assessment.",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 11 of second semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Technical Report: A professional final report (team-based, peer-assessed) of 8,000 words, excluding appendices or supporting material that can include diagrams, tables, computations and computer code/output. ILOs 1-8 are addressed in this assessment.",
+            "bullets": [
+                "8000 words"
+            ],
+            "hurdle": null,
+            "timing": "Exam period of second semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lecture \u2013 1 hr per week; Workshop \u2013 2 hrs per week",
+            "total_time_commitment": "800 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "adrianrp@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Lecture \u2013 1 hr per week; Workshop \u2013 2 hrs per week",
+            "total_time_commitment": "800 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "adrianrp@unimelb.edu.au"
+        }
+    ]
+}

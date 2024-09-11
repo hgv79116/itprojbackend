@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject will explore the Middle Years Programme (MYP) standards and practices guidelines. The principles of instructional design and the role of collaborative working practice for learning and teaching will be explored in order to address the expectations and requirements of specific subject areas. There will be a focus on developing interdisciplinary links and reflecting the learner profile through the evaluation and selection of appropriate teaching and learning materials. Issues and approaches for differentiating learning and teaching and responding to diverse learning characteristics will also be addressed.</p>"
+    ],
+    "ilo": [
+        "Examine principles of instructional design and the role of collaborative working practice for learning and teaching that incorporate MYP standards and practices",
+        "Investigate and apply principles of instructional design for developing curriculum that meets the expectations and requirements of specific subjects and differentiates learning and teaching activities in response to diverse learning characteristics",
+        "Articulate strategies for developing interdisciplinary links and embedding the learner profile in MYP curriculum",
+        "Explain the relationship between curriculum, methodology and assessment in specialised disciplines"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90331",
+                        "Name": "Assessment & Reporting in the IB",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90333",
+                        "Name": "Introduction to the IB",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EDUC90968",
+                        "Name": "Curriculum Frameworks in the IB MYP",
+                        "Teaching period": "Term 2 (Online)Term 4 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Critical reading task",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written task: MYP unit planner",
+            "bullets": [
+                "2250 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Presentation: interdisciplinary learning (20 minutes)",
+            "bullets": [
+                "2250 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "45%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 April 2024 to 23 June 2024",
+            "last_self_enrol_date": "23 April 2024",
+            "census_date": "17 May 2024",
+            "last_date_to_withdraw_without_fail": "7 June 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Term 4 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "14 October 2024 to  8 December 2024",
+            "last_self_enrol_date": "8 October 2024",
+            "census_date": "1 November 2024",
+            "last_date_to_withdraw_without_fail": "22 November 2024",
+            "assessment_period_ends": "15 December 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Artificial intelligence is the quest to create intelligent agents that can complete complex tasks which are at present only achievable by humans. This broad field covers logic, probability, perception, reasoning, learning and action; and everything from Mars Rover robotic explorers to the Watson Jeopardy playing program. You will explore some of the vast area of artificial intelligence. Topics covered include: searching, problem solving, reasoning, knowledge representation and machine learning. Topics may also include some of the following: game playing, expert systems, pattern recognition, machine vision, natural language, robotics and agent-based systems.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<ul><li>Agents and search</li><li>Probabilistic reasoning</li><li>Reinforcement Learning</li><li>Pattern recognition for robotics.</li></ul>"
+    ],
+    "ilo": [
+        "Identify problems that can be solved by search, and create search-based solution algorithms",
+        "Design intelligent agents",
+        "Choose the best search-based solving methods for a particular problem",
+        "Make use of formal approaches for representing and reasoning about knowledge",
+        "Build systems that use simple learning approaches to improve their performance"
+    ],
+    "generic_skills": [
+        "The ability to analyse and solve problems involving complex reasoning",
+        "The ability to synthesise information and communicate results effectively",
+        "The capacity for critical and independent thought and reflection",
+        "The ability to apply knowledge of basic science and engineering fundamentals",
+        "The ability to undertake problem identification, formulation and solution."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "GC-CS Graduate Certificate in Computer Science",
+                    "MC-SOFTENG Master of Software Engineering"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A programming project submitted in two parts during semester. A component of the marks for the project work will be based on the individual contribution to the project.",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Christopher Leckie",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "caleckie@unimelb.edu.au"
+        }
+    ]
+}

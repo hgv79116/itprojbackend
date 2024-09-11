@@ -1,0 +1,126 @@
+{
+    "overview": [
+        "<p><span>After completion of this subject, students will have the knowledge of when and how to perform ultrasound-guided percutaneous procedures commonly used in critical care, including central and peripheral venous and arterial vascular access, drainage of effusions from the lung, heart and peritoneal cavities, and ultrasound guided surgical airway procedures.</span></p>"
+    ],
+    "ilo": [
+        "Describe in detail the anatomy relevant to ultrasound-guided drainage of effusions from the pericardial, pleural and abdominal cavities and cannulation of vessels and the trachea.",
+        "Identify the key steps required to minimise infectious and mechanical complications from percutaneous procedures.",
+        "Identify the key steps required to perform and write a structured report of ultrasound-guided procedures including central and peripheral vascular access, drainage of effusions of the lung, heart and peritoneal cavities, and ultrasound-guided surgical airway procedures.",
+        "Evaluate the requirements for training, competence, and certification in ultrasound-guided procedures."
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90112",
+                        "Name": "Clinical Ultrasound \u2013 Core Concepts",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsMEDI90054Ultrasound Guided ProceduresSemester 2 (Online)Semester 1 (Online)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90054",
+                        "Name": "Ultrasound Guided Procedures",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to interpret clinical ultrasound. A student is expected to demonstrate sufficient visual acuity to perform the required range of skills, including reading ultrasound images from a computer monitor."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple-choice questions following each tutorial",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Interpretation of 10 case studies assessed by structured questions pertaining to each case",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Open-book summative examination",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

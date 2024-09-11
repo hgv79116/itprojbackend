@@ -1,0 +1,151 @@
+{
+    "overview": [
+        "<p>This subject has a combined emphasis on language and literacy, pedagogy and assessment across the disciplines. Teacher Candidates will be introduced to the language and literacy demands of the range of subject areas taught in the secondary school. The subject draws on research and practice to examine a range of topics including: the scaffolding role of the teacher in students\u2019 learning through language; teachers\u2019 and students\u2019 use of oral language to enhance learning; strategies for supporting students\u2019 reading and writing; planning for literacy in the subject areas; Universal Design for Learning and tiered approaches to orchestrating inclusive classrooms; assessment techniques that underpin the articulation of learning progressions; and methods and moderation processes that support consistent and comparable judgements of student learning . The theme of the content presented in this core subject is \u2018making judgements and adjustments\u2019.</p>"
+    ],
+    "ilo": [
+        "Draw on their knowledge of learners and learning as central to making judgements about teaching (Graduate Standards 1,1, 1.2; 3.1; 3.3)",
+        "Collect, analyse, interpret and use reliable assessment evidence about individual learners, what they already know and what they are ready to learn, to make judgements about learning and subsequent adjustments to teaching (Graduate Standards 2.3; 3.6; 5.1; 5.2; 5.3; 5.4; 5.5)",
+        "Plan for and implement research-informed pedagogical practices to address the individual learning needs of a learner within a group/class context (Graduate Standards 1.3; 1.5; 3.2, 4.4)",
+        "Connect and engage with learners through effective verbal and non-verbal communication (Graduate Standards 1.2; 3.5; 4.1)",
+        "Use knowledge of the language and literacy demands of their teaching disciplines to make judgements and adjustments about teaching and learning (Graduate Standard 2.5)"
+    ],
+    "generic_skills": [
+        "Clinical reasoning and thinking",
+        "Problem solving",
+        "Evidence based decision making",
+        "Creativity and innovation",
+        "Teamwork and professional collaboration",
+        "Learning to learn and metacognition",
+        "Responsiveness to a changing knowledge base",
+        "Reflection for continuous improvement",
+        "Linking theory and practice",
+        "Inquiry and research",
+        "Active and participatory citizenship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90904",
+                        "Name": "Introduction to Clinical Practice (Sec)",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "All teacher candidates:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsEDUC90902Diverse and Inclusive Classrooms (Sec)Not available in 20246.25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90902",
+                        "Name": "Diverse and Inclusive Classrooms (Sec)",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Full time teacher candidates:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsEDUC90909Clinical Teaching Practice (Sec) 2Not available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90909",
+                        "Name": "Clinical Teaching Practice (Sec) 2",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Extended plan teacher candidates:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsEDUC91011Clinical Teaching Practice (Sec) 2 ExtNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91011",
+                        "Name": "Clinical Teaching Practice (Sec) 2 Ext",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Analysis of an oral language interaction",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assessment report",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Clinical Praxis Exam (Student) individual oral report (20 minutes presentation and 10 minutes questions; 2000 words equivalent for this subject). This is a shared task with EDUC90902 Diverse and Inclusive Classrooms (Sec)",
+            "bullets": [
+                "30 minutes (total)"
+            ],
+            "hurdle": "Successful completion of the Clinical Praxis Exam with a minimum 50% pass grade is required to achieve an overall pass in this subject",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "A minimum of 80% attendance at all scheduled seminars, tutorials and workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

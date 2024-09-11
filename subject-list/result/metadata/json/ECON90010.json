@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>The subject will focus on estimating and testing nonlinear models in finance including volatility models, artificial neural networks, factor models of contagion and discrete models of financial behaviour. Special attention will be given to estimating and testing dynamic latent factor models using Principal Components and Kalman filters, modelling risk neutral dynamics in option markets, and fat-tailed behaviour in asset returns using extreme value theory and copulas. Estimation and testing methods are based on maximum likelihood methods. A range of computer software will be used throughout the course. This subject also provides students with the experience of carrying out a research-based project on a specific topic in applied econometrics.</p>"
+    ],
+    "ilo": [
+        "Identify and apply recent advances in quantitative methods to solve a range of problems in finance",
+        "Describe how quantitative procedures can be applied in financial decision making",
+        "Demonstrate a sophisticated understanding of quantitative methods by reproducing existing results. This will involve using both mathematical and computer skills. The computer programs used are EViews, Matlab and Excel",
+        "Develop alternative frameworks for exploring new ideas in building alternative financial models",
+        "Evaluate the strengths and importance of research in applied finance and the implications of research for solving financial problems",
+        "Orally present the results of an independent piece of research",
+        "Complete a written research report"
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence;",
+        "Synthesis of ideas, views and evidence;",
+        "Strategic thinking;",
+        "Critical thinking;",
+        "Application of theory to economic policy and business decision making;",
+        "Summary and interpretation of information;",
+        "Statistical reasoning;",
+        "Problem solving skills;",
+        "Written communication; and",
+        "Oral communication."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90033",
+                        "Name": "Quantitative Analysis of Finance I",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOM90011",
+                        "Name": "Financial Econometrics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Test: MLE Estimation",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Test: MLE Testing",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Test: Financial Models",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Research Project (including Oral Presentation)",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "David Moreton",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours per week of lectures and tutorials.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>Through working with actors, directors and tutors, this intensive workshop enables students to make significant progress in the development of their first draft script.</p>",
+        "<p>Students learn how to work with actors to workshop a scene from their script and will be required to be on site to write intensively during the hothouse.</p>"
+    ],
+    "ilo": [
+        "make accelerated progress in drafting their script;",
+        "gain understanding of ways that working with actors can assist in developing a screenplay;",
+        "have the opportunity to work with industry professionals;",
+        "develop skills in hearing and assimilating critical feedback."
+    ],
+    "generic_skills": [
+        "greater clarity of \u2018vision\u2019 and communication;",
+        "heightened writing skills;",
+        "heightened skills of critical analysis, both in giving an receiving criticism;",
+        "logical follow through of thought processes."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FLTV70041",
+                        "Name": "Storytelling Workshop",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FLTV70042",
+                        "Name": "Cinematic Writing",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "18.75"
+                    },
+                    {
+                        "Code": "FLTV70043",
+                        "Name": "Writing for Television",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)",
+                        "Credit Points": "18.75"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FLTV70047",
+                        "Name": "Major Screenwriting Project",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "37.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Script development report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "80%"
+        },
+        {
+            "brief": "Active contribution and participation to all in-class discussions and activities",
+            "bullets": [
+                "25 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "31 hours, comprising one 1-hour lecture in week 1, and five 6-hour workshops",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ben.michael@unimelb.edu.au"
+        }
+    ]
+}

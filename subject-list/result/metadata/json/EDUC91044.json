@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>This subject explores the application of the positive psychology perspective within organisations, including government, for-profit, not-for-profit, and educational settings. Key social and identity processes that shape people\u2019s behaviours, wellbeing, and performance within the workplace are examined. Organisational culture is explored, and a recognition of the complexities of organisations are identified. Drawing on a range of disciplines, including organisational behaviour, management, leadership development, and positive organisational scholarship, students examine micro and macro approaches to organisational science.</p>"
+    ],
+    "ilo": [
+        "Analyse the relevance of positive psychology and wellbeing-related research within organisational contexts.",
+        "Examine factors that impact wellbeing for employees, teams, and organisations.",
+        "Articulate factors that impact sustainable positive behaviour change within organisations."
+    ],
+    "generic_skills": [
+        "Analytical skills and the ability to construct and articulate logical arguments.",
+        "Ability to critically investigate, revise and review new ideas and approaches.",
+        "Effective organisational and planning skills.",
+        "Ability to gather, interpret, and distinguish relevant supporting scientific evidence and data."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91041",
+                        "Name": "Principles of Positive Psychology",
+                        "Teaching period": "July (Online)March (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MC-APP students that commenced prior to 2022 may have completed EDUC90787 Principles of Positive Psychology."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Either a 2000-word written essay or a 16-minute multi-modal presentation: Analysis of positive scholarship in organisations",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written report: Organisational culture",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "A minimum of 75% attendance at all synchronous sessions",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours: Comprising 12 hours of on-campus sessions and 12 hours of asynchronous online sessions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 March 2024 to 18 May 2024",
+            "last_self_enrol_date": "27 February 2024",
+            "census_date": "22 March 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "29 May 2024",
+            "contact_name": null,
+            "contact_email": "jacqui.francis@unimelb.edu.au"
+        },
+        {
+            "semester": "August - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "24 hours: Comprising 12 hours synchronous online sessions and 12 hours of asynchronous online sessions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "1 August 2024 to 10 October 2024",
+            "last_self_enrol_date": "24 July 2024",
+            "census_date": "16 August 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 October 2024",
+            "contact_name": null,
+            "contact_email": "jacqui.francis@unimelb.edu.au"
+        }
+    ]
+}

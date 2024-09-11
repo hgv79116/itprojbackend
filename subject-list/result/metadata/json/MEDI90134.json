@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>After completion of this subject, students will have the knowledge and skill  in how to perform, interpret focused clinical ultrasound of commonly encountered pulmonary pathology, grade the degree of sternal mobility after open cardiac surgery, diagnose deep venous thrombosis (DVT) of the lower limb and will learn how to write a focused ultrasound report on these clinical ultrasound modalities. Students will perform, interpret, write a report and submit a log-book of at least 15 focused ultrasound studies on simulators and/or patients with a wide range of pathology for lung, sternum and DVT, and interpret and write a report on an additional 10 online focused ultrasound studies.</p>"
+    ],
+    "ilo": [
+        "Comprehensively understand the indications, uses and limitations of focused clinical ultrasound in assessment of pathology of the lung, sternum, and lower limb deep venous thrombosis (DVT)",
+        "Perform, interpret and write a structured interpretive report of focused clinical ultrasound for pathology of the lung and diagnose deep venous thrombosis and assess the degree of sternal mobility after sternotomy on patients and/or simulators",
+        "Evaluate the requirements for training, competence and certification in focused ultrasound of the lungs, sternum and DVT"
+    ],
+    "generic_skills": [
+        "Improved analytical and interpretive skills",
+        "Improved procedural skills for students who select a practical subject",
+        "Enhanced time utilisation",
+        "Improved written skills and problem-solving skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90129",
+                        "Name": "Clinical Ultrasound - Core Concepts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MEDI90102",
+                        "Name": "Vessels Nerves Lungs and Musculoskeletal",
+                        "Teaching period": "Semester 2 (Online)Semester 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Vision"
+            },
+            {
+                "type": "paragraph",
+                "content": "Adequate visual acuity is required to perform and interpret clinical ultrasound. A  student is expected to demonstrate: Sufficient visual acuity to perform the required range of skills, including reading ultrasound monitors across a bed and interpreting ultrasound images on standard commercially available ultrasound machines."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills"
+            },
+            {
+                "type": "paragraph",
+                "content": "Gross and fine motor skills are required in performing clinical ultrasound. A student is expected to demonstrate adequate gross and fine motor skills to perform focused ultrasound whilst avoiding injury to patients, colleagues and self."
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple-choice questions following each tutorial (25 MCQ)",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Interpretation of 10 online case studies assessed by structured MCQ pertaining to each case (50 MCQ)",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the assessment period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Two ultrasound examinations",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Complete a logbook of 15 focused ultrasound studies on either patients or simulators",
+            "bullets": null,
+            "hurdle": "Student must submit a logbook of 15 focused ultrasound studies on either patients or simulators to pass this subject.",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Open-book summative examination of 25 MCQ.",
+            "bullets": [
+                "625 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Phone: + 61 3 8344 0149",
+            "contact_email": "https://unimelb.edu.au/professional-development/contact-us"
+        }
+    ]
+}

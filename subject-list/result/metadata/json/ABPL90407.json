@@ -1,0 +1,131 @@
+{
+    "overview": [
+        "<p>Representing Spatial Information is the study of conveying insight gained through geospatial data and information. Upon completion, students will be able to communicate complex relations and insights through visual storytelling and concise graphics.</p>",
+        "<p>This subject will introduce students to fundamental concepts in spatial information and provide a practical understanding of the rise of the Smart City and how spatial information can assist in evidenced-based and collaborative decision-making.</p>",
+        "<p>Students will also be exposed to a range of digital environments, including open data repositories, urban modelling and visualisation tools and open source geospatial information technologies.</p>"
+    ],
+    "ilo": [
+        "Identify suitable data visualisations and representations of multidimensional  data",
+        "Plan and manage the acquisition and storage of geospatial information",
+        "Identify and source geospatial information",
+        "Analyse the quality and relevance of geospatial information to a research question",
+        "Develop a research design that spans from appropriate data collection and analysis methods to representation and communication of results",
+        "Choose appropriate representation methods",
+        "Conduct thematic mapping of aggregated and disaggregated datasets",
+        "Prepare reports and presentations that use complex data to interpret socio-economic and/or physical changes",
+        "Be competent in extracting and evaluating research evidence from spatial information as a basis for practice implementation"
+    ],
+    "generic_skills": [
+        "High level written communication skills",
+        "Advanced information and interpretation skills",
+        "Advanced analytic, integration and problem-solving skills",
+        "Demonstrate competence in critical and theoretical thinking through report writing and online discussions"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90130",
+                        "Name": "Critical Thinking with Analytics",
+                        "Teaching period": "Term 3 (Online)Term 1 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-URBDES Master of Urban Design",
+                    "MC-URPL Master of Urban Planning",
+                    "MC-ARCH Master of Architecture",
+                    "MC-PROP Master of Property",
+                    "MC-UPUD Master of Urban Planning/Master of Urban Design",
+                    "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                    "MC-ARCHUD Master of Architecture/Master of Urban Design",
+                    "MC-PROPUP Master of Property/Master of Urban Planning"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Critical reflection assessment on visualisation techniques (1/3)",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Critical reflection assessment on visualisation techniques (2/3)",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Case Study proposal and design",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Critical reflection assessment on visualisation techniques (3/3)",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Student Project",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Term 1 - Online",
+            "principal_coordinator": "Kerry Nice",
+            "mode_of_delivery": "Online",
+            "contact_hours": "4 hours per week, including online lectures, resources and interactions",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "29 January 2024 to 24 March 2024",
+            "last_self_enrol_date": "23 January 2024",
+            "census_date": "16 February 2024",
+            "last_date_to_withdraw_without_fail": "8 March 2024",
+            "assessment_period_ends": "31 March 2024",
+            "contact_name": "Subject Coordinator Jennifer Day",
+            "contact_email": "jday@unimelb.edu.au"
+        }
+    ]
+}

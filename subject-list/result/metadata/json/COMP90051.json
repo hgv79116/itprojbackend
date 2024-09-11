@@ -1,0 +1,243 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>With exponential increases in the amount of data becoming available in fields such as finance and biology, and on the web, there is an ever-greater need for methods to detect interesting patterns in that data, and classify novel data points based on curated data sets. Learning techniques provide the means to perform this analysis automatically, and in doing so to enhance understanding of general processes or to predict future events.</p>",
+        "<p>Topics covered will include: supervised learning, semi-supervised and active learning, unsupervised learning, kernel methods, probabilistic graphical models, classifier combination, neural networks.</p>",
+        "<p>This subject is intended to introduce graduate students to machine learning though a mixture of theoretical methods and hands-on practical experience in applying those methods to real-world problems.</p>",
+        "<p><strong>INDICATIVE CONTENT </strong></p>",
+        "<p>Topics covered will include: linear models, support vector machines, random forests, AdaBoost, stacking, query-by-committee, multiview learning, deep neural networks, un/directed probabilistic graphical models (Bayes nets and Markov random fields), hidden Markov models, principal components analysis, kernel methods.</p>"
+    ],
+    "ilo": [
+        "Describe a range of machine learning algorithms",
+        "Design, implement and evaluate learning systems to solve real-world problems, based on an appreciation of their relative suitability to different tasks"
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Ability to communicate effectively both with the engineering team and the community at large"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP90049Introduction to Machine LearningSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP30027Machine LearningSemester 1 (On Campus - Parkville)12.5COMP30018Knowledge TechnologiesNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90049",
+                        "Name": "Introduction to Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP30027",
+                        "Name": "Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP30018",
+                        "Name": "Knowledge Technologies",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-DATASC Master of Data Science"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20008Elements of Data ProcessingSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MAST90105Methods of Mathematical StatisticsSemester 1 (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20008",
+                        "Name": "Elements of Data Processing",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90105",
+                        "Name": "Methods of Mathematical Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "100pt Program course entry point in the MC-IT Master of Information Technology",
+                    "150pt Program course entry point in the MC-IT Master of Information Technology",
+                    "Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Artificial Intelligence specialisation (formal) in the MC-IT Master of Information Technology"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 4"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 5"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-DATASC Master of Data Science"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Data Science Background Stream"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "433-484 Machine Learning"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-679 Evolutionary and Neural Computation"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-680 Machine Learning"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-684 Machine Learning"
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two projects due around weeks 7 and 11.",
+            "bullets": [
+                "65-70 hours (of work required)"
+            ],
+            "hurdle": "To pass the subject, students must obtain a combined mark of at least 25/50 for the projects.",
+            "timing": "From Week 7 to Week 11",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Fortnightly online quizzes, marked based on the best 5 results from 6 quizzes.",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Every second week",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 2 hour end of semester examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain a mark of at least 20/40 on the exam.",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "feng.liu1@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jean.honorio@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "overview": [
+        "<p>This course is an introduction to algebraic number theory. Algebraic number theory studies the structure of the integers and algebraic numbers, combining methods from commutative algebra, complex analysis, and Galois theory. This subject covers the basic theory of number fields, rings of integers and Dedekind domains, zeta functions, decomposition of primes in number fields and ramification, the ideal class group, and local fields. Additional topics may include Dirichlet L-functions and Dirichlet\u2019s theorem; quadratic forms and the theorem of Hasse-Minkowski; local and global class field theory; adeles; and other topics of interest. </p>"
+    ],
+    "ilo": [
+        "be able to demonstrate understanding of basic number theoretic concepts through analysing examples;",
+        "find and explain in writing minor proofs of number theoretic results independently;",
+        "demonstrate the ability to explain proofs of, and identify core ideas behind, the major foundational results of algebraic number theory;",
+        "have the ability to pursue further studies in number theory and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30005",
+                        "Name": "Algebra",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 50 pages of written assignments (three assignments spread evenly)",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "chenyan.wu@unimelb.edu.au"
+        }
+    ]
+}

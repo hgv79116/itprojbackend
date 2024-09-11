@@ -1,0 +1,94 @@
+{
+    "overview": [
+        "<p>The subject will cover development economics. The topics covered may include economic growth theory including models in which growth is endogenous, measurement of poverty and inequality, tests of the efficiency of labour and credit markets, consumption smoothing, micro-credit schemes and demographic issues.</p>"
+    ],
+    "ilo": [
+        "Evaluate the ways in which developing countries differ from developed countries;",
+        "Identify how these differences affect the economic environment in which people live and the economic decisions made by households;",
+        "Analyse the relevance of particular theories to different environments;",
+        "Evaluate the results of empirical tests of the economic theories;",
+        "Synthesise the theoretical and empirical literature and describe the current state of knowledge in the field of development economics; and",
+        "Critically evaluate policy prescriptions in developmental economics."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; interpretation and analysis; critical thinking; synthesis of data and other information; evaluation of data and other information;",
+        "Moderate level of development: oral communication; written communication; statistical reasoning; application of theory to practice; receptiveness to alternative ideas; and",
+        "Some level of development: collaborative learning; team work; use of computer software; accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON40001Advanced MicroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90023",
+                        "Name": "Development Economics",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class assignments not exceeding 6000 words",
+            "bullets": [
+                "6000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

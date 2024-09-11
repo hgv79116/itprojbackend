@@ -1,0 +1,63 @@
+{
+    "overview": [
+        "<p>This course will provide an introduction to simple procedural programming in python with applications to Earth Data Sciences. We will teach you how to manipulate and transform data in simple ways, plotting, mapping, visualisation, interpolation, gridding, function fitting, and exporting data / images into common, interchangeable data formats.</p>",
+        "<p>We will learn how to orchestrate common earth science python software applications including plate reconstruction (pygplates), seismic data set acquisition and analysis (obspy), meshing and interpolation (stripy).</p>",
+        "<p>We will learn how to use the many publicly available extensions and modules to python, particularly those which allow efficient computation and scientific analysis, for example numpy and scipy.</p>",
+        "<p>We will learn how to solve very simple differential equations with application to geothermal energy and ground water flow, statistical analysis of data sets, online data repository</p>"
+    ],
+    "ilo": [
+        "Equip students with discipline-specific knowledge and expertise enabling them to take their place as professional geologists in industry or government organisations;",
+        "an ability to identify the kind of digital information and software most appropriate to solving geological problems;",
+        "confidence and competence to interrogate geological problems employing modern digital techniques including a modern programming language."
+    ],
+    "generic_skills": [
+        "Exercise critical judgement;",
+        "undertake rigorous and independent thinking;",
+        "adopt a problem-solving approach to new and unfamiliar tasks"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Programming practicals, including code, analysis and annotation (individual write-ups)",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "45%"
+        },
+        {
+            "brief": "Programming assignments, including code, analysis and annotation",
+            "bullets": [
+                "1500 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "55%"
+        }
+    ],
+    "date_times": []
+}

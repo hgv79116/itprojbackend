@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p><strong>A</strong><strong>I</strong><strong>MS</strong></p>",
+        "<p>Machine Learning, a core discipline in data science, is prevalent across Science, Technology, the Social Sciences, and Medicine; it drives many of the products we use daily such as banner ad selection, email spam filtering, and social media newsfeeds. Machine Learning is concerned with making accurate, computationally efficient, interpretable and robust inferences from data. Originally borne out of Artificial Intelligence, Machine Learning has historically been the first to explore more complex prediction models and to emphasise computation, while in the past two decades Machine Learning has grown closer to Statistics gaining firm theoretical footing.</p>",
+        "<p>This subject aims to introduce undergraduate students to the intellectual foundations of machine learning, and to introduce practical skills in data analysis that can be applied in graduates' professional careers.</p>",
+        "<p><strong>CONTENT</strong></p>",
+        "<p>Topics will be selected from: prediction approaches for classification/regression such as k-nearest neighbour, na\u00efve Bayes, discriminative linear models, decision trees, Support Vector Machines, Neural Networks; clustering methods such as k-means, hierarchical clustering; probabilistic approaches; exposure to large-scale learning.</p>"
+    ],
+    "ilo": [
+        "Recognise real-world problems as amenable to machine learning",
+        "Apply machine learning algorithms and end-to-end statistical processes correctly",
+        "Interpret the results of machine learning run on real data",
+        "Compare benefits/drawbacks of competing models and algorithms, relevant to real problems",
+        "Derive machine learning algorithms from statistical first principles."
+    ],
+    "generic_skills": [
+        "30 hours (of work required)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsCOMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20008Elements of Data ProcessingSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20008",
+                        "Name": "Elements of Data Processing",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-SOFTENG Master of Software Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACTL30008",
+                        "Name": "Actuarial Analytics and Data I",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90049",
+                        "Name": "Introduction to Machine Learning",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Group or individual project 1 \u2013 Programming project (ILO2,5).  30 hours (of work required per student)",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group or individual project 2 \u2013 Prediction competition (ILO1-4).  \n\n30 hours (of work required per student)",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 9 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Final closed-book examination (ILO1-5)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Kris Ehinger",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours, comprising two 1-hour lectures and one 2-hour workshop (1-hour tutorial followed by 1-hour computer lab) per week. Some computer lab classes will require you to bring your own device.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kris.ehinger@unimelb.edu.au"
+        }
+    ]
+}

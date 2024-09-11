@@ -1,0 +1,128 @@
+{
+    "overview": [
+        "<p>This subject is designed for students with some previous knowledge of Latin (VCE level or equivalent). Students examine Roman rhetorical practice through the study of an oratorical text, such as a speech of Cicero. In addition, work is undertaken on grammar and syntax to revise, consolidate and extend students' knowledge of the language. Students who complete this subject should be familiar with the structures and stylistic techniques of Roman oratory, be able to identify the roles of rhetorical practice in Roman social and political life, and understand its function as an instrument of Roman elite self-definition. Students who complete this subject may progress to Latin 4.</p>"
+    ],
+    "ilo": [
+        "Be familiar with the style of Roman oratory",
+        "Understand the cultural and production contexts of the text",
+        "Have consolidated their knowledge of grammar and syntax and extended their vocabulary."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Or, in special circumstances, one of the following:"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCLAS10007Latin 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CLAS20021Intensive Beginners LatinSummer Term (On Campus - Parkville)25CLAS30004Intensive Beginners LatinSummer Term (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS10007",
+                        "Name": "Latin 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CLAS20021",
+                        "Name": "Intensive Beginners Latin",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "CLAS30004",
+                        "Name": "Intensive Beginners Latin",
+                        "Teaching period": "Summer Term (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CLAS20029",
+                        "Name": "Latin 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly tutorial exercises, due each week",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "An assessment test",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "An essay",
+            "bullets": [
+                "1800 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Andrew Turner",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours - 1 x 1 hour lecture and 2 x 1 hour tutorials per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "ajturner@unimelb.edu.au"
+        }
+    ]
+}

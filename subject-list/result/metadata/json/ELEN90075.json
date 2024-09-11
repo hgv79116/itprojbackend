@@ -1,0 +1,114 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of this subject is to understand the fundamental concepts and basic theory involved in modelling and analysis of the power electronic components that comprise power electronic devices such as power supplies, inverters, converters and their control systems. It is expected that at the end of this subject the student has a sound understanding of the physical concepts and mathematical models behind each of the basic components and of their functionality within a system, such as a high voltage DC transmission system. Furthermore this subject seeks to combine the fields of electronics, semiconductor devices, power system operation, power system measurement and control. It is expected that through this subject the students are exposed to examples of real electrical engineering systems where the three disciplines of electronics, power systems and control come together. <br/><br/><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered in this subject include: introduction to power semiconductor switches; discussion on the role of power electronics in the operation of electric power systems; models of power semiconductor devices and circuit components, including diodes, Thyristors, IGBT, Snubber circuits. Also basic concepts of single- and three-phase diode bridge rectifiers; single- and three-phase converters and inverters; operation and design of DC-AC inverters with emphases on switch-mode inverters, i.e. single- and three-phase inverters. Finally, the acquired knowledge of power electronic devices is applied to wind and PV solar systems where the design of voltage source converters and associated control loops are used to interface the wind/solar system with the power grid.</p>"
+    ],
+    "ilo": [
+        "Apply physical principles, fundamental abstractions and modelling techniques in the analysis of power electronic components and devices",
+        "Develop and demonstrate basic electrical engineering laboratory skills through simulation of practical real life electrical electronics devices and systems using software tools and analyse the performance and characteristics of each of its components",
+        "Compare the performance of physical power systems obtained through simulation with theoretical analysis."
+    ],
+    "generic_skills": [
+        "Ability to apply basic fundamentals of science and engineering to solve real life problems associated with power systems;",
+        "Ability for in-depth technical competence in power systems engineering discipline;",
+        "Ability to identify, formulate, analyse and solve practical engineering problems;",
+        "Capacity for independent critical thought, rational assessment and self-directed learning;",
+        "Ability to communicate and work effectively with teams;",
+        "Ability to write technical reports in a clear and concise manner;",
+        "Ability to present results of technical investigation to a large audience."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90074",
+                        "Name": "Introduction to Power Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90069",
+                        "Name": "Electrical Power Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsELEN90055Control SystemsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN90055",
+                        "Name": "Control Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous assessment of laboratory workshop outcomes (five workshop reports) in small groups (2-3 students). Intended Learning Outcomes (ILOs) 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "15 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One mid-semester test. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written examination. ILOs 1-3 are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must pass the end of semester written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Glen Farivar",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours of lectures (3 hours per week); 15 hours of workshops (3 hours per workshop); 12 hours of tutorial/consultation (1 hour per week)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "glen.farivar@unimelb.edu.au"
+        }
+    ]
+}

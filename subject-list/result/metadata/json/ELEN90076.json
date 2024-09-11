@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>Images and visual information are integral parts of our daily lives. Image processing plays an important role in various practical applications among them: television, medical imaging modalities such as X-ray or ultrasound, photography, security, astronomy and remote sensing. This subject will introduce the fundamentals of image and video processing and manipulation. While image applications will be used for illustrations, the subject emphasizes on general principles of image processing rather than specific applications.</p>",
+        "<p>This subject will cover the following topics:</p>",
+        "<p>introduction to image processing, image acquisition and display, image perception, colour representations, image sampling, quantization and image quality measurement, point operations, linear image filtering and correlation, image transforms and sub-band decompositions, contrast and colour enhancement, eigenimages, image segmentation, image restoration, image compression, patch image analysis, video coding and analysis.</p>"
+    ],
+    "ilo": [
+        "Describe the principles of image formation, acquisition and perception",
+        "Describe the basic theory and algorithms that are widely used in image processing",
+        "Demonstrate a general knowledge on current technologies and issues that are specific to image processing systems",
+        "Describe the basic theory and algorithms used in video coding and processing",
+        "Develop hands-on experience in using computers to process images",
+        "Define image operations and use the MATLAB Image Processing Toolbox to execute these image operations",
+        "Demonstrate critical thinking about shortcomings of the state of the art in image and video processing"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering principles to image and video related problems;"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ELECENG Master of Electrical Engineering",
+                    "Electrical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Electrical with Business specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsELEN30012Signals and SystemsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ELEN90054Probability and Random ModelsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ELEN30012",
+                        "Name": "Signals and Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ELEN90054",
+                        "Name": "Probability and Random Models",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into a research higher degree (MPhil or PhD) in Engineering (subject to approval from the Subject Coordinator)."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Applied research project will be carried out from week 3 to 10. The students will be divided in groups of two and each research project will require a written assignment per group, a Matlab demonstration and a presentation to the class. (Approximately 35-40 hours of work per student). ILOs 1-7 are addressed in these projects.",
+            "bullets": [
+                "35-40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A three-hour written examination.  ILOs 1-7 are addressed in this exam.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

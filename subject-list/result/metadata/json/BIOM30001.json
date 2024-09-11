@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>In this subject, students are presented with established and developing issues affecting health and disease that require a holistic appreciation of medical biology, including anatomy, biochemistry, cell biology, physiology, pathology, microbiology, immunology and pharmacology.</p>",
+        "<p>Students should gain an integrated understanding of selected health issues that will be explored across their breadth of complexity from molecular mechanisms through to population health considerations. Health issues include: obesity and the metabolic syndrome; stem cells, tissue engineering and emerging technologies; respiratory health and disease; and mental health.</p>",
+        "<p>Students should also gain an appreciation of the research process and its relationship to the evolution of therapeutic approaches for the individual and across a population, including public health initiatives that assist in health promotion and disease control, through prevention and effective treatment.</p>"
+    ],
+    "ilo": [
+        "apply an interdisciplinary approach to the systematic analysis of diseases",
+        "describe how public health and pharmacological approaches to the prevention and treatment of diseases can be integrated to improve social and patient outcomes",
+        "communicate effectively to different audiences about the ethical implications and social and patient outcomes of medical research."
+    ],
+    "generic_skills": [
+        "the ability to interpret scientific literature and interpret data from electronic databases;",
+        "the capacity to integrate knowledge across disciplines;",
+        "the ability to comprehend a question, evaluate the relevant information and communicate an answer;",
+        "an appreciation of the ability to communicate scientific knowledge to an informed lay audience."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM20001",
+                        "Name": "Molecular and Cellular Biomedicine",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Writing for your audience",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Debate/discussion exercise (15 min oral presentation across 6 students); (approx. 2.5 mins per student)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Graphical analysis written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Peer assessment (anonymous, online, written)",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Mid-semester test",
+            "bullets": [
+                "40 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three x 1-hour lectures per week plus six x 1-hour tutorials per semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Administrative Coordination",
+            "contact_email": "Past Students, Future Students and General Enquiries"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "overview": [
+        "<p>In this subject, students will learn to solve practical hydrological problems by using the latest research results and the latest research and industry tools. Learning will be student-led and project-based, supported by teaching staff members. Students will learn to scope projects, develop methods, collate data, conduct analyses, write up and present project reports. Each student will work on three projects. <br/>Project modules will vary from year to year. Example modules are design flood modelling, groundwater modelling, hydrodynamic modelling, rainfall-runoff modelling, river system modelling.</p>"
+    ],
+    "ilo": [
+        "ILO1.  Discover  the latest research results and the latest research and industry tools relevant to hydrological problems being addressed.",
+        "ILO2.  Apply the latest research results and the latest research and industry tools to solve practical hydrological problems",
+        "ILO 3. Develop and undertake highly technical projects in hydrology and water resources",
+        "ILO 4.  Develop and articulate strategies for dealing with complexities, data and model limitations, resource constraints in undertaking projects"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to complex problems, design and operational performance",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN90038",
+                        "Name": "Engineering Hydrology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "Quantitative Environmental Modelling (ENEN90031)"
+            },
+            {
+                "type": "paragraph",
+                "content": "Environmental Analysis Tools (ENEN90032)"
+            },
+            {
+                "type": "paragraph",
+                "content": "Intro to Sustainable Water Management (ENEN30002)"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Project report 1 - Individual assessment.  Requiring 30 hours of work. \n\nAddressing Intended Learning Outcomes (ILO)s, 1-4.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 4",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Project report 2 \u2013 individual assessment. Requiring 30 hours of work.\n\nAdresses ILO's 1-4.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Project report 3 \u2013 individual assessment.\n\nRequiring 30 hours of work. Addresses ILO's 1-4.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Oral presentation \u2013 individual assessment.  Requiring 20 minutes of presentation plus 10 minutes of questions.  Addresses ILO's 1-4.",
+            "bullets": [
+                "30 hours"
+            ],
+            "hurdle": null,
+            "timing": "From Week 14 to Week 16",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": []
+}

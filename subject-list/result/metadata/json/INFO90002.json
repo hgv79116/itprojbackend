@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The subject introduces key topics in modern information organisation, particularly with regard to structured databases. The well-founded relational theory behind modern structured query language (SQL) engines, has given them as much a place behind the web site of an organisation and on the desktop, as they traditionally enjoyed on corporate mainframes. Topics covered may include: the managerial view of data, information and knowledge; conceptual, logical and physical data modelling; normalisation and de-normalisation; the SQL language; data integrity; transaction processing, data warehousing, web services and organisational memory technologies. This is a core foundation subject for both the Master of Information Systems and Master of Information Technology.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject serves as an introduction to databases and data modelling from a data management perspective. Database design, from conceptual design through to physical implementation will be covered. This will include Entity Relationship modelling, normalisation and de-normalisation and SQL. Additionally the use of databases in various contexts will be explored (web based databases, connecting programs to databases, data warehousing, health contexts, geospatial databases).</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Understand the different technologies available to manage structured data, and the evolutionary process that led to them",
+        "Be able to construct data models at the conceptual, logical and physical level from real-world, natural language requirements documents and apply data normalisation to these models",
+        "Be able to competently use a CASE tool (computer-aided software engineering)",
+        "Be competent in basic SQL and familiar with the usage of advanced SQL commands",
+        "Understand the need and mechanism for database transactions, including the so-called ACID properties",
+        "Be familiar with how databases work within a larger application architecture",
+        "Understand the relationship of database systems to a variety of fields such as data warehousing, health informatics and Geospatial applications",
+        "Synthesize the theoretical first principles of data management, data normalisation and data modelling and apply those principles to the data needs of modern organizations."
+    ],
+    "generic_skills": [
+        "3000 words"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "INFO20003",
+                        "Name": "Database Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One team based database design assignment (20%) with 3-4 team members, comprising of a database design and a data dictionary equivalent to approximately 3000 words, released week 2 and due in week 6, requiring approximately 26-30 hours of work per student. Intended Learning Outcomes (ILO's) 1 to 3 are addressed in the database design and data dictionary.",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the marks available in the non-examination based assessment.",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One set of SQL answers to a series of questions run against a known database with fixed data content (10%) of approximately 1000 words, released in week 6 and due in week 9, requiring approximately 13-15 hours of work. ILO 4 is addressed in the assignment.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the marks available in the non-examination based assessment.",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "LMS timed quiz in weeks 6 and 12 each worth 10% (20%).",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the marks available in the non-examination based assessment.",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One written 2 hour end of semester examination (50%). ILO's 1 to 2 and 4 to 7 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 50% of the marks available in the examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tanya Linden",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week, comprising of one 2-hour lecture and one 1-hour tutorial",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Tanya Linden",
+            "contact_email": "lindent@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Tanya Linden",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week, comprising of one 2-hour lecture and one 1-hour tutorial",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Tanya Linden",
+            "contact_email": "lindent@unimelb.edu.au"
+        }
+    ]
+}

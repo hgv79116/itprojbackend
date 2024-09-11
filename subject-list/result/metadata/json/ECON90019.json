@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>Topics include explanations of the patterns of trade and the gains from trade; the analytics of the instruments of trade policy under different market structures; the generalised theory of distortions in open economies; the political economy of trade policy; the economics of preferential trade agreements; and the role of the World Trade Organisation.</p>"
+    ],
+    "ilo": [
+        "Explain why countries engage in international trade;",
+        "Analyse the causes and consequences of international trade;",
+        "Synthesise the theoretical and empirical literature and describe the current state of knowledge in the field of international trade;",
+        "Analyse the welfare effects of various trade policies under different industry structures, such as monopolies, oligopolies and monopolistic competition;",
+        "Evaluate the welfare effects of trade and industry policies under various trading regimes (regional trading blocs vs multilateralism);",
+        "Critically evaluate the income and distributional effects of various trade policies."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Strategic thinking",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision making",
+        "Accessing economic and other information",
+        "Summary and interpretation of information",
+        "Using computer programs",
+        "Statistical reasoning",
+        "Problem solving skills",
+        "Written communication",
+        "Oral communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40003",
+                        "Name": "International Trade",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three 1,000-word class assignments due in weeks 5, 9 and 12",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Class attendance and participation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two-hour end-of-semester exam",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Reshad Ahsan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "rahsan@unimelb.edu.au"
+        }
+    ]
+}

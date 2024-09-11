@@ -1,0 +1,142 @@
+{
+    "overview": [
+        "<p><strong>AIMS<br/></strong></p>",
+        "<p>Strategic alignment of ICT and business is critical to the competitive positioning of organisations. ICT governance deals with all aspects of the formulation and implementation of ICT management plans, including ICT strategic plans. This subject discusses approaches to the formulation and development of ICT strategies. Topics covered include analysing an organisation's operating model, ICT governance arrangements and ICT governance policy framework, and maturity in the adoption of enterprise architectures. Students are expected to become familiar with current ICT governance frameworks and their implications for developing ICT governance plans.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics covered in the subject include: critical and strategic thinking, modes of strategic planning, ICT strategic frameworks, ICT Governance frameworks, ICT Governance policy documents, ICT Governance design frameworks, ICT Governance arrangements, models of organisational decision making, operating models, relationship of ICT Governance design to the development of enterprise architectures, ICT Governance design methodologies, and value creation through ICT Governance design and implementation.</p>"
+    ],
+    "ilo": [
+        "Engage in the process of ICT strategic planning and the critical review of ICT strategic plans",
+        "Demonstrate expertise of the role of ICT strategic planning in the formulation of ICT governance plans",
+        "Apply the principles and methodologies found in current ICT governance frameworks to the development of ICT governance plans for an organisation",
+        "Critically analyse the ICT plans of an organisation to determine the maturity of ICT strategic planning and governance within that organisation",
+        "Demonstrate insight of the relationships between ICT governance planning and the development of an enterprise architecture"
+    ],
+    "generic_skills": [
+        "Literature searching and analysis",
+        "Critical and strategic thinking",
+        "Case study analysis",
+        "Independent learning",
+        "Team work",
+        "Report writing"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsISYS90050IT Project and Change ManagementSemester 1 (On Campus - Parkville)12.5ISYS90045Professional IS ConsultingSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90050",
+                        "Name": "IT Project and Change Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ISYS90045",
+                        "Name": "Professional IS Consulting",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the Information Systems specialisation (formal) in the MC-DINFENG Master of Digital Infrastructure Engineering"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1: Individual analysis and strategic planning report of an ICT case study of approximately 2000  words,  requiring approximately 35-40 hours of work. Intended Learning Outcomes (ILO's) 1 and 4 are addressed in the analysis report.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Assignment 2: A group report (5-6 members), comprising of four components: an ICT Governance Plan, a Presentation, A Gantt Chart, and an Individual reflection.\n\n\n\n1. Development of an ICT governance plan of approximately 2300 words per student, requiring approximately 75-80 hours of work per student. ILO's 2, 3 and 5 are addressed in the plan.",
+            "bullets": [
+                "2300 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Assignment 2: A group presentation (5-6 members) of approximately 1000 words, due last week of semester, requiring approximately 2-3 hours of work per student. ILO's 2, 3 and 5 are addressed in the group presentation.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Assignment 2: A Gantt Chart showing the planned and real progress through the assignment, approximately 300 words, requiring 1-2 hours of work per student. ILO 3 is addressed in the assignment.",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Assignment 2: An individual reflection on the group assignment, approximately 300 words, requiring approximately 1 hour of work per student.\n\nILO addressed: generic skills.",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": "To pass the subject, students must complete the individual reflection on the group assignment.",
+            "timing": "During the examination period",
+            "percentage": "0%"
+        },
+        {
+            "brief": "Engagement in 8 of the tutorial classes, iuncluding engagement in Miro Boards and discussions. ILOs 1-3 are addressed.",
+            "bullets": null,
+            "hurdle": "Students must pass this assessment task to pass the subject",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Sean Maynard",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours, comprising of one lecture (1-hour) and one tutorial (1-hour) per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Dr Sean Maynard",
+            "contact_email": "sean.maynard@unimelb.edu.au"
+        }
+    ]
+}

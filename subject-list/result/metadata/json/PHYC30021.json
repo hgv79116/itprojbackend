@@ -1,0 +1,164 @@
+{
+    "overview": [
+        "<p>The subject offers a range of projects in modules that offer experience in laboratory techniques and computational methods; the relative weights are indicated in the module descriptions. Students must select four projects with a combined weighting that contains at least 25% Computational Physics and 25% Laboratory Physics. The laboratory projects include nuclear physics, particle physics, diffraction, electronics, atomic physics, optical physics and astronomy. The computational projects are designed to develop programming skills and to introduce a range of numerical methods commonly used in physics research will be based on model problems in physics; these may include electronic structure theory, molecular vibrations, stellar structure, quantum spin systems, large-scale magnetic systems and gravitational lensing by point masses. Some projects may be offered that merge laboratory and computational work with approximately equal weighting.</p>"
+    ],
+    "ilo": [
+        "demonstrate an understanding of a wide variety of advanced experimental and data analysis techniques;",
+        "acquire, analyse and interpret experimental data; and",
+        "write and evaluate scientific and technical reports.",
+        "explain the application of a variety of computational techniques including differencing, root finding, quadrature, ordinary and partial differential equations, matrix eigenvalue problems, Monte Carlo methods, fast Fourier transforms and data processing algorithms to physical problems; and",
+        "apply these methods to a range of physical situations and to experimental data."
+    ],
+    "generic_skills": [
+        "explain the application of a variety of computational techniques including differencing, root finding, quadrature, ordinary and partial differential equations, matrix eigenvalue problems, Monte Carlo methods, fast Fourier transforms and data analysis algorithms to physical problems",
+        "apply these methods to a range of physical situations.",
+        "acquire and interpret experimental data and design experimental investigations",
+        "participate as an effective member of a laboratory group.",
+        "think independently and analytically, and direct his or her own learning",
+        "manage time effectively in order to submit assessable work when required."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC20013",
+                        "Name": "Laboratory and Computational Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsPHYC20012Quantum and Thermal PhysicsSemester 1 (On Campus - Parkville)12.5PHYC20015Special Relativity and ElectromagnetismSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHYC20012",
+                        "Name": "Quantum and Thermal Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20015",
+                        "Name": "Special Relativity and Electromagnetism",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5PHYC20014Theoretical Physics 2Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20014",
+                        "Name": "Theoretical Physics 2",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four reports (one on each of the four projects to be undertaken in the subject) equivalent to 800 words each. Project report due dates distributed through the teaching period of the Semester. 4x15% (each report)",
+            "bullets": [
+                "3200 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "One report drafted as a scientific journal article",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Record keeping of laboratory work and documentation of computer programs. Assessed at the completion of each project",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Participation in Laboratory and Computational classes. Continuously assessed during contact hours",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance of not less than 80% of allocated laboratory and computational classes ",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Martin Sevior",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x three hour laboratory or computational classes per week for eight weeks during the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Martin Sevior",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x three hour laboratory or computational classes per week for eight weeks during the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

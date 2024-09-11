@@ -1,0 +1,65 @@
+{
+    "overview": [
+        "<p>Students will develop an understanding of phase equilibria and transformations. Fundamental concepts in crystallography will be covered. Materials characterisation including phase analysis such as XRD and microstructure analysis including electron microscopy will be described. Students will be introduced to topics covering the mechanisms of corrosion and approaches to prevent it. Discussions on materials processing including casting, forging, extrusion, and heat treatment will be covered. Fabrication technologies including joining, welding, machining and additive manufacturing are described. Materials modelling including Integrated Computational Materials Engineering will be taught. Finally, students will be introduced to materials selection, design and safety.</p>"
+    ],
+    "ilo": [
+        "ILO 1 - Explain the concept of processing-structure-property relationships;",
+        "ILO 2 - Identify and use materials characterisation techniques;",
+        "ILO 3 - Link phase equilibria to development of microstructure;",
+        "ILO 4 - Apply advanced concepts in materials science and engineering to tackle advanced topics in the field including ceramics, semiconductors, polymers and metals;",
+        "ILO 5 - Explain and apply the concepts important to materials engineering such as corrosion, processing and fabrication;",
+        "ILPO 6 - Apply materials modelling techniques;",
+        "ILO 7 - Select materials for particular designs in a safe and sustainable manner."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written Exam -\n\nOne end of semester written examination. Assesses  Intended Learning Outcomes (ILOs) 1 to 7.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Written Assignment -\n\nPractical Assignment of no more than 5 pages (not including diagrams, graphs and raw data). ILOs 2-3 assessed in the assignment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written Assignment - Written Assignment 1, no more than 5 pages (not including diagrams, graphs and raw data). Intended Learning Outcomes (ILOs) 1-7 assessed in the assignment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written Assignment - Written Assignment 2, no more than 5 pages (not including diagrams, graphs and raw data). ILOs 1-7 assessed in the assignment.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": []
+}

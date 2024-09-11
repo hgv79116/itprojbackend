@@ -1,0 +1,196 @@
+{
+    "overview": [
+        "<p>This subject introduces students to human anatomy and physiology relevant to bioengineering applications, including medical devices and technology that overcomes physical disabilities. Students will be introduced to anatomical terminology, the structure and appearance of cells and tissues, biomedical engineering technologies, quantitative measurements and experimental techniques used to investigate the structure and function of different tissues, organs and organ systems. The anatomy and physiology taught in this subject may include the musculoskeletal system, sensory systems, neural systems and the cardiovascular system.</p>"
+    ],
+    "ilo": [
+        "Demonstrate correct usage of the terminology used to describe anatomical structures",
+        "Describe the organisation and behaviour of specific cells, tissues and organ systems",
+        "Develop quantitative descriptions of physiological properties and systems",
+        "Apply the principles of engineering to the applications of technologies and techniques for investigating and interacting with the structure and function of organs",
+        "Demonstrate communication skills (oral and written) to describe the structure and function of the human body."
+    ],
+    "generic_skills": [
+        "The ability to apply knowledge of science and engineering fundamentals",
+        "The ability to undertake problem identification, formulation and solution",
+        "A capacity for creativity and innovation",
+        "The ability to utilise a systems approach to complex problems and to design and operational performance",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship",
+        "A capacity for lifelong learning and professional development"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10002Biomolecules and CellsSemester 1 (On Campus - Parkville)12.5BIOL10004Biology of Cells and OrganismsNo longer availableBIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10004",
+                        "Name": "Biology of Cells and Organisms",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the MC-BIOMENG Master of Biomedical Engineering"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time):"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsBIOL10002Biomolecules and CellsSemester 1 (On Campus - Parkville)12.5BIOL10004Biology of Cells and OrganismsNo longer availableBIOL10008Foundational Biology: Life's MachinerySemester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)12.5BIOL10009Biology: Life's MachineryNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10004",
+                        "Name": "Biology of Cells and Organisms",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT20006",
+                        "Name": "Principles of Human Structure",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOM20002",
+                        "Name": "Human Structure and Function",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    },
+                    {
+                        "Code": "PHYS20008",
+                        "Name": "Human Physiology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four individual assignments, in either written or oral format (500 words per written assignment or 5 minutes per oral presentation)(Weeks 4,6,8,10). Intended Learning Outcomes (ILOs) 1 - 5 are addressed in this assessment.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One group written assignment (in teams of 2 - 3), 500 words per student. ILOs 1 - 5 are addressed in this assessment.",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 2-hour written examination. ILOs 1 - 5 are addressed in this assessment.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the end of semester examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3x 1-hour lectures per week (total 36 hours);\n\n1x 1-hour tutorial per week (total 12 hours);\n\n4x 3-hour workshops (total 12 hours);",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Associate Professor Daniel Heath",
+            "contact_email": "daniel.heath@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p>This subject is an introduction to Economic Design and the interaction of modern economic theory, economic policy and experimental economics. The subject will cover mechanism design, auction theory, contract theory, and the fundamental results on the limits to efficiency in asymmetric information environments. The theory will be illustrated with case studies of recent policy applications of economic design techniques.</p>"
+    ],
+    "ilo": [
+        "Set up and solve contact design problems in asymmetric information environments;",
+        "Analyse bidder behaviour in standard auction forms;",
+        "Set up and solve auction design problems in common and independent private value environments;",
+        "Explain and apply the Envelope Theorem, the Revelation Principle and the Revenue Equivalence Theorem, and their implications for auction theory and contract theory; and",
+        "Explain the fundamental results of mechanism design and implementation theory on the limits to efficiency in asymmetric information environments."
+    ],
+    "generic_skills": [
+        "Written communication",
+        "Collaborative learning",
+        "Problem solving",
+        "Team work",
+        "Mathematical reasoning",
+        "Application of theory to practice",
+        "Interpretation and analysis",
+        "Critical thinking"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40006",
+                        "Name": "Economic Design",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Homework assignment",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "4%"
+        },
+        {
+            "brief": "Homework assignment",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "4%"
+        },
+        {
+            "brief": "Homework assignment",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "4%"
+        },
+        {
+            "brief": "Homework assignment",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "4%"
+        },
+        {
+            "brief": "Homework assignment",
+            "bullets": [
+                "400 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "4%"
+        },
+        {
+            "brief": "Mid-semester examination",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

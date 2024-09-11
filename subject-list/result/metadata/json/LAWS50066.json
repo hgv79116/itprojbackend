@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>This subject is concerned with the application of law to 'cyberspace' - i.e. to the virtual environment created by the Internet. It considers two major objectives of laws in cyberspace: regulation and proprietisation. The regulation theme focuses on governance of the Internet's technical architecture, and on public and private control of content on the Internet. The proprietisation theme focuses on the ownership of Internet addressing means, and on the protection of commercial reputation and creative material on the Internet.<br/><br/>The principal topics covered in this subject are:</p>",
+        "<ul><li>Cyberspace and the Internet;</li><li>Jurisdiction in cyberspace;</li><li>Censorship in cyberspace;</li><li>Privacy in cyberspace;</li><li>Trade marks in cyberspace;</li><li>Cybersquatting;</li><li>Copyright in cyberspace;</li><li>Copyright liability of Internet intermediaries; and</li><li>Virtual worlds.</li></ul>"
+    ],
+    "ilo": [
+        "The idealised concept of cyberspace;",
+        "The technological features of the computer network called the Internet;",
+        "The entities that control the various components of the Internet&#39;s infrastructure;",
+        "Whether - and, if so, when - national laws apply in cyberspace;",
+        "Non-national systems for resolving disputes concerning the Internet;",
+        "Models for restricting the content of electronic communications;",
+        "National legislative frameworks for censoring Internet content;",
+        "The role of the concept of privacy in cyberspace;",
+        "Whether - and, if so, when - use of a trade mark on a website, and in a search engine, constitutes an infringement of the rights of a trade mark owner;",
+        "The resolution of disputes about the registration and use of a domain name containing someone else&#39;s trade mark;",
+        "When transmissions over the Internet constitute an exercise of a copyright owner&#39;s exclusive right of communication;",
+        "The peer-to-peer file sharing phenomenon;",
+        "The liability of Internet intermediaries - especially Internet service providers - for copyright infringements by their customers; and",
+        "Crime, property and intellectual property in virtual worlds."
+    ],
+    "generic_skills": [
+        "Cognitive and technical skills to understand, interpret and apply legislation and case law from Australia, Europe and the United States of America, relevant to the regulation of technical infrastructures and to the grant and enforcement of proprietary rights;",
+        "Cognitive and technical skills to identify, examine and analyse the policy challenges of applying traditional legal principles to actions undertaken in complex technological environments;",
+        "Oral and written communication skills allowing effective communication of complex concepts relating to regulation in cyberspace, and regulation of cyberspace; and",
+        "Cognitive, technical and creative skills to generate effective and appropriate solutions to practical legal problems requiring application of national laws to actions undertaken in multi-jurisdictional environments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LAWS50023",
+                        "Name": "Legal Method and Reasoning",
+                        "Teaching period": "Summer Term (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LAWS50025",
+                        "Name": "Torts",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LAWS50026",
+                        "Name": "Obligations",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "LAWS50027",
+                        "Name": "Dispute Resolution",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "LAWS50029",
+                        "Name": "Contracts",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsLAWS50030PropertySemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LAWS50030",
+                        "Name": "Property",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Option 1, Part 1: Essay",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "34%"
+        },
+        {
+            "brief": "Option 1, Part 2: Take-home examination",
+            "bullets": [
+                "4000 words"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "66%"
+        },
+        {
+            "brief": "Option 2: Take-home examination",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": []
+}

@@ -1,0 +1,130 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The growing popularity of the Internet along with the availability of powerful computers and high-speed networks as low-cost commodity components are changing the way we do parallel and distributed computing (PDC). Cluster and Cloud Computing are two approaches for PDC. Clusters employ cost-effective commodity components for building powerful computers within local-area networks. Recently, \u201c<em>cloud computing\u201d </em>has emerged as the new paradigm for delivery of computing as services in a pay-as-you-go-model via the Internet. These approaches are used to tackle may research problems with particular focus on \"big data\" challenges that arise across a variety of domains.</p>",
+        "<p>Some examples of scientific and industrial applications that use these computing platforms are: system simulations, weather forecasting, climate prediction, automobile modelling and design, high-energy physics, movie rendering, business intelligence, big data computing, and delivering various business and consumer applications on a pay-as-you-go basis.</p>",
+        "<p>This subject will enable students to understand these technologies, their goals, characteristics, and limitations, and develop both middleware supporting them and scalable applications supported by these platforms.</p>",
+        "<p>This subject is an elective subject in the Master of Information Technology.   It can also be taken as an Advanced Elective subject in the Master of Engineering (Software).</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<ul><li>Cluster computing: elements of parallel and distributed computing, cluster systems architecture, resource management and scheduling, single system image, parallel programming paradigms, cluster programming with MPI</li><li>Utility computing: foundations and grid computing technologies</li><li>Cloud computing: cloud platforms, Virtualization, Cloud Application Programming Models (Task, Thread, and MapReduce), Cloud applications, and future directions in utility and cloud computing</li><li>\"Big data\" processing and analytics in distributed environments.</li></ul>",
+        "<p> </p>",
+        "<p>Please view this video for further information: <a href=\"https://youtu.be/rCtYHx8-aP0?feature=shared\">Cluster and Cloud Computing </a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Be able to understand emerging distributed technologies",
+        "Be able to design large-scale distributed systems",
+        "Be able to implement high-performance cluster and cloud applications"
+    ],
+    "generic_skills": [
+        "Have improved skills in teamwork and presentation of results",
+        "Be able to undertake problem identification, formulation and solution",
+        "Have a capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Have a profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90007",
+                        "Name": "Internet Technologies",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SOFTENG Master of Software Engineering",
+                    "MC-ENG Master of Engineering",
+                    "100pt Program course entry point in the MC-IS Master of Information Systems, 150pt Program course entry point in the MC-IS Master of Information Systems",
+                    "100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology",
+                    "MC-SCICMP Master of Science (Computer Science)",
+                    "MC-CS Master of Computer Science",
+                    "MC-DATASC Master of Data Science"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Individual Cluster Computing Assignment, requiring approximately 25 - 30 hours programming and 2000 word report",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group-based Cloud programming assignment system, requiring approximately 50-55 hours programming and 5000 word report",
+            "bullets": [
+                "50-55 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Richard Sinnott",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising one 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Prof Richard Sinnott",
+            "contact_email": "rsinnott@unimelb.edu.au"
+        }
+    ]
+}

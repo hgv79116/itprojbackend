@@ -1,0 +1,90 @@
+{
+    "overview": [
+        "<p class=\"MsoNormal\">The subject includes lecture and practical components. This lecture component is based on the Physical Chemistry lectures from CHEM30016 (12 lectures) and those from an approved module relating to Physical Chemistry chosen from the topics offered in CHEM30017 (12 lectures). A limited selection of the following topics will be offered, from which students choose one module:</p>",
+        "<ul><li>Surface Chemistry of Soft Matter;</li><li>Interfacial Reaction Kinetics;</li><li>Physical Organic Chemistry;</li><li>Photomolecular Science;</li><li>Computational Chemistry;</li><li>Condensed Matter Theory</li></ul>"
+    ],
+    "ilo": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the scientific community and in a manner accessible to the wider community;",
+        "the ability to analyse and solve abstract technical problems;",
+        "the ability to connect and apply the learnt concepts to a broad range of scientific problems beyond the scope of this subject;",
+        "an awareness of advanced technologies;",
+        "the ability to think and reason logically;",
+        "the ability to think critically and independently."
+    ],
+    "generic_skills": [
+        "the ability to comprehend complex concepts and effectively communicate this understanding to the scientific community and in a manner accessible to the wider community;",
+        "the ability to analyse and solve abstract technical problems;",
+        "the ability to connect and apply the learnt concepts to a broad range of scientific problems beyond the scope of this subject;",
+        "an awareness of advanced technologies;",
+        "the ability to think and reason logically;",
+        "the ability to think critically and independently."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEM30015",
+                        "Name": "Advanced Practical Chemistry",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM30016",
+                        "Name": "Reactivity and Mechanism",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "A non-allowed subject combination normally exists between this subject and CHEM30017 Specialised Topics in Chemistry A. However enrolment in both CHEM30017 Specialised Topics in Chemistry A (with a restricted choice of topics) and this subject may be approved by the subject coordinator."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practical component: Ongoing assessment in the form of up to eight reports due during semester 1",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Lecture Component Option 1: One one-hour end of semester exam (80%) and one to two assignments conducted during the module (20%).",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "brief": "Lecture Component Option 2: Several assignments (written and/or oral) conducted during the module (100%).",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Satisfactory completion of both theory and practical work is necessary to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

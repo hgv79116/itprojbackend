@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p>Students will acquire knowledge of the recent and important developments in biotechnology related to agriculture and food and develop an understanding of local and global issues in biotechnology in relation to environment health and sustainable crop and animal production. This subject will provide an overview of the integrated use of various biological technologies for the effective translation of novel research into agri-food related applications including steps involved in commercialisation of agri-food biotechnology-related products and services and international trade and related economic issues. The students will also develop understanding of contemporary social and economic issues arising due to adoption of biotechnology in the agri-food sector.</p>"
+    ],
+    "ilo": [
+        "An integrated multi-disciplinary view of contemporary scientific, social and economic issues relating to application of biotechnology in agriculture and food production",
+        "An understanding of processes involved in commercialisation of agri-food biotechnology related products and services",
+        "An understanding of how multidisciplinary solutions are required to address major problems relating to sustainability of global agriculture and human food supply"
+    ],
+    "generic_skills": [
+        "The ability to integrate interdisciplinary knowledge across broad discipline areas",
+        "The ability to examine and evaluate critically information from a variety of sources and assess its quality and relevance to issues under discussion.",
+        "The ability to write a logically argued and well researched written essay",
+        "The ability to develop as a well-informed citizen able to contribute to their community"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10004 Biology of Cells and Organisms"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation and/or written submission",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid-semester written examination",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Review essay",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written examination equivalent to 2,000 words",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend 8 out of 10 tutorials.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

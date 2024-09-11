@@ -1,0 +1,159 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Students will undertake as individuals or as a member of a team a designated investigative project which could involve a critical literature review, experimental research and/or development, theoretical modelling, process simulation and/or the solution of an industrial problem. Rigorous planning and scheduling of the project, time management, written and verbal technical communication, interpretation of results and team work will be required. Lectures will be presented on laboratory safety, and the use of statistical methods for experimental data analysis.</p>",
+        "<p>Engineering graduates need the ability to research topics and to perform structured investigations. This research project subject provides students with an opportunity to develop these skills and to develop an appreciation of the importance of lifelong learning.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>The exact content covered in the subject will depend to some extent on the nature of the research project. Topics covered will most probably include literature searches, laboratory safety, risk assessment, data modelling, data analysis, error analysis and report writing.</p>",
+        "<p>This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practices Hurdle (EPH).</p>"
+    ],
+    "ilo": [
+        "Plan and conduct an independent research project in the chemical engineering field",
+        "Communicate their research aims and outcomes orally to an audience of their peers",
+        "Analyse experimental data using appropriate statistical method",
+        "Evaluate and present their findings in a detailed written report"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to communicate effectively, not only with engineers but also with the community at large",
+        "In-depth technical competence in at least one engineering discipline",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to function effectively as an individual and in multi-disciplinary and multi-cultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CHEMENG Master of Chemical Engineering",
+                    "Chemical specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Chemical with Business specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 125 credit points of study towards the 300 point degree."
+            },
+            {
+                "type": "paragraph",
+                "content": "This is inclusive of any advanced standing (i.e. For example, 100 points of advanced standing would only require a student to have completed 25 points of credit before enrolling)."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIEN90001",
+                        "Name": "Biochemical Engineering Research Project",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "CHEN90026",
+                        "Name": "Chemical Engineering Minor Research Proj",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "CHEN40008 Research Project"
+            },
+            {
+                "type": "paragraph",
+                "content": "BIEN40001 Biomolecular Engineering Research Project"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A written report of up to 35 pages, not including appendices, diagrams, tables, computations and computer output. Intended Learning Outcomes (ILOs) 2 to 4 will be assessed through the student's written report. Written reports will be submitted during the first week of the exam period.",
+            "bullets": [
+                "180-200 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A 15-minute oral presentation supported either by powerpoint slides or a poster with a further 15 minutes for response to questions. ILOs 2 to 4 will be assessed through the student's presentation. Oral presentations will be scheduled in the last 2 weeks of semester.",
+            "bullets": [
+                "80-100 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Conduct will be assessed on your understanding of the project and your active participation in the project. ILO 1 will be assessed through the student's performance in research workspace. Assessed throughout the teaching periods within semester.",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "George Chen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 X 2-hour lectures in a semester",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "27 November 2023 to 11 February 2024",
+            "last_self_enrol_date": "30 January 2024",
+            "census_date": "30 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": "",
+            "contact_email": "gechen@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "George Franks",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 X 2-hour lectures in a semester",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "7 June 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "gvfranks@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Ali Zavabeti",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 X 2-hour lectures in a semester",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "ali.zavabeti@unimelb.edu.au"
+        }
+    ]
+}

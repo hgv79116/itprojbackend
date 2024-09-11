@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p><em>To enrol in this subject, you must be admitted in the Graduate Certificate in Small Animal Ultrasound - Abdominal. This subject is not available for students admitted in any other courses.</em></p>",
+        "<p>This subject will focus on the gastrointestinal tract, pancreas and adrenal glands:</p>",
+        "<p>Each topic will be covered in separate tutorials. The tutorials will be of a didactic nature with multiple still and video images to complement the text. Students will be required to obtain images from their clinical cases and reflect on these cases and images as part of the subject</p>",
+        "<p>In this subject the anatomy and normal sonographic anatomy for each topic will be described and reviewed. For each topic this will be followed by the sonographic features of, the description and interpretation of diseases processes of the gastrointestinal tract and pancreas. The adrenal glands: Ultrasound evaluation of the adrenal glands including gross and sonographic anatomy with a discussion of the significance of the abnormal findings will be covered in this subject.</p>",
+        "<p>Each tutorial will be supplemented by self-assessment multiple choice questions that students must work through to reinforce and reiterate the learning points.</p>"
+    ],
+    "ilo": [
+        "Describe the normal sonographic findings of the gastrointestinal tract and pancreas",
+        "Assess the gastrointestinal tract and pancreas for sonographic abnormalities",
+        "Interpret the sonographic findings of examination of the gastrointestinal or pancreas",
+        "Describe the normal sonographic findings of the adrenal glands",
+        "Assess the adrenal glands for sonographic abnormalities",
+        "Interpret the sonographic findings of examination of the adrenal glands, of the reproductive tract and lymphatic system",
+        "Discuss the significance of abnormal sonographic findings of the adrenal glands"
+    ],
+    "generic_skills": [
+        "200 minutes (total)"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into the GC-SAUA Graduate Certificate in Small Animal Ultrasound Abdominal"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsVETS90040General Principles and FAST TechniquesNot available in 202412.5VETS90041Urinary Reproductive Tracts Lymph NodesNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90040",
+                        "Name": "General Principles and FAST Techniques",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "VETS90041",
+                        "Name": "Urinary Reproductive Tracts Lymph Nodes",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsVETS90042Liver, Spleen and SamplingNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90042",
+                        "Name": "Liver, Spleen and Sampling",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "This subject is not available for students admitted in any other courses."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Self-assessment by MCQ following each tutorial - 10 MCQ takes 20 minutes for each of 10 tutorials, due prior to subject completion",
+            "bullets": [
+                "200 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Open-book MCQ of 50 questions, during the exam week",
+            "bullets": [
+                "100 minutes"
+            ],
+            "hurdle": "To pass this examination, a minimum mark of 70% is required",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Interpretation of 25 case studies assessed by structured questions pertaining to each case - 5 MCQ per case",
+            "bullets": [
+                "250 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": []
+}

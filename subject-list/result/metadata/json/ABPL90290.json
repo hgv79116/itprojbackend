@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>An introduction to the principles and legal concepts that apply to the built environment professions and how this law develops and changes. The subject covers:</p>",
+        "<ul><li>the fundamentals of common law;</li><li>liability in tort law for injury or loss caused to other people or their property;</li><li>legally binding contracts, their terms, obligations and breaches. These concepts extend into construction contracts, standard forms of contract, liabilities, litigation and arbitration;</li><li>concepts of property and ownership in Australia. The legal nature of land, improvements, fixtures and chattels, land registration systems and encumbrances. Co-ownership: subdivision, joint tenancy in common. licenses and leases. occupier's liability;</li><li>planning law;</li><li>environmental law;</li><li>intellectual property covering copyright, patents and consultancy issues.</li></ul>",
+        "<p> </p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Have a sound general understanding of the principles and legal concepts of common law and tort law;",
+        "Be aware of the different forms of construction contracts and the characteristic features and differences between each;",
+        "Understand the land tenure systems in Australia including ownerships, subdivisions and property leasing arrangements;",
+        "Be familiar with planning and environmental laws, the implementation systems and adoption by the professions;",
+        "Have a basic understanding of ownership rights with respect to intellectual property."
+    ],
+    "generic_skills": [
+        "the capacity to analyse a range of legal environmental frameworks;",
+        "the capacity for critical and independent thought and reflection;",
+        "ability to find and apply legal principles within the environment professions."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BLAW10001",
+                        "Name": "Principles of Business Law",
+                        "Teaching period": "Semester 1 (Online)Semester 2 (Online)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment, focussing on the Property law and associated legislation.",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment, researching different project delivery models and associated legal issues.",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Examination equivalent to 3000 words focussing on a wide range of issues covered during the semester relating to all aspects of the Fundamentals of Built Environment Law.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "A minimum mark of 40% has to be acieved in the examination in order to pass this subject.\n\n\u00a0",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours (3 hrs per week, 2 hrs lectures, 1 hr tutorial)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Shuya Yang",
+            "contact_email": "shuya.yang3@unimelb.edu.au"
+        }
+    ]
+}

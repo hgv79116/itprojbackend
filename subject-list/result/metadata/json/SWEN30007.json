@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of the subject is to give students an understanding of how and when to apply their knowledge of computer science and software engineering in the development of a non-trivial software system. The subject also aims to give students an understanding of the importance of analysis, design and management activities within a development process and to provide a realistic environment in which students understand how the practical aspects of computer science and software engineering are applied to real world projects.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/> </strong></p>",
+        "<p>Students will work in teams to analyse, design, implement and test a non-trivial software system for a realistic client. A key part of the project is for students to develop and manage a repeatable process in order to deliver a quality software product Workshops will explore the application of theory to the project and include selected topics drawn from: requirements analysis, design, implementation, testing and software project management relevant to the phase of the project that students are currently working on.</p>"
+    ],
+    "ilo": [
+        "Be able to analyse, design implement and test a non-trivial software system",
+        "Be able to undertake problem identification, formulation and solution",
+        "Be able to communicate effectively, not only with engineers but also with the community at large",
+        "Be able to apply software engineering principles to the development of non-trivial projects."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and software engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Proficiency in software engineering design",
+        "Ability to conduct an engineering project",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN30006",
+                        "Name": "Software Modelling and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "COMP30016"
+            },
+            {
+                "type": "paragraph",
+                "content": "433-340 Software Engineering Project"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "The analysis and process-related documentation totalling approximately 8000-10000 words, and includes:\n\n\n\nA project management component assessing the team's ability to manage a repeatable process, reviewed in week 3\n\n\n\nAn analysis and design component assessing the team's ability to apply software engineering principles and techniques to the development of a software system, reviewed in weeks 5 and 7 and 9\n\n\n\nA test planning component assessing the team's ability to apply software engineering knowledge of validation and verification, reviewed in weeks 7 and 9.",
+            "bullets": [
+                "48-52 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 9",
+            "percentage": "55%"
+        },
+        {
+            "brief": "A final release, of Software, that assesses the team's ability to develop a non-trivial software system using software engineering principles and techniques",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A component of the marks will be based on the individual's contribution to the project over the course of the semester",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": []
+}

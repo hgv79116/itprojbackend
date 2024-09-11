@@ -1,0 +1,117 @@
+{
+    "overview": [
+        "<p>The specification, estimation and testing of a range of models used to analyse microeconometric data is examined. The models to be considered may include discrete choice models, models for censored and truncated data, models of duration data, models with self-selectivity, models of count data, and panel data.</p>"
+    ],
+    "ilo": [
+        "Identify microeconometric models appropriate for different types of survey data",
+        "Explain why and how standard techniques of estimations must be modified in a variety of microeconometric situations",
+        "Apply econometric techniques to test hypothesis in a variety of microeconometric models",
+        "Evaluate the robustness of results obtained from using econometric techniques on real world microeconometric data",
+        "Analyse results obtained from microeconometric data and explain their implications for economic theory"
+    ],
+    "generic_skills": [
+        "High level of development: written communication; problem solving; statistical reasoning; application of theory to practice; interpretation and analysis; critical thinking; use of computer software; receptiveness to alternative ideas.",
+        "Moderate level of development: synthesis of data and other information; evaluation of data and other information;",
+        "Some level of development: oral communication; collaborative learning; team work; accessing data and other information from a range of sources."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECOM40006Econometrics 3Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM40006",
+                        "Name": "Econometrics 3",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECOM90008",
+                        "Name": "Microeconometrics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 2",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examanination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject, students must pass the end-of-semester exam.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Guo Yan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour and one 1-hour lecture per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "yan.g@unimelb.edu.au"
+        }
+    ]
+}

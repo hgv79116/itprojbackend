@@ -1,0 +1,75 @@
+{
+    "overview": [
+        "<p>Dancing the Dance 3: Dance for Video introduces students who have successfully undertaken Dancing the Dance 1 or have prior demonstrated dance experience to intermediate level, into the practicalities of professional dance performance and production.</p>",
+        "<p>The subject explores areas such as dance, movement design, choreography and rehearsal through the realisation of dance for video. Students will make a video for presentation.</p>"
+    ],
+    "ilo": [
+        "apply the principles of choreography and dance design;",
+        "apply dance techniques to express movement-based ideas;",
+        "use a range of techniques and tools for the realisation of dance performance ideas for video;",
+        "document and critically evaluate the application of dance making and presentation techniques for the expression of ideas."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "DNCE10027",
+                        "Name": "Dancing the Dance 1",
+                        "Teaching period": "Semester 1 (On Campus - Southbank)Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": []
+    },
+    "assessment": [
+        {
+            "brief": "4 short videos of set movement tasks of 30-40 seconds each",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Documentation and reflection upon creative and realisation process",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "During the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Video dance performance - an edited video of 2:30 - 3:00 minutes",
+            "bullets": [
+                "2400 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Late in the teaching period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "36 hours, comprising one 3-hour workshop per week",
+            "total_time_commitment": "136 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "megan.beckwith@unimelb.edu.au"
+        }
+    ]
+}

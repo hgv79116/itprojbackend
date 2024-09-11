@@ -1,0 +1,70 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject will focus on the patterns of IT spending in organisations, particularly strategies to reduce IT costs, increase information productivity and enhance knowledge capital.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>This subject discusses key themes relevant to Chief Information Officers (CIOs) in the context of the information economy such as the theory of knowledge capital, economic growth and the role of technological progress, knowledge valuation, outsourcing and profits, and insurance for IT risks.</p>"
+    ],
+    "ilo": [
+        "Have developed a sound knowledge and understanding of the role of Information Economy and Society in the management practice of Information Systems in Organisations",
+        "Have developed and applied skills in critical thinking and systems analysis to identify, evaluate and/or communicate strategic and operational issues related to the Information Economy and Society",
+        "Apply the professional codes of conduct and ethical standards as they pertain to Information Economy and Society"
+    ],
+    "generic_skills": [
+        "High level of development: collaborative learning; problem solving; team work; interpretation and analysis; critical thinking",
+        "Moderate level of development: oral communication; written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90050",
+                        "Name": "IT Project and Change Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment - a case study on the topic of the information economy, completed in teams of two students requiring approximately 20 - 25 hours of work per student. This project is due mid-term and is of approximately 2000 words. Addresses intended learning outcomes (ILO's) 1 to 3.",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Group assessment / project - an analytical report, based on a discussion topic, completed in teams of 4-5 students requiring approximately 30 - 35 hours of work per student. This project is due end-term and is of approximately 300 words (addressing ILO's 1 and 2).",
+            "bullets": [
+                "30-35 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written assignment of 3,500 words requiring approximately 70 - 75 hours of work (addressing ILO's 1 to 3). Comprising 2 parts: \n\n \n\nPart 1: A proposal and overview of a case with a problem the student would like to solve. Due week 8 (15%). \n\n \n\nPart 2: Inclusive of part 1 and an analysis and recommendation for solving the case. Due after swot vac (35%).",
+            "bullets": [
+                "3500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8 and during the exam period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

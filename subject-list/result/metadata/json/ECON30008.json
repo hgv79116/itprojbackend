@@ -1,0 +1,69 @@
+{
+    "overview": [
+        "<p>The development of economic theory, emphasising the works of the classical and neoclassical economists and Keynes. The subject will be concerned with looking at modern economic theory from an historical perspective. Students will be expected to read original works as well as secondary literature.</p>"
+    ],
+    "ilo": [
+        "Understand the pre-occupations of economists and the way these have changed over time.",
+        "Appreciate the main contributions to economics, during the neoclassical period.",
+        "Compare alternative views and approaches to economics.",
+        "Contrast developments in various countries.",
+        "Appreciate the influence of other subjects on the development of economics.",
+        "Become familiar with major personalities and literature of economics."
+    ],
+    "generic_skills": [
+        "High level of development: written communication; interpretation and analysis; critical thinking; receptiveness to alternative ideas.",
+        "Moderate level of development: oral communication; problem solving; accessing data and other information from a range of sources.",
+        "Some level of development: collaborative learning; application of theory to practice."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON20001",
+                        "Name": "Intermediate Macroeconomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON20002",
+                        "Name": "Intermediate Microeconomics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written assignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": []
+}

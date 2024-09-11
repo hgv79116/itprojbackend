@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>This subject introduces students to various tools and methods that enable humanities and social science students to learn from, work with and communicate digital data and to undertake data analysis. Students will gain a general knowledge of different tools and the rationales for digital methods, including text mining, analysing large text corpora, digital annotation, network analysis and data visualisation. They will be introduced to the range of digitised sources, the history and current practice of digitisation and intelligent information retrieval from the web and databases and will move from thinking about consuming digital products to learning about making them. This involves consideration of what counts as data in humanities and social science digital research. Students will be given intensive training in at least one digital tool, which they will then deploy in a structured research and data communication project, supervised in tutorial-sized groups. The focus of this subject is practical learning and doing, informed by reading in the critical scholarship on digital tools and methods in humanities and social science.</p>"
+    ],
+    "ilo": [
+        "Apply digital tools and learn specific digital skills",
+        "Appreciate the potential uses of such tools in humanities and social science research and research communications",
+        "Undertake a research project that deploys the digital tool or method",
+        "Evaluate the use of data and its role in the humanities and social science disciplines."
+    ],
+    "generic_skills": [
+        "Appreciate the uses of digital tools in humanities and social science research",
+        "Apply digital skills to undertake research",
+        "Evaluate the use of data and its role in the humanities and social sciences."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Analytic report \u2013 critical survey of 2 or 3 digital tools setting out their reasons for selecting one for their digital project. Individually marked.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Digital Project \u2013 deployment of digital tool on a small data set of student's choice. 2000-Words (equivalent) per student. Individually marked.",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Lab exercises \u2013 short answers to problem questions provided in class, submitted five times during term",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 3,5,7,9,11",
+            "percentage": "25%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. ",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Total of 36 contact hours: 1-hour lecture and 2-hour workshop per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "michael.falk@unimelb.edu.au"
+        }
+    ]
+}

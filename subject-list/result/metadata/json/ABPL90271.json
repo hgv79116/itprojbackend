@@ -1,0 +1,144 @@
+{
+    "overview": [
+        "<p>Landscape grading and its representation has an intense and rich history. Within this subject we explore the relationship between digital modelling, geological processes and design with landform. We will be investigating and testing methods for representing conceptual, structural, aesthetic and engineering design decisions.</p>",
+        "<p>The subject is structured in two parts: The first part develops skills in traditional hand drawn landscape design tools while the second part develops skills in evolving software to represent complex intersections between the landform of existing sites and proposals for built form.</p>",
+        "<p>The importance of landform modelling to the design vocabulary of landscape architecture will be introduced, alongside fundamental principles of drainage, levels, surveying and representation techniques.</p>",
+        "<p><strong>Prescribed software programs with no cost</strong><br/>Autodesk Civil 3D<br/>Autodesk 3Ds Max<br/>QGIS (Opensource)<br/><strong>Prescribed software programs with a cost</strong><br/>Chaos Group Vray<br/><strong>Prescribed software tools (cost varies)</strong><br/>Layout software (e.g. Affinity Publisher)</p>",
+        "<p><br/>Details of software availability and pricing are captured at: <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support\">https://msd.unimelb.edu.au/current-students/student-experience/it-support</a><br/><br/></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Develop skills for working with 2D, 3D, manual and digital representation mediums used in the design and interdisciplinary communication of landform and site grading.",
+        "Make landscape grading and drainage design decisions and articulate how they influence the human experience.",
+        "Apply an iterative process to design development, that reflects industry practice.",
+        "Produce creative and technically accurate responses to grading and drainage problems clearly defined by design intentions.",
+        "Describe and apply the Australian standard AS 1428.1 Design for Access and Mobility.",
+        "Apply fundamental science and mathematics to technical grading and drainage problems."
+    ],
+    "generic_skills": [
+        "Demonstrate an ability to collate and reproduce your work in a logical manner.",
+        "Use the correct technical terminology for landscape grading.",
+        "Develop creative responses to complex problems.",
+        "Demonstrate ability to develop creative responses to complex problems.",
+        "Demonstrate critical thinking through design experimentation and making.",
+        "Support your design decisions with clear argument."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Admission into or selection of one of the following:MC-LARCH Master of Landscape ArchitectureAdmission into or selection of one of the following:300pt Program course entry point in the MC-LARCH Master of Landscape ArchitectureAdmission into or selection of one of the following:MC-ARCLARC Master of Architecture/Master of Landscape ArchitectureAdmission into or selection of one of the following:400pt Program course entry point in the MC-LARCHUD Master of Landscape Architecture/Master of Urban DesignAdmission into or selection of one of the following:400pt Program course entry point in the MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning",
+                    "MC-LARCH Master of Landscape Architecture",
+                    "300pt Program course entry point in the MC-LARCH Master of Landscape Architecture",
+                    "MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                    "400pt Program course entry point in the MC-LARCHUD Master of Landscape Architecture/Master of Urban Design",
+                    "400pt Program course entry point in the MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-LARCH Master of Landscape Architecture"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "300pt Program course entry point in the MC-LARCH Master of Landscape Architecture"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-ARCLARC Master of Architecture/Master of Landscape Architecture"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "400pt Program course entry point in the MC-LARCHUD Master of Landscape Architecture/Master of Urban Design"
+                ]
+            },
+            {
+                "type": "list",
+                "content": [
+                    "400pt Program course entry point in the MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsLARC30001Site TectonicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LARC30001",
+                        "Name": "Site Tectonics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "An individual design assignment",
+            "bullets": [
+                "2000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "brief": "An individual design assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "brief": "An individual final design project which develops the initial 2-dimensional design into a 3-dimensional visualisation model",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Nano Langenheim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 hours per week  including  lecture class,  workshop  and  tutorial",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Nano Langenheim",
+            "contact_email": "nano.langenheim@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aim of engineering and scientific research is to produce new knowledge. To be useful, new knowledge must be able to stand up to scrutiny, and its presentation to other researchers and/or to the public must be persuasive.<br/>This subject is an introduction to the processes of research as they apply to chemical and biochemical engineering, including chemical and biological safety and risk assessment, locating and critically analysing relevant literature, designing experiments, analysing data, writing papers, writing research proposals giving presentations and refereeing. Underlying all of these, the subject will foster the development of critical thinking, a sceptical, scientific perspective, and professional ethics.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>Topics covered include safety and risk assessments. Training in databases such as Web of Science and Scifinder scholar. Scientific ethics. Research impact measures and methods to maximise impact. Statistical analysis of data and proper reporting of data. Methods for scientific presentations; how to present engaging and entertaining scientific presentations. Guide to writing research proposals. Critically evaluating scientific manuscripts.<br/><br/></p>"
+    ],
+    "ilo": [
+        "Understand the importance of safety and risk assessment in the conduct of experimental research",
+        "Describe the roles of rigour and scepticism in producing results of high impact",
+        "Understand relevant statistical techniques including the use of error bars, t-statistics, ANOVA and non-linear linear regression analysis",
+        "Explain the ethical guidelines governing academic research",
+        "Demonstrate knowledge of and experience in research planning, conduct and analysis and in written and spoken communication."
+    ],
+    "generic_skills": [
+        "Safety in the laboratory and in engineering/chemical research",
+        "Ability to communicate scientific ideas in a range of formats, inducing written and spoken",
+        "Ability to critically evaluate scientific research."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Literature review approximately 2000. Intended Learning Outcome (ILOs) 2, 4 and 5 are addressed in the Literature review",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation. ILO 1, 2, 4 and 5 are addressed in the oral presentation",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 10 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Research proposal - maximum 5 A4 pages. ILO 1, 2, 4 and 5 are addressed in the research proposal",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Critical review of research manuscript - maximum two pages. All ILOs 5 are addressed in the review",
+            "bullets": [
+                "13-15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "An exam. All ILOs are addressed in the exam.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": []
+}

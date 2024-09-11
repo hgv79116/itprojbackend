@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>This subject will introduce students to the area of translational genomics. The process of evaluating research and implementing it into routine practice will be studied, using examples of relevant research and current clinical initiatives. Broader workforce implications of translational genomics will also be explored, including workforce education and training. </p>",
+        "<p>The subject will be delivered via a combination of asynchronous on-line content and synchronous tutorials that adopt a problem-based approach to meet the intended learning outcomes.</p>"
+    ],
+    "ilo": [
+        "Identify approaches for undertaking translational genomic research using current examples of research and clinical initiatives",
+        "Apply principles of implementation science to examples of translational genomics",
+        "Describe the relevance of genomic education and training to the broader genomics workforce"
+    ],
+    "generic_skills": [
+        "Be proficient in academic writing",
+        "Be confident in public speaking and presenting academic content to an audience",
+        "Be meaningful contributors to teams; working in small and larger group settings",
+        "Demonstrate critical thinking skills in approaching issues in the community and within the clinical setting",
+        "Use proficient reading skills to inform areas of work",
+        "Operate as responsible, professional and ethical members of the community, offering well-rounded knowledge and skills to benefit society."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENE90001",
+                        "Name": "Human Genetics & Genomics in Healthcare",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "GENE90002",
+                        "Name": "Clinical Genomics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "with a minimum grade of 70% in each subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quiz",
+            "bullets": [
+                "45 minutes"
+            ],
+            "hurdle": null,
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written task",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Poster, and abstract and 3-minute presentation",
+            "bullets": [
+                "750 words (equivalent)"
+            ],
+            "hurdle": "Through achieving at least 70% in AT3, the student demonstrates that they have applied all aspects of the subject's  learning outcomes to a professional standard that is expected in the genomics  workforce, and is therefore equipped to apply this knowledge to Frontiers in Genomics 2. Failure to achieve at least 70% for AT3 will result in failing the subject.",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "4 x 3 hours face-to-face tutorials",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

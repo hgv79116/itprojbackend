@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p>This subject critically examines a range of key aspects of the application of human nutrition, along with current fields of research investigation adding to the understanding of nutrition science. These include, but are not limited to: sports nutrition, nutritional genomics, nutrient\u2010gene interactions, fad diets, evolution of the human diet, nutritional supplements, intestinal microbiome and health, brain function and nutrition, bioactive foods, foetal origins of disease, epigenetic and nutrition in disease, nutritional deficiencies. Students will undertake case studies in the above mentioned topics in which they will evaluate and interpret recent research data and findings.</p>"
+    ],
+    "ilo": [
+        "Discuss the emerging research of human nutrition related to health;",
+        "Execute practical situation analysis and demonstrate skills in problem solving, in 'real world' settings;",
+        "Analyse how nutrition research findings are integrated into the knowledge base of diet, health and disease;",
+        "Evaluate how nutrition research knowledge is used to develop diet guidelines for communication to the public;",
+        "Communicate complex human nutrition information to a diverse audience"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills",
+        "Capacity to tackle unfamiliar problems",
+        "Ability to think systemically and integrate knowledge from different disciplines",
+        "Communication skills, through written and tutorial engagement",
+        "Quantitative analysis skills",
+        "Sense of intellectual curiosity"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FOOD20003",
+                        "Name": "Intro to Food Science & Human Nutrition",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "NUTR20001",
+                        "Name": "Food Nutrition and Health",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "AGRI20003 Sustainable Food SystemsFOOD20006 Food Microbiology and Safety"
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Critical analysis of a scientific poster summarised in a  report",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": "This assessment must be submitted to pass this subject",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment (Review of a topic chosen from the list of emerging areas of nutrition research provided)",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": "This assessment must be submitted to pass this subject",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End of Semester Project: Creation of Individual Poster",
+            "bullets": [
+                "1250 words (equivalent)"
+            ],
+            "hurdle": "This assessment must be submitted to pass this subject",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "End of Semester Project: Summary of Project",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": "this assessment must be submitted to pass this subject",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum of 80% of tutorials. ",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "48 hours of lectures/tutorials",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "julia.steenkamp@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p>The subject consists of advanced studies in computing covering material which is not otherwise available to the student. The details of the topics covered will depend on the course of study selected and may involve substantial system development.</p>"
+    ],
+    "ilo": [
+        "The objective of this subject is to enable students to study a particular area of computer science at an advanced level."
+    ],
+    "generic_skills": [
+        "Have intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research active",
+        "Be able to undertake problem identification, formulation and solution",
+        "Have a capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Have a profound respect for truth and intellectual integrity, and for the ethics of scholarship."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Permission required from the course coordinator."
+            },
+            {
+                "type": "paragraph",
+                "content": "A student will need a member of academic staff to agree to supervise the study. The student also needs to register (online, via the LMS) a project topic and supervisor. If this registration has not been completed by the end of Week 1, the student may be un-enrolled."
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A detailed project proposal of 800-1000 words, due in Week 3, requiring approximately 10-12 hours of work, submitted to the project supervisor.",
+            "bullets": [
+                "12 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 15 minute presentation of the project, including answering audience questions, held in Week 12, requiring approximately 10-12 hours of work.",
+            "bullets": [
+                "12 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 4000 word project report, due in first week of the examination period, requiring approximately 150 hours of work.",
+            "bullets": [
+                "150 hours (of work required)"
+            ],
+            "hurdle": "A mark of at least 50% (40/80) must be obtained for the project report. ",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Students are required to attend regular meetings with their supervisor.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "schachte@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Students are required to attend regular meetings with their supervisor.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "farhana.choudhury@unimelb.edu.au"
+        }
+    ]
+}

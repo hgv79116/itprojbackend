@@ -1,0 +1,58 @@
+{
+    "overview": [
+        "<p>This subject focuses on the interaction between users and the built environment and explores how technology changes the ways we create and use space. The emphasis is on the correlation between architectural design, computational techniques and mechatronics. Students will be thought innovative ways of studying the built environment (acquiring data to inform the design process) and will be introduced to automated procedures of creating spatial change (using sensor/actuator technologies). </p>",
+        "<p>In addition to well-known and visually based techniques traditionally used by designers, the subject focuses on the creative potential of information invisible to a human eye. A vast amount of environmental and behavioural data is collected by sensory devices distributed in buildings and public spaces in cities around the world. In the future, even more, real-time data on how the built environment is used and how climatic conditions influence their use will be available. Some of the exciting creative research indicates that there is a high potential for such data to turn into design intelligence and tap into dynamic architectural projects. Throughout the semester, students will be developing a project employing design strategies based on the information obtainable by sensory devices.</p>"
+    ],
+    "ilo": [
+        "Analyse critically dynamic spatial conceptions",
+        "Synthesise complex information into a design intent",
+        "Translate speculative ideas into a built form",
+        "Design adaptive spaces equipped with sensor-actuator technologies",
+        "Collaborate effectively with specialist form other disciplines, namely mechanical engineering, computing and information systems"
+    ],
+    "generic_skills": [
+        "Communicate advanced architectural ideas",
+        "Make digital models, architectural drawings and visual representation of dynamic spaces",
+        "Creatively employ innovative technologies as an integral part of the built environment",
+        "Basic knowledge of mechatronics and computational techniques"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Report 1, demonstrating research and design output which may include diagrams, drawings models, visuals, written and verbal presentation models, visuals, written and verbal presentation.",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": "Submisssion  of Report 1 is  hurdle requirement ",
+            "timing": "Week 7",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Report 2, demonstrating research and design output which may include diagrams, drawings models, visuals, written and verbal presentation",
+            "bullets": [
+                "2500 words"
+            ],
+            "hurdle": "Passing  the  final assessment ( Report 2)  is a hurdle requirement ",
+            "timing": "Week 12",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Attendance",
+            "bullets": null,
+            "hurdle": "Attendance at 75% of all  classes.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

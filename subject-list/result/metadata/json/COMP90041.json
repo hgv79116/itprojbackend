@@ -1,0 +1,180 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The aims for this subject is for students to develop an understanding of approaches to solving moderately complex problems with computers, and to be able to demonstrate proficiency in designing and writing programs. The programming language used is Java.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Topics covered will include:</p>",
+        "<ul><li>Java basics</li><li>Console input/output</li><li>Control flow</li><li>Defining classes</li><li>Using object references</li><li>Programming with arrays</li><li>Inheritance</li><li>Polymorphism and abstract classes</li><li>Exception handling</li><li>UML basics</li><li>Interfaces</li><li>Generics</li></ul>"
+    ],
+    "ilo": [
+        "Apply the concepts of object-oriented design to the solution of computational problems",
+        "Read and understand a Java program of small to medium complexity",
+        "Write a Java program of small to medium complexity, which contains a number of classes with console user interface",
+        "Be able to apply a range of data structures and algorithms in problem solving",
+        "Understand the process and methods of software design and implementation using Java programming language"
+    ],
+    "generic_skills": [
+        "Understand major concepts of object-oriented programming and design including classes, objects, encapsulation, inheritance and polymorphism",
+        "Design, implement and test a program for small and medium size problems in the Java programming language."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsISYS90088Introduction to Application DevelopmentNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90088",
+                        "Name": "Introduction to Application Development",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP10001Foundations of ComputingSummer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5COMP20005Intro. to Numerical Computation in CSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5COMP90059Introduction to ProgrammingSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5BMEN20003Applied Computation in BioengineeringSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP10001",
+                        "Name": "Foundations of Computing",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP10002",
+                        "Name": "Foundations of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20005",
+                        "Name": "Intro. to Numerical Computation in C",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90059",
+                        "Name": "Introduction to Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BMEN20003",
+                        "Name": "Applied Computation in Bioengineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-IT Master of Information Technology",
+                    "MC-MTRNENG Master of Mechatronics Engineering",
+                    "GD-CS Graduate Diploma in Computer Science",
+                    "MC-DATASC Master of Data Science",
+                    "GD-DATASC Graduate Diploma in Foundational Data Science",
+                    "Master of Engineering (Mechatronics) informal specialisation in the MC-ENG Master of Engineering"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN20003",
+                        "Name": "Object Oriented Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One online quiz, of 30 minutes duration (estimated 5 hours of preparation) in the middle of the semester (Week 3 or 4). Addressing ILOs 1, 2, and 4.",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": "15/30 in the mid semester and final quiz combined (i.e. 5 marks in Mid Semester Quiz and 10 marks in the final quiz).\n\n\n\n35/70 in the two assignments and the final project combined (7.5 each in two assignments and 20 marks in the final project). ",
+            "timing": "Week 3 or Week 4",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two programming assignments, worth 15% each, due in Week 6/7 and Week 9/10 respectively, each requiring 15 hours of work. Addressing Intended Learning Outcomes (ILOs) 1, 3 and 4.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": "15/30 in the mid semester and final quiz combined (i.e. 5 marks in Mid Semester Quiz and 10 marks in the final quiz). \n\n\n\n35/70 in the two assignments and the final project combined (7.5 each in two assignments and 20 marks in the final project). ",
+            "timing": "Week 6 or 7 (Assignment 1) \n\nand\n\nWeek 9 or 10 (Assignment 2)",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A final project comprising of two parts: One programming project worth 40%, due at the end of the teaching period. One 1-hour online quiz timetabled during the exam period (20%). Addressing ILOs 1 to 5.",
+            "bullets": [
+                "65 hours (of work required)"
+            ],
+            "hurdle": "15/30 in the mid semester and final quiz combined (i.e. 5 marks in Mid Semester Quiz and 10 marks in the final quiz). \n\n\n\n35/70 in the two assignments and the final project combined (7.5 each in two assignments and 20 marks in the final project).",
+            "timing": "Part 1: End of Teaching Period \n\n\n\nPart 2: During Examination Period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Najam Nazar",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "46 hours, comprising one 2-hour lecture and one 2-hour workshop per week (1 hour tutorial + 1 hour lab)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Najam Nazar",
+            "contact_email": "najam.nazar@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "46 hours, comprising one 2-hour lecture and one 2-hour workshop per week (1 hour tutorial + 1 hour lab)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Trina Dey",
+            "contact_email": "t.dey@unimelb.edu.au"
+        }
+    ]
+}

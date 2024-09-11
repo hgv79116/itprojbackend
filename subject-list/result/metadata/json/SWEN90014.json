@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject gives students in the Master of Engineering (Software) their first experience in analysing, designing, implementing, managing and delivering a small software engineering project. The aim of the subject is to give students an understanding of the major phases of software development, what each phase requires and how that phase fits into the overall engineering process. The subject also aims to give students an understanding of the importance of analysis, design, quality assurance activities and management activities within a software engineering process and to underpin the practical aspects of the management, analysis, design and validation subjects within the degree.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<p>Students will work in teams to conceive, analyse, design, implement and test a non-trivial software system for an external client. A key part of the project is for students to develop and manage a repeatable process in order to deliver a quality software product Workshops will explore the application of theory to your project and include selected topics drawn from: requirements analysis, design, implementation, testing and software project management relevant to the phase of the project that students are currently working on.</p>",
+        "<p>This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH).</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Be able to design and manage a repeatable process to achieve specific project goals",
+        "Be able to apply software engineering principles and techniques to the development of a non-trivial software system",
+        "Work with external stakeholders to develop software systems to meet stakeholder needs",
+        "Integrate the knowledge gained in other subjects in the solution of a real world problem"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and software engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Proficiency in software engineering design",
+        "Ability to conduct an engineering project",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Ability to manage information and documentation",
+        "Capacity for creativity and innovation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Capacity for lifelong learning and professional development"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN30006",
+                        "Name": "Software Modelling and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SWEN90016",
+                        "Name": "Software Processes and Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: these can be taken concurrently (at the same time)"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assessment 1 - See below",
+            "bullets": [
+                "65 - 70 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assessment 2 - See below",
+            "bullets": [
+                "35 - 40 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assessment 3 - See below",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Philip Dart",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Philip Dart",
+            "contact_email": "philip.dart@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "overview": [
+        "<p>Geotechnical Modelling and Design is a capstone subject in geotechnical engineering, focusing on  strengthening fundamental soil mechanics knowledge and further expanding practical geotechnical engineering knowledge and modelling skills. Students will grasp knowledge through lectures, laboratory practicals, tutorials and computer workshops, where emphasis is paid on self-learning and problem-solving skills. </p>",
+        "<p>In this capstone subject, students are required to finish a practical design project by applying their knowledge to solve a number of design problems while considering multiple and sometimes conflicting design criteria which aims to strengthen their problem-solving skills.  This project provides a good opportunity for the student to apply technical knowledge (e.g. soil mechanics, water seepage and slope stability analysis) and strengthen engineering design skills (e.g. problem solving approach, trade-off analysis, data management, software modelling, communications, presentation). This is to prepare the students for employment in the industry, as well as future study or research.</p>",
+        "<p>This subject builds on knowledge gained in subjects such as Engineering Mathematics, Fluid Mechanics and Earth Processes for Engineering and assumes familiarity with concepts of civil and geotechnical engineering. This subject also delivers introductory material for engineering graduate coursework subjects including Geotechnical Engineering, Civil Hydraulics and Quantitative Environmental Modelling.</p>",
+        "<p>The subject will cover topics such as basic soil mechanics, stresses in soils, effective stress principle, Coulomb failure criteria, site investigation, permeability and seepage, flow nets, the effect of seepage on stability, slope stability principles, landslides, design and remediation, trade-off analysis in engineering design, and computer modelling to solve engineering design problems.</p>"
+    ],
+    "ilo": [
+        "SILO1. Describe and analyse geotechnical seepage and the associated engineering hazards;",
+        "SILO2. Describe and analyse slope stability, the associated engineering hazards and stabilisation methods;",
+        "SILO3. Apply geotechnical principles in a geotechnical design project, including defining the design problem, identifying potential solutions, evaluation and analysis;",
+        "SILO4. Apply modelling techniques to assist the design project;",
+        "SILO5. Analyse the different design schemes and identify their performance;",
+        "SILO6. Clearly and effectively communicate technical issues and solutions, and compose professional technical reports."
+    ],
+    "generic_skills": [
+        "Ability to apply basic knowledge of science and engineering in engineering design.",
+        "Ability to tackle complex engineering design problems, including problem formulation, solution evaluation and solution selection.",
+        "Ability to communicate clearly and effectively and write technical report.",
+        "Ability to manage data efficiently.",
+        "Ability to function effectively as an individual and in a team.",
+        "Being creative and innovative and becoming aware of multiple and sometimes conflicting design objectives and criteria in real-world engineering projects."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-ARCHENG Master of Architectural Engineering",
+                    "MC-CIVENG Master of Civil Engineering",
+                    "MC-ENVENG Master of Environmental Engineering",
+                    "Civil specialisation (formal) in the MC-ENG Master of Engineering",
+                    "Environmental specialisation (formal) in the MC-ENG Master of Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsENEN20002Earth Processes for EngineeringSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5ENGR30002Fluid MechanicsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5CVEN20001Sustainable Infrastructure EngineeringSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR30002",
+                        "Name": "Fluid Mechanics",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CVEN20001",
+                        "Name": "Sustainable Infrastructure Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsENEN20002Earth Processes for EngineeringSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5MCEN30018Thermodynamics and Fluid MechanicsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5CVEN20001Sustainable Infrastructure EngineeringSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MCEN30018",
+                        "Name": "Thermodynamics and Fluid Mechanics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CVEN20001",
+                        "Name": "Sustainable Infrastructure Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One design project with an individual report, workload equivalent to 2000 words. Work from Week 3 to Week 11; to be submitted in Week 11. Intended Learning Outcomes (ILOs) 1-6 are addressed in this assessment.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": "Pass Mark of this assessment.",
+            "timing": "Week 11",
+            "percentage": "50%"
+        },
+        {
+            "brief": "One individual laboratory report, workload equivalent to 500 words. ILOs 1, 3-6 are addressed in the report.",
+            "bullets": [
+                "5 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written examination. ILOs 1-6 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Pass Mark of this assessment.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours lecture (2 hours per week), 16 hours of workshops during the semester (in 2-hour blocks), 2 hours practicals, and 8 hours of tutorials (distributed over semester)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Shubhrajit Maitra",
+            "contact_email": "shubhrajit.maitra@unimelb.edu.au"
+        }
+    ]
+}

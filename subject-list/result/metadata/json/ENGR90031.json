@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject involves students working individually on a particular project topic in agreement with an academic staff supervisor and, preferably, an external supervisor. The student will undertake a cross-disciplinary analysis of the agreed topic, spanning at least 2 of the technological, economic/financial and policy areas.</p>",
+        "<p>As part of the external supervision, it is preferred that the student spend time undertaking a placement at the external supervisor's organisation working on this project.</p>",
+        "<p>Students can undertake this project only if their average mark for the subjects previously undertaken in this degree is at least 75%, and can find a suitably qualified member of the University academic staff to supervise them.</p>"
+    ],
+    "ilo": [
+        "Undertake a cross-disciplinary analysis of energy system issues, in particular evaluating the social, environmental and economic costs and benefits of different forms of energy and energy technology",
+        "Make decisions/recommendations based on this cross-disciplinary analysis."
+    ],
+    "generic_skills": [
+        "Ability to communicate effectively with the community at large.",
+        "Understanding of the social, cultural, global and environmental responsibilities of a professional, and the need for sustainable development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90015",
+                        "Name": "Managerial Economics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENGR90030",
+                        "Name": "Non-Renewable Energy",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE90060",
+                        "Name": "Financial Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SCIE90014",
+                        "Name": "Renewable Energy",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One oral presentation summarising progress",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Mid-way through the project",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One oral presentation followed by an oral examination summarising the project findings",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One project report of no more than 50 pages in length.",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": null
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

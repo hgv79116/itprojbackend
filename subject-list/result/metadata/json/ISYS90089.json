@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>The contemporary political, economic, technological and social environment is undergoing rapid and transformational change. This is a period of massive disruption as we harness technological innovations and transform the ways in which wealth is created in the new digital economy. Our organisations need to respond to this change and develop strategies and structures to support the reformation of business and work practices necessary to survive.</p>",
+        "<p>This subject focuses on the strategic response required by organisations to address this disruption. The subject further explores development and implementation of information systems as both a catalyst for, and a response to, organisational change.</p>",
+        "<p>In this subject, several change management theories and models are investigated in depth with an analysis of their applicability, benefits, risks and impacts. A case study of a contemporary organisation is used to facilitate this learning with the application of theory, methods and best practices applied in real situations. These learnings will be of enormous value to students and professionals leading the change in their organisations.</p>",
+        "<p>This subject supports course-level objectives by allowing students to develop analytical skills to understand the complexity of real-world work in organisations. It promotes innovative thinking around the deployment of existing and emerging information technologies. The subject contributes to the development of independent critical inquiry, analysis and reflection.</p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject focuses on providing foundation understanding for the professional to understand and manage the current and future impact of change in this disrupted economy.</p>",
+        "<p>Topics discussed include: the relationship between change and disruption; the need for strategic change management; and explore the change architecture and organisational readiness to transform itself. The subject will also explore the impacts, on individuals, organisational structures and the role of the change manager in developing the strategic response to successfully navigate the change.</p>"
+    ],
+    "ilo": [
+        "Have developed a sound knowledge and understanding of the reciprocal relationship between IS and organisational change in in management practice",
+        "Have developed and applied skills in critical thinking and systems analysis to identify, evaluate and/or communicate strategic and operational issues suited to the application of Change Management concepts and theories to real-world practice",
+        "Have developed and applied skills related to business communication, interpersonal, and team skills suited to the application of Change Management concepts and theories to real-world practice",
+        "Can demonstrate professional codes of conduct and ethical standards as they apply to Change Management in business practice",
+        "Independently research and argue disparate beliefs/theories of change management"
+    ],
+    "generic_skills": [
+        "Analytical and interpretative skills, in diagnosing organisational issues",
+        "High-level analytical skills, through application of organisational change theory in a practical context",
+        "Problem solving skills using change management models",
+        "Team-work, through working on a group project",
+        "Report-writing skills; and",
+        "Presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90050",
+                        "Name": "IT Project and Change Management",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90040",
+                        "Name": "Managing Change for IS Professionals",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Leadership of a reading discussion. \n\n\n\nThe discussion is  approximately 30 minutes long, requiring approximately 20-22 hours of work.\n\n\n\nIntended Learning Outcomes (ILO's) 1 and 3 are addressed in the reading discussion.",
+            "bullets": [
+                "20 - 22 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One group-based research assignment with 3-5 members of approximately 1500 words each due towards the end of semester.\n\n\n\nThe presentation requirqes approximately 45-50 hours of work per student. \n\n\n\nILO's 3 to 5 are addressed in the group research assignment.",
+            "bullets": [
+                "45-50 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "One group-based presentation of the research assignment with groups of 3-5 group members.\n\n\n\nThe presentation is approximately 20 minutes long, requiring approximately 13-15 hours of work per student. \n\n\n\nILO's 1 and 5 are addressed in the presentation.",
+            "bullets": [
+                "13 - 15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written 2 hour closed book examination.\n\n\n\nILO's 1 to 5 are addressed in the examination.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Rod Dilnutt",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2 hour seminar and one 1 hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rpd@unimelb.edu.au"
+        }
+    ]
+}

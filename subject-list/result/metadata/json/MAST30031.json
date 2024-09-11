@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>This subject gives an example-oriented overview of various advanced topics that are important for mathematical physics and physics students, as well as being of interest to students of pure and applied mathematics. These topics include:</p>",
+        "<ul><li>Further differential equations: Bessel functions, Legendre polynomials, spherical harmonics and applications such as the Laplace/Schrodinger equation in polar/spherical coordinates;</li><li>Further vector calculus: Differential forms, integration, Stokes\u2019 theorem and applications such as Maxwell\u2019s equations, charge conservation and Dirac monopoles;</li><li>Hilbert spaces: L2 spaces, bounded and unbounded operators, normalisable and non-normalisable eigenfunctions, distributions and applications to quantum theory;</li><li>Group theory: Lie groups and algebras, representations and applications such as quantum spin and particle physics.</li></ul>"
+    ],
+    "ilo": [
+        "Communicate the importance of advanced mathematical structures in conceptual and computational approaches to mathematical physics;",
+        "Recognise that special functions naturally arise when solving physically important partial differential equations in curvilinear coordinates;",
+        "Argue how the language of differential forms both simplifies and greatly enhances the scope of multivariable calculus and its applications in physics;",
+        "Analyze topological concepts through the use of examples of physical phenomena;",
+        "Articulate how the eigentheory of Hilbert space operators underlies the modern approach to quantum physics;",
+        "Model symmetries of physical systems using basic examples of groups and Lie algebras."
+    ],
+    "generic_skills": [
+        "The problem-solving skills of identifying strategies to solve unfamiliar problems;",
+        "The analytic skills of constructing and expressing logical arguments, and of working in abstract, general terms to clarify and improve available solutions;",
+        "The time-management skills of meeting regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsMAST20030Differential EquationsSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "MAST30029 Partial Differential Equations (prior to 2014)"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)CodeNameTeaching periodCredit PointsMAST30021Complex AnalysisSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Three written assignments of up to 60 pages due at regular intervals",
+            "bullets": [
+                "60 pages"
+            ],
+            "hurdle": null,
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 one-hour lectures (three per week); 12 one-hour practice classes (one per week)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "thomas.quella@unimelb.edu.au"
+        }
+    ]
+}

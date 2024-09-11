@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p><span>On successful completion of this subject students should be able to understand how different types of investors integrate ESG and impact considerations into their investment decisions, and how they vote and actively engage with investee companies to ensure long-term value creation. Ethical investing, social activist divestment campaigns and financial market innovations to address sustainability objectives will also be covered. Students should also be able to outline why, how and where investment is used to intentionally drive social and environmental impact in alignment with the UN Sustainable Development Goals. Topics will include : embedding ESG and impact considerations into all elements of fund management, a practical overview of best practice in strategically managing impact, and how various elements of global and national financial systems help and hinder the flow of capital to impact.</span></p>"
+    ],
+    "ilo": [
+        "Demonstrate a broad understanding of ESG, ethical investing, impact investing and related terms.",
+        "Apply and critically evaluate practical tools used to integrate ESG risks into investment decisions.",
+        "Compute investment portfolios using a range of optimization techniques that incorporate ESG factors, analyse the outcomes and critically reflect on their limitations.",
+        "Critically review the concept of stewardship and how ownership rights are exercised by investors.",
+        "Demonstrate a broad understanding of ESG derivative markets and how they can be used for risk management and trading purposes.",
+        "Critically evaluate the products, tools, tactics and strategies used in impact investing and how they can be embedded into decision making."
+    ],
+    "generic_skills": [
+        "Problem solving; application of theory to practice; use of computer software; accessing data and other information from a range of sources;  written communication; statistical reasoning; critical thinking; evaluation of data and other information.",
+        "Team work; interpretation and analysis, presentation skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE20005",
+                        "Name": "Corporate Financial Decision Making",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsFNCE30007Derivative SecuritiesSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5FNCE30001InvestmentsSemester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "FNCE30007",
+                        "Name": "Derivative Securities",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "FNCE30001",
+                        "Name": "Investments",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Major Assignment (Group)",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Group presentation",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Jonathan Dark",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

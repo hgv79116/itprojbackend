@@ -1,0 +1,131 @@
+{
+    "overview": [
+        "<p><strong>This subject was formerly known as Construction Analysis.</strong></p>",
+        "<p>This subject explores the idea of construction as a process that strategically links structural principles to building elements, systems, materials, and techniques. The subject also covers key elements of building services and sustainability, including strategies to achieve internal comfort (related to building orientation, envelope, heating and cooling, air quality, acoustics, water and waste). Using a set of given case studies, students are asked to review and describe the physical anatomy of Australian residential buildings, emphasising how architectural ideas are conventionally translated into sustainable technological solutions. Students are asked to calculate how buildings perform, therefore understanding their impact on the environment.</p>",
+        "<p><strong>Prescribed software tools</strong> <br/>Drafting software (e.g. McNeel Rhino, Autodesk AutoCAD)<br/>Image editing software (e.g. Affinity Photo)<br/>Vector editing software (e.g. Affinity Designer)</p>",
+        "<p>Details of software availability and pricing are captured at  <a href=\"https://edsc.unimelb.edu.au/student-experience/it-support\">https://edsc.unimelb.edu.au/student-experience/it-support</a></p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Relate building manufacturing and assembly principles to diverse small- to medium-scale construction projects;",
+        "Understand logics, conventions and challenges of technical representations;",
+        "Analyse architectural details that respond to specific technical and programmatic requirements;",
+        "Use technical terminology, principles and techniques of environmental control systems for residential projects;",
+        "Integrate environmental controls into architectural designs in a sustainable manner;",
+        "Trace the relationship or the distance between building conception and building implementation;",
+        "Implement this trace appreciation into an interpretative framework for the organization of small- to medium-scale architectural practice."
+    ],
+    "generic_skills": [
+        "Identify and follow the logic of construction",
+        "Communicate with peers and the community regarding construction matters",
+        "Select materials and systems that allow architects to achieve coherent 3D designs;",
+        "Identify, describe and apply construction systems and types that are common in small to medium-scale residential houses",
+        "Appreciate how building details can materialise a certain design intent",
+        "Identify the need for specific information and where to find them - books, handbooks, data sheets and further sources of knowledge",
+        "Use specific technical terminology",
+        "Convey ideas effectively through written, oral and graphic presentations"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ARCH10002",
+                        "Name": "Construction as Alchemy",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ABPL10007",
+                        "Name": "Environmental Technologies",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ABPL20036",
+                        "Name": "Environmental Building Systems",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Flipbook Section As-built (Written and graphic submission)",
+            "bullets": [
+                "600 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 4",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Flipbook Section 2D (Written and graphic submission)",
+            "bullets": [
+                "1400 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 9",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Flipbook Section 3D (Written and graphic submission)",
+            "bullets": [
+                "1200 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Quizzes",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two hours of lecture and two hours of tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Sofia Colabella",
+            "contact_email": "s.colabella@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two hours of lectures and two hours of tutorials per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "s.colabella@unimelb.edu.au"
+        }
+    ]
+}

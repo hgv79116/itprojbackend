@@ -1,0 +1,84 @@
+{
+    "overview": [
+        "<p>This subject provides an introduction to architectural design taught in a series of three vignettes, each encompassing a different methodology for operating as a designer and a problem solver. The vignettes are structurally independent from one another, but build their complexity, scale and the amount of architectural tools required to complete them providing not only a diversity of tools, but also a survey of pedagogies. The sequence will instil a strong understanding of the foundations of excellent design practice.</p>",
+        "<p><strong>Incidental costs</strong></p>",
+        "<p>Students will be required to purchase modelling and drawing materials for the course (not including personal computer and software); cost approx. $300 .</p>"
+    ],
+    "ilo": [
+        "create and resolve the design of small buildings or fragments of the built environment;",
+        "evaluate their work in relation to other exemplary spatial compositions;",
+        "communicate their designs and the disciplinary context in a clear and professional manner."
+    ],
+    "generic_skills": [
+        "see the spatial and material composition of all things;",
+        "produce spatial and conceptual analysis;",
+        "understand basic architectural drawing types;",
+        "meaningfully analysis precedents and apply this analysis to new proposals;",
+        "use digital and analogue tools with control, specificity and for the right task;",
+        "respond to architectural constraints and processes; understand the purpose of iteration, variation and experimentation;work in an architecture team, negotiate and compromise the development and resolution of design ideas;",
+        "understand the city as a construct;",
+        "make basic use of digital design programs."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-ARCH Master of Architecture",
+                    "MC-ARCH3Y Master of Architecture",
+                    "MC-ARCHENG Master of Architectural Engineering",
+                    "MC-ARCHCM Master of Architecture/Master of Construction Management",
+                    "MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                    "MC-ARCHUCH Master of Architecture/Master of Urban Cultural Heritage",
+                    "MC-ARCHUD Master of Architecture/Master of Urban Design",
+                    "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                    "MC-ARCPROP Master of Architecture/Master of Property"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Documentation and presentation of work to a panel of three projects; each project equivalent to 3000 words and each worth 30%. Each project will run for four weeks, changing in scale from the familiar objects of the home to the unfamiliar and the urban, introducing students to an array of processes in design thinking, methods and scope. All components of the project must be attempted and documented. Presentations of each project will be conducted at weeks 4, 8 and 12. The final project submission and presentation constitutes a hurdle requirement and students must present their final work to a panel of guest critics at the end of the semester.",
+            "bullets": [
+                "9000 words (equivalent)"
+            ],
+            "hurdle": "The final project submission and presentation constitutes a hurdle requirement and students must present their final work to a panel of guest critics at the end of the semester. ",
+            "timing": "During the teaching period",
+            "percentage": "90%"
+        },
+        {
+            "brief": "The remainder of the final grade is reserved for explicit evidence of reflective thinking in the notebook.",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Laura Lima Pereira Dos Martires",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 1hr lecture per week, 2 x 3hr studios per week.\n\n Optional weekly 1h technical tutorials are provided to aid with digital skills relating architectural software.",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "laura.martires@unimelb.edu.au"
+        }
+    ]
+}

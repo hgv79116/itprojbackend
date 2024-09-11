@@ -1,0 +1,69 @@
+{
+    "overview": [
+        "<p>This subject offers a wide ranging introduction to the modern theory of partial differential equations (PDEs) in pure mathematics. Thus we will study questions of existence, uniqueness, regularity, and long time behaviour (e.g.\\ energy dispersion) for solutions to PDEs. We will discuss these questions first for the classical equations (Laplace's equation, the heat equation, and the wave equation) which will lead us to the broader theory of elliptic, parabolic, and hyperbolic equations. The course covers mostly linear equations, but exposes the student also to some of the most interesting non-linear equations arising in physics and geometry.</p>",
+        "<p>Further topics may include: Calculus of variations, Hamilton-Jacobi equations, Systems of Conservation laws; Non-linear elliptic equations, Schauder theory; Quasi-linear hyperbolic equations, propagation of singularities, blow up phenomena.</p>"
+    ],
+    "ilo": [
+        "Elements of the general theory of PDE's: Principal symbol, solvability.",
+        "The basic theory of elliptic equations: Regularity, Dirichlet's problem, maximum principle.",
+        "The basic theory of hyperbolic equations: Cauchy problem, energy estimates.",
+        "Existence theory for weak solutions, Sobolev spaces.",
+        "Examples of non-linear equations"
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team;",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST20030",
+                        "Name": "Differential Equations",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST30021",
+                        "Name": "Complex Analysis",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 40 pages of assignments (4 assignments worth 10% each spread evenly)",
+            "bullets": [
+                "40 pages"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

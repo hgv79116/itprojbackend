@@ -1,0 +1,129 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong><br/><br/>Soil and rock are among the most important civil engineering materials. They form the foundations of all structures, can be rearranged to provide a topography to suit particular needs like embankments for road and railways, can form a structure in its own right when used for levee banks or dam walls, or may need to be removed to allow access such as with tunnels and cuttings. Students completing this unit should understand how to make simplifications to complex soil conditions, how to establish strength/deformation characteristics of the soil and how to apply fundamental geomechanics knowledge learned in earlier units to solve various geotechnical engineering applications topics, including problems involving the stability of an earth mass for these various situations and introducing the design of shallow foundations. Graduates from this subject will be able to work under the guidance of a chartered engineer to design and supervise construction of a range of geotechnical structures such as shallow foundations, embankments, and retaining walls. <br/> <br/>This subject builds directly on knowledge from a range of undergraduate and postgraduate subjects in the areas of mathematics, statistics, earth processes, and fluid mechanics. It also draws on knowledge of sustainability and management to provide context for problems. <br/><br/><strong>INDICATIVE CONTENT</strong><br/><br/>Topics covered include a review of pore-water pressures and effective stress, soil strength and compressibility (direct shear and triaxial testing, and others), consolidation, shallow foundations (bearing capacity and settlement), rigid and flexible earth retaining structures, reinforced soil walls, and introduction to geothermal energy.</p>"
+    ],
+    "ilo": [
+        "Make simplifications to complex soil conditions",
+        "Establish strength/deformation characteristics of soil",
+        "Analyse for both the bearing capacity and settlement characteristics of shallow foundations subjected to a variety of loadings",
+        "Apply fundamental geomechanics knowledge learned in earlier units to solve problems involving the stability of earth retaining structures"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to communicate effectively, not only with engineers but also with the community at large",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise systems approach to design and operational performance",
+        "Ability to function effectively as an individual in multi-disciplinary and multicultural teams, with the capacity to be a leader or manager as well as an effective team member",
+        "Expectation of the need to undertake lifelong learning and the capacity to do so",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning",
+        "Ability to manage information and documentation"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN30010",
+                        "Name": "Geotechnical Modelling and Design",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENEN20002",
+                        "Name": "Earth Processes for Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCVEN90044Engineering Site CharacterisationSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CVEN90044",
+                        "Name": "Engineering Site Characterisation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Quiz- \n\nTwo 30-minute online tests (5% each). ILOs 1, 2 and 3 are addressed in the tests",
+            "bullets": [
+                "60 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "About Week 4 and About Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written Assignment- \n\nAn individual assignment (10%) of a workload equivalent to 500 words, requiring approximately 13 hours of work. May use data from laboratory tests. Intended Learning Outcomes (ILOs) 1, 2 3, and 4 are addressed.",
+            "bullets": [
+                "13 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "About Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written Assignment- \n\nTwo group assignments of a workload equivalent to 1000 words or 15 hours per assignment per students (15% each). These assignments may use data from laboratory tests. Intended Learning Outcomes (ILOs) 1, 2 3, and 4 are addressed in these assignments",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "About Week 8, 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written Exam- \n\nOne written examination. ILOs 1, 2,3 and 4 are addressed in the exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass the final exam to pass the subject. ",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "53 hours (Lectures: 3 hours per week; Tutorial: 1 hour per week; Laboratory: 5 hours per semester)",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "narsilio@unimelb.edu.au"
+        }
+    ]
+}

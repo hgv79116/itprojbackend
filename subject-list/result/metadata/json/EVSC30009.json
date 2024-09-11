@@ -1,0 +1,140 @@
+{
+    "overview": [
+        "<p>The transition to net-zero greenhouse gas emissions will involve a significant transformation of the global energy system. This will fundamentally change where energy is generated and how it is consumed. These required changes will have broad economic, socio-environmental, and geopolitical challenges. Such as, the uneven endowment of wind and solar resources in regions that may be rich in biodiversity, with or without large human populations, or existing transmission infrastructure. However, continuing to rely on fossil fuels also exposes nations, businesses, and essential services to geopolitical instabilities and social injustice. A systematic view is needed to analyse, predict and chart viable pathways for our energy transition.</p>",
+        "<p><br/>This subject provides a capstone experience for the Environmental Science major specialisation in Energy Transition, while also providing a sustainability lens for discipline-focused majors in the energy space. This subject builds upon a fundamental understanding of thermodynamics, chemical, mechanical and/or electrical energy to explore the role of energy in nature and human society. Students will learn about the various forms of energy generation with their associated environmental and social impacts, and the degree to which the supply and demand of energy   must be transformed, in order to mitigate climate change while conserving biodiversity and sustainable economic development. Students will evaluate real-world decision-making problems, and develop the skills needed to assess and critique energy transition pathways towards a sustainable future.</p>",
+        "<p><br/>The energy transition is also a key component of environmental, social and governance (ESG) of businesses. Students will learn from industry experiences and potentially present to an industry panel. </p>"
+    ],
+    "ilo": [
+        "Identify the role of the energy system in society and explain how it leads to critical dependencies in our social, economic, and environmental systems.",
+        "Distinguish elements of the energy system that must change in order to reduce overall greenhouse gas emissions to Net-Zero.",
+        "Identify, analyse, and critique transition pathways of the energy system needed to mitigate climate change.",
+        "Apply, examine and compare a range of quantitative and qualitative change frameworks for the energy transition.",
+        "Assess energy transitions across different spatio-temporal scales and consider their global ramifications."
+    ],
+    "generic_skills": [
+        "Communication: developing effective oral and written communication skills",
+        "Time-Management skills: the ability to meet deadlines and balance competing commitments",
+        "Team skills: working in teams, assuming a complementary role, and contributing to joint outcomes",
+        "Critical thinking: organise observations of complex systems occurring across various energy resources and further analyse using complementary frameworks",
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EVSC20006",
+                        "Name": "Energy and the Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ATOC20001",
+                        "Name": "Extreme Weather and Climate",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM20018",
+                        "Name": "Chemistry: Reactions and Synthesis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEN20010",
+                        "Name": "Material and Energy Balances",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEN20012",
+                        "Name": "Fundamentals of Chemical Engineering",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHYC20012",
+                        "Name": "Quantum and Thermal Physics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST20029",
+                        "Name": "Engineering Mathematics",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "A working knowledge of word-processing, spreadsheet, and graphing software is also recommended."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Online quiz",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Group report (3 students per group)",
+            "bullets": [
+                "3000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Group presentation (3 students per group)",
+            "bullets": [
+                "10 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 10 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Final exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must pass this assessment to pass the subject. ",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Kelvin Say",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "kelvin.say@unimelb.edu.au"
+        }
+    ]
+}

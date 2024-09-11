@@ -1,0 +1,150 @@
+{
+    "overview": [
+        "<p>Much of the world\u2019s data relates to processes and objects situated in space. Spatial data is a rich source of insights about patterns, processes, trends and behaviours in space and time. To tap into these insights, specialised statistical, analytical and computational techniques are required.</p>",
+        "<p>This subject exposes students to fundamental aspects of spatial analytics. Students are introduced to key techniques and principles for the analysis of point, area, and field data, covering concepts such as point pattern analysis, spatial autocorrelation and geostatistics. As part of putting these techniques and principles into practice, students learn computational thinking approaches and acquire technical software skills in a high-level scripting language (such as Python and R) that enable them to effectively address spatial data science problems across a variety of domains.</p>",
+        "<p>The subject partners with other subjects on spatial data management and visualisation and is of particular relevance to people wishing to establish a career in digital infrastructure, spatial information technology, or the quantitative environmental modelling or planning sectors.</p>",
+        "<p>The subject delivers underlying and cross-disciplinary concepts of geographic information science (GIS) and spatial analytics in managing environmental and infrastructure data, and the visual representation of spatial and temporal information. Relating these relevant concepts to applications through case study examples from various sectors such as digital infrastructure, spatial information technology, quantitative environmental modelling, urban sustainability, and planning. Defining and realizing a student-driven project employing a modern scripting language and spatial-temporal relationships of the observed data from real world.</p>",
+        "<p>Students will be provided with pointers and material to familiarise themselves with the tools used in this subject before the semester starts; this element of preparation is expected for successful participation in the subject. Advice will be provided on LMS.</p>",
+        "<p>Please view this video for further information: <a href=\"https://youtu.be/zDfK1aoEAnA\">Spatial Data Analytics</a></p>"
+    ],
+    "ilo": [
+        "Distinguish and characterise spatial patterns and processes captured in infrastructure and environmental data;",
+        "Design and apply spatial analyses appropriate to given spatial processes, for example, urban sustainability and environmental management;",
+        "Implement and test data structures and analysis procedures for spatial data in a transparent, collaborative, reusable and replicable manner;",
+        "Interpret and critically evaluate a computational implementation of a spatial analysis project."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to conductindependentlya project",
+        "Ability to communicate effectively, with a team and with the community at large",
+        "Ability to manage information and documentation",
+        "Understanding of professional and ethical responsibilities, and commitment to them",
+        "Capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "paragraph",
+                "content": "Knowledge of geographic information systems (GIS) such as that gained from the new online modules available in the LMS Commons for exampleGIS For Engineers: QGIS Modulewould be beneficial. Fundamental skills in Python or a similar procedural programming language would also be beneficial \u2013 however, training is provided during the subject for those with no programming background."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assignment 1  Part 1: Programming skills task - Jupyter Lab / Notebook. 5 hours (documented code \u2013 no word equivalent). Intended Learning Outcome (ILO) 3 is addressed in this assessment.",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 2",
+            "percentage": "2%"
+        },
+        {
+            "brief": "Assignment 1 Part 2:  Programming skills task  -   Jupyter Lab /Notebook. 5 hours (documented code \u2013 no word equivalent).    (ILO) 3 is addressed in this assessment.",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "2%"
+        },
+        {
+            "brief": "Assignment 2:  formative task \u2013 responses to around five questions representing the fundamentals of Assignment 2 . 5 hours (documented code \u2013 ~ 150 words equivalent).  (ILOs) 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 4",
+            "percentage": "2%"
+        },
+        {
+            "brief": "Assignment 2:\n\nIndividual assessment of a spatial data analysis project. 25 hours (an equivalent of 1000 words).  (ILOs) 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "25 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Assignment 3: formative task \u2013 responses to around five questions representing the fundamentals of Assignment 3. 5 hours (documented code \u2013 ~150 words equivalent).  (ILOs) 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "2%"
+        },
+        {
+            "brief": "Assignment 3: \n\nIndividual assessment of a spatial data analysis project. 25 hours (an equivalent of 1000 words). (ILOs) 2 and 3 are addressed in this assessment.",
+            "bullets": [
+                "25 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Major Project Proposal:\n\nRequiring each team member to commit 10 hours (a contribution to the equivalent of 500 words) of work for the group project report, worth 5%. (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Major Project formative task \u2013 preliminary results on major project submitted early. \n\n\n\nRequiring each team member to commit 5 hours (a contribution to the equivalent of 150  words) of work for the group report, worth 2%.  (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "2%"
+        },
+        {
+            "brief": "Major Project:\n\nMajor spatial data analysis project requiring each team member to commit 40 hours (a contribution to the group report equivalent of 1500 words) of work for the group report, worth 35%.  (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "40 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "brief": "A 5-minute video presentation of the group project outcomes and the student's own contributions to the project, worth 10%. (10 Hours; a video equivalent of 500 words). (ILOs) 1-4 are addressed in this assessment.",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Jagannath Aryal",
+            "contact_email": "jagannath.aryal@unimelb.edu.au"
+        }
+    ]
+}

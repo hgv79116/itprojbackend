@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject comprehensively covers the thermodynamics of chemical and physical systems of relevance to chemical engineers.</p>",
+        "<p>The laws of thermodynamics, which govern energy and the direction of energy flow, are amongst the most important fundamentals of chemical engineering that students learn during their course. This subject revises and expands the students\u2019 understanding of the 1st and 2nd laws of thermodynamics, from both classical and statistical perspectives. Students learn about the concepts of entropy and equilibrium in detail, which form the basis for the topics of phase equilibrium, mixture properties, mixture equilibrium, reaction equilibrium and interfacial equilibrium.</p>",
+        "<p>The concepts covered by this subject provide the fundamental basis for chemical and process engineering and are utilised throughout all sectors of industry by engineers. This subject provides students with the ability to perform detailed calculations of complex systems to predict the performance of process unit operations, to aid in their design and operation.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>This subject focuses on the definitions and applications of the laws of thermodynamics, especially the implications of entropy and equilibrium on phases, mixtures, chemical reactions and interfaces:</p>",
+        "<ul><li>First law of thermodynamics.</li><li>Second law of thermodynamics and entropy.</li><li>Phase equilibria of pure substances, including fugacity.</li><li>Mixtures and phase equilibria of mixtures, including activity coefficients and vapour-liquid equilibrium.</li><li>Chemical reactions and reaction equilibria.</li><li>Interfacial thermodynamics.<br/><br/></li></ul>"
+    ],
+    "ilo": [
+        "Apply the laws of thermodynamics to closed and open systems including thermodynamic cycles",
+        "Identify the different rate controlling mechanisms in reactor design",
+        "Design key aspects of heterogeneous reacting systems and in particular, catalytic reactor systems",
+        "Apply a range of approaches to estimate fluid phase equilibria in one and two component systems",
+        "Estimate the physical properties of mixtures, especially non-ideal mixtures",
+        "Predict the equilibria of chemical reactions."
+    ],
+    "generic_skills": [
+        "Provide in-depth technical competence in engineering fundamentals",
+        "Undertake problem identification, formulation and solution",
+        "Utilise a systems approach to design and operational performance."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20011",
+                        "Name": "Digitisation in the Process Industries",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Weekly online quizzes = Assessment = 10 x 1% = 10%\"",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "From Week 2 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One hour written mid-semester test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One written team assignment not exceeding 1000 words per team member",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One three-hour written closed book examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Students must obtain a mark of 40% in the exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Gabriel da Silva",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 2 hour lecture + 2 x 1 hour lecture + 1 x 1 hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Associate Professor Gabriel da Silva",
+            "contact_email": "gdasilva@unimelb.edu.au"
+        }
+    ]
+}

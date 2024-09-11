@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This unit presents a series of teaching cases to immerse students in the real-world context of cybersecurity in organisations. Through the teaching cases, students will confront challenges to the management practice of cybersecurity. The teaching cases will provoke robust student-led discussions that will disentangle complex cybersecurity management concepts and instil confidence and critical thinking in students and encourage them to express their own ideas. Teaching cases have been selected to address a wide range of management challenges and expose key risks that organisations face today. These include the risks of adopting a compliance culture, fragmentation in organisational structures, poor decision-making, inadequate skills and experience, and misperceptions about the role of the cybersecurity function. </p>"
+    ],
+    "ilo": [
+        "ILO1:\u202f Critically analyse cybersecurity issues relating to the evolving strategic and operational context of organisations, IT systems and communication networks",
+        "ILO2: \u202fCritically review cybersecurity-related people, process and technology challenges to real-world organisations",
+        "ILO3:  Discuss and critically reflect on how cybersecurity protects the business function of the organisation through the application of strategy, risk, policy, training, governance, and culture",
+        "ILO4:  Discuss and critically reflect on how cybersecurity protects information and knowledge in the context of organisations",
+        "ILO5:  Discuss and critically reflect on how cybersecurity addresses a range of threats both purposive and incidental, spanning people, process, technology, and information"
+    ],
+    "generic_skills": [
+        "Have in-depth knowledge of a specialist area through exposure and study of cybersecurity areas of knowledge",
+        "Reach a high level of achievement in writing, research or project activities problem-solving and communication through the writing of a comprehensive consulting proposal",
+        "Report-writing skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ISYS90090",
+                        "Name": "Cyber Security Management",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Special permission from the subject coordinator to enrol in the subject."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One reflective journal requiring 20 - 25 hours of work.\n\n\n\nIntended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Weeks 2, 4, 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Scenario Analysis Report requiring 20 - 25 hours of work.\n\n\n\nIntended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Peer Response to Scenario Analysis - Report, requiring 13 - 15 hours of work.\n\n\n\nIntended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Consulting Report, requiring 70 - 75 hours of work.\n\n\n\nIntended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.",
+            "bullets": [
+                "2,500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

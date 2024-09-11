@@ -1,0 +1,111 @@
+{
+    "overview": [
+        "<p>The general problems associated with the role of the state in the economy. Topics will be chosen from the theory of the state; the role of government in promoting economic growth; collective choice mechanisms; the economic analysis of bureaucracy; public goods; social insurance; national debt; and taxation issues.</p>"
+    ],
+    "ilo": [
+        "Describe the fundamental features of government activities, expenditure and taxation, including the main types of taxation and expenditure.",
+        "Understand the key equity and efficiency issues related to using different forms of taxation and transfers.",
+        "Understand the theoretical and practical issues related to designed social insurance systems, such as unemployment benefits and health insurance.",
+        "Evaluate the results from empirical analyses of changes in government policies.",
+        "Critically evaluate policies and policy debates from a public economics perspective."
+    ],
+    "generic_skills": [
+        "High level of development: problem solving; application of theory to practice; interpretation and analysis; critical thinking; evaluation of data and other information; statistical reasoning.",
+        "Moderate level of development: oral communication; written communication; synthesis of data and other information; use of computer software; accessing data and other information from a range of sources; receptiveness to alternative ideas.",
+        "Some level of development: collaborative learning."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "BH-COM Bachelor of Commerce (Degree with Honours)",
+                    "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsECON40001Advanced MicroeconomicsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90027",
+                        "Name": "Public Economics",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Analytical assignment comprised of both long and short answers",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Analytical assignment comprised of both long and short answers",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Analytical assignment comprised of both long and short answers",
+            "bullets": [
+                "800 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "brief": "End-of-semester exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

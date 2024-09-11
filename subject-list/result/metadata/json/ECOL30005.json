@@ -1,0 +1,98 @@
+{
+    "overview": [
+        "<p>Applied Ecology is the science of understanding and managing ecosystems. The subject describes and evaluates the applications of ecological concepts for the conservation and management of natural and human-altered ecosystems. In particular, it identifies the implications of global and local changes for ecosystems, communities and individual species, especially within the Australian environment. It examines approaches to management and conservation of terrestrial resources and ecosystems, the control of pest species, and restoration of modified habitats.</p>"
+    ],
+    "ilo": [
+        "describe the ways in which ecological principles and knowledge are applied to the management of terrestrial resources and ecosystems;",
+        "evaluate the strengths and weaknesses of different approaches to managing terrestrial resources and ecosystems;",
+        "apply scientific principles to analysing conservation problems;",
+        "conduct practical data analysis for ecological management and conservation;",
+        "describe the link between ecological science and management decision making; and",
+        "communicate effectively about ecological management to scientific and public audiences."
+    ],
+    "generic_skills": [
+        "the ability to apply scientific principles to conservation problems;",
+        "data interpretation, and better understanding the link between ecological science and management decision making;",
+        "how to access information from the primary scientific literature, through both electronic and traditional sources;",
+        "practical skills in data analysis for management and conservation; and",
+        "presentation skills for speaking to scientific and public audiences."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOL20001",
+                        "Name": "Evolution: Making Sense Of Life",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECOL20003",
+                        "Name": "Ecology",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": []
+    },
+    "assessment": [
+        {
+            "brief": "A short oral presentation (5 minutes per student)",
+            "bullets": [
+                "5 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two practical assignments to be completed during the scheduled tutorials, in weeks 2-3, and 8-9",
+            "bullets": [
+                "6 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "brief": "One fieldwork report",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "35%"
+        },
+        {
+            "brief": "A take home exam due the first week of examination period",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x one hour lectures and 1 x three hour tutorial per week (excluding fieldwork excursion) during the semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "ECOL30005-info@unimelb.edu.au"
+        }
+    ]
+}

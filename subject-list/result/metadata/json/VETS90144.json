@@ -1,0 +1,120 @@
+{
+    "overview": [
+        "<p>This subject focuses on both the general principles of veterinary clinical practice and the specific approach to diagnosis, management and prevention of disease in horses. Content will be delivered in blocks based on clinical presentations related to dermatologic, ophthalmic, reproductive, neonatal, locomotory and respiratory problems in parallel with presentations of the same systems in other species. This approach is designed to support students in the development of their diagnostic reasoning skills, and encourage a comparative view of veterinary medicine and surgery.</p>"
+    ],
+    "ilo": [
+        "Collect and interpret information from clinical history, epidemiological data and clinical examination findings in horses in order to develop a problem list and appropriate differential diagnoses related to dermatologic, ophthalmic, reproductive, neonatal, locomotory and respiratory presentations",
+        "Select and interpret diagnostic testing in order to establish a definitive diagnosis in horses with dermatologic, ophthalmic, reproductive, neonatal, locomotory and respiratory presentations",
+        "Evaluate and integrate information from a range of sources in order to make recommendations for preventative health care strategies for common and important equine diseases and to prevent transmission of disease to other horses or humans, taking into account prognostic, economic and animal welfare considerations while adhering to professional and ethical standards for both companion and competition horses"
+    ],
+    "generic_skills": [
+        "An in-depth understanding of specific veterinary clinical disciplines",
+        "Manual dexterity and technical skills in the practical application of these disciplines",
+        "The ability to apply theoretical knowledge in a practical setting, to trouble-shoot technical difficulties and to seek accurate solutions to complex biological problems",
+        "The capacity to apply a rigorous, critical and logical approach to problem-solving",
+        "Advanced experience in observation, interpretation of complex data, problem-solving, time management, record-keeping and communication in both written and verbal formats"
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsVETS90142Dogs and Cats ASemester 1 (Early-Start) (On Campus - Werribee)12.5VETS90143Ruminants and Camelids ASemester 1 (Early-Start) (On Campus - Werribee)6.25VETS90145Poultry and Aviary BirdsSemester 1 (Early-Start) (On Campus - Werribee)6.25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90142",
+                        "Name": "Dogs and Cats A",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Werribee)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "VETS90143",
+                        "Name": "Ruminants and Camelids A",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Werribee)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "VETS90145",
+                        "Name": "Poultry and Aviary Birds",
+                        "Teaching period": "Semester 1 (Early-Start) (On Campus - Werribee)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "VETS90076",
+                        "Name": "Veterinary Medicine and Surgery A",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written test",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 5",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Written test",
+            "bullets": [
+                "40 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Aggregate Mark",
+            "bullets": null,
+            "hurdle": "Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Werribee)",
+            "contact_hours": "40 hours of lectures, practical classes and workshops",
+            "total_time_commitment": "100 hours",
+            "teaching_period": "5 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "16 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "jenny.raffetto@unimelb.edu.au"
+        }
+    ]
+}

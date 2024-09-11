@@ -1,0 +1,67 @@
+{
+    "overview": [
+        "<p>This subject will introduce students to research design in the behavioural sciences and provide the basic statistical tools and concepts for analysing relevant experimental data.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "critically examine research and literature in the hearing-related sciences;",
+        "understand basic research design and the generation of testable hypotheses;",
+        "understand basic statistical tests relevant to speech and hearing science and apply these accordingly; and",
+        "undertake a scientific literature search."
+    ],
+    "generic_skills": [
+        "Basic spreadsheet skills.",
+        "Computer access with Excel and Minitab software."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "The University of Melbourne is committed to providing students with reasonable adjustments to assessment and participation under the Disability Standards for Education (2005), and theAssessment and Results Policy (MPF1326). Students are expected to meet the core participation requirements for their course. These can be viewed under Entry and Participation Requirements for the course outlines in the Handbook."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written reports on two computer-based practical assignments not exceeding 500 words each. \n\nThese will take place in weeks 6 and 10, 20% each",
+            "bullets": [
+                "1000 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 6 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Written exam",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": "Students must pass the written examination in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours lectures and practicum sessions",
+            "total_time_commitment": "85 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "georgie.johnson@unimelb.edu.au"
+        }
+    ]
+}

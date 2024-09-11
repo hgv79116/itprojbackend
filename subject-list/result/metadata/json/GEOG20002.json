@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>The subject focuses on the dynamic surface of our planet and the environments it sustains. The Earth\u2019s surface is shaped by a complex interaction of physical and biological processes operating over a range of spatial and temporal scales. Understanding these processes in the present day, as well as reconstructing landscape and ecological change in the past, enables us to predict their future response to climate change and human activity. In this subject, students will study the processes and spatial patterns that shape natural landscapes and learn about approaches of reconstructing their evolution. Students will gain an appreciation of the ways that the dynamics of natural landscapes need to be incorporated into environmental management and the conservation of biodiversity.</p>",
+        "<p>This includes an in-depth understanding of the wide spectrum of landforms (including mountains and hillslopes, glaciers, rivers, dunes, and coasts) and the processes contributing to their formation and decay.  In addition, the subject addresses the geographic patterns and dynamics of life on the Earth\u2019s surface and investigates the way in which certain landscapes support particular types of ecosystems (such as rainforest, grassland, desert, estuarine and marine communities). Finally, the factors that may cause change in natural landscapes are explored to assess the roles played by climate, tectonics and humans over various timescales.</p>",
+        "<p>Through lectures, practicals and multiple days of field work, students will develop skills in a range of field and lab-based analytical techniques, as well as the use of GIS, for investigating our environment. This subject includes a four-day field trip in Victoria set to take place during the mid-semester break.</p>",
+        "<p>Students must submit 80% of the lab practical assignments and attend the field trip to be eligible to pass the subject.</p>"
+    ],
+    "ilo": [
+        "Describe the development of key theories in geomorphology and their application to different landforms and settings",
+        "Recognise how physical, biological, and human processes interact to shape natural landscapes and ecosystem diversity over a range of scales",
+        "Identify natural processes of change in landscapes and ecosystems and how human activity may modify these processes",
+        "Analyse geomorphic data to interpret change and recognise how this can be applied and integrated into future planning and policy",
+        "Obtain a skill set of real world analytical techniques that are used to analyse and classify natural landscapes, measure the dynamics of processes and change, and reconstruct longer-term landscape evolution"
+    ],
+    "generic_skills": [
+        "Recognise the development of key theories and apply these to a range of settings",
+        "Recognise how a variety of processes interact over multiple spatial-temporal scales",
+        "Obtain a skill set of real world analytical techniques",
+        "Conduct independent library, lab, and field based research",
+        "Apply knowledge in a planning and policy context"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ENVS10001",
+                        "Name": "Natural Environments",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ENVS10006",
+                        "Name": "Mapping Environments",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    },
+                    {
+                        "Code": "ERTH10002",
+                        "Name": "Geoscience: Evolution of The Earth",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "EVSC10001",
+                        "Name": "The Global Environment",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "ENVS10002\t Reshaping Environments"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "a minimum of 25 credit points ofLevel 1 Geography, Environmental Studies or Earth sciences subjects"
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "An equivalent approved by the subject coordinator."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Practicals and submission of all tasks completed within these sessions",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": "Students must submit 80% of the lab practical assignments and attend the virtual field trip to be eligible to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Individual field report",
+            "bullets": [
+                "1600 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Final exam",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two x 1-hour lectures per week; 5 x 3-hour practical classes (in weeks 2, 3, 4, 5 and 6); and a four-day field trip during the mid-semester break.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "janhendrikmay@unimelb.edu.au"
+        }
+    ]
+}

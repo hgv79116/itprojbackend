@@ -1,0 +1,55 @@
+{
+    "overview": [
+        "<p>In this subject, students will apply the skills developed during the practical training subjects to solve an industry-relevant problem, either in industry or research. Working in teams or individually under only general guidance from staff members, they will be required to design, implement, analyse and report on the project. Emphasis will be on providing advice to the client.</p>",
+        "<p>Application of the technical and analytical skills that they have learned during their degree will challenge them to develop proficiencies in both analysis and reporting that approach the quality of similar work expected in the workforce. An important focus will be the development of the ability to present results in ways that can be best adopted by industry-based clients.</p>"
+    ],
+    "ilo": [
+        "The ability to apply computational biology techniques as currently used in the workforce or research laboratory to solve an industry-based challenge;",
+        "The ability to design a program of work, gather the necessary data, complete the analysis of project results and compile a major project report;",
+        "The ability to present results at a career ready level."
+    ],
+    "generic_skills": [
+        "Upon completion of this subject, students should gain the following generic skills:\n\n- problem-solving skills including the ability to engage with unfamiliar problems, identify relevant solution strategies and conduct research;\n\n- analytical skills through the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;\n\n- presentation skills, both written and oral; and\n\n- time management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A literature survey",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Presentation",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "A written report",
+            "bullets": [
+                "8000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": []
+}

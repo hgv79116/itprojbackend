@@ -1,0 +1,86 @@
+{
+    "overview": [
+        "<p>Students will develop skills in the applications of computers for composition and music production, using technologies such as MIDI, sampling (digital audio), software synthesis and QuickTime. The subject includes a broad study of historical developments in the technology and practice of electronic music.</p>"
+    ],
+    "ilo": [
+        "understand key concepts and terminology from several areas of contemporary music technology, such as MIDI, analogue and digital audio, sampling and synthesis;",
+        "demonstrate practical skills in applying music production tools to their chosen projects, whether these use MIDI, digital audio or synthesis software (or a combination of these);",
+        "demonstrate understanding of the important developments in music technology over the last 100 years, and be familiar with a number of composers and performers who have used technology in significant ways."
+    ],
+    "generic_skills": [
+        "self-direct their learning of complex software packages through the use of computer-based and online resources;",
+        "negotiate around the common design constraints of music software, in order to advance the musical aims of the project at hand;",
+        "approach the learning of new technologies with a positive, explorative attitude."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MUSI10004",
+                        "Name": "Computing for Musicians",
+                        "Teaching period": "Semester 2 (On Campus - Southbank)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "or equivalent prior experience is recommended but not compulsory."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A major creative project",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A written report",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "A short answer test",
+            "bullets": [
+                "1 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Southbank)",
+            "contact_hours": "12 hours, comprising one 1-hour class per week",
+            "total_time_commitment": "60 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "egyger@unimelb.edu.au"
+        }
+    ]
+}

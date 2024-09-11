@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p><strong>AIM</strong></p>",
+        "<p>With exponential growth in data generated from sensor data streams, search engines, spam filters, medical services, online analysis of financial data streams, and so forth, there is demand for fast monitoring and storage of huge amounts of data in real-time. Traditional technologies were not aimed to such fast streams of data. Usually they required data to be stored and indexed before it could be processed.</p>",
+        "<p>Stream computing was created to tackle those problems that require processing and classification of continuous, high volume of data streams. It is highly used on applications such as Twitter, Facebook, High Frequency Trading and so forth.</p>",
+        "<p>This subject will focus on the algorithms and data structures behind the analysis and management of streams. Theoretical underpinnings are emphasized, with implementation of some fundamental algorithms.</p>",
+        "<p> </p>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<ul><li>Why stream processing is important</li><li>Hash functions, probability, and fundamental data structures</li><li>Data stream model</li><li>Data stream algorithms: Sampling, sketching, distinct items, frequent items, frequency moments, etc.</li><li>Data stream mining: clustering, histograms, query tracking</li><li>Graph streams: connectivity, matchings, covers<strong><br/></strong></li></ul>"
+    ],
+    "ilo": [
+        "Design streaming algorithms and data structures for fundamental problems and variants",
+        "Conduct mathematical analysis of such algorithms and data structures",
+        "Implement efficient schemes for streamed large data sets",
+        "Reason about, contrast and compare streaming methods with those for random-access, disk-bound, and parallel computation"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to communicate effectively, with the team and with the community at large",
+        "Capacity for lifelong learning and professional development",
+        "Profound respect for truth and intellectual integrity, and for the ethics of scholarship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90041",
+                        "Name": "Programming and Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One quiz. Addressing Intended Learning Outcomes (ILOs) 1 and 2.",
+            "bullets": [
+                "8 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Two written assignments.  Addressing ILOs 1, 2, 3 and 4. Due in weeks 7 and 11.",
+            "bullets": [
+                "30 hours (of work required)"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "From Week 7 to Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "One 3 hour end of semester examination. The examination addresses ILOs 1, 2, 3 and 4.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "Please see below.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": []
+}

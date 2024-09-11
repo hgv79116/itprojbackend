@@ -1,0 +1,105 @@
+{
+    "overview": [
+        "<p>There has been an explosion in the collection, and availability, of spatial information in the modern era.  Locational data from smart phones, drones, and new generations of satellites, are examples of the growing opportunities that spatial data present for geography.  Spatial analysis skills are now in high demand among many employers. </p>",
+        "<p>Understanding how to think about spatial data, and how to analyse those data, provides transformational skills. This subject equips students to map connections between nature and people, spatialise the impacts of climate change on humans and their environment, and use spatial data to inform decisions. Students will also gain an understanding of technical, ethical and analytical dimensions of spatial data.  This subject teaches broad spatial skills and is equally useful for students of human, environmental, or physical geography. </p>",
+        "<p>While the subject develops competency with relevant software, the emphasis is on understanding key concepts regarding spatial data and how to formulate and answer spatial questions.  The subject is structured around weekly, computer-based practicals which combine spatial skills with critical thinking.  Half of the assessment comes from assignments in which students individually solve spatial data problems in geography.</p>"
+    ],
+    "ilo": [
+        "Evaluate ethical issues and key debates around data collection, storage, use, and publication.",
+        "Illustrate the principals of visualisation and communication of spatial data and analyses",
+        "Demonstrate a working knowledge of geospatial data structures and formats",
+        "Demonstrate competency in basic geospatial data processing to address problems in geography",
+        "Demonstrate and evaluate how spatial data can be used to inform decisions across human and physical geography."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to communicate effectively, including visual and written modes",
+        "Ability to manage information and documentation",
+        "Ability to apply knowledge of geography fundamentals",
+        "Develop the capacity for lifelong learning and professional development."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [
+            {
+                "type": "list",
+                "content": [
+                    "GEOG10001 Famine: The Geography of Scarcity",
+                    "GEOG10002 Landscape Information Systems",
+                    "GEOM20013 Applications of GIS (Semester 1)",
+                    "ENVS10006 Mapping Environments"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Note that this subject involves some numerical analysis so it is recommended that students have some basic competency in mathematics."
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Four Practical class exercises",
+            "bullets": [
+                "800 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Analysis exercise 1 (Data analysis)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Analysis exercise 2 (Decision making)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Exam (1,200 word equivalent)",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "jgrove@unimelb.edu.au"
+        }
+    ]
+}

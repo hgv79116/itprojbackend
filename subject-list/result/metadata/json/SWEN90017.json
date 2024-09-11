@@ -1,0 +1,119 @@
+{
+    "overview": [],
+    "ilo": [
+        "Perform all the steps necessary to develop a software system for a real-world application, including requirements analysis, design, implementation, testing and deployment.",
+        "Design and apply software engineering processes appropriate to a specific problem and/or set of functional and non-functional requirements.",
+        "Apply appropriate computing technology to the solution of complex problems in software engineering.",
+        "Participate collaboratively in a large software development team including communication, management, and quality assurance, utilising a variety of software engineering processes.",
+        "Interpret the needs of external stakeholders to develop quality requirement specifications, designs, and maintainable software."
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation, and solution",
+        "Ability to utilise a systems approach to complex problems and to design and operational performance \n\nProficiency in software engineering design",
+        "Ability to conduct an engineering project",
+        "Ability to manage information and documentation",
+        "Ability to communicate effectively, with the engineering team and with the community at large",
+        "Capacity for creativity and innovation",
+        "Ability to function effectively as an individual and in multidisciplinary and multicultural teams, as a team leader or manager as well as an effective team member",
+        "Understanding of professional and ethical responsibilities, and commitment to them"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN90006",
+                        "Name": "Security & Software Testing",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SWEN90014",
+                        "Name": "Masters Software Engineering Project",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "SWEN90009",
+                        "Name": "Software Requirements Analysis",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": []
+    },
+    "assessment": [
+        {
+            "brief": "Individual Assessment/ Individual contribution to the project continuing over the whole semester.\n\n\n\nIntended Learning Outcomes (ILO's) 1 to 5 are addressed in the project.",
+            "bullets": [
+                "80 hours"
+            ],
+            "hurdle": "To pass the subject, students must obtain at least 15 out of 30 in their individual component and obtain at least 50% overall.",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Individual Assessment/ \n\n\n\nIndividual communication including peer feedback and participation in the presentation .\n\n\n\nIntended Learning Outcomes (ILO's) 1 to 5 are addressed in the project.",
+            "bullets": [
+                "20 hours (of work required)"
+            ],
+            "hurdle": "Yes, to pass the subject, students must obtain at least 40 out of 80 in their individual component and obtain at least 50% overall. ",
+            "timing": "Weeks 7 and 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Individual Assessment/ \n\n\n\nIndividual Research Report on a software engineering topic.\n\n\n\nIntended Learning Outcomes (ILO's) 1 to 5 are addressed in the project.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": "Yes, to pass the subject, students must obtain at least 40 out of 80 in their individual component and obtain at least 50% overall. ",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Continuing assessment of the team progress on the project  \n\n\n\n60 hours of work per member required.\n\n\n\nIntended Learning Outcomes (ILO's) 1 to 5 are addressed in the project.",
+            "bullets": [
+                "60 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 1 to Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Mansooreh Zahedi",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of three-hour workshops for 12 weeks. Some computer lab classes will require you to bring your own device.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "mansooreh.zahedi@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Leon Sterling",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising of three-hour workshops for 12 weeks. Some computer lab classes will require you to bring your own device.",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "leonss@unimelb.edu.au"
+        }
+    ]
+}

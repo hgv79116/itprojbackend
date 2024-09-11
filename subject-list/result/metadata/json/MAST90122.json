@@ -1,0 +1,82 @@
+{
+    "overview": [
+        "<p>Modern data collection technologies are creating unprecedented challenges in statistics and data science related to the analysis and interpretation of massive data sets where observations exhibit patterns through time and space. This subject introduces probability models and advanced statistical inference methods for the analysis of temporal and spatio-temporal data. The subject balances rigorous theoretical development of the methods and their properties with real-data applications. Topics include inference methods for univariate and multivariate time series models, spatial models, lattice models, and inference methods for spatio-temporal processes. The subject will also address aspects related to computational and statistical trade-offs, and the use of statistical software.</p>"
+    ],
+    "ilo": [
+        "Have an understanding of selected advanced topics in spatio-temporal statistics;",
+        "Have developed mathematical and computational skills needed for further research or applied work in statistics and data science;",
+        "Feel prepared for a research or industry career in statistics and data science; and",
+        "Have familiarity with several major texts spatio-temporal statistics."
+    ],
+    "generic_skills": [
+        "Problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "Analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "Collaborative skills: the ability to work in a team; and",
+        "Time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST90082",
+                        "Name": "Mathematical Statistics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "MAST90138",
+                        "Name": "Multivariate Statistics for Data Science",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 60 pages of written assignments (three assignments worth 10% each) due in weeks 4, 8 and 12",
+            "bullets": [
+                "60 pages"
+            ],
+            "hurdle": null,
+            "timing": "From Week 4 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Tingjin Chu",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours comprising 2 x one hour lectures per week, 1 x one hour practice class per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "tingjin.chu@unimelb.edu.au"
+        }
+    ]
+}

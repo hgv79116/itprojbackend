@@ -1,0 +1,195 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Declarative programming languages provide elegant and powerful programming paradigms which every programmer should know. This subject presents declarative programming languages and techniques.</p>",
+        "<p><strong>INDICATIVE CONTENT<br/></strong></p>",
+        "<ul><li>The dangers of destructive update</li><li>Functional programming</li><li>Recursion</li><li>Strong type systems</li><li>Parametric polymorphism</li><li>Algebraic types</li><li>Type classes</li><li>Defensive programming practice</li><li>Higher order programming</li><li>Currying and partial application</li><li>Lazy evaluation</li><li>Monads</li><li>Logic programming</li><li>Unification and resolution</li><li>Nondeterminism, search, and backtracking</li></ul>"
+    ],
+    "ilo": [
+        "Apply declarative programming techniques",
+        "Write medium size programs in a declarative language",
+        "Write programs in which different components use different languages",
+        "Select appropriate languages for each component task in a project"
+    ],
+    "generic_skills": [
+        "Ability to utilise systematic thinking in problem solving",
+        "Intellectual curiosity and creativity, including understanding of the philosophical and methodological bases of research activity",
+        "Openness to new ideas and unconventional critiques of received wisdom",
+        "Capacity for independent critical thought, rational inquiry and self-directed learning"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 1"
+            },
+            {
+                "type": "paragraph",
+                "content": "One ofCodeNameTeaching periodCredit PointsCOMP20003Algorithms and Data StructuresSemester 2 (On Campus - Parkville)12.5COMP20007Design of AlgorithmsSemester 1 (On Campus - Parkville)12.5COMP90038Algorithms and ComplexitySemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP20003",
+                        "Name": "Algorithms and Data Structures",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP20007",
+                        "Name": "Design of Algorithms",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "COMP90038",
+                        "Name": "Algorithms and Complexity",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 2"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-SOFTENG Master of Software Engineering",
+                    "MC-ENG Master of Engineering",
+                    "MC-SCICMP Master of Science (Computer Science)",
+                    "MC-CS Master of Computer Science",
+                    "GC-CS Graduate Certificate in Computer Science"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Option 3"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                    "Artificial Intelligence specialisation (formal) in the MC-IT Master of Information Technology"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP30020",
+                        "Name": "Declarative Programming",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "SWEN20003",
+                        "Name": "Object Oriented Software Development",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Two small programming assignments, requiring approximately 3-5 hours each; Due Weeks 4 and 8-9 (5% each). Addressing Intended Learning Outcomes (ILOs') 1 and 2.",
+            "bullets": [
+                "10-16 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "From Week 4 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Two programming projects, requiring approximately 12-20 hours each; Due Weeks 6 and 11-12 (15% each). Addressing Intended Learning Outcomes (ILOs') 1-4.",
+            "bullets": [
+                "20-30 hours (of work required)"
+            ],
+            "hurdle": "Please see below",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "One written, closed-book examination. Intended Learning Outcomes (ILO) 1.",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Please see below",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Peter Schachte",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Peter Schachte",
+            "contact_email": "schachte@unimelb.edu.au"
+        }
+    ]
+}

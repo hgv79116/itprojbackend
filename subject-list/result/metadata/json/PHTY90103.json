@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>The focus of this subject will be complemented by practical clinical opportunities that serve to consolidate students\u2019 theoretical understanding of physiotherapy across the lifespan and chronic disease management.Students will rotate between the three areas of clinical practice including paediatrics, aged care/rehabilitation and chronic disease management.Students will undergo their clinical experience for 3 week placements in a supervised environment.The Chronic Disease Management Clinic will highlight opportunities for interdisciplinary practice especially in the areas of health promotion.</p>"
+    ],
+    "ilo": [
+        "Safely and competently assess patients with complex care needs across the lifespan",
+        "Compare and synthesize practical approaches and models of care in the management of patients across the lifespan and chronic disease in acute and primary health care settings in different health populations",
+        "Apply principles of health promotion as appropriate within the practice context",
+        "Case manage patients with chronic disease and engage with multidisciplinary teams to facilitate and implement discharge planning, appropriate referrals and care plans for patients",
+        "Integrate key areas of evidence to models of assessment, clinical reasoning, treatment and management of acute and chronic illness and disease across the life span",
+        "Justify physiotherapy treatment techniques based upon the findings of individual patient assessment and relevant clinical research in paediatrics, aged care and chronic disease",
+        "Consistently demonstrate the integration of prior theoretical knowledge (paediatric, aged care, chronic disease conditions, evidence-based physiotherapy practice, and healthcare in context) when engaging in patient centred education and advocacy",
+        "Accommodate the cognitive, linguistic and cultural needs of the patient and their family/carers when dealing with complex health decisions, operating within the constraints of the healthcare context."
+    ],
+    "generic_skills": [
+        "Recognizing and managing emotions in self and others",
+        "Maintaining physical, emotional, social and spiritual health and recognizing the importance of professional support in this process",
+        "Applying principles of rehabilitation in the amelioration of suffering from acute or chronic disability",
+        "Respecting the roles and expertise of other healthcare professionals and communicating effectively with them"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90098",
+                        "Name": "Musculoskeletal Clinical Practice",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90099",
+                        "Name": "Cardiorespiratory Clinical Practice",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90100",
+                        "Name": "Neurological Clinical Practice",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Continuous Clinical Assessment x 2 (Paediatrics and Aged Care) (25% each) throughout 3 week clinical unit",
+            "bullets": null,
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "50%"
+        },
+        {
+            "brief": "10 minute Case or Topic Presentation x 2 (Paediatrics and Aged Care) (10% each)",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Final week of clinical unit",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Health Promotion project, final week of teaching period",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": "Kelly Bower",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "276 hours clinical placement (92 hours Gerontology, 92 Paediatrics, 92 Chronic Disease)",
+            "total_time_commitment": "276 hours",
+            "teaching_period": "5 February 2024 to 31 May 2024",
+            "last_self_enrol_date": "16 February 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "bower@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": "Kelly Bower",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "276 hours clinical placement (92 hours Gerontology, 92 Paediatrics, 92 Chronic Disease)",
+            "total_time_commitment": "276 hours",
+            "teaching_period": "15 July 2024 to  8 November 2024",
+            "last_self_enrol_date": "26 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "22 November 2024",
+            "contact_name": null,
+            "contact_email": "bower@unimelb.edu.au"
+        }
+    ]
+}

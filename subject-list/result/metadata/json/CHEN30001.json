@@ -1,0 +1,175 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>This subject introduces students to aspects of reactor system design. Chemical reactors are at the heart of any major chemical process design. Chemical reaction engineering is concerned with the exploitation of chemical reactions on a commercial scale. Chemical reaction engineering aims at studying and optimizing chemical reactions in order to define the best reactor design. Hence, the interactions of flow phenomena, mass transfer, heat transfer, and reaction kinetics are of prime importance in order to relate reactor performance to feed composition and operating conditions. The subject will also cover catalytic reactor system.</p>",
+        "<p>This subject is one of the key parts of the chemical and biochemical engineering curriculum upon which a lot of later year material is built.</p>"
+    ],
+    "ilo": [
+        "Interpret data from both ideal and non-ideal batch, plug flow and mixed flow reactors",
+        "Model more complex flowing reactor systems using combinations of idealized plug flow and continuously stirred tank ranks",
+        "Design simple reactor systems",
+        "Understand and identify the different rate controlling mechanisms in reactor design",
+        "Solve problems in the design of heterogeneous reacting systems and in particular catalytic reactor systems",
+        "Predict simple temperature profiles in reacting systems."
+    ],
+    "generic_skills": [
+        "Ability to undertake problem identification, formulation and solution",
+        "Capacity for independent thought",
+        "Ability and self-confidence to comprehend complex concepts, to express them lucidly and to confront unfamiliar problem."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Undergraduate Students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsCHEN20010Material and Energy BalancesSemester 1 (On Campus - Parkville)12.5CHEN20011Digitisation in the Process IndustriesSemester 2 (On Campus - Parkville)12.5CHEM10004Chemistry 2Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20010",
+                        "Name": "Material and Energy Balances",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEN20011",
+                        "Name": "Digitisation in the Process Industries",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEM10004",
+                        "Name": "Chemistry 2",
+                        "Teaching period": "Summer Term (On Campus - Parkville)Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Postgraduate Students:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Admission into or selection of one of the following:"
+            },
+            {
+                "type": "list",
+                "content": [
+                    "MC-CHEMENG Master of Chemical Engineering",
+                    "Business specialisation (formal) in the MC-CHEMENG Master of Chemical Engineering",
+                    "Sustainability and Environment specialisation (formal) in the MC-CHEMENG Master of Chemical Engineering",
+                    "Materials and Minerals specialisation (formal) in the MC-CHEMENG Master of Chemical Engineering"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsCHEN20010Material and Energy BalancesSemester 1 (On Campus - Parkville)12.5CHEN20011Digitisation in the Process IndustriesSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20010",
+                        "Name": "Material and Energy Balances",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "CHEN20011",
+                        "Name": "Digitisation in the Process Industries",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "This subject requires all students to actively and safely participate in laboratory activities. Students who feel their disability may impact upon their participation are encouraged to discuss this matter with the Subject Coordinator and Student Equity and Disability Support."
+            },
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Lab-based online quiz and\n\ncomputer simulation problem. ILOs 1 to 4 are addressed in this assignment.",
+            "bullets": [
+                "10 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Lab based report, worth 10%.  Overall time commitment of approximately 15 hours. ILOs 1 to 4 are addressed in the assignment.",
+            "bullets": [
+                "15 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 8 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "brief": "One 60-minute mid-semester test (15%). Intended Learning Outcomes (ILOs) 1-4 are addressed in the test. Held around Week 6 of the Semester.",
+            "bullets": [
+                "60 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Three-hour end of semester examination (70%). The examination paper will consist of problems designed to test whether the student has acquired the ability to apply fundamental principles to the solutions of problems involving chemical reactors. The problems set for the exam will be similar to those undertaken in the tutorial class. ILOs 1 to 6 are addressed in the examination.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "A mark of 40% or more in the end-of-semester examination is required to pass the subject.\n\n",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Greg Qiao",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "2 x 1-hour lecture and 1 x 2-hour lecture per week, 1 x 1-hour tutorial per week and 2 x 3-hour laboratory sessions per semester",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Professor Greg Qiao",
+            "contact_email": "gregghq@unimelb.edu."
+        }
+    ]
+}

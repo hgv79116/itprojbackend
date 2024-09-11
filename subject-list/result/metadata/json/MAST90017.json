@@ -1,0 +1,69 @@
+{
+    "overview": [
+        "<p> </p>",
+        "<p>Symmetries arise in mathematics as groups and Representation Theory is the study of groups via their actions on vector spaces. It has important applications in many fields: physics, chemistry, economics, biology and others. This subject will provide the basic tools for studying actions on vector spaces. The course will focus on teaching the basics of representation theory via favourite examples: symmetric groups, diagram algebras, matrix groups, reflection groups. In each case the irreducible characters and irreducible modules for the group (or algebra) will be analysed, developing more and more powerful tools as the course proceeds. Examples that will form the core of the material for the course include SL2, cyclic and dihedral groups, diagram algebras: Temperley-Lieb, symmetric group and Hecke algebras, Brauer and BMW algebras, compact Lie groups. Among the tools and motivation that will play a role in the study are characters and character formulas, induction, restriction and tensor products, and connections to statistical mechanics, mathematical physics and geometry.<br/>If time permits, there may be some treatment of loop groups, affine Lie algebras and Dynkin diagrams.</p>"
+    ],
+    "ilo": [
+        "understand the concepts of irreducible representations, indecomposable representations, group algebras, semisimplicity;",
+        "understand the concepts of characters, composition series, induction and restriction;",
+        "understand how to label representations of small groups and diagram algebras;",
+        "describe dimensions and characters of representations of symmetric groups, dihedral groups, and cyclic groups;",
+        "describe dimensions and characters of semisimple Lie algebras;",
+        "give examples of nonsemisimple algebras and representations.",
+        "have the ability to pursue further studies in this and related areas."
+    ],
+    "generic_skills": [
+        "problem-solving skills: the ability to engage with unfamiliar problems and identify relevant solution strategies;",
+        "analytical skills: the ability to construct and express logical arguments and to work in abstract or general terms to increase the clarity and efficiency of analysis;",
+        "collaborative skills: the ability to work in a team;",
+        "time-management skills: the ability to meet regular deadlines while balancing competing commitments."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "MAST30005",
+                        "Name": "Algebra",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Or equivalent"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Up to 50 pages of written assignments (two assignments worth 25% each, due mid and late in semester)",
+            "bullets": [
+                "50 pages"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "brief": "A written examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": []
+}

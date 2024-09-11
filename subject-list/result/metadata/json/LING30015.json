@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>Corpus Linguistics is the computational analysis of real-life language use, drawing on databases of written, spoken or signed language. Corpus data reveals patterns in language that go beyond the standard assumptions of linguistic theory, and it is corpus data that forms the foundation of language technologies such as Google and AI. Students in this course will engage in hands-on workshops, learning how to use custom corpus software, as well as basic Python coding, to discover patterns in language. They will also be guided into the theoretical underpinnings of corpus linguistics \u2013 how it reflects the cognitive processing of language, and how it relates to theories of grammatical structure. This course does not assume any previous technical skills, but students must be ready to learn computational tools for exploring corpus data. Assessment will involve data exploration, presenting and discussing analyses, and written work.</p>"
+    ],
+    "ilo": [
+        "Learn how to use corpus software (e.g. AntConc) to analyse patterns in language data",
+        "Compare corpora of different languages to gain skills in flexible analysis of diverse grammatical patterns",
+        "Investigate diachronic corpora to trace paths of language change",
+        "Present analyses in a workshop setting and discuss others' analyses",
+        "Develop new corpus data, including databases for under-documented languages",
+        "Understand basic quantitative and statistical tools (e.g. using R Studio/Posit) for the analysis corpus data",
+        "Produce written work that interprets corpus analysis and relates it to questions of linguistic theory"
+    ],
+    "generic_skills": [
+        "Discover patterns in digital records",
+        "Navigate diverse languages",
+        "Trace the paths of language change in the historical record",
+        "Develop their own language data",
+        "Connect linguistic theory with information technology"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsLING10001The Secret Life of LanguageSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LING10001",
+                        "Name": "The Secret Life of Language",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "A level 1 subject taught in French, Arabic, Chinese, German, Hebrew, Indonesian, Italian, Japanese, Korean, Russian or Spanish."
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Present and discuss analyses in tutorials (oral presentation)",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 3 to Week 11",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Design Research Project",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Research Project Findings, due in the first week of the examination period",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval. \n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

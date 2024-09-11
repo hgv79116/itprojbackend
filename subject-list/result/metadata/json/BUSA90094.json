@@ -1,0 +1,132 @@
+{
+    "overview": [
+        "<p>This course is an introduction to the theory and practice of finance. The unifying theme of this subject is value:</p>",
+        "<ul><li>How to <em>value </em>financial assets such as bonds and shares;</li><li>How to <em>value </em>(today) the (future) cash flows from the investment projects that firms undertake;</li><li>How to choose projects that increase the <em>value </em>of the firm to shareholders; and</li><li>How to finance those projects so that shareholder <em>value </em>is maximised.</li></ul>",
+        "<p> </p>",
+        "<p>Lectures and cases will introduce discounting and interest rate mathematics, principles of valuation, the weighted average cost of capital, and capital structure of firms. Along the way we will develop knowledge and intuition about the purpose of the different components of the financial systems (financial markets, financial intermediaries and financial instruments) and how those components create value</p>"
+    ],
+    "ilo": [
+        "Time value of money and discounted cash flow approach to valuing projects, shares, bonds, and enterprises;",
+        "The basic functioning and purpose of capital markets (markets for stocks, bonds and other securities);",
+        "The effects of information asymmetry in the financial system;",
+        "Diversification and transfer of risk;",
+        "The capital structure problem and cash payout choices faced by corporations; and",
+        "How firms use weighted average cost of capital in choosing projects"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BUSA90480",
+                        "Name": "Leadership",
+                        "Teaching period": "September (On Campus - Parkville)April (On Campus - Parkville)Summer Term (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "BUSA90481",
+                        "Name": "Managerial Ethics & Business Environment",
+                        "Teaching period": "April (On Campus - Parkville)June (On Campus - Parkville)April (On Campus - Parkville)September (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Or BUSA90351 World of Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "Or BUSA90350 World of Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "Or BUSA90352 World of Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "Or BUSA90354 World of Management"
+            },
+            {
+                "type": "paragraph",
+                "content": "Or BUSA90353 World of Management"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Contribution to class learning equivalent to 500 words individual work",
+            "bullets": [
+                "500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Online preparation quizzes",
+            "bullets": [
+                "900 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mini case report",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Mid term exam",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": "Students are required to pass the exam to pass the subject",
+            "timing": "Mid of term",
+            "percentage": "35%"
+        },
+        {
+            "brief": "Syndicate case report & presentation equivalent to 1,000 words individual work",
+            "bullets": [
+                "1000 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "35%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "September",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "19 September 2024 to 20 October 2024",
+            "last_self_enrol_date": "26 August 2024",
+            "census_date": "20 September 2024",
+            "last_date_to_withdraw_without_fail": "4 October 2024",
+            "assessment_period_ends": "20 October 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

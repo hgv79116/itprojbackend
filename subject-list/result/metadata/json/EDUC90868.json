@@ -1,0 +1,103 @@
+{
+    "overview": [
+        "<p>This subject aims to build the methodological literacy of Doctor of Education candidates to a level that is adequate to the doctoral level of study. It addresses both more general methodological questions and concerns in the field of educational research as well as addressing specific issues connected with the use of particular research methods and the associated forms of data. This subject caters equally for candidates pursuing various quantitative and qualitative methodologies in their doctoral research projects. It provides targeted training in key research methods as well as developing the Doctor of Education candidates\u2019 overall understanding of the use and usefulness of various research methods in the field of educational research.</p>"
+    ],
+    "ilo": [
+        "Demonstrate an advanced methodological literacy and a mastery of one or more specific research method(s) suited to their doctoral research project.",
+        "Defend why a specific research method is appropriate for answering a specific research question.",
+        "Critique the strengths and weaknesses of the major methodologies currently used in the field of educational research.",
+        "Demonstrate an understanding of, and commitment to research ethics and integrity."
+    ],
+    "generic_skills": [
+        "Critical reasoning and thinking",
+        "Problem solving",
+        "Evidence-based decision making",
+        "Communication",
+        "Ethical Skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90870",
+                        "Name": "Laying the Foundations for Your Research",
+                        "Teaching period": "February (Online)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Position paper about research approach",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Early semester",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Oral presentation and defense of methodological approach (30 minutes)",
+            "bullets": [
+                "3000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Late semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Brief report on supervisor feedback on oral defense",
+            "bullets": [
+                "300 words"
+            ],
+            "hurdle": "The report on supervisor feedback must be submitted.",
+            "timing": "Late semester (after presentation)",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Final essay",
+            "bullets": [
+                "6000 words"
+            ],
+            "hurdle": null,
+            "timing": "3 weeks after the end of the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "brief": "Attendance:",
+            "bullets": null,
+            "hurdle": "This subject has a minimum hurdle requirement of 80% attendance at all scheduled tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1 - Online",
+            "principal_coordinator": "Kylie Smith",
+            "mode_of_delivery": "Online",
+            "contact_hours": "36 hours",
+            "total_time_commitment": "340 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "kylieas@unimelb.edu.au"
+        }
+    ]
+}

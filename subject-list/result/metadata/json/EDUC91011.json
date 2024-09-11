@@ -1,0 +1,148 @@
+{
+    "overview": [
+        "<p>This subject provides further opportunities for Teacher Candidates to consolidate their understanding of the nexus between theory and practice of teaching, drawing on a range of theoretical perspectives and contemporary research. Teacher Candidates will consolidate and deepen their understandings of professional knowledge, clinical teaching practice and professional engagement in the secondary school context.</p>",
+        "<p>This subject has a particular focus on assessment of individual students. Teacher Candidates will learn how to closely track student learning, to record and analyse assessment data and make clinical judgements for future teaching. Teacher Candidates will also understand a range of strategies for reporting to students, and parents/carers utilising records of student achievement. Teacher Candidates will extend their responsibility for the planning, implementation and assessment of lessons based on national and state curricula during extended periods of supervised teaching. Teacher Candidates will continue differentiate their teaching to include students with diverse needs and backgrounds and will take into account Aboriginal and Torres Strait Islander perspectives on learning and development.</p>",
+        "<p>Experienced Mentor Teachers will continue to support Teacher Candidates in collaboration with university-based academics who are also engaged in the on-campus teaching program. The Clinical Teaching Practice seminars are framed by the Australian Professional Standards for Teachers at the Graduate Level. At seminars, Teacher Candidates will engage in collaborative learning and critical reflection with topics.</p>"
+    ],
+    "ilo": [
+        "Consolidate knowledge of the characteristics of learners (Graduate Standards 1.1, 1.2, 1.3, 1.5, 1.6, 2.4, 3.1, 3.5, 4.1, 4.2, 4.3, 4.4)",
+        "Consolidate pedagogical content knowledge to create inclusive and productive learning environments (Graduate Standards 2.1, 2.2, 2.3, 2.5, 2.6, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7)",
+        "Design and implement relevant curriculum and pedagogy, integrating digital technologies and differentiating teaching to engage students in their learning (Graduate Standards 2.1, 2.2, 2.3, 2.5, 2.6, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6)",
+        "Create and maintain safe and supportive learning environments using practical approaches to promote positive behaviours (Graduate Standards 4.1, 4.2, 4.3, 4.4, 4.5)",
+        "Design assessment tools and tasks and interpret data and evidence to make clinical judgments about teaching interventions and reflect on the impact of teaching on learning outcomes when reporting to students and parents/carers (Graduate Standards 3.1, 3.2, 3.3, 3.4, 3.6, 3.7, 5.1, 5.2, 5.3, 5.4, 5.5)",
+        "Consolidate understanding of how educational theory and research inform teaching practice (Graduate Standards 5.1, 5.2, 5.4, 6.1, 6.2, 6.3, 6.4)",
+        "Consolidate knowledge of key principles of the Code of Ethics for the teaching profession (Graduate Standards 7.1, 7.2, 7.3, 7.4)",
+        "Consolidate knowledge of the relevant legislative acts and regulations (Graduate Standards 7.2)"
+    ],
+    "generic_skills": [
+        "Clinical reasoning and thinking",
+        "Problem solving",
+        "Evidence based decision making",
+        "Creativity and innovation",
+        "Teamwork and professional collaboration",
+        "Learning to learn and metacognition",
+        "Responsiveness to a changing knowledge base",
+        "Reflection for continuous improvement",
+        "Linking theory and practice",
+        "Inquiry and research",
+        "Active and participatory citizenship"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC91010",
+                        "Name": "Clinical Teaching Practice (Sec) 1 Ext",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Current Working with Children Check"
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "All ofCodeNameTeaching periodCredit PointsEDUC90902Diverse and Inclusive Classrooms (Sec)Not available in 20246.25EDUC90906Integrating Language & Clinical PracticeNot available in 202412.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90902",
+                        "Name": "Diverse and Inclusive Classrooms (Sec)",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "EDUC90906",
+                        "Name": "Integrating Language & Clinical Practice",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "EDUC90909",
+                        "Name": "Clinical Teaching Practice (Sec) 2",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Demonstration of clinical teaching practice against Australian Professional Standards for Teachers at the Graduate level",
+            "bullets": [
+                "21 days (placement)"
+            ],
+            "hurdle": "The placement must be passed.",
+            "timing": "Throughout Placement",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Learning Action Plan",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "End of placement",
+            "percentage": "30%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Clinical Teaching ePortfolio",
+            "timing": "Throughout Placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance on all placement days",
+            "timing": "Throughout placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "100% attendance at all professional seminars, throughout placement",
+            "timing": "Throughout placement",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Interim clinical teaching practice interview-based assessment",
+            "timing": "throughout placement",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": []
+}

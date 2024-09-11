@@ -1,0 +1,101 @@
+{
+    "overview": [
+        "<p><strong>AIMS</strong></p>",
+        "<p>Directed studies provide the students with broader experience in addition to the regular class based learning. The directed studies can be conducted in the forms of:</p>",
+        "<ul><li>Industrial internship or research placements in the department\u2019s research groups based on availability. This is only open to students who have completed a minimum of one semester of study and who have achieved an average of H2A or above in their prior subjects;</li><li>Individually arranged supervised study of current research topics with staff members associated with the Department of Electrical and Electronic Engineering.</li></ul>",
+        "<p><strong>INDICATIVE CONTENT</strong></p>",
+        "<p>The examples of the research topics are:</p>",
+        "<ol><li>Cloud Computing, Content Distribution and Information Logistics;</li><li>Internet Services Energy Star Rating;</li><li>Energy Efficiency of Future Modulation Formats;</li><li>Low-Energy Fibre Access Networks;</li><li>Video Coding for Energy Efficient Telecommunications;</li><li>Fundamental Limits of Electronics and Photonics;</li><li>Broadband fibre wireless networks and systems;</li><li>Optimal design of few-mode fibres.</li></ol>"
+    ],
+    "ilo": [
+        "Keep abreast with the current trends and developments in the telecom industry",
+        "Acquire the first-hand experience in the basic practices in the telecom industry",
+        "Obtain creative mathematical and computational skills necessary for the solution of complex theoretical and practical problems",
+        "Develop an ability to successfully work independently with personal accountability in solving problems in telecommunications engineering"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills;",
+        "Critical and creative thinking, with an aptitude for continued self-directed learning;",
+        "Sense of intellectual curiosity;",
+        "Ability to interpret data and research results;",
+        "Ability to learn in a range of ways, including through information and communication technologies;",
+        "Capacity to confront unfamiliar problems;",
+        "Ability to evaluate and synthesise the research and professional literature;",
+        "Ability to develop models of practical applications and evaluate their performance by rigorous analytical means."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "A report not exceeding 5500 words",
+            "bullets": [
+                "105-120 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "80%"
+        },
+        {
+            "brief": "An oral examination of no more than one hour duration",
+            "bullets": [
+                "25-30 hours (of work required)"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Dragan Nesic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "2 January 2024 to  9 February 2024",
+            "last_self_enrol_date": "9 January 2024",
+            "census_date": "12 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "19 February 2024",
+            "contact_name": null,
+            "contact_email": "dnesic@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Dragan Nesic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "dnesic@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Dragan Nesic",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "36 hours",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "dnesic@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+    "overview": [
+        "<p>The subject provides a rigorous introduction to non-cooperative game theory and the economics of asymmetric information. The solution concepts covered include dominant strategies, as well as Nash, subgame perfect, Bayesian Nash and weak sequential equilibria.</p>"
+    ],
+    "ilo": [
+        "Model and solve strategic and extensive games with perfect or imperfect information;",
+        "Recognise and critically evaluate the applications of game-theoretic models within economics;",
+        "Use these analytical tools to understand situations where decision-makers interact."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Strategic thinking",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision making",
+        "Negotiation and bargaining",
+        "Written communication",
+        "Oral communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON40001",
+                        "Name": "Advanced Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON40010",
+                        "Name": "Game Theory",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Homework assignments consisting of four or five problems",
+            "bullets": [
+                "625 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "7.5%"
+        },
+        {
+            "brief": "Homework assignment consisting of four or five problems",
+            "bullets": [
+                "625 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "7.5%"
+        },
+        {
+            "brief": "Homework assignment consisting of four or five problems",
+            "bullets": [
+                "625 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "7.5%"
+        },
+        {
+            "brief": "Homework assignment consisting of four or five problems",
+            "bullets": [
+                "625 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "7.5%"
+        },
+        {
+            "brief": "End-of-semester examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Roberto Raimondo",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Three hours of lectures/seminars per week.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "rraim@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "overview": [
+        "<p>This subject is the introduction to the program of Masters in Business Analytics. The subject will focus on two issues: (I) introduce students to business problems that are best addressed with analytics and the complexities of business problems, and (2) the complexities of possible solutions to those problems. To address the implementation of those solutions, team processes will be examined and project management tools will be provided.</p>",
+        "<p>Students will be presented with a data set and a case study of an organization facing a significant business problem. Students will be asked to prepare possible solutions to the problem, which will be revisited in the Business Analytics Applications subject at the end of their program of study. Assessment in this subject will focus on the team processes and project management tools applied to this case study.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Understand the wide variety of business problems that are best addressed with analytics.",
+        "Define business problems in ways that are insightful.",
+        "Understand the complexity of business problems, and solutions to those problems.",
+        "Understand the complexity of business data.",
+        "Understand the complexity of implementing solutions to business problems.",
+        "Understand the multitude of organisational stakeholders, and their different, and often opposite, objective functions.",
+        "Understand the complexity of managing the implementation of analytics projects."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "One syndicate oral presentation (1500 individual words or equivalent)",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "40%"
+        },
+        {
+            "brief": "One individual test",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Students are required to pass the test to pass the subject",
+            "timing": "",
+            "percentage": "55%"
+        },
+        {
+            "brief": "Individual assignment",
+            "bullets": [
+                "600 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 3",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Attendance (minimum 80%)",
+            "bullets": null,
+            "hurdle": "students need to attend at least 80% of  classes  to pass the subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "March",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "18 March 2024 to 26 April 2024",
+            "last_self_enrol_date": "26 March 2024",
+            "census_date": "5 April 2024",
+            "last_date_to_withdraw_without_fail": "19 April 2024",
+            "assessment_period_ends": "26 April 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

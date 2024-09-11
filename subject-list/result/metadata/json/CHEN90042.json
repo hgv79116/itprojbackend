@@ -1,0 +1,136 @@
+{
+    "overview": [
+        "<p>This subject aims to extend the fundamental concepts of heat transfer to include natural and forced convection; boiling and condensation; plate heat exchanger and evaporator design. Fundamental concepts in mass transfer are expanded to the design of separation processes including binary distillation, gas absorption, solvent extraction, membranes and cooling towers.</p>"
+    ],
+    "ilo": [
+        "Apply the principles of heat transfer to solve heat transfer problems, particularly those involving two phase systems",
+        "Assess quantitatively the performance of heat exchanger and evaporation equipment",
+        "Apply the principles of mass transfer to solve mass transfer problems and to membrane separation processes",
+        "Describe the concepts of equilibrium stage and continuous contactor analysis and apply these concepts to distillation and gas absorption problems",
+        "Assess quantitatively the performance of conventional distillation, gas absorption, membrane and cooling tower equipment",
+        "Design heat exchangers, cooling towers and separation equipment"
+    ],
+    "generic_skills": [
+        "Ability to apply knowledge of basic science and engineering fundamentals",
+        "Ability to undertake problem identification, formulation and solution",
+        "Ability to utilise a systems approach to design and operational performance",
+        "Understand the principles of sustainable design and development."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEN30016Momentum, Mass and Heat TransferSemester 2 (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN30016",
+                        "Name": "Momentum, Mass and Heat Transfer",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "OR"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCHEN20009Transport ProcessesNo longer available"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN20009",
+                        "Name": "Transport Processes",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "CHEN30005",
+                        "Name": "Heat and Mass Transport Processes",
+                        "Teaching period": "No longer available",
+                        "Credit Points": ""
+                    }
+                ]
+            }
+        ],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": []
+    },
+    "assessment": [
+        {
+            "brief": "Written Assignment based on a laboratory class, worth 10%. Intended Learning Outcomes (ILOs) 2, 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written Assignment based on a laboratory class, worth 10%. Intended Learning Outcomes (ILOs) 2, 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 9",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Written Assignment based on a laboratory class, worth 10%. Intended Learning Outcomes (ILOs) 2, 4 and 6 are addressed in this assessment.",
+            "bullets": [
+                "10 hours"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "brief": "One written 90-minute test. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.",
+            "bullets": [
+                "90 minutes"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "brief": "One written 3-hour closed-book end-of-semester exam. Intended Learning Outcomes (ILOs) 1 to 6 are addressed in this assessment.",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": "The final exam must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Sandra Kentish",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3\u00d7 1-hour lectures per week, 1\u00d7 1-hour tutorial per week, 1\u00d7 1- hour workshop per week, and 12 hours of laboratory work in one semester",
+            "total_time_commitment": "200 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Dr Sandra Kentish",
+            "contact_email": "sandraek@unimelb.edu.au"
+        }
+    ]
+}

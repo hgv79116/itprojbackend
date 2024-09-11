@@ -1,0 +1,139 @@
+{
+    "overview": [
+        "<p>Pastures and grasslands comprise the dominant vegetation cover across the Australian continent. The way pastures and grasslands are managed is therefore central to the sustainable use of natural resources such as soil and water, as well as the economic development of the pasture-based livestock industries (meat and wool sheep, beef cattle, and dairy).</p>",
+        "<p>This subject will include:</p>",
+        "<ul><li>An overview of Australia's pasture and grassland resources</li><li>The population biology of pasture plants, including the growth cycles of annual and perennial plants, and pathways of plant survival</li><li>The major pasture plant species and pasture types, their agronomic and adaptive characteristics and management requirements</li><li>Pasture improvement principles and practices</li><li>Plant and pasture growth processes influencing the accumulation of yield in pastures, and implications for management</li><li>The feeding and nutritive value of pastures and factors affecting animal intake</li><li>The principles and practices of grazing management</li></ul>"
+    ],
+    "ilo": [
+        "Demonstrate an understanding of\u00a0basic ecology and agronomy of pasture and grassland communities and the factors that influence yield of a grazed pasture",
+        "Analyse\u00a0the different principles underlying efficient pasture and grazing management, and the practices required for sustainable production from grazing systems",
+        "Define and articulate\u00a0the importance of seasonality in pasture production, and its consequences for the management of grazing systems",
+        "Demonstrate knowledge\u00a0in the application of\u00a0practical tools and skills required for the efficient management of grazing systems",
+        "Critically evaluate data and techniques that help identify solutions in the management of grazing systems"
+    ],
+    "generic_skills": [
+        "Problem solving and analytical skills",
+        "Capacity to tackle unfamiliar problems",
+        "Ability to think systemically and integrate knowledge from different disciplines",
+        "Communication skills, through written and oral presentations",
+        "Quantitative analysis skills",
+        "Sense of intellectual curiosity"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10050",
+                        "Name": "Agricultural Systems Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10010",
+                        "Name": "Foundational Biology: Life's Complexity",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10011",
+                        "Name": "Biology: Life's Complexity",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "BIOL10004  Biology of Cells and Organisms"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "2 x assignments due approximately in weeks 5 and 12",
+            "bullets": [
+                "750 words (each)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 5 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "brief": "4 x practical worksheets due approximately in weeks 2, 4, 6 and 8",
+            "bullets": [
+                "750 words (total)"
+            ],
+            "hurdle": null,
+            "timing": "From Week 2 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": "Brendan Cullen",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "60 hours. 2 hours of online lectures and 3 hours of practicals/tutorial sessions per week plus one fieldwork trip during week 4 of semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "bcullen@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": "Paul Cheng",
+            "mode_of_delivery": "On Campus (Dookie)",
+            "contact_hours": "60 hours. 2 hours of online lectures and 3 hours of practicals/tutorial sessions per week plus one fieldwork trip during week 4 of semester.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "long.cheng@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>Students undertake a year-long (full-time equivalent) research project under the supervision of academic staff from the School of Computing and Information Systems.</p>",
+        "<p>For a full-time enrollment, the subject continues over two consecutive study periods (full-time) with students enrolling in parts 1 and 2 in one study period, and then parts 3 and 4 in the consecutive study period, for a combined total enrollment of 100 credit points. To enable part-time study, part-time students may take one subject in a single semester. A mark for the subject/s will not be awarded until the entire 100 points of enrollment has been completed. All subjects are offered in both semester 1 and 2.</p>",
+        "<p>Satisfactory completion of the research proposal (in parts 1 and 2) are required to progress to parts 3 and 4.</p>",
+        "<p><strong>For full information about this subject, please refer to the Handbook page for Part 1 of the project:</strong></p>",
+        "<p>Computer Science Research Project Pt 1 (25 pts)</p>"
+    ],
+    "ilo": [
+        "Demonstrate research maturity by independently carrying out a substantial research project, involving identification of an appropriate research question, planning and execution of experimental or theoretical research, and synthesis of research findings",
+        "Identify, interpret and critically evaluate relevant research and theory in computer science",
+        "Report research findings in both written and oral forms",
+        "Demonstrate an understanding of, and responsibly apply, ethical principles and procedures in research"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Completion of a minimum of 100 credit points of study"
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Note: the following subject/s can also be taken concurrently (at the same time)"
+            },
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsCOMP90078Computer Science Research Project Part 1Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)25"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "COMP90078",
+                        "Name": "Computer Science Research Project Part 1",
+                        "Teaching period": "Semester 1 (Extended) (On Campus - Parkville)Semester 2 (Extended) (On Campus - Parkville)",
+                        "Credit Points": "25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "date_times": [
+        {
+            "semester": "Semester 1 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "2 January 2024 to 30 June 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "30 June 2024",
+            "contact_name": null,
+            "contact_email": "jeyhan.lau@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 (Extended)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "400 hours",
+            "teaching_period": "1 July 2024 to 24 December 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "24 December 2024",
+            "contact_name": null,
+            "contact_email": "jeyhan.lau@unimelb.edu.au"
+        }
+    ]
+}

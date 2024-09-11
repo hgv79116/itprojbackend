@@ -1,0 +1,104 @@
+{
+    "overview": [
+        "<p>Physiology is the integrative study of the control of normal body function. This subject will examine the functions of different cell types and their interactions in organs and tissues; mechanisms by which organs are controlled and their functions are regulated; thermoregulatory processes and fluid balance; the physiology of the nervous system, of digestion, circulation, respiration, and excretion; the processes of growth and development, and factors that can be manipulated to alter animal performance under normal conditions.</p>"
+    ],
+    "ilo": [
+        "Describe the anatomy and normal physiological function of the nervous, circulatory, respiratory, digestive, endocrine and urinary systems in domestic animals",
+        "Apply the concept of homeostasis and how the internal environment of the animal is actively maintained by the function of cells, tissues and organs",
+        "Evaluate the impact of external environmental cues on animal physiology",
+        "Describe growth processes and their control",
+        "Demonstrate skills in conducting physiology experiments, including the collection, analysis and interpretation of data"
+    ],
+    "generic_skills": [
+        "Academic excellence",
+        "Greater in-depth understanding of scientific disciplines and of the practical and ethical aspects of working in animal physiology",
+        "The student's flexibility and level of transferable skills should be enhanced through improved time management",
+        "An enhanced ability to communicate ideas effectively in both written and verbal formats"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI10050",
+                        "Name": "Agricultural Systems Biology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10002",
+                        "Name": "Biomolecules and Cells",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10008",
+                        "Name": "Foundational Biology: Life's Machinery",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "BIOL10009",
+                        "Name": "Biology: Life's Machinery",
+                        "Teaching period": "Not available in 2024",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "5x multiple-choice online quizzes assesing practical work.",
+            "bullets": [
+                "20 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "5 online tests",
+            "bullets": [
+                "15 minutes (each)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Exam",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "1 x 1hr lecture per week (12 hours), and 2 x 2.5hr practicals per week (60 hours)",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "tcham@unimelb.edu.au"
+        }
+    ]
+}

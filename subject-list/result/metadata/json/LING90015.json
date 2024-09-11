@@ -1,0 +1,116 @@
+{
+    "overview": [
+        "<p>This subject focuses on aspects of the English sound system with particular focus on Australian English. Students gain a detailed understanding of the sound system of different varieties of English. The main topics covered include: phonetic analysis (vowel and consonant systems, phonotactics, stress and intonation) of selected English varieties including L2 varieties of English. Throughout the subject, material is drawn from different varieties of English, including English spoken by second language learners. This subject also provides the chance for training in the accurate perception and production of English speech, transcription, and an introduction to acoustic phonetic analysis.</p>"
+    ],
+    "ilo": [
+        "Demonstrate developed practical and theoretical language analysis through training in how to use the Phonetic Alphabet as an analytical tool for phonetic analysis of English",
+        "Acquire observation skills and attention to detail through seminar and assignment preparation, and examination revision",
+        "Acquire computer literacy through use of IT in acoustic and auditory analyses of spoken language",
+        "Communicate knowledge intelligibly and economically through tutorial preparation and participation and assignment preparation."
+    ],
+    "generic_skills": [
+        "Demonstrate research skills through competent use of the library and other information sources",
+        "Show critical thinking and analysis through recommended reading, essay writing and tutorial discussion, and by determining the strength of an argument",
+        "Demonstrate understanding of social, ethical and cultural context through the contextualisation of judgements, developing a critical self-awareness, being open to new ideas and possibilities and by constructing an argument."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "LING20005",
+                        "Name": "Phonetics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "Students who have taken an undergraduate subject in Phonetics, including LING20005, are not eligible to enrol into this subject."
+            }
+        ],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Transcription assignment 1",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Transcription assignment 2",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Final Essay",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.  There is an expectation that students attend lectures where offered.\n\n",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 10 University business days from the original assessment due date without written approval.\n\n",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 - On Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "24 hours: 1 x 1-hour lecture and 1x1-hour practical per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "j.fletcher@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2 - Online",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Online",
+            "contact_hours": "Equivalent of 24 hours: Self-directed activities including following seminar recordings, weekly participation in online activities as directed by the subject coordinator. There are no classes for online study.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "j.fletcher@unimelb.edu.au"
+        }
+    ]
+}

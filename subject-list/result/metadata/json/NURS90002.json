@@ -1,0 +1,88 @@
+{
+    "overview": [
+        "<p>This subject involves a learning contract/project plan to be negotiated between the student and the subject coordinator and completion of a substantive piece of work based on the contract/plan. The focus of the work is an innovative project aimed at improving health outcomes. Students will use the project to develop their capacity to apply and develop the evidence for practice and extend knowledge in an area of their choice that supplements their learning but is not taught in other subjects. The proposed work should also align with the student\u2019s course learning objectives and be linked with other subjects for the purpose of sequential development of knowledge.</p>"
+    ],
+    "ilo": [
+        "Identify a novel  health improvement goal and plan an innovative practice and/or service improvement project to achieve the goal",
+        "Identify learning needs and develop a plan to address their own learning needs",
+        "Use an evidence-based approach to explore a topic of enquiry",
+        "Formulate outcome criteria to measure achievement of learning objectives and achievement of project goal",
+        "Learn and work independently to achieve learning objectives and project health improvement goals",
+        "Evaluate innovation and practice improvement project outcomes  recommend future innovations and practice improvements."
+    ],
+    "generic_skills": [
+        "Effectively gather and share essential information",
+        "Ability to critically evaluate new ideas, data, research findings, methodologies and theoretical frameworks",
+        "Capacity to use technology and online resources to support learning and innovation",
+        "Uses analytic and decision-making skills and system-level thinking to identify and address challenges",
+        "Effective time management skills for planning and completing work to deadline"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "POPH90302",
+                        "Name": "Introduction to Health Services Research",
+                        "Teaching period": "Semester 2 (Dual-Delivery - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Learning contract and project plan",
+            "bullets": [
+                "500 words"
+            ],
+            "hurdle": null,
+            "timing": "Early in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Project Report",
+            "bullets": [
+                "3750 words"
+            ],
+            "hurdle": null,
+            "timing": "Second half of the teaching period",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Learning contract and outcome assessment",
+            "bullets": [
+                "750 words"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Year Long",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Dual-Delivery (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 20 October 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "31 May 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

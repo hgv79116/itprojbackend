@@ -1,0 +1,85 @@
+{
+    "overview": [
+        "<p>This subject is about applying principles of agricultural economics, agribusiness marketing and agribusiness value chain analysis to analysing and understanding the process of creating value in agricultural products, from the perspectives of individual firms in the value chain and of the whole value chain.</p>"
+    ],
+    "ilo": [
+        "Understand principles of agricultural marketing",
+        "Understand the operation of agricultural value chains",
+        "Understand the processes of value creation for agricultural products",
+        "Be able to map agricultural value chains"
+    ],
+    "generic_skills": [
+        "Ability to integrate knowledge from different disciplines",
+        "Communication skills through written assignments",
+        "Quantitative analysis skills",
+        "Sense of intellectual curiosity"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AGRI20042",
+                        "Name": "Agricultural Economics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Multiple choice test",
+            "bullets": [
+                "30 minutes"
+            ],
+            "hurdle": null,
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Written Assignment",
+            "bullets": [
+                "1500 words"
+            ],
+            "hurdle": null,
+            "timing": "Due in week 1 of semester 2",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "Due in week 3 of semester 2",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "July",
+            "principal_coordinator": "Paul Deane",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 x 9-5pm in week 1 and 2 x 9-5pm in week 2 of teaching period",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "8 July 2024 to 19 July 2024",
+            "last_self_enrol_date": "10 July 2024",
+            "census_date": "19 July 2024",
+            "last_date_to_withdraw_without_fail": "2 August 2024",
+            "assessment_period_ends": "18 August 2024",
+            "contact_name": null,
+            "contact_email": "paul.deane@unimelb.edu.au"
+        }
+    ]
+}

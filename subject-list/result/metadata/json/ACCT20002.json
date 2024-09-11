@@ -1,0 +1,115 @@
+{
+    "overview": [
+        "<p>This subject focuses on more advanced external financial reporting obligations applicable to entities within the framework of the Australian reporting environment. In particular, it examines key technical Accounting Standards integral to the preparation of general purpose financial statements by reporting entities. It also considers the theories that help explain why financial accounting exists as well as what motivates and affects the judgements of managers when making financial accounting reporting decisions. Finally, it critically reviews important contemporary accounting issues affecting the business community under consideration by accounting standard setters.</p>"
+    ],
+    "ilo": [
+        "Identify and explain the theories that explain why financial accounting exists and the accounting choices made by managers;",
+        "Record and disclose transactions and events applying the provisions of key Accounting Standards;",
+        "Critically evaluate how well these standards appropriately incorporate the principles as outlined in the Conceptual Framework;",
+        "Identify and explain contemporary financial accounting reporting issues affecting the business community and being considered by standard setters;",
+        "Identify and explain financial reporting disclosure and presentation issues as part of an annual report; and",
+        "Explain the implications for financial reporting arising from alternative accounting policy choice decisions faced by management."
+    ],
+    "generic_skills": [
+        "High level of development: application of theory to practice; evaluation of data and other information.",
+        "Moderate level of development: critical thinking; written communication; problem solving; interpretation and analysis; receptiveness to alternative ideas; synthesis of data and other information.",
+        "Some level of development: oral communication; collaborative learning; team work."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ACCT10002",
+                        "Name": "Introductory Financial Accounting",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)Summer Term (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Assessment of Preparation Activities",
+            "bullets": [
+                "24 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Online Quizzes",
+            "bullets": [
+                "2.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "brief": "End-of-semester Examination",
+            "bullets": [
+                "3 hours"
+            ],
+            "hurdle": null,
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Jagjit Kaur",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "Two 2-hour lectures and two 1-hour tutorials per week for six weeks",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to  9 February 2024",
+            "last_self_enrol_date": "8 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "24 February 2024",
+            "contact_name": null,
+            "contact_email": "jkaur@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Bo Qin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": null,
+            "contact_email": "b.qin@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Like Jiang",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "One 2-hour lecture and one 1-hour tutorial per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "like.jiang@unimelb.edu.au"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "overview": [
+        "<p>This subject provides students with an opportunity to integrate prior knowledge of anatomy, physiology and neuroscience with theoretical and evidence-based knowledge in the management of individuals with neurological conditions. The emphasis of this subject is development of a clinical reasoning framework for the assessment and management of individuals with neurological conditions within the International Classification of Functioning, Disability and Health framework. The selection and justification of assessment and management for individuals with neurological conditions will be informed by research findings from basic science and applied clinical research. Consideration will also be given to the rights of individuals with neurological conditions and the impact of team management processes in neurological physiotherapy practice. This subject includes 12 hours of clinical (generic) placement. </p>"
+    ],
+    "ilo": [
+        "Critically reflect and modify practice in response to feedback from peers and lecturers / tutors.",
+        "Apply a biopsychosocial model to accurately assess, interpret and treat individuals with common Neurological conditions.",
+        "Employ safe and effective evidence-based physiotherapy interventions for individuals with neurological conditions.",
+        "Design, implement and evaluate a repertoire of exercises and health and well-being promotion strategies that best meet the needs of individuals with a range of impairments, activity limitations and/or participation restrictions.",
+        "Identify  the personal and environmental barriers and facilitators that influence capability, opportunity and motivation to participate.",
+        "Identify, critique and apply evidence-informed practice in the selection and modification of physiotherapy approaches for individuals with neurological conditions.",
+        "Explain  the role of other professions, families, carers and communities in the care with individuals with a diverse range of health conditions.",
+        "Apply  the skills to develop patient-centered goal setting with individuals.",
+        "Apply  the skills to educate individuals and relevant others about the individual's condition and the options for physiotherapy approaches for promotion of health and well-being.",
+        "Effectively communicate and respectfully engage with individuals (including those with cognitive, behavioural and communication limitations) and relevant others to optimise outcomes.",
+        "Respond to the social and cultural needs of the individual, their family/carers and the organisation in health decision making.",
+        "Explain  the impact of available resources on the delivery of optimal physiotherapy treatment approaches."
+    ],
+    "generic_skills": [
+        "Development of skills in practical thinking, clinical reasoning and clinical decision making;",
+        "An appreciation of the importance of a team approach in working with colleagues;",
+        "Critically use decision-making skills with an awareness of the factors that inform their decisions."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "PHTY90090",
+                        "Name": "Musculoskeletal Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "PHTY90091",
+                        "Name": "Cardiorespiratory Physiotherapy",
+                        "Teaching period": "July (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": "Foundation Physiotherapy Science B"
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "ePortfolio",
+            "bullets": [
+                "1250 words"
+            ],
+            "hurdle": null,
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "brief": "Written Exam",
+            "bullets": [
+                "1.5 hours"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Objective Structured Clinical Examination (OSCE)  \n\n2 station OSCE each station 10 minutes",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": "Students must pass OSCE to pass subject",
+            "timing": "End of semester",
+            "percentage": "45%"
+        },
+        {
+            "brief": null,
+            "bullets": null,
+            "hurdle": "Attendance at >85% of practical classes",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2 (Early-Start)",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "186 hours",
+            "teaching_period": "1 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "12 July 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

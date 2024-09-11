@@ -1,0 +1,149 @@
+{
+    "overview": [
+        "<p>This subject builds on the skills introduced in the subject, Principles of Paediatric Audiology. Students will continue to develop skills in the theory and practice of paediatric audiological evaluation and management. Students gain clinical experience in the behavioural assessment of the hearing of infants and children.</p>"
+    ],
+    "ilo": [
+        "Differentiate through case history the physical, social, auditory, speech and language developmental stage of infants and young children",
+        "Apply the risk factors for hearing loss to guide clinical decision making",
+        "Develop clinical assessment and communication skills through differentiation of the rationale of assessment protocols of hearing from infancy across childhood",
+        "Integrate and interpret paediatric clinical test results to inform management planning"
+    ],
+    "generic_skills": [
+        "2 hours"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ANAT90004",
+                        "Name": "Anatomy and Physiology for Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90016",
+                        "Name": "Pathologies of the Auditory System",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90048",
+                        "Name": "Principles of Clinical Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90049",
+                        "Name": "Principles of Hearing Rehabilitation",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90050",
+                        "Name": "Acoustics and Perception of Speech",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90051",
+                        "Name": "Principles of Paediatric Audiology",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "AUDI90012",
+                        "Name": "Electrophysiological Assessment A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    },
+                    {
+                        "Code": "AUDI90021",
+                        "Name": "Clinical Audiology A",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90023",
+                        "Name": "Hearing Devices and Rehabilitation A",
+                        "Teaching period": "Semester 2 (Early-Start) (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "AUDI90047",
+                        "Name": "Audiology in Professional Contexts",
+                        "Teaching period": "Semester 2 (On Campus - Parkville)",
+                        "Credit Points": "6.25"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": "Exam must be passed to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Clinical skills assessment by OSCE",
+            "bullets": [
+                "20 minutes"
+            ],
+            "hurdle": "The clinical skills assessment must be passed",
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "brief": "Short written assignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Satisfactory participation and attendance in clinical placements throughout the semester",
+            "bullets": null,
+            "hurdle": "Satisfactory participation and attendance (>90% attendance rate in scheduled placements) in clinical placements throughout the  semester",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Dani Tomlin",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "168 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": "dtomlin@unimelb.edu.au"
+        }
+    ]
+}

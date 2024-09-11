@@ -1,0 +1,52 @@
+{
+    "overview": [
+        "<p>This course will introduce the concept of a GIS as a problem solving technology within the geosciences, and through hands-on practical classes and lectures will provide the basic hands-on skills needed to design and implement a GIS project. Specific topics will include map projections and georeferencing, distortions in image data, raster and vector data models, incorporating digital terrain models and geophysical data, introduction to boolean logic and functions, data accuracy and access issues and limitations of GIS. The course will include examination of case histories of GIS projects and students will also build a GIS project of their own to solve a simulated exploration problem using MapInfo and other open-source software and a real world data set.</p>"
+    ],
+    "ilo": [
+        "An ability to identify the kind of digital information and software most appropriate to solving different geological problems;",
+        "An opportunity to demonstrate their ability to work with state-of-the-art geological data sets in digital form; and",
+        "Confidence and competence to interrogate geological problems employing modern digital techniques."
+    ],
+    "generic_skills": [
+        "Handle large datasets in digital format",
+        "Exercise critical judgement;",
+        "Undertake rigorous and independent thinking;",
+        "Adopt a problem-solving approach to new and unfamiliar tasks;",
+        "Develop high-level written report and/or oral presentation skills;",
+        "Interrogate, synthesise and interpret the published literature; and",
+        "Work as part of a team."
+    ],
+    "elig_req": {
+        "Prerequisites": [],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Additional detailsTwo practical assignments, due during the teaching period, 50% each assignment. "
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term - Off Campus",
+            "principal_coordinator": null,
+            "mode_of_delivery": "Off Campus",
+            "contact_hours": "Total of 40 contact hours over 5 days: x4hrs lectures & x4hrs practicals per day",
+            "total_time_commitment": "75 hours",
+            "teaching_period": "12 February 2024 to 16 February 2024",
+            "last_self_enrol_date": "13 February 2024",
+            "census_date": "14 February 2024",
+            "last_date_to_withdraw_without_fail": "17 February 2024",
+            "assessment_period_ends": "19 February 2024",
+            "contact_name": null,
+            "contact_email": "ralf.haese@unimelb.edu.au"
+        }
+    ]
+}

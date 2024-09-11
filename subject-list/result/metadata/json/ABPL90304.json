@@ -1,0 +1,91 @@
+{
+    "overview": [
+        "<p>This elective focuses on integration of geospatial data into iterative, procedural, rapid, large-scale design modelling, using a range of emerging tools including GIS, 3D modelling, CIM (Civil Information Models) and associated scripts and plugins. In this subject you will develop methods to model and interact with complex built form, difficult terrains and integrate social, environmental, and ecological data into your design decision-making.</p>",
+        "<p>This subject offers an opportunity to build upon prior skills and interest in areas such as biomorphic form making, 3D printing, photogrammetry, agent-based simulation, particle systems, material networks, online mapping, GIS analysis, motion graphics and performance-based design. It is recommended for students of urban design, landscape architecture, and architecture.</p>",
+        "<p><strong>Prescribed software programs with no cost</strong><br/>Autodesk Civil 3D<br/>Autodesk 3Ds Max<br/>QGIS (Opensource)<br/><strong>Prescribed software programs with a cost</strong><br/>Chaos Group Vray<br/><strong>Prescribed software tools </strong><br/>Layout software  <br/><br/>Details of software availability and pricing are captured at: <a href=\"https://msd.unimelb.edu.au/current-students/student-experience/it-support\">https://msd.unimelb.edu.au/current-students/student-experience/it-support</a></p>"
+    ],
+    "ilo": [
+        "Understand the strengths and limitations of working between GIS based data and cartesian modelling environments.",
+        "Understand a range of possibilities for spatial data to inform design decisions and design modelling.",
+        "Engage with and apply a variety of emerging spatial modelling technologies to address design objectives in both complex existing conditions and to future climate, density and transport projections.",
+        "Develop practical, rapid and refined, knowledge capture and presentation techniques for design communication and design modelling, including visualising data in online map platforms."
+    ],
+    "generic_skills": [
+        "Develop complex file management protocols and data transition techniques between a range of software platforms.",
+        "Develop familiarity with online platforms for urban and ecological data acquisition.",
+        "Develop and apply computational thinking skills to address spatial design problems.",
+        "Develop and apply time-saving modelling techniques."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-URPL Master of Urban Planning",
+                    "MC-URBDES Master of Urban Design",
+                    "MC-ARCH Master of Architecture",
+                    "MC-LARCH Master of Landscape Architecture",
+                    "MC-PROPUP Master of Property/Master of Urban Planning",
+                    "MC-CM Master of Construction Management",
+                    "MC-UPUD Master of Urban Planning/Master of Urban Design",
+                    "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                    "MC-LARCHUD Master of Landscape Architecture/Master of Urban Design"
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "How to  guide",
+            "bullets": [
+                "1000 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "brief": "Design research project poster or video",
+            "bullets": [
+                "1500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Video Workflows",
+            "bullets": [
+                "2500 words (equivalent)"
+            ],
+            "hurdle": null,
+            "timing": "Week 12",
+            "percentage": "50%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Nano Langenheim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "3 hours per week",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "",
+            "contact_email": "nano.langenheim@unimelb.edu.au"
+        }
+    ]
+}

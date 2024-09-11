@@ -1,0 +1,118 @@
+{
+    "overview": [
+        "<p>The student will conduct an original research project under the supervision of an academic staff member in the Department of General Practice from February to November. The student will be introduced to current literature and to the research techniques used in the specialised area in which their research sits. The research project may form part of a larger current study, by focussing on one small aspect, or it may be especially designed for the student by a researcher with shared interests. In either case it is expected that the work will culminate in an original research publication.</p>",
+        "<p> </p>"
+    ],
+    "ilo": [
+        "Understand the role and process of scientific research in primary care.",
+        "Identify, summarise, review and critically appraise main bodies of published research in an area of primary care.",
+        "Formulate a primary care research question(s) based upon a synthesis of the published research evidence.",
+        "Design and justify an appropriate research design to answer a research question in primary care.",
+        "Conduct supervised research in a  specific area of primary care research.",
+        "Generate original results.",
+        "Develop an understanding of the issues involved in translating clinical research results to the primary care setting.",
+        "Communicate the method and findings of a research project in oral and written form to an expert audience.",
+        "Communicate scientific knowledge in a manner that may contribute to a paper for a peer reviewed journal."
+    ],
+    "generic_skills": [
+        "Critically assess literature",
+        "Accept or reject information provided by others",
+        "Identify unresolved clinical questions",
+        "Identify the best approaches to address research questions",
+        "Develop time management skills",
+        "Develop oral and written presentation skills"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "paragraph",
+                "content": "CodeNameTeaching periodCredit PointsBIOM40001Introduction To Biomedical ResearchJuly (On Campus - Parkville)February (On Campus - Parkville)12.5"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "GENP40002",
+                        "Name": "Introduction to Primary Care Research",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Oral presentation of research proposal at end of Semester 1 (5 minutes presentation + 2 minutes for questions)",
+            "bullets": [
+                "5-10 minutes"
+            ],
+            "hurdle": "",
+            "timing": "Due at the end of Semester One",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Critical Review of the Literature of the thesis",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": "",
+            "timing": "Due at the end of Semester One",
+            "percentage": "15%"
+        },
+        {
+            "brief": "Oral presentation of research project (8 minutes presentation + 2 minutes for questions)",
+            "bullets": [
+                "10-15 minutes"
+            ],
+            "hurdle": "",
+            "timing": "Due at the end of Semester Two",
+            "percentage": "10%"
+        },
+        {
+            "brief": "Written research report (thesis)",
+            "bullets": [
+                "10000 words"
+            ],
+            "hurdle": "",
+            "timing": "During Semester Two examination period",
+            "percentage": "65%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Christine Hallinan",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project.",
+            "total_time_commitment": "380 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "",
+            "contact_email": "sparkin@unimelb.edu.au"
+        }
+    ]
+}

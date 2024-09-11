@@ -1,0 +1,97 @@
+{
+    "overview": [
+        "<p>Special topics may be offered from time to time which reflect the interests of permanent and/or visiting members of staff. Details of specific topics to be covered each year will be provided to students a month before the beginning of the semester in which the subject is taught.</p>"
+    ],
+    "ilo": [
+        "Describe theoretical models and current frontier developments in knowledge in a major subject area in economics;",
+        "Assess relevant applications of the subject area;",
+        "Apply theoretical models from the subject area to represent and analyse relevant issues and problems in economics;",
+        "Critically evaluate the significance and research methodologies of contributions to the research topic;",
+        "Develop simple theoretical models of the operation of the economy using the theories and concepts presented."
+    ],
+    "generic_skills": [
+        "Evaluation of ideas, views and evidence",
+        "Synthesis of ideas, views and evidence",
+        "Critical thinking",
+        "Application of theory to economic policy and business decision-making",
+        "Problem solving skills",
+        "Written communication"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "ECON90002",
+                        "Name": "Microeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    },
+                    {
+                        "Code": "ECON90003",
+                        "Name": "Macroeconomics",
+                        "Teaching period": "Semester 1 (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Class assignments",
+            "bullets": [
+                "3000 words"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Examination",
+            "bullets": [
+                "2 hours"
+            ],
+            "hurdle": null,
+            "timing": "",
+            "percentage": "70%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nAssignment",
+            "bullets": [
+                "1000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nAssignment",
+            "bullets": [
+                "2000 words"
+            ],
+            "hurdle": null,
+            "timing": "Week 11",
+            "percentage": "50%"
+        },
+        {
+            "brief": "Assessment for Doctoral students:\n\n\n\nTwo 10-minute oral presentations during the course of the semester. Notice of the timing of these presentations will be given one month before the start of the semester. (10% each)",
+            "bullets": [
+                "20 minutes (total)"
+            ],
+            "hurdle": null,
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "date_times": []
+}

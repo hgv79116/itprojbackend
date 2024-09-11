@@ -1,0 +1,100 @@
+{
+    "overview": [
+        "<p>The Honours program in the Department of Clinical Pathology provides an introduction to the challenging area of investigation of disease processes at the cellular and molecular level. This program involves candidates undertaking a full-time research project based in a laboratory within the Department of Clinical Pathology or at one of our affiliated institutions. A student undertaking the Pathology Honours Research Project will have an interest in understanding the mechanisms of disease.</p>",
+        "<p>This subject is delivered in two consecutive parts. Whilst these have separate subject codes, they are considered to be a single continuing subject of 75 credit points. At the end of the first part, students will receive a CNT (Continuing \u2013 ongoing) grade. At the completion of the second part, students will receive an overall result for the subject.</p>",
+        "<p>Information provided here applies to both parts of the subject:</p>",
+        "<ul><li>Clinical Pathology Research Project Part 1</li><li>Clinical Pathology Research Project Part 2</li></ul>"
+    ],
+    "ilo": [
+        "Select, summarise and critically appraise published research in basic or translational pathology.",
+        "Formulate a research hypothesis based upon a synthesis of the published research evidence.",
+        "Design and undertake appropriate research experiments to answer a research hypothesis in the field of pathology.",
+        "Conduct supervised research in a specific area of basic or translational pathology research.",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "generic_skills": [
+        "Develop an appreciation for working in a laboratory research environment.",
+        "Become an expert in areas which they research.",
+        "Acquire oral communication skills for discussion of research ideas.",
+        "Develop skills in time management and planning.",
+        "Become proficient in a number of technical laboratory skills."
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Code": "BIOM40001",
+                        "Name": "Introduction To Biomedical Research",
+                        "Teaching period": "July (On Campus - Parkville)February (On Campus - Parkville)",
+                        "Credit Points": "12.5"
+                    }
+                ]
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Recommended background knowledge": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "Written literature review",
+            "bullets": [
+                "20 pages"
+            ],
+            "hurdle": "Satisfactory progress of review assessed by coordinator",
+            "timing": "Due in Week 11, first semester of study",
+            "percentage": "N/A"
+        },
+        {
+            "brief": "Oral presentation of introduction to research project (10 minutes presentation + 5 minutes questions)",
+            "bullets": [
+                "15 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During examination period of first semester of study",
+            "percentage": "5%"
+        },
+        {
+            "brief": "Research thesis",
+            "bullets": [
+                "60 pages"
+            ],
+            "hurdle": "Must be passed",
+            "timing": "Due in Week 12, second semester of study",
+            "percentage": "80%"
+        },
+        {
+            "brief": "Oral presentation of final research project (20 minutes presentation + 5 minutes questions)",
+            "bullets": [
+                "25 minutes"
+            ],
+            "hurdle": null,
+            "timing": "During examination period of second semester of study",
+            "percentage": "15%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": null,
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "",
+            "total_time_commitment": "510 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": null,
+            "contact_email": null
+        }
+    ]
+}

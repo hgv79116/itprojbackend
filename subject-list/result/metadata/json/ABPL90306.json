@@ -1,0 +1,108 @@
+{
+    "overview": [
+        "<p>Independent Study is supervised by an urban planning or other MSD member of staff. It enables students to research a topic of particular relevance to their intellectual and career interests and which is not available in subjects taught within the Faculty. Permission to undertake this study is conditional on a supervisor willing to supervise the research.</p>"
+    ],
+    "ilo": [
+        "The objective of the elective is to enable the student to develop her/his expertise, both in respect of theoretical understanding and career interests, in areas that fall outside current conceptions of planning embodied in core subjects and electives."
+    ],
+    "generic_skills": [
+        "MC-URPL Master of Urban Planning",
+        "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+        "MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning",
+        "MC-PROPUP Master of Property/Master of Urban Planning",
+        "MC-UPUD Master of Urban Planning/Master of Urban Design"
+    ],
+    "elig_req": {
+        "Prerequisites": [
+            {
+                "type": "list",
+                "content": [
+                    "MC-URPL Master of Urban Planning",
+                    "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                    "MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning",
+                    "MC-PROPUP Master of Property/Master of Urban Planning",
+                    "MC-UPUD Master of Urban Planning/Master of Urban Design"
+                ]
+            },
+            {
+                "type": "paragraph",
+                "content": "AND"
+            },
+            {
+                "type": "paragraph",
+                "content": ""
+            },
+            {
+                "type": "paragraph",
+                "content": "Course coordinator approval via a \u201cRequest to enrol in ABPL90306 MUP Independent Study\u201d form which can be obtained at:"
+            },
+            {
+                "type": "paragraph",
+                "content": "Link"
+            }
+        ],
+        "Corequisites": [],
+        "Non-allowed subjects": [],
+        "Inherent requirements (core participation requirements)": [
+            {
+                "type": "paragraph",
+                "content": "Further details on how to seek academic adjustments can be found on the Student Equity and Disability Support website:http://services.unimelb.edu.au/student-equity/home"
+            }
+        ]
+    },
+    "assessment": [
+        {
+            "brief": "1 x essay",
+            "bullets": [
+                "5000 words"
+            ],
+            "hurdle": null,
+            "timing": "End of semester",
+            "percentage": "100%"
+        }
+    ],
+    "date_times": [
+        {
+            "semester": "Summer Term",
+            "principal_coordinator": "Hyungmin Kim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "To be arranged between supervisor and student.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "2 January 2024 to 23 February 2024",
+            "last_self_enrol_date": "11 January 2024",
+            "census_date": "19 January 2024",
+            "last_date_to_withdraw_without_fail": "2 February 2024",
+            "assessment_period_ends": "23 February 2024",
+            "contact_name": "Hyungmin Kim",
+            "contact_email": "hyungmin.kim@unimelb.edu.au"
+        },
+        {
+            "semester": "Semester 1",
+            "principal_coordinator": "Hyungmin Kim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "To be arranged between supervisor and student.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "26 February 2024 to 26 May 2024",
+            "last_self_enrol_date": "8 March 2024",
+            "census_date": "3 April 2024",
+            "last_date_to_withdraw_without_fail": "3 May 2024",
+            "assessment_period_ends": "21 June 2024",
+            "contact_name": "Subject coordinator :Judy Bush",
+            "contact_email": "judy.bush@unimelb.edu.mau"
+        },
+        {
+            "semester": "Semester 2",
+            "principal_coordinator": "Hyungmin Kim",
+            "mode_of_delivery": "On Campus (Parkville)",
+            "contact_hours": "To be arranged between supervisor and student.",
+            "total_time_commitment": "170 hours",
+            "teaching_period": "22 July 2024 to 20 October 2024",
+            "last_self_enrol_date": "2 August 2024",
+            "census_date": "2 September 2024",
+            "last_date_to_withdraw_without_fail": "20 September 2024",
+            "assessment_period_ends": "15 November 2024",
+            "contact_name": "Hyungmin Kim",
+            "contact_email": "hyungmin.kim@unimelb.edu.au"
+        }
+    ]
+}
